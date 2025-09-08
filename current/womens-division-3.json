@@ -1,0 +1,555 @@
+{
+  "league": "Women's Division 3",
+  "fileName": "womens-division-3",
+  "teams": [
+    {
+      "league": "Women's Division 3",
+      "teamId": "325",
+      "teamName": "Cork Volleyball Acad D3W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_325.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 1
+    },
+    {
+      "league": "Women's Division 3",
+      "teamId": "393",
+      "teamName": "Octopus D3W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_393.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 2
+    },
+    {
+      "league": "Women's Division 3",
+      "teamId": "340",
+      "teamName": "Phoenix Killarney D3W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_340.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 3
+    },
+    {
+      "league": "Women's Division 3",
+      "teamId": "329",
+      "teamName": "Volleywoodstars D3W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_329.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 4
+    },
+    {
+      "league": "Women's Division 3",
+      "teamId": "327",
+      "teamName": "West Cork D3W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_327.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 5
+    },
+    {
+      "league": "Women's Division 3",
+      "teamId": "367",
+      "teamName": "Aer Lingus Hawks",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_367.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 6
+    },
+    {
+      "league": "Women's Division 3",
+      "teamId": "326",
+      "teamName": "Cavan Cats D3W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_326.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 7
+    },
+    {
+      "league": "Women's Division 3",
+      "teamId": "370",
+      "teamName": "Santry 2 D3W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_370.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 8
+    },
+    {
+      "league": "Women's Division 3",
+      "teamId": "369",
+      "teamName": "Santry D3W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_369.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 9
+    },
+    {
+      "league": "Women's Division 3",
+      "teamId": "411",
+      "teamName": "Dalkey Devils D3W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_411.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 10
+    },
+    {
+      "league": "Women's Division 3",
+      "teamId": "328",
+      "teamName": "IADT Turtles D3W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_328.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 11
+    },
+    {
+      "league": "Women's Division 3",
+      "teamId": "412",
+      "teamName": "Naas Cobras D3W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_412.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 12
+    },
+    {
+      "league": "Women's Division 3",
+      "teamId": "413",
+      "teamName": "RCSI D3W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_413.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 13
+    },
+    {
+      "league": "Women's Division 3",
+      "teamId": "394",
+      "teamName": "Burren D3W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_394.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 14
+    },
+    {
+      "league": "Women's Division 3",
+      "teamId": "388",
+      "teamName": "Clonmel D3W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_388.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 15
+    },
+    {
+      "league": "Women's Division 3",
+      "teamId": "395",
+      "teamName": "Midlands D3W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_395.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 16
+    },
+    {
+      "league": "Women's Division 3",
+      "teamId": "341",
+      "teamName": "Munster Thunder D3W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_341.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 17
+    }
+  ],
+  "updated": "2025-09-08T09:07:22.068Z",
+  "totalTeams": 17,
+  "lastUpdated": "2025-09-08T09:07:22.131Z",
+  "dataVersion": "1.0",
+  "source": "VIR Volleyball Standings"
+}
