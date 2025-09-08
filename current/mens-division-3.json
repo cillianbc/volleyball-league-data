@@ -1,0 +1,811 @@
+{
+  "league": "Men's Division 3",
+  "fileName": "mens-division-3",
+  "teams": [
+    {
+      "league": "Men's Division 3",
+      "teamId": "428",
+      "teamName": "Ballinasloe Eagles D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_428.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 1
+    },
+    {
+      "league": "Men's Division 3",
+      "teamId": "429",
+      "teamName": "Carrick Crows D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_429.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 2
+    },
+    {
+      "league": "Men's Division 3",
+      "teamId": "331",
+      "teamName": "Cavan Cats D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_331.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 3
+    },
+    {
+      "league": "Men's Division 3",
+      "teamId": "397",
+      "teamName": "Longford Smashers D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_397.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 4
+    },
+    {
+      "league": "Men's Division 3",
+      "teamId": "386",
+      "teamName": "Mayo D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_386.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 5
+    },
+    {
+      "league": "Men's Division 3",
+      "teamId": "427",
+      "teamName": "Balbriggan D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_427.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 6
+    },
+    {
+      "league": "Men's Division 3",
+      "teamId": "332",
+      "teamName": "Celestials D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_332.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 7
+    },
+    {
+      "league": "Men's Division 3",
+      "teamId": "334",
+      "teamName": "Crumlin D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_334.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 8
+    },
+    {
+      "league": "Men's Division 3",
+      "teamId": "366",
+      "teamName": "IVI Dragons D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_366.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 9
+    },
+    {
+      "league": "Men's Division 3",
+      "teamId": "385",
+      "teamName": "RCSI D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_385.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 10
+    },
+    {
+      "league": "Men's Division 3",
+      "teamId": "387",
+      "teamName": "Clonmel D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_387.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 11
+    },
+    {
+      "league": "Men's Division 3",
+      "teamId": "358",
+      "teamName": "Kilkenny Spartans D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_358.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 12
+    },
+    {
+      "league": "Men's Division 3",
+      "teamId": "339",
+      "teamName": "Volleywoodstars 2 D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_339.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 13
+    },
+    {
+      "league": "Men's Division 3",
+      "teamId": "338",
+      "teamName": "Volleywoodstars D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_338.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 14
+    },
+    {
+      "league": "Men's Division 3",
+      "teamId": "342",
+      "teamName": "Youghal D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_342.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 15
+    },
+    {
+      "league": "Men's Division 3",
+      "teamId": "333",
+      "teamName": "Cork Lions D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_333.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 16
+    },
+    {
+      "league": "Men's Division 3",
+      "teamId": "330",
+      "teamName": "Cork Volleyball Acad D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_330.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 17
+    },
+    {
+      "league": "Men's Division 3",
+      "teamId": "396",
+      "teamName": "Octopus D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_396.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 18
+    },
+    {
+      "league": "Men's Division 3",
+      "teamId": "343",
+      "teamName": "Phoenix Killarney D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_343.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 19
+    },
+    {
+      "league": "Men's Division 3",
+      "teamId": "337",
+      "teamName": "Sharks W Cork D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_337.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 20
+    },
+    {
+      "league": "Men's Division 3",
+      "teamId": "430",
+      "teamName": "Dalkey Devils D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_430.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 21
+    },
+    {
+      "league": "Men's Division 3",
+      "teamId": "335",
+      "teamName": "IADT Turtles D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_335.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 22
+    },
+    {
+      "league": "Men's Division 3",
+      "teamId": "345",
+      "teamName": "Jackals D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_345.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 23
+    },
+    {
+      "league": "Men's Division 3",
+      "teamId": "398",
+      "teamName": "Midlands D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_398.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 24
+    },
+    {
+      "league": "Men's Division 3",
+      "teamId": "431",
+      "teamName": "Naas Cobras D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_431.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 0,
+        "won": 0,
+        "lost": 0
+      },
+      "sets": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 0,
+        "lost": 0,
+        "ratio": 0
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 25
+    }
+  ],
+  "updated": "2025-09-08T09:07:22.068Z",
+  "totalTeams": 25,
+  "lastUpdated": "2025-09-08T09:07:22.141Z",
+  "dataVersion": "1.0",
+  "source": "VIR Volleyball Standings"
+}
