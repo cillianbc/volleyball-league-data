@@ -1,0 +1,430 @@
+{
+  "league": "Women's Division 2",
+  "totalTeams": 22,
+  "subLeagueCount": 3,
+  "extractedAt": "2025-09-08T11:30:06.309Z",
+  "subLeagues": [
+    {
+      "name": "D2W-A",
+      "championshipId": "86",
+      "teams": [
+        {
+          "position": 1,
+          "teamId": "368",
+          "teamName": "Aer Lingus Kestrels",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_368.jpg",
+          "points": 0
+        },
+        {
+          "position": 2,
+          "teamId": "403",
+          "teamName": "Carrick Crows D2W",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_403.jpg",
+          "points": 0
+        },
+        {
+          "position": 3,
+          "teamId": "378",
+          "teamName": "Gardians Panda D2W",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_378.jpg",
+          "points": 0
+        },
+        {
+          "position": 4,
+          "teamId": "379",
+          "teamName": "IVI Vixens D2W",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_379.jpg",
+          "points": 0
+        },
+        {
+          "position": 5,
+          "teamId": "399",
+          "teamName": "Newbridge Panthers",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_399.jpg",
+          "points": 0
+        },
+        {
+          "position": 6,
+          "teamId": "408",
+          "teamName": "Tallaght Rockets D2W",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_408.jpg",
+          "points": 0
+        },
+        {
+          "position": 7,
+          "teamId": "315",
+          "teamName": "UCD D2W",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_315.jpg",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "D2W-B",
+      "championshipId": "99",
+      "teams": [
+        {
+          "position": 1,
+          "teamId": "405",
+          "teamName": "Dalkey Devils D2W",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_405.jpg",
+          "points": 0
+        },
+        {
+          "position": 2,
+          "teamId": "377",
+          "teamName": "Gardians Angels",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_377.jpg",
+          "points": 0
+        },
+        {
+          "position": 3,
+          "teamId": "389",
+          "teamName": "Jackals D2W",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_389.jpg",
+          "points": 0
+        },
+        {
+          "position": 4,
+          "teamId": "392",
+          "teamName": "Longford Smashers D2W",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_392.jpg",
+          "points": 0
+        },
+        {
+          "position": 5,
+          "teamId": "381",
+          "teamName": "Mayo D2W",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_381.jpg",
+          "points": 0
+        },
+        {
+          "position": 6,
+          "teamId": "409",
+          "teamName": "Naas Cobras D2W",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_409.jpg",
+          "points": 0
+        },
+        {
+          "position": 7,
+          "teamId": "371",
+          "teamName": "Santry Cosmopolitan",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_371.jpg",
+          "points": 0
+        },
+        {
+          "position": 8,
+          "teamId": "372",
+          "teamName": "Santry Nova",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_372.jpg",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "D2W-C",
+      "championshipId": "100",
+      "teams": [
+        {
+          "position": 1,
+          "teamId": "390",
+          "teamName": "BMP Hawks",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_390.jpg",
+          "points": 0,
+          "detailedStats": {
+            "rankingPoints": 0,
+            "matchesPlayed": 0,
+            "matchesWon": 0,
+            "matchesLost": 0,
+            "setsWon": 0,
+            "setsLost": 0,
+            "pointsWon": 0,
+            "pointsLost": 0,
+            "results": {
+              "wins3_0": 0,
+              "wins3_1": 0,
+              "wins3_2": 0,
+              "losses2_3": 0,
+              "losses1_3": 0,
+              "losses0_3": 0
+            },
+            "setRatio": 0,
+            "pointRatio": 0,
+            "penalty": "-"
+          }
+        },
+        {
+          "position": 2,
+          "teamId": "404",
+          "teamName": "Celestials D2W",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_404.jpg",
+          "points": 0
+        },
+        {
+          "position": 3,
+          "teamId": "376",
+          "teamName": "Cork Volleyball Acad D2W",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_376.jpg",
+          "points": 0
+        },
+        {
+          "position": 4,
+          "teamId": "406",
+          "teamName": "Dalkey Aces D2W",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_406.jpg",
+          "points": 0
+        },
+        {
+          "position": 5,
+          "teamId": "407",
+          "teamName": "Kildare D2W",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_407.jpg",
+          "points": 0
+        },
+        {
+          "position": 6,
+          "teamId": "380",
+          "teamName": "Kilkenny Spartans D2W",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_380.jpg",
+          "points": 0
+        },
+        {
+          "position": 7,
+          "teamId": "410",
+          "teamName": "Naas Vipers D2W",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_410.jpg",
+          "points": 0
+        }
+      ]
+    }
+  ],
+  "teams": [
+    {
+      "position": 1,
+      "teamId": "368",
+      "teamName": "Aer Lingus Kestrels",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_368.jpg",
+      "points": 0,
+      "subLeague": "D2W-A",
+      "championshipId": "86"
+    },
+    {
+      "position": 2,
+      "teamId": "403",
+      "teamName": "Carrick Crows D2W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_403.jpg",
+      "points": 0,
+      "subLeague": "D2W-A",
+      "championshipId": "86"
+    },
+    {
+      "position": 3,
+      "teamId": "378",
+      "teamName": "Gardians Panda D2W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_378.jpg",
+      "points": 0,
+      "subLeague": "D2W-A",
+      "championshipId": "86"
+    },
+    {
+      "position": 4,
+      "teamId": "379",
+      "teamName": "IVI Vixens D2W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_379.jpg",
+      "points": 0,
+      "subLeague": "D2W-A",
+      "championshipId": "86"
+    },
+    {
+      "position": 5,
+      "teamId": "399",
+      "teamName": "Newbridge Panthers",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_399.jpg",
+      "points": 0,
+      "subLeague": "D2W-A",
+      "championshipId": "86"
+    },
+    {
+      "position": 6,
+      "teamId": "408",
+      "teamName": "Tallaght Rockets D2W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_408.jpg",
+      "points": 0,
+      "subLeague": "D2W-A",
+      "championshipId": "86"
+    },
+    {
+      "position": 7,
+      "teamId": "315",
+      "teamName": "UCD D2W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_315.jpg",
+      "points": 0,
+      "subLeague": "D2W-A",
+      "championshipId": "86"
+    },
+    {
+      "position": 1,
+      "teamId": "405",
+      "teamName": "Dalkey Devils D2W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_405.jpg",
+      "points": 0,
+      "subLeague": "D2W-B",
+      "championshipId": "99"
+    },
+    {
+      "position": 2,
+      "teamId": "377",
+      "teamName": "Gardians Angels",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_377.jpg",
+      "points": 0,
+      "subLeague": "D2W-B",
+      "championshipId": "99"
+    },
+    {
+      "position": 3,
+      "teamId": "389",
+      "teamName": "Jackals D2W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_389.jpg",
+      "points": 0,
+      "subLeague": "D2W-B",
+      "championshipId": "99"
+    },
+    {
+      "position": 4,
+      "teamId": "392",
+      "teamName": "Longford Smashers D2W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_392.jpg",
+      "points": 0,
+      "subLeague": "D2W-B",
+      "championshipId": "99"
+    },
+    {
+      "position": 5,
+      "teamId": "381",
+      "teamName": "Mayo D2W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_381.jpg",
+      "points": 0,
+      "subLeague": "D2W-B",
+      "championshipId": "99"
+    },
+    {
+      "position": 6,
+      "teamId": "409",
+      "teamName": "Naas Cobras D2W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_409.jpg",
+      "points": 0,
+      "subLeague": "D2W-B",
+      "championshipId": "99"
+    },
+    {
+      "position": 7,
+      "teamId": "371",
+      "teamName": "Santry Cosmopolitan",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_371.jpg",
+      "points": 0,
+      "subLeague": "D2W-B",
+      "championshipId": "99"
+    },
+    {
+      "position": 8,
+      "teamId": "372",
+      "teamName": "Santry Nova",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_372.jpg",
+      "points": 0,
+      "subLeague": "D2W-B",
+      "championshipId": "99"
+    },
+    {
+      "position": 1,
+      "teamId": "390",
+      "teamName": "BMP Hawks",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_390.jpg",
+      "points": 0,
+      "detailedStats": {
+        "rankingPoints": 0,
+        "matchesPlayed": 0,
+        "matchesWon": 0,
+        "matchesLost": 0,
+        "setsWon": 0,
+        "setsLost": 0,
+        "pointsWon": 0,
+        "pointsLost": 0,
+        "results": {
+          "wins3_0": 0,
+          "wins3_1": 0,
+          "wins3_2": 0,
+          "losses2_3": 0,
+          "losses1_3": 0,
+          "losses0_3": 0
+        },
+        "setRatio": 0,
+        "pointRatio": 0,
+        "penalty": "-"
+      },
+      "subLeague": "D2W-C",
+      "championshipId": "100"
+    },
+    {
+      "position": 2,
+      "teamId": "404",
+      "teamName": "Celestials D2W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_404.jpg",
+      "points": 0,
+      "subLeague": "D2W-C",
+      "championshipId": "100"
+    },
+    {
+      "position": 3,
+      "teamId": "376",
+      "teamName": "Cork Volleyball Acad D2W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_376.jpg",
+      "points": 0,
+      "subLeague": "D2W-C",
+      "championshipId": "100"
+    },
+    {
+      "position": 4,
+      "teamId": "406",
+      "teamName": "Dalkey Aces D2W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_406.jpg",
+      "points": 0,
+      "subLeague": "D2W-C",
+      "championshipId": "100"
+    },
+    {
+      "position": 5,
+      "teamId": "407",
+      "teamName": "Kildare D2W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_407.jpg",
+      "points": 0,
+      "subLeague": "D2W-C",
+      "championshipId": "100"
+    },
+    {
+      "position": 6,
+      "teamId": "380",
+      "teamName": "Kilkenny Spartans D2W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_380.jpg",
+      "points": 0,
+      "subLeague": "D2W-C",
+      "championshipId": "100"
+    },
+    {
+      "position": 7,
+      "teamId": "410",
+      "teamName": "Naas Vipers D2W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_410.jpg",
+      "points": 0,
+      "subLeague": "D2W-C",
+      "championshipId": "100"
+    }
+  ],
+  "lastUpdated": "2025-09-08T11:30:15.663Z",
+  "dataVersion": "2.0",
+  "source": "VIR Volleyball Standings",
+  "schemaInfo": {
+    "hasSubLeagues": true,
+    "flatTeamsIncluded": true,
+    "hierarchicalDataIncluded": true
+  }
+}

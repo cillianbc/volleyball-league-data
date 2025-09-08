@@ -1,0 +1,490 @@
+{
+  "league": "Men's Division 3",
+  "totalTeams": 25,
+  "subLeagueCount": 5,
+  "extractedAt": "2025-09-08T11:04:53.342Z",
+  "subLeagues": [
+    {
+      "name": "D3M-A",
+      "championshipId": "97",
+      "teams": [
+        {
+          "position": 1,
+          "teamId": "428",
+          "teamName": "Ballinasloe Eagles D3M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_428.jpg",
+          "points": 0
+        },
+        {
+          "position": 2,
+          "teamId": "429",
+          "teamName": "Carrick Crows D3M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_429.jpg",
+          "points": 0
+        },
+        {
+          "position": 3,
+          "teamId": "331",
+          "teamName": "Cavan Cats D3M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_331.jpg",
+          "points": 0
+        },
+        {
+          "position": 4,
+          "teamId": "397",
+          "teamName": "Longford Smashers D3M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_397.jpg",
+          "points": 0
+        },
+        {
+          "position": 5,
+          "teamId": "386",
+          "teamName": "Mayo D3M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_386.jpg",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "D3M-B",
+      "championshipId": "105",
+      "teams": [
+        {
+          "position": 1,
+          "teamId": "427",
+          "teamName": "Balbriggan D3M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_427.jpg",
+          "points": 0
+        },
+        {
+          "position": 2,
+          "teamId": "332",
+          "teamName": "Celestials D3M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_332.jpg",
+          "points": 0
+        },
+        {
+          "position": 3,
+          "teamId": "334",
+          "teamName": "Crumlin D3M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_334.jpg",
+          "points": 0
+        },
+        {
+          "position": 4,
+          "teamId": "366",
+          "teamName": "IVI Dragons D3M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_366.jpg",
+          "points": 0
+        },
+        {
+          "position": 5,
+          "teamId": "385",
+          "teamName": "RCSI D3M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_385.jpg",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "D3M-C",
+      "championshipId": "106",
+      "teams": [
+        {
+          "position": 1,
+          "teamId": "387",
+          "teamName": "Clonmel D3M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_387.jpg",
+          "points": 0
+        },
+        {
+          "position": 2,
+          "teamId": "358",
+          "teamName": "Kilkenny Spartans D3M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_358.jpg",
+          "points": 0
+        },
+        {
+          "position": 3,
+          "teamId": "339",
+          "teamName": "Volleywoodstars 2 D3M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_339.jpg",
+          "points": 0
+        },
+        {
+          "position": 4,
+          "teamId": "338",
+          "teamName": "Volleywoodstars D3M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_338.jpg",
+          "points": 0
+        },
+        {
+          "position": 5,
+          "teamId": "342",
+          "teamName": "Youghal D3M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_342.jpg",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "D3M-D",
+      "championshipId": "107",
+      "teams": [
+        {
+          "position": 1,
+          "teamId": "333",
+          "teamName": "Cork Lions D3M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_333.jpg",
+          "points": 0
+        },
+        {
+          "position": 2,
+          "teamId": "330",
+          "teamName": "Cork Volleyball Acad D3M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_330.jpg",
+          "points": 0
+        },
+        {
+          "position": 3,
+          "teamId": "396",
+          "teamName": "Octopus D3M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_396.jpg",
+          "points": 0
+        },
+        {
+          "position": 4,
+          "teamId": "343",
+          "teamName": "Phoenix Killarney D3M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_343.jpg",
+          "points": 0
+        },
+        {
+          "position": 5,
+          "teamId": "337",
+          "teamName": "Sharks W Cork D3M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_337.jpg",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "D3M-E",
+      "championshipId": "108",
+      "teams": [
+        {
+          "position": 1,
+          "teamId": "430",
+          "teamName": "Dalkey Devils D3M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_430.jpg",
+          "points": 0,
+          "detailedStats": {
+            "rankingPoints": 0,
+            "matchesPlayed": 0,
+            "matchesWon": 0,
+            "matchesLost": 0,
+            "setsWon": 0,
+            "setsLost": 0,
+            "pointsWon": 0,
+            "pointsLost": 0,
+            "results": {
+              "wins3_0": 0,
+              "wins3_1": 0,
+              "wins3_2": 0,
+              "losses2_3": 0,
+              "losses1_3": 0,
+              "losses0_3": 0
+            },
+            "setRatio": 0,
+            "pointRatio": 0,
+            "penalty": "-"
+          }
+        },
+        {
+          "position": 2,
+          "teamId": "335",
+          "teamName": "IADT Turtles D3M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_335.jpg",
+          "points": 0
+        },
+        {
+          "position": 3,
+          "teamId": "345",
+          "teamName": "Jackals D3M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_345.jpg",
+          "points": 0
+        },
+        {
+          "position": 4,
+          "teamId": "398",
+          "teamName": "Midlands D3M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_398.jpg",
+          "points": 0
+        },
+        {
+          "position": 5,
+          "teamId": "431",
+          "teamName": "Naas Cobras D3M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_431.jpg",
+          "points": 0
+        }
+      ]
+    }
+  ],
+  "teams": [
+    {
+      "position": 1,
+      "teamId": "428",
+      "teamName": "Ballinasloe Eagles D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_428.jpg",
+      "points": 0,
+      "subLeague": "D3M-A",
+      "championshipId": "97"
+    },
+    {
+      "position": 2,
+      "teamId": "429",
+      "teamName": "Carrick Crows D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_429.jpg",
+      "points": 0,
+      "subLeague": "D3M-A",
+      "championshipId": "97"
+    },
+    {
+      "position": 3,
+      "teamId": "331",
+      "teamName": "Cavan Cats D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_331.jpg",
+      "points": 0,
+      "subLeague": "D3M-A",
+      "championshipId": "97"
+    },
+    {
+      "position": 4,
+      "teamId": "397",
+      "teamName": "Longford Smashers D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_397.jpg",
+      "points": 0,
+      "subLeague": "D3M-A",
+      "championshipId": "97"
+    },
+    {
+      "position": 5,
+      "teamId": "386",
+      "teamName": "Mayo D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_386.jpg",
+      "points": 0,
+      "subLeague": "D3M-A",
+      "championshipId": "97"
+    },
+    {
+      "position": 1,
+      "teamId": "427",
+      "teamName": "Balbriggan D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_427.jpg",
+      "points": 0,
+      "subLeague": "D3M-B",
+      "championshipId": "105"
+    },
+    {
+      "position": 2,
+      "teamId": "332",
+      "teamName": "Celestials D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_332.jpg",
+      "points": 0,
+      "subLeague": "D3M-B",
+      "championshipId": "105"
+    },
+    {
+      "position": 3,
+      "teamId": "334",
+      "teamName": "Crumlin D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_334.jpg",
+      "points": 0,
+      "subLeague": "D3M-B",
+      "championshipId": "105"
+    },
+    {
+      "position": 4,
+      "teamId": "366",
+      "teamName": "IVI Dragons D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_366.jpg",
+      "points": 0,
+      "subLeague": "D3M-B",
+      "championshipId": "105"
+    },
+    {
+      "position": 5,
+      "teamId": "385",
+      "teamName": "RCSI D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_385.jpg",
+      "points": 0,
+      "subLeague": "D3M-B",
+      "championshipId": "105"
+    },
+    {
+      "position": 1,
+      "teamId": "387",
+      "teamName": "Clonmel D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_387.jpg",
+      "points": 0,
+      "subLeague": "D3M-C",
+      "championshipId": "106"
+    },
+    {
+      "position": 2,
+      "teamId": "358",
+      "teamName": "Kilkenny Spartans D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_358.jpg",
+      "points": 0,
+      "subLeague": "D3M-C",
+      "championshipId": "106"
+    },
+    {
+      "position": 3,
+      "teamId": "339",
+      "teamName": "Volleywoodstars 2 D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_339.jpg",
+      "points": 0,
+      "subLeague": "D3M-C",
+      "championshipId": "106"
+    },
+    {
+      "position": 4,
+      "teamId": "338",
+      "teamName": "Volleywoodstars D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_338.jpg",
+      "points": 0,
+      "subLeague": "D3M-C",
+      "championshipId": "106"
+    },
+    {
+      "position": 5,
+      "teamId": "342",
+      "teamName": "Youghal D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_342.jpg",
+      "points": 0,
+      "subLeague": "D3M-C",
+      "championshipId": "106"
+    },
+    {
+      "position": 1,
+      "teamId": "333",
+      "teamName": "Cork Lions D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_333.jpg",
+      "points": 0,
+      "subLeague": "D3M-D",
+      "championshipId": "107"
+    },
+    {
+      "position": 2,
+      "teamId": "330",
+      "teamName": "Cork Volleyball Acad D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_330.jpg",
+      "points": 0,
+      "subLeague": "D3M-D",
+      "championshipId": "107"
+    },
+    {
+      "position": 3,
+      "teamId": "396",
+      "teamName": "Octopus D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_396.jpg",
+      "points": 0,
+      "subLeague": "D3M-D",
+      "championshipId": "107"
+    },
+    {
+      "position": 4,
+      "teamId": "343",
+      "teamName": "Phoenix Killarney D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_343.jpg",
+      "points": 0,
+      "subLeague": "D3M-D",
+      "championshipId": "107"
+    },
+    {
+      "position": 5,
+      "teamId": "337",
+      "teamName": "Sharks W Cork D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_337.jpg",
+      "points": 0,
+      "subLeague": "D3M-D",
+      "championshipId": "107"
+    },
+    {
+      "position": 1,
+      "teamId": "430",
+      "teamName": "Dalkey Devils D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_430.jpg",
+      "points": 0,
+      "detailedStats": {
+        "rankingPoints": 0,
+        "matchesPlayed": 0,
+        "matchesWon": 0,
+        "matchesLost": 0,
+        "setsWon": 0,
+        "setsLost": 0,
+        "pointsWon": 0,
+        "pointsLost": 0,
+        "results": {
+          "wins3_0": 0,
+          "wins3_1": 0,
+          "wins3_2": 0,
+          "losses2_3": 0,
+          "losses1_3": 0,
+          "losses0_3": 0
+        },
+        "setRatio": 0,
+        "pointRatio": 0,
+        "penalty": "-"
+      },
+      "subLeague": "D3M-E",
+      "championshipId": "108"
+    },
+    {
+      "position": 2,
+      "teamId": "335",
+      "teamName": "IADT Turtles D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_335.jpg",
+      "points": 0,
+      "subLeague": "D3M-E",
+      "championshipId": "108"
+    },
+    {
+      "position": 3,
+      "teamId": "345",
+      "teamName": "Jackals D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_345.jpg",
+      "points": 0,
+      "subLeague": "D3M-E",
+      "championshipId": "108"
+    },
+    {
+      "position": 4,
+      "teamId": "398",
+      "teamName": "Midlands D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_398.jpg",
+      "points": 0,
+      "subLeague": "D3M-E",
+      "championshipId": "108"
+    },
+    {
+      "position": 5,
+      "teamId": "431",
+      "teamName": "Naas Cobras D3M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_431.jpg",
+      "points": 0,
+      "subLeague": "D3M-E",
+      "championshipId": "108"
+    }
+  ],
+  "lastUpdated": "2025-09-08T11:08:24.368Z",
+  "dataVersion": "2.0",
+  "source": "VIR Volleyball Standings",
+  "schemaInfo": {
+    "hasSubLeagues": true,
+    "flatTeamsIncluded": true,
+    "hierarchicalDataIncluded": true
+  }
+}
