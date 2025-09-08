@@ -100,7 +100,7 @@ class VolleyballImport {
         $owner = get_option('volleyball_github_owner', 'cillianbc');
         $repo = get_option('volleyball_github_repo', 'volleyball-league-data');
         $branch = get_option('volleyball_github_branch', 'main');
-        $token = get_option('volleyball_github_token', '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');
+        $token = get_option('volleyball_github_token', '');
 
         if (empty($token)) {
             return new WP_REST_Response(array(
@@ -434,7 +434,7 @@ class VolleyballImport {
      * Render token field
      */
     public function token_render() {
-        $token = get_option('volleyball_github_token', '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');
+        $token = get_option('volleyball_github_token', '');
         echo '<input type="password" name="volleyball_github_token" value="' . esc_attr($token) . '" />';
         echo '<p class="description">Enter your GitHub PAT with Contents: Read-only permission.</p>';
     }
@@ -799,7 +799,7 @@ class VolleyballImport {
         $owner = get_option('volleyball_github_owner', 'cillianbc');
         $repo = get_option('volleyball_github_repo', 'volleyball-league-data');
         $branch = get_option('volleyball_github_branch', 'main');
-        $token = get_option('volleyball_github_token', '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');
+        $token = get_option('volleyball_github_token', '');
 
         if (empty($token)) {
             error_log('Volleyball Import: No token for historical fetch');
