@@ -1,0 +1,446 @@
+{
+  "league": "Men's Division 2",
+  "totalTeams": 23,
+  "subLeagueCount": 3,
+  "extractedAt": "2025-09-08T11:30:06.306Z",
+  "subLeagues": [
+    {
+      "name": "D2M-A",
+      "championshipId": "95",
+      "teams": [
+        {
+          "position": 1,
+          "teamId": "360",
+          "teamName": "Cork Volleyball Acad D2M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_360.jpg",
+          "points": 0
+        },
+        {
+          "position": 2,
+          "teamId": "422",
+          "teamName": "Dalkey Devils D2M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_422.jpg",
+          "points": 0
+        },
+        {
+          "position": 3,
+          "teamId": "363",
+          "teamName": "Gardians Dullahan",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_363.jpg",
+          "points": 0
+        },
+        {
+          "position": 4,
+          "teamId": "323",
+          "teamName": "Impact Macroom D2M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_323.jpg",
+          "points": 0
+        },
+        {
+          "position": 5,
+          "teamId": "365",
+          "teamName": "Intl Volleyball Ireland D2M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_365.jpg",
+          "points": 0
+        },
+        {
+          "position": 6,
+          "teamId": "425",
+          "teamName": "Naas Pythons D2M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_425.jpg",
+          "points": 0
+        },
+        {
+          "position": 7,
+          "teamId": "426",
+          "teamName": "Tallaght Rockets D2M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_426.jpg",
+          "points": 0
+        },
+        {
+          "position": 8,
+          "teamId": "322",
+          "teamName": "UCD D2M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_322.jpg",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "D2M-B",
+      "championshipId": "103",
+      "teams": [
+        {
+          "position": 1,
+          "teamId": "419",
+          "teamName": "Balbriggan Tigers",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_419.jpg",
+          "points": 0
+        },
+        {
+          "position": 2,
+          "teamId": "357",
+          "teamName": "BMP Titans",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_357.jpg",
+          "points": 0
+        },
+        {
+          "position": 3,
+          "teamId": "421",
+          "teamName": "Celestials D2M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_421.jpg",
+          "points": 0
+        },
+        {
+          "position": 4,
+          "teamId": "383",
+          "teamName": "Crumlin Phivo",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_383.jpg",
+          "points": 0
+        },
+        {
+          "position": 5,
+          "teamId": "324",
+          "teamName": "Impact Stars D2M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_324.jpg",
+          "points": 0
+        },
+        {
+          "position": 6,
+          "teamId": "344",
+          "teamName": "Jackals D2M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_344.jpg",
+          "points": 0
+        },
+        {
+          "position": 7,
+          "teamId": "424",
+          "teamName": "Kildare Panthers",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_424.jpg",
+          "points": 0
+        },
+        {
+          "position": 8,
+          "teamId": "364",
+          "teamName": "SETU Carlow D2M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_364.jpg",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "name": "D2M-C",
+      "championshipId": "104",
+      "teams": [
+        {
+          "position": 1,
+          "teamId": "420",
+          "teamName": "Balbriggan T-Rex",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_420.jpg",
+          "points": 0,
+          "detailedStats": {
+            "rankingPoints": 0,
+            "matchesPlayed": 0,
+            "matchesWon": 0,
+            "matchesLost": 0,
+            "setsWon": 0,
+            "setsLost": 0,
+            "pointsWon": 0,
+            "pointsLost": 0,
+            "results": {
+              "wins3_0": 0,
+              "wins3_1": 0,
+              "wins3_2": 0,
+              "losses2_3": 0,
+              "losses1_3": 0,
+              "losses0_3": 0
+            },
+            "setRatio": 0,
+            "pointRatio": 0,
+            "penalty": "-"
+          }
+        },
+        {
+          "position": 2,
+          "teamId": "356",
+          "teamName": "BMP Hunters",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_356.jpg",
+          "points": 0
+        },
+        {
+          "position": 3,
+          "teamId": "384",
+          "teamName": "Crumlin Ravens",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_384.jpg",
+          "points": 0
+        },
+        {
+          "position": 4,
+          "teamId": "361",
+          "teamName": "Galway D2M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_361.jpg",
+          "points": 0
+        },
+        {
+          "position": 5,
+          "teamId": "362",
+          "teamName": "Gardians Panda D2M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_362.jpg",
+          "points": 0
+        },
+        {
+          "position": 6,
+          "teamId": "423",
+          "teamName": "Kildare Jaguars",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_423.jpg",
+          "points": 0
+        },
+        {
+          "position": 7,
+          "teamId": "359",
+          "teamName": "Kilkenny Spartans D2M",
+          "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_359.jpg",
+          "points": 0
+        }
+      ]
+    }
+  ],
+  "teams": [
+    {
+      "position": 1,
+      "teamId": "360",
+      "teamName": "Cork Volleyball Acad D2M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_360.jpg",
+      "points": 0,
+      "subLeague": "D2M-A",
+      "championshipId": "95"
+    },
+    {
+      "position": 2,
+      "teamId": "422",
+      "teamName": "Dalkey Devils D2M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_422.jpg",
+      "points": 0,
+      "subLeague": "D2M-A",
+      "championshipId": "95"
+    },
+    {
+      "position": 3,
+      "teamId": "363",
+      "teamName": "Gardians Dullahan",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_363.jpg",
+      "points": 0,
+      "subLeague": "D2M-A",
+      "championshipId": "95"
+    },
+    {
+      "position": 4,
+      "teamId": "323",
+      "teamName": "Impact Macroom D2M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_323.jpg",
+      "points": 0,
+      "subLeague": "D2M-A",
+      "championshipId": "95"
+    },
+    {
+      "position": 5,
+      "teamId": "365",
+      "teamName": "Intl Volleyball Ireland D2M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_365.jpg",
+      "points": 0,
+      "subLeague": "D2M-A",
+      "championshipId": "95"
+    },
+    {
+      "position": 6,
+      "teamId": "425",
+      "teamName": "Naas Pythons D2M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_425.jpg",
+      "points": 0,
+      "subLeague": "D2M-A",
+      "championshipId": "95"
+    },
+    {
+      "position": 7,
+      "teamId": "426",
+      "teamName": "Tallaght Rockets D2M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_426.jpg",
+      "points": 0,
+      "subLeague": "D2M-A",
+      "championshipId": "95"
+    },
+    {
+      "position": 8,
+      "teamId": "322",
+      "teamName": "UCD D2M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_322.jpg",
+      "points": 0,
+      "subLeague": "D2M-A",
+      "championshipId": "95"
+    },
+    {
+      "position": 1,
+      "teamId": "419",
+      "teamName": "Balbriggan Tigers",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_419.jpg",
+      "points": 0,
+      "subLeague": "D2M-B",
+      "championshipId": "103"
+    },
+    {
+      "position": 2,
+      "teamId": "357",
+      "teamName": "BMP Titans",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_357.jpg",
+      "points": 0,
+      "subLeague": "D2M-B",
+      "championshipId": "103"
+    },
+    {
+      "position": 3,
+      "teamId": "421",
+      "teamName": "Celestials D2M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_421.jpg",
+      "points": 0,
+      "subLeague": "D2M-B",
+      "championshipId": "103"
+    },
+    {
+      "position": 4,
+      "teamId": "383",
+      "teamName": "Crumlin Phivo",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_383.jpg",
+      "points": 0,
+      "subLeague": "D2M-B",
+      "championshipId": "103"
+    },
+    {
+      "position": 5,
+      "teamId": "324",
+      "teamName": "Impact Stars D2M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_324.jpg",
+      "points": 0,
+      "subLeague": "D2M-B",
+      "championshipId": "103"
+    },
+    {
+      "position": 6,
+      "teamId": "344",
+      "teamName": "Jackals D2M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_344.jpg",
+      "points": 0,
+      "subLeague": "D2M-B",
+      "championshipId": "103"
+    },
+    {
+      "position": 7,
+      "teamId": "424",
+      "teamName": "Kildare Panthers",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_424.jpg",
+      "points": 0,
+      "subLeague": "D2M-B",
+      "championshipId": "103"
+    },
+    {
+      "position": 8,
+      "teamId": "364",
+      "teamName": "SETU Carlow D2M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_364.jpg",
+      "points": 0,
+      "subLeague": "D2M-B",
+      "championshipId": "103"
+    },
+    {
+      "position": 1,
+      "teamId": "420",
+      "teamName": "Balbriggan T-Rex",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_420.jpg",
+      "points": 0,
+      "detailedStats": {
+        "rankingPoints": 0,
+        "matchesPlayed": 0,
+        "matchesWon": 0,
+        "matchesLost": 0,
+        "setsWon": 0,
+        "setsLost": 0,
+        "pointsWon": 0,
+        "pointsLost": 0,
+        "results": {
+          "wins3_0": 0,
+          "wins3_1": 0,
+          "wins3_2": 0,
+          "losses2_3": 0,
+          "losses1_3": 0,
+          "losses0_3": 0
+        },
+        "setRatio": 0,
+        "pointRatio": 0,
+        "penalty": "-"
+      },
+      "subLeague": "D2M-C",
+      "championshipId": "104"
+    },
+    {
+      "position": 2,
+      "teamId": "356",
+      "teamName": "BMP Hunters",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_356.jpg",
+      "points": 0,
+      "subLeague": "D2M-C",
+      "championshipId": "104"
+    },
+    {
+      "position": 3,
+      "teamId": "384",
+      "teamName": "Crumlin Ravens",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_384.jpg",
+      "points": 0,
+      "subLeague": "D2M-C",
+      "championshipId": "104"
+    },
+    {
+      "position": 4,
+      "teamId": "361",
+      "teamName": "Galway D2M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_361.jpg",
+      "points": 0,
+      "subLeague": "D2M-C",
+      "championshipId": "104"
+    },
+    {
+      "position": 5,
+      "teamId": "362",
+      "teamName": "Gardians Panda D2M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_362.jpg",
+      "points": 0,
+      "subLeague": "D2M-C",
+      "championshipId": "104"
+    },
+    {
+      "position": 6,
+      "teamId": "423",
+      "teamName": "Kildare Jaguars",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_423.jpg",
+      "points": 0,
+      "subLeague": "D2M-C",
+      "championshipId": "104"
+    },
+    {
+      "position": 7,
+      "teamId": "359",
+      "teamName": "Kilkenny Spartans D2M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/20/20/TeamLogo_359.jpg",
+      "points": 0,
+      "subLeague": "D2M-C",
+      "championshipId": "104"
+    }
+  ],
+  "lastUpdated": "2025-09-08T11:30:15.659Z",
+  "dataVersion": "2.0",
+  "source": "VIR Volleyball Standings",
+  "schemaInfo": {
+    "hasSubLeagues": true,
+    "flatTeamsIncluded": true,
+    "hierarchicalDataIncluded": true
+  }
+}
