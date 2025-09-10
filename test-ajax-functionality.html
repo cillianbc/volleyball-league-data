@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AJAX Functionality Test</title>
+    <link rel="stylesheet" href="volleyball-styles.css">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            margin: 20px;
+            background-color: #f5f5f5;
+        }
+        .test-section {
+            background: white;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .test-result {
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 4px;
+        }
+        .success { background: #d4edda; color: #155724; border: 1px solid #c3e6cb; }
+        .error { background: #f8d7da; color: #721c24; border: 1px solid #f5c6cb; }
+        .info { background: #d1ecf1; color: #0c5460; border: 1px solid #bee5eb; }
+        button {
+            background: #007cba;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 4px;
+            cursor: pointer;
+            margin: 5px;
+        }
+        button:hover { background: #005a8b; }
+        #results { margin-top: 20px; }
+        pre { background: #f8f9fa; padding: 10px; border-radius: 4px; overflow-x: auto; }
+    </style>
+</head>
+<body>
+    <h1>AJAX Functionality Test for Condensed Tables</h1>
+    
+    <div class="test-section">
+        <h2>REST API Endpoint Tests</h2>
+        <p>Testing the volleyball REST API endpoints with view parameter support.</p>
+        
+        <button onclick="testEndpoint('/wp-json/volleyball/v1/teams/Men%27s%20Premier%20Division', 'full')">
+            Test Full View - Men's Premier Division
+        </button>
+        
+        <button onclick="testEndpoint('/wp-json/volleyball/v1/teams/Men%27s%20Premier%20Division', 'condensed')">
+            Test Condensed View - Men's Premier Division
+        </button>
+        
+        <button onclick="testEndpoint('/wp-json/volleyball/v1/teams/Men%27s%20Division%202/D2M-A', 'condensed')">
+            Test Condensed View - Men's Division 2 Sub-league
+        </button>
+        
+        <button onclick="testEndpoint('/wp-json/volleyball/v1/teams/Invalid%20League', 'condensed')">
+            Test Invalid League (Error Handling)
+        </button>
+        
+        <button onclick="testEndpoint('/wp-json/volleyball/v1/teams/Men%27s%20Premier%20Division', 'invalid')">
+            Test Invalid View Parameter
+        </button>
+        
+        <div id="results"></div>
+    </div>
+
+    <div class="test-section">
+        <h2>JavaScript Function Tests</h2>
+        <p>Testing the JavaScript functions that handle condensed table generation.</p>
+        
+        <button onclick="testCondensedTableGeneration()">
+            Test Condensed Table HTML Generation
+        </button>
+        
+        <button onclick="testDataMapping()">
+            Test Data Field Mapping
+        </button>
+        
+        <button onclick="testErrorHandling()">
+            Test JavaScript Error Handling
+        </button>
+        
+        <div id="js-results"></div>
+    </div>
+
+    <script>
+        // Mock volleyball_ajax object for testing
+        window.volleyball_ajax = {
+            rest_url: '/wp-json/volleyball/v1/teams/'
+        };
+
+        function addResult(containerId, type, title, message, data = null) {
+            const container = document.getElementById(containerId);
+            const div = document.createElement('div');
+            div.className = `test-result ${type}`;
+            
+            let content = `<strong>${title}</strong><br>${message}`;
+            if (data) {
+                content += `<pre>${JSON.stringify(data, null, 2)}</pre>`;
+            }
+            
+            div.innerHTML = content;
+            container.appendChild(div);
+        }
+
+        function testEndpoint(endpoint, view) {
+            const url = endpoint + (view ? `?view=${view}` : '');
+            
+            addResult('results', 'info', 'Testing Endpoint', `Making request to: ${url}`);
+            
+            // Since we can't make actual AJAX calls to WordPress REST API in this test environment,
+            // we'll simulate the expected behavior and validate the URL construction
+            
+            try {
+                // Validate URL construction
+                const urlObj = new URL(url, window.location.origin);
+                const viewParam = urlObj.searchParams.get('view');
+                
+                if (view && viewParam === view) {
+                    addResult('results', 'success', 'URL Construction', 
+                        `✅ View parameter correctly added: ${viewParam}`);
+                } else if (!view && !viewParam) {
+                    addResult('results', 'success', 'URL Construction', 
+                        `✅ No view parameter (default behavior)`);
+                } else {
+                    addResult('results', 'error', 'URL Construction', 
+                        `❌ View parameter mismatch. Expected: ${view}, Got: ${viewParam}`);
+                }
+                
+                // Simulate expected response structure
+                const mockResponse = {
+                    teams: [
+                        {
+                            position: 1,
+                            team_name: "Test Team",
+                            logo_url: "https://example.com/logo.jpg",
+                            ranking_points: 45,
+                            match_stats: { played: 15, won: 12, lost: 3 }
+                        }
+                    ],
+                    view: view || 'full',
+                    league: decodeURIComponent(endpoint.split('/').pop().split('?')[0])
+                };
+                
+                addResult('results', 'success', 'Expected Response Structure', 
+                    `✅ Response should include view: ${mockResponse.view}`, mockResponse);
+                
+            } catch (error) {
+                addResult('results', 'error', 'URL Construction Error', 
+                    `❌ Invalid URL: ${error.message}`);
+            }
+        }
+
+        function testCondensedTableGeneration() {
+            // Test the condensed table HTML generation logic
+            const mockTeams = [
+                {
+                    position: 1,
+                    team_name: "Team Alpha",
+                    logo_url: "https://example.com/logo1.jpg",
+                    ranking_points: 45,
+                    match_stats: { played: 15, won: 12, lost: 3 }
+                },
+                {
+                    position: 2,
+                    team_name: "Team Beta",
+                    logo_url: "https://example.com/logo2.jpg",
+                    ranking_points: 42,
+                    match_stats: { played: 15, won: 11, lost: 4 }
+                }
+            ];
+            
+            try {
+                // Simulate the generateCondensedTableHtml function
+                let html = '<table class="volleyball-league-table volleyball-table-condensed">';
+                html += '<thead><tr>';
+                html += '<th class="position-col">Pos</th>';
+                html += '<th class="team-col">Team</th>';
+                html += '<th class="stats-col">Games Played</th>';
+                html += '<th class="stats-col">Wins</th>';
+                html += '<th class="stats-col">Losses</th>';
+                html += '<th class="points-col">Ranking Points</th>';
+                html += '</tr></thead><tbody>';
+                
+                mockTeams.forEach(team => {
+                    const matchStats = team.match_stats || {};
+                    html += '<tr>';
+                    html += `<td class="position-col">${team.position || 0}</td>`;
+                    html += '<td class="team-name">';
+                    if (team.logo_url) {
+                        html += `<img src="${team.logo_url}" alt="${team.team_name}" class="team-logo">`;
+                    }
+                    html += `${team.team_name}</td>`;
+                    html += `<td class="stats-col">${matchStats.played || 0}</td>`;
+                    html += `<td class="stats-col">${matchStats.won || 0}</td>`;
+                    html += `<td class="stats-col">${matchStats.lost || 0}</td>`;
+                    html += `<td class="points-col">${team.ranking_points || 0}</td>`;
+                    html += '</tr>';
+                });
+                
+                html += '</tbody></table>';
+                
+                // Validate the generated HTML
+                const tempDiv = document.createElement('div');
+                tempDiv.innerHTML = html;
+                
+                const table = tempDiv.querySelector('table');
+                const hasCorrectClass = table.classList.contains('volleyball-table-condensed');
+                const headerCount = tempDiv.querySelectorAll('th').length;
+                const rowCount = tempDiv.querySelectorAll('tbody tr').length;
+                
+                if (hasCorrectClass && headerCount === 6 && rowCount === 2) {
+                    addResult('js-results', 'success', 'Condensed Table Generation', 
+                        `✅ Generated table with correct structure: ${headerCount} columns, ${rowCount} rows`);
+                } else {
+                    addResult('js-results', 'error', 'Condensed Table Generation', 
+                        `❌ Invalid structure: Class=${hasCorrectClass}, Headers=${headerCount}, Rows=${rowCount}`);
+                }
+                
+            } catch (error) {
+                addResult('js-results', 'error', 'Condensed Table Generation', 
+                    `❌ Error generating table: ${error.message}`);
+            }
+        }
+
+        function testDataMapping() {
+            // Test data field mapping for different data structures
+            const testCases = [
+                {
+                    name: "Standard Structure",
+                    team: {
+                        position: 1,
+                        team_name: "Test Team",
+                        ranking_points: 45,
+                        match_stats: { played: 15, won: 12, lost: 3 }
+                    },
+                    expected: { position: 1, played: 15, won: 12, lost: 3, points: 45 }
+                },
+                {
+                    name: "Alternative Points Field",
+                    team: {
+                        position: 2,
+                        team_name: "Test Team 2",
+                        points: 42,
+                        match_stats: { played: 14, won: 10, lost: 4 }
+                    },
+                    expected: { position: 2, played: 14, won: 10, lost: 4, points: 42 }
+                },
+                {
+                    name: "Missing Data",
+                    team: {
+                        position: 3,
+                        team_name: "Test Team 3"
+                    },
+                    expected: { position: 3, played: 0, won: 0, lost: 0, points: 0 }
+                }
+            ];
+            
+            testCases.forEach(testCase => {
+                try {
+                    const team = testCase.team;
+                    const matchStats = team.match_stats || {};
+                    
+                    const mapped = {
+                        position: team.position || 0,
+                        played: matchStats.played || 0,
+                        won: matchStats.won || 0,
+                        lost: matchStats.lost || 0,
+                        points: team.ranking_points || team.points || 0
+                    };
+                    
+                    const isCorrect = JSON.stringify(mapped) === JSON.stringify(testCase.expected);
+                    
+                    if (isCorrect) {
+                        addResult('js-results', 'success', `Data Mapping - ${testCase.name}`, 
+                            `✅ Correct mapping`, mapped);
+                    } else {
+                        addResult('js-results', 'error', `Data Mapping - ${testCase.name}`, 
+                            `❌ Incorrect mapping. Expected: ${JSON.stringify(testCase.expected)}, Got: ${JSON.stringify(mapped)}`);
+                    }
+                    
+                } catch (error) {
+                    addResult('js-results', 'error', `Data Mapping - ${testCase.name}`, 
+                        `❌ Error: ${error.message}`);
+                }
+            });
+        }
+
+        function testErrorHandling() {
+            // Test error handling scenarios
+            const errorCases = [
+                {
+                    name: "Null Team Data",
+                    data: null,
+                    shouldHandle: true
+                },
+                {
+                    name: "Empty Team Array",
+                    data: [],
+                    shouldHandle: true
+                },
+                {
+                    name: "Invalid Team Object",
+                    data: [{ invalid: "data" }],
+                    shouldHandle: true
+                }
+            ];
+            
+            errorCases.forEach(errorCase => {
+                try {
+                    // Simulate error handling logic
+                    const teams = errorCase.data;
+                    
+                    if (!teams || !Array.isArray(teams) || teams.length === 0) {
+                        addResult('js-results', 'success', `Error Handling - ${errorCase.name}`, 
+                            `✅ Correctly handled empty/invalid data`);
+                        return;
+                    }
+                    
+                    // Check if teams have required fields
+                    const validTeams = teams.filter(team => 
+                        team && typeof team === 'object' && team.team_name
+                    );
+                    
+                    if (validTeams.length === 0) {
+                        addResult('js-results', 'success', `Error Handling - ${errorCase.name}`, 
+                            `✅ Correctly filtered out invalid teams`);
+                    } else {
+                        addResult('js-results', 'info', `Error Handling - ${errorCase.name}`, 
+                            `ℹ️ Found ${validTeams.length} valid teams`);
+                    }
+                    
+                } catch (error) {
+                    if (errorCase.shouldHandle) {
+                        addResult('js-results', 'error', `Error Handling - ${errorCase.name}`, 
+                            `❌ Unhandled error: ${error.message}`);
+                    } else {
+                        addResult('js-results', 'success', `Error Handling - ${errorCase.name}`, 
+                            `✅ Expected error caught: ${error.message}`);
+                    }
+                }
+            });
+        }
+
+        // Add initial info
+        document.addEventListener('DOMContentLoaded', function() {
+            addResult('results', 'info', 'Test Environment', 
+                'This is a simulated test environment. In a real WordPress environment, these would be actual AJAX calls to the REST API.');
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comprehensive Condensed Table Testing</title>
+    <link rel="stylesheet" href="volleyball-styles.css">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            margin: 20px;
+            background-color: #f5f5f5;
+        }
+        .test-section {
+            background: white;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #007cba;
+            border-bottom: 2px solid #007cba;
+            padding-bottom: 10px;
+        }
+        .test-case {
+            margin: 15px 0;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background: #f9f9f9;
+        }
+        .test-case h4 {
+            margin: 0 0 10px 0;
+            color: #333;
+        }
+        .shortcode-example {
+            background: #f8f9fa;
+            padding: 10px;
+            border-radius: 4px;
+            font-family: monospace;
+            margin: 10px 0;
+        }
+        .expected-result {
+            background: #e8f5e8;
+            padding: 10px;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+        .error-case {
+            background: #ffe8e8;
+            padding: 10px;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Comprehensive Condensed Table Testing</h1>
+    
+    <div class="test-section">
+        <h2>1. Parameter Validation Tests</h2>
+        
+        <div class="test-case">
+            <h4>Test 1.1: Valid condensed view parameter</h4>
+            <div class="shortcode-example">[volleyball_table league="Men's Premier Division" view="condensed"]</div>
+            <div class="expected-result">✅ Should render 6-column condensed table</div>
+        </div>
+        
+        <div class="test-case">
+            <h4>Test 1.2: Valid full view parameter</h4>
+            <div class="shortcode-example">[volleyball_table league="Men's Premier Division" view="full"]</div>
+            <div class="expected-result">✅ Should render 19-column full table</div>
+        </div>
+        
+        <div class="test-case">
+            <h4>Test 1.3: Default behavior (no view parameter)</h4>
+            <div class="shortcode-example">[volleyball_table league="Men's Premier Division"]</div>
+            <div class="expected-result">✅ Should default to full table view</div>
+        </div>
+        
+        <div class="test-case">
+            <h4>Test 1.4: Invalid view parameter</h4>
+            <div class="shortcode-example">[volleyball_table league="Men's Premier Division" view="invalid"]</div>
+            <div class="expected-result">✅ Should fallback to full table view (parameter validation)</div>
+        </div>
+        
+        <div class="test-case">
+            <h4>Test 1.5: Case sensitivity test</h4>
+            <div class="shortcode-example">[volleyball_table league="Men's Premier Division" view="CONDENSED"]</div>
+            <div class="error-case">❌ Should fallback to full view (case sensitive validation)</div>
+        </div>
+    </div>
+
+    <div class="test-section">
+        <h2>2. Data Structure Tests</h2>
+        
+        <div class="test-case">
+            <h4>Test 2.1: Simple League Structure (Men's Premier Division)</h4>
+            <div class="shortcode-example">[volleyball_table league="Men's Premier Division" view="condensed"]</div>
+            <div class="expected-result">
+                ✅ Should display:<br>
+                - Position, Team Name, Games Played, Wins, Losses, Ranking Points<br>
+                - Data from matches.played, matches.won, matches.lost, rankingPoints fields
+            </div>
+        </div>
+        
+        <div class="test-case">
+            <h4>Test 2.2: Simple League Structure (Women's Division 1)</h4>
+            <div class="shortcode-example">[volleyball_table league="Women's Division 1" view="condensed"]</div>
+            <div class="expected-result">
+                ✅ Should display same structure as Men's Premier Division<br>
+                - Same field mapping and data extraction
+            </div>
+        </div>
+        
+        <div class="test-case">
+            <h4>Test 2.3: Nested League Structure (Men's Division 2)</h4>
+            <div class="shortcode-example">[volleyball_table league="Men's Division 2" view="condensed"]</div>
+            <div class="expected-result">
+                ✅ Should display accordion interface with sub-leagues:<br>
+                - D2M-A, D2M-B, D2M-C buttons<br>
+                - First sub-league auto-loaded in condensed view
+            </div>
+        </div>
+        
+        <div class="test-case">
+            <h4>Test 2.4: Specific Sub-league</h4>
+            <div class="shortcode-example">[volleyball_table league="Men's Division 2" subleague="D2M-A" view="condensed"]</div>
+            <div class="expected-result">
+                ✅ Should display only D2M-A teams in condensed format<br>
+                - No accordion interface, direct table display
+            </div>
+        </div>
+    </div>
+
+    <div class="test-section">
+        <h2>3. Data Field Mapping Tests</h2>
+        
+        <div class="test-case">
+            <h4>Test 3.1: Standard Field Mapping</h4>
+            <p><strong>Expected Mapping:</strong></p>
+            <ul>
+                <li>Position → team.position</li>
+                <li>Team Name → team.team_name + team.logo_url</li>
+                <li>Games Played → team.match_stats.played</li>
+                <li>Wins → team.match_stats.won</li>
+                <li>Losses → team.match_stats.lost</li>
+                <li>Ranking Points → team.ranking_points</li>
+            </ul>
+        </div>
+        
+        <div class="test-case">
+            <h4>Test 3.2: Alternative Field Mapping</h4>
+            <p><strong>For leagues using 'points' instead of 'rankingPoints':</strong></p>
+            <ul>
+                <li>Ranking Points → team.points (fallback mapping)</li>
+                <li>Should handle detailedStats.rankingPoints if present</li>
+            </ul>
+        </div>
+        
+        <div class="test-case">
+            <h4>Test 3.3: Missing Data Handling</h4>
+            <p><strong>Expected Behavior:</strong></p>
+            <ul>
+                <li>Missing match_stats → Display 0 for played/won/lost</li>
+                <li>Missing ranking_points → Display 0</li>
+                <li>Missing logo_url → No logo displayed</li>
+                <li>Null/undefined values → Display 0 or empty</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="test-section">
+        <h2>4. Error Handling Tests</h2>
+        
+        <div class="test-case">
+            <h4>Test 4.1: Non-existent League</h4>
+            <div class="shortcode-example">[volleyball_table league="Non-existent League" view="condensed"]</div>
+            <div class="error-case">❌ Should display "No data for league" message</div>
+        </div>
+        
+        <div class="test-case">
+            <h4>Test 4.2: Non-existent Sub-league</h4>
+            <div class="shortcode-example">[volleyball_table league="Men's Division 2" subleague="Non-existent" view="condensed"]</div>
+            <div class="error-case">❌ Should display "No data for league/subleague" message</div>
+        </div>
+        
+        <div class="test-case">
+            <h4>Test 4.3: Empty League Parameter</h4>
+            <div class="shortcode-example">[volleyball_table league="" view="condensed"]</div>
+            <div class="error-case">❌ Should display "No league specified for table" message</div>
+        </div>
+        
+        <div class="test-case">
+            <h4>Test 4.4: Missing League Parameter</h4>
+            <div class="shortcode-example">[volleyball_table view="condensed"]</div>
+            <div class="error-case">❌ Should display "No league specified for table" message</div>
+        </div>
+    </div>
+
+    <div class="test-section">
+        <h2>5. AJAX Functionality Tests</h2>
+        
+        <div class="test-case">
+            <h4>Test 5.1: View Parameter in AJAX Calls</h4>
+            <p><strong>Expected Behavior:</strong></p>
+            <ul>
+                <li>AJAX URL should include ?view=condensed parameter</li>
+                <li>Response should include view information</li>
+                <li>JavaScript should generate condensed table HTML</li>
+            </ul>
+        </div>
+        
+        <div class="test-case">
+            <h4>Test 5.2: Accordion Interface with Condensed View</h4>
+            <p><strong>Expected Behavior:</strong></p>
+            <ul>
+                <li>Accordion data-view attribute should be set to "condensed"</li>
+                <li>Sub-league clicks should load condensed tables</li>
+                <li>Auto-load should work with condensed view</li>
+            </ul>
+        </div>
+        
+        <div class="test-case">
+            <h4>Test 5.3: Dynamic Table Generation</h4>
+            <p><strong>Expected Behavior:</strong></p>
+            <ul>
+                <li>generateCondensedTableHtml() function should be called</li>
+                <li>Proper CSS classes should be applied</li>
+                <li>Team logos should be preserved</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="test-section">
+        <h2>6. CSS and Styling Tests</h2>
+        
+        <div class="test-case">
+            <h4>Test 6.1: Condensed Table CSS Classes</h4>
+            <p><strong>Expected Classes:</strong></p>
+            <ul>
+                <li>.volleyball-league-table</li>
+                <li>.volleyball-table-condensed</li>
+                <li>.position-col, .team-col, .stats-col, .points-col</li>
+                <li>.team-name, .team-logo</li>
+            </ul>
+        </div>
+        
+        <div class="test-case">
+            <h4>Test 6.2: Responsive Design</h4>
+            <p><strong>Expected Behavior:</strong></p>
+            <ul>
+                <li>Desktop: Standard table layout</li>
+                <li>Mobile (≤768px): Card-based layout</li>
+                <li>Team logos: 20px on desktop, 16px on mobile</li>
+                <li>Proper data-label attributes for mobile</li>
+            </ul>
+        </div>
+        
+        <div class="test-case">
+            <h4>Test 6.3: Visual Styling</h4>
+            <p><strong>Expected Styling:</strong></p>
+            <ul>
+                <li>Header: Blue background (#007cba)</li>
+                <li>Ranking Points: Golden color (#d4a853)</li>
+                <li>Position: Blue color (#007cba)</li>
+                <li>Hover effects and striped rows</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="test-section">
+        <h2>7. Integration Tests</h2>
+        
+        <div class="test-case">
+            <h4>Test 7.1: Backward Compatibility</h4>
+            <p><strong>Verification:</strong></p>
+            <ul>
+                <li>Existing shortcodes without view parameter should work unchanged</li>
+                <li>Full table functionality should remain intact</li>
+                <li>No breaking changes to existing implementations</li>
+            </ul>
+        </div>
+        
+        <div class="test-case">
+            <h4>Test 7.2: Performance Impact</h4>
+            <p><strong>Expected:</strong></p>
+            <ul>
+                <li>Condensed tables should load faster (less data processing)</li>
+                <li>Smaller HTML output</li>
+                <li>Reduced CSS rendering complexity</li>
+            </ul>
+        </div>
+        
+        <div class="test-case">
+            <h4>Test 7.3: Cross-browser Compatibility</h4>
+            <p><strong>Should work in:</strong></p>
+            <ul>
+                <li>Modern browsers (Chrome, Firefox, Safari, Edge)</li>
+                <li>Mobile browsers</li>
+                <li>Responsive design across devices</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="test-section">
+        <h2>Test Summary</h2>
+        <p>This comprehensive test plan covers:</p>
+        <ul>
+            <li>✅ Parameter validation and sanitization</li>
+            <li>✅ Different league data structures</li>
+            <li>✅ Data field mapping and extraction</li>
+            <li>✅ Error handling and edge cases</li>
+            <li>✅ AJAX functionality and dynamic loading</li>
+            <li>✅ CSS styling and responsive design</li>
+            <li>✅ Integration and compatibility testing</li>
+        </ul>
+        
+        <p><strong>Key Areas Validated:</strong></p>
+        <ul>
+            <li>Shortcode parameter handling with proper validation</li>
+            <li>Support for both simple and nested league structures</li>
+            <li>Correct data mapping from JSON to condensed table format</li>
+            <li>Graceful error handling for invalid inputs</li>
+            <li>AJAX integration with view parameter support</li>
+            <li>Responsive design and mobile compatibility</li>
+            <li>Backward compatibility with existing functionality</li>
+        </ul>
+    </div>
+</body>
+</html>

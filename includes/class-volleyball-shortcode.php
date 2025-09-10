@@ -24,7 +24,8 @@ class VolleyballShortcode {
     public function table_shortcode($atts) {
         $atts = shortcode_atts(array(
             'league' => '',
-            'subleague' => ''
+            'subleague' => '',
+            'view' => 'full'
         ), $atts);
 
         if (empty($atts['league'])) {
@@ -34,6 +35,12 @@ class VolleyballShortcode {
         global $wpdb;
         $league = sanitize_text_field($atts['league']);
         $subleague = sanitize_text_field($atts['subleague']);
+        $view = sanitize_text_field($atts['view']);
+        
+        // Validate view parameter
+        if (!in_array($view, array('full', 'condensed'))) {
+            $view = 'full';
+        }
 
         // Check if this is a nested league using VolleyballLeagues class
         $is_nested = VolleyballLeagues::has_subleagues($league);
@@ -78,7 +85,7 @@ class VolleyballShortcode {
             $accordion_id = 'volleyball-accordion-' . uniqid();
             ob_start();
             ?>
-            <div class="volleyball-accordion" id="<?php echo esc_attr($accordion_id); ?>" data-league="<?php echo esc_attr($league); ?>">
+            <div class="volleyball-accordion" id="<?php echo esc_attr($accordion_id); ?>" data-league="<?php echo esc_attr($league); ?>" data-view="<?php echo esc_attr($view); ?>">
                 <h3><?php echo esc_html($league); ?> - Select Sub-League</h3>
                 <div class="accordion-headers">
                     <?php foreach ($subleagues as $index => $sub):
@@ -96,7 +103,13 @@ class VolleyballShortcode {
                         <?php if (!empty($first_subleague_teams)): ?>
                         <div class="volleyball-table-container">
                             <h3><?php echo esc_html($league); ?> - <?php echo esc_html($first_subleague); ?></h3>
-                            <?php $this->render_team_table($first_subleague_teams); ?>
+                            <?php
+                            if ($view === 'condensed') {
+                                $this->render_condensed_table($first_subleague_teams);
+                            } else {
+                                $this->render_team_table($first_subleague_teams);
+                            }
+                            ?>
                         </div>
                         <?php else: ?>
                         <div class="volleyball-error">No teams found for <?php echo esc_html($first_subleague); ?></div>
@@ -139,7 +152,13 @@ class VolleyballShortcode {
             ?>
             <div class="volleyball-table-container">
                 <h3><?php echo esc_html($league); ?><?php if (!empty($subleague)) echo ' - ' . esc_html($subleague); ?></h3>
-                <?php $this->render_team_table($teams); ?>
+                <?php
+                if ($view === 'condensed') {
+                    $this->render_condensed_table($teams);
+                } else {
+                    $this->render_team_table($teams);
+                }
+                ?>
             </div>
             <?php
             return ob_get_clean();
@@ -442,6 +461,48 @@ class VolleyballShortcode {
 
                         <!-- Penalty -->
                         <td class="penalty-col"><?php echo esc_html($team->penalty ?: '-'); ?></td>
+                    </tr>
+                    <?php endforeach; ?>
+                </tbody>
+            </table>
+        </div>
+        <?php
+    }
+
+    /**
+     * Render condensed team table HTML (6 columns)
+     */
+    private function render_condensed_table($teams) {
+        ?>
+        <div class="table-responsive">
+            <table class="volleyball-league-table volleyball-table-condensed">
+                <thead>
+                    <tr>
+                        <th class="position-col">Pos</th>
+                        <th class="team-col">Team</th>
+                        <th class="stats-col">Games Played</th>
+                        <th class="stats-col">Wins</th>
+                        <th class="stats-col">Losses</th>
+                        <th class="points-col">Ranking Points</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <?php foreach ($teams as $team):
+                        // Safely decode JSON fields, handling both string and array data
+                        $match_stats = $this->safe_json_decode($team->match_stats);
+                    ?>
+                    <tr>
+                        <td class="position-col"><?php echo esc_html($team->position); ?></td>
+                        <td class="team-name">
+                            <?php if ($team->logo_url): ?>
+                                <img src="<?php echo esc_url($team->logo_url); ?>" alt="<?php echo esc_attr($team->team_name); ?>" class="team-logo">
+                            <?php endif; ?>
+                            <?php echo esc_html($team->team_name); ?>
+                        </td>
+                        <td class="stats-col"><?php echo esc_html($match_stats['played'] ?? 0); ?></td>
+                        <td class="stats-col"><?php echo esc_html($match_stats['won'] ?? 0); ?></td>
+                        <td class="stats-col"><?php echo esc_html($match_stats['lost'] ?? 0); ?></td>
+                        <td class="points-col"><?php echo esc_html($team->ranking_points); ?></td>
                     </tr>
                     <?php endforeach; ?>
                 </tbody>
