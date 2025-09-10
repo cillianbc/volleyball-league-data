@@ -77,8 +77,12 @@ jQuery(document).ready(function($) {
     }
 
     // Extract the data loading logic into a separate function
-    function loadSubleagueData(league, subleague, $content, $tableContainer, $accordion) {
+    function loadSubleagueData(league, subleague, $content, $tableContainer, $accordion, view) {
+        view = view || 'full';
         var ajaxUrl = volleyball_ajax.rest_url + encodeURIComponent(league) + '/' + encodeURIComponent(subleague);
+        
+        // Add view parameter to URL
+        ajaxUrl += '?view=' + encodeURIComponent(view);
         console.log('Loading data from:', ajaxUrl);
 
         $.ajax({
@@ -88,7 +92,11 @@ jQuery(document).ready(function($) {
             success: function(response) {
                 console.log('Direct AJAX Success for subleague:', subleague, response);
 
-                if (!response || !Array.isArray(response) || response.length === 0) {
+                // Handle new response structure
+                var teams = response.teams || response;
+                var responseView = response.view || view;
+                
+                if (!teams || !Array.isArray(teams) || teams.length === 0) {
                     console.log('No teams found, trying fallback...');
                     // Fallback: Get all teams for the league and filter by subleague
                     var leagueUrl = volleyball_ajax.rest_url + encodeURIComponent(league);
@@ -103,7 +111,7 @@ jQuery(document).ready(function($) {
                             var filteredTeams = filterTeamsBySubleague(response, subleague);
 
                             if (filteredTeams.length > 0) {
-                                var tableHtml = generateTeamTableHtml(filteredTeams, league, subleague);
+                                var tableHtml = generateTeamTableHtml(filteredTeams, league, subleague, view);
                                 $content.find('.volleyball-loading').hide();
                                 $tableContainer.html(tableHtml).show();
                             } else {
@@ -119,7 +127,7 @@ jQuery(document).ready(function($) {
                     });
                 } else {
                     // Direct response worked
-                    var tableHtml = generateTeamTableHtml(response, league, subleague);
+                    var tableHtml = generateTeamTableHtml(teams, league, subleague, responseView);
                     $content.find('.volleyball-loading').hide();
                     $tableContainer.html(tableHtml).show();
                 }
@@ -135,7 +143,7 @@ jQuery(document).ready(function($) {
                     success: function(response) {
                         var filteredTeams = filterTeamsBySubleague(response, subleague);
                         if (filteredTeams.length > 0) {
-                            var tableHtml = generateTeamTableHtml(filteredTeams, league, subleague);
+                            var tableHtml = generateTeamTableHtml(filteredTeams, league, subleague, view);
                             $content.find('.volleyball-loading').hide();
                             $tableContainer.html(tableHtml).show();
                         } else {
@@ -239,18 +247,40 @@ jQuery(document).ready(function($) {
         $content.find('.volleyball-loading').show();
         $tableContainer.hide();
 
+        // Get view parameter from accordion data attribute (if set)
+        var view = $accordion.data('view') || 'full';
+        
         // Load data directly instead of using complex AJAX logic
-        loadSubleagueData(league, subleague, $content, $tableContainer, $accordion);
+        loadSubleagueData(league, subleague, $content, $tableContainer, $accordion, view);
     });
 
     /**
      * Generate HTML for team table
      */
-    function generateTeamTableHtml(teams, league, subleague) {
+    function generateTeamTableHtml(teams, league, subleague, view) {
+        view = view || 'full';
+        
         var html = '<div class="volleyball-table-container">';
         html += '<h3>' + escapeHtml(league) + ' - ' + escapeHtml(subleague) + '</h3>';
         html += '<div class="table-responsive">';
-        html += '<table class="volleyball-league-table">';
+        
+        if (view === 'condensed') {
+            html += generateCondensedTableHtml(teams);
+        } else {
+            html += generateFullTableHtml(teams);
+        }
+        
+        html += '</div>';
+        html += '</div>';
+
+        return html;
+    }
+
+    /**
+     * Generate HTML for full team table
+     */
+    function generateFullTableHtml(teams) {
+        var html = '<table class="volleyball-league-table">';
         html += '<thead>';
         html += '<tr>';
         html += '<th rowspan="2" class="position-col">Pos</th>';
@@ -335,8 +365,48 @@ jQuery(document).ready(function($) {
 
         html += '</tbody>';
         html += '</table>';
-        html += '</div>';
-        html += '</div>';
+
+        return html;
+    }
+
+    /**
+     * Generate HTML for condensed team table
+     */
+    function generateCondensedTableHtml(teams) {
+        var html = '<table class="volleyball-league-table volleyball-table-condensed">';
+        html += '<thead>';
+        html += '<tr>';
+        html += '<th class="position-col">Pos</th>';
+        html += '<th class="team-col">Team</th>';
+        html += '<th class="stats-col">Games Played</th>';
+        html += '<th class="stats-col">Wins</th>';
+        html += '<th class="stats-col">Losses</th>';
+        html += '<th class="points-col">Ranking Points</th>';
+        html += '</tr>';
+        html += '</thead>';
+        html += '<tbody>';
+
+        teams.forEach(function(team) {
+            // Safely decode JSON fields
+            var matchStats = safeJsonDecode(team.match_stats);
+
+            html += '<tr>';
+            html += '<td class="position-col">' + escapeHtml(team.position || 0) + '</td>';
+            html += '<td class="team-name">';
+            if (team.logo_url) {
+                html += '<img src="' + escapeHtml(team.logo_url) + '" alt="' + escapeHtml(team.team_name) + '" class="team-logo">';
+            }
+            html += escapeHtml(team.team_name);
+            html += '</td>';
+            html += '<td class="stats-col">' + escapeHtml(matchStats.played || 0) + '</td>';
+            html += '<td class="stats-col">' + escapeHtml(matchStats.won || 0) + '</td>';
+            html += '<td class="stats-col">' + escapeHtml(matchStats.lost || 0) + '</td>';
+            html += '<td class="points-col">' + escapeHtml(team.ranking_points || 0) + '</td>';
+            html += '</tr>';
+        });
+
+        html += '</tbody>';
+        html += '</table>';
 
         return html;
     }

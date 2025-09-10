@@ -45,7 +45,7 @@
     padding: 12px 8px;
     text-align: left;
     font-weight: 600;
-    font-size: 0.875rem;
+    font-size: 1rem;
     white-space: nowrap;
 }
 
@@ -53,7 +53,7 @@
     border: 1px solid var(--volleyball-table-border-color);
     padding: 10px 8px;
     vertical-align: middle;
-    font-size: 0.875rem;
+    font-size: 1rem;
 }
 
 .volleyball-table-container tr:nth-child(even) {
@@ -260,4 +260,132 @@
     border: 1px solid #c3e6cb;
     border-radius: 4px;
     margin: 10px 0;
+}
+
+/* Condensed Table Styling */
+.volleyball-table-condensed {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 14px;
+    background-color: var(--volleyball-table-bg);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.volleyball-table-condensed th,
+.volleyball-table-condensed td {
+    padding: 12px 8px;
+    text-align: center;
+    border-bottom: 1px solid var(--volleyball-table-border-color);
+}
+
+.volleyball-table-condensed th {
+    background-color: var(--volleyball-header-bg);
+    color: var(--volleyball-header-text);
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 0.5px;
+}
+
+.volleyball-table-condensed .team-name {
+    text-align: left;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.volleyball-table-condensed .team-logo {
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+    vertical-align: middle;
+    border-radius: 4px;
+    object-fit: cover;
+    border: 1px solid var(--volleyball-table-border-color);
+}
+
+.volleyball-table-condensed .position-col {
+    width: 60px;
+    font-weight: 600;
+    color: var(--volleyball-primary-color);
+}
+
+.volleyball-table-condensed .points-col {
+    font-weight: 600;
+    color: #d4a853;
+}
+
+.volleyball-table-condensed tbody tr:hover {
+    background-color: var(--volleyball-table-hover-bg);
+}
+
+.volleyball-table-condensed tbody tr:nth-child(even) {
+    background-color: var(--volleyball-table-striped-bg);
+}
+
+/* Responsive design for condensed table */
+@media (max-width: 768px) {
+    .volleyball-table-condensed {
+        font-size: 12px;
+    }
+    
+    .volleyball-table-condensed th,
+    .volleyball-table-condensed td {
+        padding: 8px 4px;
+    }
+    
+    .volleyball-table-condensed .team-logo {
+        width: 16px;
+        height: 16px;
+        margin-right: 4px;
+    }
+    
+    /* Mobile card layout for condensed table */
+    .volleyball-table-condensed thead {
+        display: none;
+    }
+    
+    .volleyball-table-condensed tbody,
+    .volleyball-table-condensed tr,
+    .volleyball-table-condensed td {
+        display: block;
+        width: 100%;
+    }
+    
+    .volleyball-table-condensed tr {
+        border: 1px solid var(--volleyball-table-border-color);
+        margin-bottom: 10px;
+        border-radius: 4px;
+        overflow: hidden;
+        background: var(--volleyball-table-bg);
+    }
+    
+    .volleyball-table-condensed td {
+        border: none;
+        border-bottom: 1px solid var(--volleyball-table-border-color);
+        position: relative;
+        padding-left: 50%;
+        text-align: left;
+    }
+    
+    .volleyball-table-condensed td:before {
+        content: attr(data-label);
+        position: absolute;
+        left: 6px;
+        width: 45%;
+        font-weight: 600;
+        white-space: nowrap;
+    }
+    
+    .volleyball-table-condensed .team-name {
+        padding-left: 6px;
+    }
+    
+    .volleyball-table-condensed .team-name:before {
+        display: none;
+    }
 }

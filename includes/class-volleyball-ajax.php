@@ -32,7 +32,16 @@ class VolleyballAjax {
         register_rest_route('volleyball/v1', '/teams/(?P<league>[^/]+)(/(?P<subleague>[^/]+))?', array(
             'methods' => 'GET',
             'callback' => array($this, 'get_teams'),
-            'permission_callback' => '__return_true' // Public access for display
+            'permission_callback' => '__return_true', // Public access for display
+            'args' => array(
+                'view' => array(
+                    'default' => 'full',
+                    'sanitize_callback' => 'sanitize_text_field',
+                    'validate_callback' => function($param) {
+                        return in_array($param, array('full', 'condensed'));
+                    }
+                )
+            )
         ));
     }
 
@@ -308,6 +317,9 @@ class VolleyballAjax {
         $raw_subleague = isset($request['subleague']) ? $request['subleague'] : '';
         $decoded_subleague = urldecode($raw_subleague);
         $subleague = stripslashes(sanitize_text_field($decoded_subleague));
+        
+        // Get view parameter
+        $view = $request->get_param('view') ?: 'full';
 
         error_log('Volleyball Debug REST API: get_teams called');
         error_log('Volleyball Debug REST API: Raw league: ' . $raw_league);
@@ -420,8 +432,17 @@ class VolleyballAjax {
             $team->result_breakdown = json_decode($team->result_breakdown, true);
         }
 
-        error_log('Volleyball Debug REST API: Returning ' . count($teams) . ' teams');
-        return new WP_REST_Response($teams, 200);
+        error_log('Volleyball Debug REST API: Returning ' . count($teams) . ' teams with view: ' . $view);
+        
+        // Return teams data with view information
+        $response_data = array(
+            'teams' => $teams,
+            'view' => $view,
+            'league' => $league,
+            'subleague' => $subleague
+        );
+        
+        return new WP_REST_Response($response_data, 200);
     }
 
     /**

@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Volleyball Table - Condensed View Test</title>
+    <link rel="stylesheet" href="volleyball-styles.css">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            margin: 20px;
+            background-color: #f5f5f5;
+        }
+        .test-section {
+            background: white;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #007cba;
+            border-bottom: 2px solid #007cba;
+            padding-bottom: 10px;
+        }
+        .shortcode-example {
+            background: #f8f9fa;
+            padding: 10px;
+            border-radius: 4px;
+            font-family: monospace;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Volleyball League Tables - Condensed View Test</h1>
+    
+    <div class="test-section">
+        <h2>Full Table View (Default)</h2>
+        <p><strong>Shortcode:</strong> <code class="shortcode-example">[volleyball_table league="Men's Premier Division"]</code></p>
+        <p>This would render the full 19-column table with all statistics.</p>
+        
+        <div class="volleyball-table-container">
+            <h3>Men's Premier Division</h3>
+            <div class="table-responsive">
+                <table class="volleyball-league-table">
+                    <thead>
+                        <tr>
+                            <th rowspan="2" class="position-col">Pos</th>
+                            <th rowspan="2" class="team-col">Team</th>
+                            <th rowspan="2" class="points-col">Points</th>
+                            <th colspan="3" class="header-group">Matches</th>
+                            <th colspan="3" class="header-group">Sets</th>
+                            <th colspan="3" class="header-group">Points</th>
+                            <th colspan="6" class="header-group">Results</th>
+                            <th rowspan="2" class="ratio-col">Set Ratio</th>
+                            <th rowspan="2" class="ratio-col">Point Ratio</th>
+                            <th rowspan="2" class="penalty-col">Penalty</th>
+                        </tr>
+                        <tr>
+                            <th class="stats-col">Played</th>
+                            <th class="stats-col">Won</th>
+                            <th class="stats-col">Lost</th>
+                            <th class="stats-col">Won</th>
+                            <th class="stats-col">Lost</th>
+                            <th class="stats-col">Ratio</th>
+                            <th class="stats-col">Won</th>
+                            <th class="stats-col">Lost</th>
+                            <th class="stats-col">Ratio</th>
+                            <th class="stats-col">3-0</th>
+                            <th class="stats-col">3-1</th>
+                            <th class="stats-col">3-2</th>
+                            <th class="stats-col">2-3</th>
+                            <th class="stats-col">1-3</th>
+                            <th class="stats-col">0-3</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="position-col">1</td>
+                            <td class="team-name">
+                                <img src="https://via.placeholder.com/30x30/007cba/ffffff?text=T1" alt="Team 1" class="team-logo">
+                                Team Alpha
+                            </td>
+                            <td class="points-col">45</td>
+                            <td class="stats-col">15</td>
+                            <td class="stats-col">12</td>
+                            <td class="stats-col">3</td>
+                            <td class="stats-col">38</td>
+                            <td class="stats-col">18</td>
+                            <td class="stats-col">2.111</td>
+                            <td class="stats-col">1140</td>
+                            <td class="stats-col">890</td>
+                            <td class="stats-col">1.281</td>
+                            <td class="stats-col">8</td>
+                            <td class="stats-col">3</td>
+                            <td class="stats-col">1</td>
+                            <td class="stats-col">1</td>
+                            <td class="stats-col">1</td>
+                            <td class="stats-col">1</td>
+                            <td class="ratio-col">2.111</td>
+                            <td class="ratio-col">1.281</td>
+                            <td class="penalty-col">-</td>
+                        </tr>
+                        <tr>
+                            <td class="position-col">2</td>
+                            <td class="team-name">
+                                <img src="https://via.placeholder.com/30x30/6c757d/ffffff?text=T2" alt="Team 2" class="team-logo">
+                                Team Beta
+                            </td>
+                            <td class="points-col">42</td>
+                            <td class="stats-col">15</td>
+                            <td class="stats-col">11</td>
+                            <td class="stats-col">4</td>
+                            <td class="stats-col">35</td>
+                            <td class="stats-col">22</td>
+                            <td class="stats-col">1.591</td>
+                            <td class="stats-col">1080</td>
+                            <td class="stats-col">950</td>
+                            <td class="stats-col">1.137</td>
+                            <td class="stats-col">6</td>
+                            <td class="stats-col">4</td>
+                            <td class="stats-col">1</td>
+                            <td class="stats-col">2</td>
+                            <td class="stats-col">1</td>
+                            <td class="stats-col">1</td>
+                            <td class="ratio-col">1.591</td>
+                            <td class="ratio-col">1.137</td>
+                            <td class="penalty-col">-</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="test-section">
+        <h2>Condensed Table View</h2>
+        <p><strong>Shortcode:</strong> <code class="shortcode-example">[volleyball_table league="Men's Premier Division" view="condensed"]</code></p>
+        <p>This renders a simplified 6-column table with only essential information: Position, Team Name, Games Played, Wins, Losses, and Ranking Points.</p>
+        
+        <div class="volleyball-table-container">
+            <h3>Men's Premier Division - Condensed View</h3>
+            <div class="table-responsive">
+                <table class="volleyball-league-table volleyball-table-condensed">
+                    <thead>
+                        <tr>
+                            <th class="position-col">Pos</th>
+                            <th class="team-col">Team</th>
+                            <th class="stats-col">Games Played</th>
+                            <th class="stats-col">Wins</th>
+                            <th class="stats-col">Losses</th>
+                            <th class="points-col">Ranking Points</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="position-col">1</td>
+                            <td class="team-name">
+                                <img src="https://via.placeholder.com/20x20/007cba/ffffff?text=T1" alt="Team Alpha" class="team-logo">
+                                Team Alpha
+                            </td>
+                            <td class="stats-col">15</td>
+                            <td class="stats-col">12</td>
+                            <td class="stats-col">3</td>
+                            <td class="points-col">45</td>
+                        </tr>
+                        <tr>
+                            <td class="position-col">2</td>
+                            <td class="team-name">
+                                <img src="https://via.placeholder.com/20x20/6c757d/ffffff?text=T2" alt="Team Beta" class="team-logo">
+                                Team Beta
+                            </td>
+                            <td class="stats-col">15</td>
+                            <td class="stats-col">11</td>
+                            <td class="stats-col">4</td>
+                            <td class="points-col">42</td>
+                        </tr>
+                        <tr>
+                            <td class="position-col">3</td>
+                            <td class="team-name">
+                                <img src="https://via.placeholder.com/20x20/28a745/ffffff?text=T3" alt="Team Gamma" class="team-logo">
+                                Team Gamma
+                            </td>
+                            <td class="stats-col">14</td>
+                            <td class="stats-col">9</td>
+                            <td class="stats-col">5</td>
+                            <td class="points-col">38</td>
+                        </tr>
+                        <tr>
+                            <td class="position-col">4</td>
+                            <td class="team-name">
+                                <img src="https://via.placeholder.com/20x20/dc3545/ffffff?text=T4" alt="Team Delta" class="team-logo">
+                                Team Delta
+                            </td>
+                            <td class="stats-col">14</td>
+                            <td class="stats-col">8</td>
+                            <td class="stats-col">6</td>
+                            <td class="points-col">35</td>
+                        </tr>
+                        <tr>
+                            <td class="position-col">5</td>
+                            <td class="team-name">
+                                <img src="https://via.placeholder.com/20x20/ffc107/000000?text=T5" alt="Team Echo" class="team-logo">
+                                Team Echo
+                            </td>
+                            <td class="stats-col">13</td>
+                            <td class="stats-col">6</td>
+                            <td class="stats-col">7</td>
+                            <td class="points-col">28</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="test-section">
+        <h2>Implementation Summary</h2>
+        <h3>Backend Changes Made:</h3>
+        <ul>
+            <li>✅ Added <code>view</code> parameter to shortcode handler with validation</li>
+            <li>✅ Created <code>render_condensed_table()</code> method for 6-column layout</li>
+            <li>✅ Updated rendering logic to use appropriate method based on view parameter</li>
+            <li>✅ Modified AJAX endpoints to accept and pass through view parameter</li>
+            <li>✅ Updated JavaScript to handle condensed table generation</li>
+            <li>✅ Added CSS styling for <code>.volleyball-table-condensed</code> class</li>
+        </ul>
+        
+        <h3>Usage Examples:</h3>
+        <div class="shortcode-example">
+            [volleyball_table league="Men's Premier Division"]<br>
+            [volleyball_table league="Men's Premier Division" view="full"]<br>
+            [volleyball_table league="Men's Premier Division" view="condensed"]<br>
+            [volleyball_table league="Women's Division 1" subleague="Group A" view="condensed"]
+        </div>
+        
+        <h3>Features:</h3>
+        <ul>
+            <li>✅ Backward compatibility - defaults to "full" view</li>
+            <li>✅ Works with both simple and nested league structures</li>
+            <li>✅ Maintains team logos and styling</li>
+            <li>✅ Responsive design for mobile devices</li>
+            <li>✅ AJAX support for dynamic loading</li>
+            <li>✅ Proper data validation and sanitization</li>
+        </ul>
+    </div>
+</body>
+</html>
