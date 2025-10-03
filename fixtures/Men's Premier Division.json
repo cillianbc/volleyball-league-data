@@ -1,0 +1,2446 @@
+{
+  "all_fixtures": [
+    {
+      "matchday": "Matchday 1",
+      "sub_league": "League - PM",
+      "date": "11/10/2025",
+      "time": "10:00",
+      "venue": "Colaiste De hIde",
+      "home_team": "Gardians Fianna",
+      "away_team": "Dalkey Devils PM"
+    },
+    {
+      "matchday": "Matchday 1",
+      "sub_league": "League - PM",
+      "date": "12/10/2025",
+      "time": "14:00",
+      "venue": "Trinity College Sports Centre",
+      "home_team": "TCD PM",
+      "away_team": "UCD PM"
+    },
+    {
+      "matchday": "Matchday 1",
+      "sub_league": "League - PM",
+      "date": "12/10/2025",
+      "time": "16:00",
+      "venue": "ALSAA",
+      "home_team": "Aer Lingus PM",
+      "away_team": "Balbriggan Eagles"
+    },
+    {
+      "matchday": "Matchday 1",
+      "sub_league": "League - PM",
+      "date": "12/10/2025",
+      "time": "17:30",
+      "venue": "Colaiste Bride (Clondalkin)",
+      "home_team": "DVC Bravo",
+      "away_team": "Tallaght Rockets PM"
+    },
+    {
+      "matchday": "Matchday 1",
+      "sub_league": "League - PM",
+      "date": "18/10/2025",
+      "time": "10:00",
+      "venue": "Colaiste De hIde",
+      "home_team": "Gardians Fianna",
+      "away_team": "Balbriggan Eagles"
+    },
+    {
+      "matchday": "Matchday 2",
+      "sub_league": "League - PM",
+      "date": "19/10/2025",
+      "time": "16:00",
+      "venue": "Firhouse Community College",
+      "home_team": "Tallaght Rockets PM",
+      "away_team": "Aer Lingus PM"
+    },
+    {
+      "matchday": "Matchday 2",
+      "sub_league": "League - PM",
+      "date": "19/10/2025",
+      "time": "17:30",
+      "venue": "Castle Park School",
+      "home_team": "Dalkey Devils PM",
+      "away_team": "TCD PM"
+    },
+    {
+      "matchday": "Matchday 2",
+      "sub_league": "League - PM",
+      "date": "08/02/2026",
+      "time": "13:30",
+      "venue": "Colaiste Bride (Clondalkin)",
+      "home_team": "DVC Bravo",
+      "away_team": "UCD PM"
+    },
+    {
+      "matchday": "Matchday 2",
+      "sub_league": "League - PM",
+      "date": "25/10/2025",
+      "time": "18:00",
+      "venue": "St Mary's College (Naas)",
+      "home_team": "TCD PM",
+      "away_team": "Tallaght Rockets PM"
+    },
+    {
+      "matchday": "Matchday 2",
+      "sub_league": "League - PM",
+      "date": "26/10/2025",
+      "time": "11:00",
+      "venue": "UCD Sports Centre",
+      "home_team": "UCD PM",
+      "away_team": "Dalkey Devils PM"
+    },
+    {
+      "matchday": "Matchday 3",
+      "sub_league": "League - PM",
+      "date": "26/10/2025",
+      "time": "15:30",
+      "venue": "Castlelands Community Centre",
+      "home_team": "Balbriggan Eagles",
+      "away_team": "DVC Bravo"
+    },
+    {
+      "matchday": "Matchday 3",
+      "sub_league": "League - PM",
+      "date": "26/10/2025",
+      "time": "17:30",
+      "venue": "ALSAA",
+      "home_team": "Aer Lingus PM",
+      "away_team": "Gardians Fianna"
+    },
+    {
+      "matchday": "Matchday 3",
+      "sub_league": "League - PM",
+      "date": "08/11/2025",
+      "time": "14:00",
+      "venue": "Tech University Dublin, Tallaght",
+      "home_team": "Ireland Men's U20",
+      "away_team": "Balbriggan Eagles"
+    },
+    {
+      "matchday": "Matchday 3",
+      "sub_league": "League - PM",
+      "date": "09/11/2025",
+      "time": "14:00",
+      "venue": "Tech University Dublin, Tallaght",
+      "home_team": "Ireland Men's U20",
+      "away_team": "Gardians Fianna"
+    },
+    {
+      "matchday": "Matchday 3",
+      "sub_league": "League - PM",
+      "date": "15/11/2025",
+      "time": "15:00",
+      "venue": "Colaiste De hIde",
+      "home_team": "Gardians Fianna",
+      "away_team": "DVC Bravo"
+    },
+    {
+      "matchday": "Matchday 4",
+      "sub_league": "League - PM",
+      "date": "16/11/2025",
+      "time": "11:00",
+      "venue": "Firhouse Community College",
+      "home_team": "Tallaght Rockets PM",
+      "away_team": "UCD PM"
+    },
+    {
+      "matchday": "Matchday 4",
+      "sub_league": "League - PM",
+      "date": "16/11/2025",
+      "time": "17:30",
+      "venue": "Castle Park School",
+      "home_team": "Dalkey Devils PM",
+      "away_team": "Aer Lingus PM"
+    },
+    {
+      "matchday": "Matchday 4",
+      "sub_league": "League - PM",
+      "date": "16/11/2025",
+      "time": "18:00",
+      "venue": "St Mary's College (Naas)",
+      "home_team": "TCD PM",
+      "away_team": "Balbriggan Eagles"
+    },
+    {
+      "matchday": "Matchday 4",
+      "sub_league": "League - PM",
+      "date": "29/11/2025",
+      "time": "13:30",
+      "venue": "UCD Sports Centre",
+      "home_team": "UCD PM",
+      "away_team": "Gardians Fianna"
+    },
+    {
+      "matchday": "Matchday 4",
+      "sub_league": "League - PM",
+      "date": "30/11/2025",
+      "time": "11:00",
+      "venue": "Colaiste Bride (Clondalkin)",
+      "home_team": "DVC Bravo",
+      "away_team": "Dalkey Devils PM"
+    },
+    {
+      "matchday": "Matchday 5",
+      "sub_league": "League - PM",
+      "date": "30/11/2025",
+      "time": "15:30",
+      "venue": "Castlelands Community Centre",
+      "home_team": "Balbriggan Eagles",
+      "away_team": "Tallaght Rockets PM"
+    },
+    {
+      "matchday": "Matchday 5",
+      "sub_league": "League - PM",
+      "date": "30/11/2025",
+      "time": "16:00",
+      "venue": "ALSAA",
+      "home_team": "Aer Lingus PM",
+      "away_team": "TCD PM"
+    },
+    {
+      "matchday": "Matchday 5",
+      "sub_league": "League - PM",
+      "date": "06/12/2025",
+      "time": "14:00",
+      "venue": "Tech University Dublin, Tallaght",
+      "home_team": "Ireland Men's U20",
+      "away_team": "DVC Bravo"
+    },
+    {
+      "matchday": "Matchday 5",
+      "sub_league": "League - PM",
+      "date": "07/12/2025",
+      "time": "14:00",
+      "venue": "Tech University Dublin, Tallaght",
+      "home_team": "Ireland Men's U20",
+      "away_team": "Aer Lingus PM"
+    },
+    {
+      "matchday": "Matchday 5",
+      "sub_league": "League - PM",
+      "date": "13/12/2025",
+      "time": "12:30",
+      "venue": "Colaiste De hIde",
+      "home_team": "Gardians Fianna",
+      "away_team": "TCD PM"
+    },
+    {
+      "matchday": "Matchday 6",
+      "sub_league": "League - PM",
+      "date": "14/12/2025",
+      "time": "11:00",
+      "venue": "Firhouse Community College",
+      "home_team": "Tallaght Rockets PM",
+      "away_team": "Dalkey Devils PM"
+    },
+    {
+      "matchday": "Matchday 6",
+      "sub_league": "League - PM",
+      "date": "14/12/2025",
+      "time": "11:00",
+      "venue": "UCD Sports Centre",
+      "home_team": "UCD PM",
+      "away_team": "Balbriggan Eagles"
+    },
+    {
+      "matchday": "Matchday 6",
+      "sub_league": "League - PM",
+      "date": "14/12/2025",
+      "time": "16:00",
+      "venue": "ALSAA",
+      "home_team": "DVC Bravo",
+      "away_team": "Aer Lingus PM"
+    },
+    {
+      "matchday": "Matchday 6",
+      "sub_league": "League - PM",
+      "date": "10/01/2026",
+      "time": "10:00",
+      "venue": "Colaiste De hIde",
+      "home_team": "Gardians Fianna",
+      "away_team": "Tallaght Rockets PM"
+    },
+    {
+      "matchday": "Matchday 6",
+      "sub_league": "League - PM",
+      "date": "11/01/2026",
+      "time": "14:00",
+      "venue": "Trinity College Sports Centre",
+      "home_team": "TCD PM",
+      "away_team": "DVC Bravo"
+    },
+    {
+      "matchday": "Matchday 7",
+      "sub_league": "League - PM",
+      "date": "11/01/2026",
+      "time": "17:30",
+      "venue": "ALSAA",
+      "home_team": "Aer Lingus PM",
+      "away_team": "UCD PM"
+    },
+    {
+      "matchday": "Matchday 7",
+      "sub_league": "League - PM",
+      "date": "11/01/2026",
+      "time": "17:30",
+      "venue": "Castle Park School",
+      "home_team": "Dalkey Devils PM",
+      "away_team": "Balbriggan Eagles"
+    },
+    {
+      "matchday": "Matchday 7",
+      "sub_league": "League - PM",
+      "date": "24/01/2026",
+      "time": "14:00",
+      "venue": "Tech University Dublin, Tallaght",
+      "home_team": "Ireland Men's U20",
+      "away_team": "Dalkey Devils PM"
+    },
+    {
+      "matchday": "Matchday 7",
+      "sub_league": "League - PM",
+      "date": "25/01/2026",
+      "time": "14:00",
+      "venue": "Tech University Dublin, Tallaght",
+      "home_team": "Ireland Men's U20",
+      "away_team": "TCD PM"
+    },
+    {
+      "matchday": "Matchday 7",
+      "sub_league": "League - PM",
+      "date": "31/01/2026",
+      "time": "11:00",
+      "venue": "UCD Sports Centre",
+      "home_team": "UCD PM",
+      "away_team": "TCD PM"
+    },
+    {
+      "matchday": "Matchday 8",
+      "sub_league": "League - PM",
+      "date": "01/02/2026",
+      "time": "11:00",
+      "venue": "Firhouse Community College",
+      "home_team": "Tallaght Rockets PM",
+      "away_team": "DVC Bravo"
+    },
+    {
+      "matchday": "Matchday 8",
+      "sub_league": "League - PM",
+      "date": "01/02/2026",
+      "time": "15:30",
+      "venue": "Castlelands Community Centre",
+      "home_team": "Balbriggan Eagles",
+      "away_team": "Aer Lingus PM"
+    },
+    {
+      "matchday": "Matchday 8",
+      "sub_league": "League - PM",
+      "date": "01/02/2026",
+      "time": "17:30",
+      "venue": "Castle Park School",
+      "home_team": "Dalkey Devils PM",
+      "away_team": "Gardians Fianna"
+    },
+    {
+      "matchday": "Matchday 8",
+      "sub_league": "League - PM",
+      "date": "19/10/2025",
+      "time": "11:00",
+      "venue": "UCD Sports Centre",
+      "home_team": "UCD PM",
+      "away_team": "DVC Bravo"
+    },
+    {
+      "matchday": "Matchday 8",
+      "sub_league": "League - PM",
+      "date": "08/02/2026",
+      "time": "14:00",
+      "venue": "Trinity College Sports Centre",
+      "home_team": "TCD PM",
+      "away_team": "Dalkey Devils PM"
+    },
+    {
+      "matchday": "Matchday 9",
+      "sub_league": "League - PM",
+      "date": "08/02/2026",
+      "time": "15:30",
+      "venue": "Castlelands Community Centre",
+      "home_team": "Balbriggan Eagles",
+      "away_team": "Gardians Fianna"
+    },
+    {
+      "matchday": "Matchday 9",
+      "sub_league": "League - PM",
+      "date": "08/02/2026",
+      "time": "16:00",
+      "venue": "ALSAA",
+      "home_team": "Aer Lingus PM",
+      "away_team": "Tallaght Rockets PM"
+    },
+    {
+      "matchday": "Matchday 9",
+      "sub_league": "League - PM",
+      "date": "14/02/2026",
+      "time": "12:30",
+      "venue": "Colaiste De hIde",
+      "home_team": "Gardians Fianna",
+      "away_team": "Aer Lingus PM"
+    },
+    {
+      "matchday": "Matchday 9",
+      "sub_league": "League - PM",
+      "date": "14/02/2026",
+      "time": "17:00",
+      "venue": "Colaiste Bride (Clondalkin)",
+      "home_team": "DVC Bravo",
+      "away_team": "Balbriggan Eagles"
+    },
+    {
+      "matchday": "Matchday 9",
+      "sub_league": "League - PM",
+      "date": "15/02/2026",
+      "time": "17:30",
+      "venue": "Castle Park School",
+      "home_team": "Dalkey Devils PM",
+      "away_team": "UCD PM"
+    },
+    {
+      "matchday": "Matchday 10",
+      "sub_league": "League - PM",
+      "date": "28/02/2026",
+      "time": "14:00",
+      "venue": "Phoenix Sports Centre (Maynooth Univ)",
+      "home_team": "Ireland Men's U20",
+      "away_team": "UCD PM"
+    },
+    {
+      "matchday": "Matchday 10",
+      "sub_league": "League - PM",
+      "date": "01/03/2026",
+      "time": "14:00",
+      "venue": "Phoenix Sports Centre (Maynooth Univ)",
+      "home_team": "Ireland Men's U20",
+      "away_team": "Tallaght Rockets PM"
+    },
+    {
+      "matchday": "Matchday 10",
+      "sub_league": "League - PM",
+      "date": "07/03/2026",
+      "time": "13:30",
+      "venue": "UCD Sports Centre",
+      "home_team": "UCD PM",
+      "away_team": "Tallaght Rockets PM"
+    },
+    {
+      "matchday": "Matchday 10",
+      "sub_league": "League - PM",
+      "date": "08/03/2026",
+      "time": "12:30",
+      "venue": "Colaiste Bride (Clondalkin)",
+      "home_team": "DVC Bravo",
+      "away_team": "Gardians Fianna"
+    },
+    {
+      "matchday": "Matchday 10",
+      "sub_league": "League - PM",
+      "date": "08/03/2026",
+      "time": "15:30",
+      "venue": "Castlelands Community Centre",
+      "home_team": "Balbriggan Eagles",
+      "away_team": "TCD PM"
+    },
+    {
+      "matchday": "Matchday 11",
+      "sub_league": "League - PM",
+      "date": "08/03/2026",
+      "time": "17:30",
+      "venue": "ALSAA",
+      "home_team": "Aer Lingus PM",
+      "away_team": "Dalkey Devils PM"
+    },
+    {
+      "matchday": "Matchday 11",
+      "sub_league": "League - PM",
+      "date": "21/03/2026",
+      "time": "12:30",
+      "venue": "Colaiste De hIde",
+      "home_team": "Gardians Fianna",
+      "away_team": "UCD PM"
+    },
+    {
+      "matchday": "Matchday 11",
+      "sub_league": "League - PM",
+      "date": "22/03/2026",
+      "time": "11:00",
+      "venue": "Firhouse Community College",
+      "home_team": "Tallaght Rockets PM",
+      "away_team": "Balbriggan Eagles"
+    },
+    {
+      "matchday": "Matchday 11",
+      "sub_league": "League - PM",
+      "date": "22/03/2026",
+      "time": "14:00",
+      "venue": "Trinity College Sports Centre",
+      "home_team": "TCD PM",
+      "away_team": "Aer Lingus PM"
+    },
+    {
+      "matchday": "Matchday 11",
+      "sub_league": "League - PM",
+      "date": "22/03/2026",
+      "time": "15:00",
+      "venue": "Castle Park School",
+      "home_team": "Dalkey Devils PM",
+      "away_team": "DVC Bravo"
+    },
+    {
+      "matchday": "Matchday 12",
+      "sub_league": "League - PM",
+      "date": "11/04/2026",
+      "time": "11:00",
+      "venue": "Castlelands Community Centre",
+      "home_team": "Balbriggan Eagles",
+      "away_team": "UCD PM"
+    },
+    {
+      "matchday": "Matchday 12",
+      "sub_league": "League - PM",
+      "date": "12/04/2026",
+      "time": "14:00",
+      "venue": "Trinity College Sports Centre",
+      "home_team": "TCD PM",
+      "away_team": "Gardians Fianna"
+    },
+    {
+      "matchday": "Matchday 12",
+      "sub_league": "League - PM",
+      "date": "12/04/2026",
+      "time": "15:00",
+      "venue": "Castle Park School",
+      "home_team": "Dalkey Devils PM",
+      "away_team": "Tallaght Rockets PM"
+    },
+    {
+      "matchday": "Matchday 12",
+      "sub_league": "League - PM",
+      "date": "12/04/2026",
+      "time": "16:00",
+      "venue": "ALSAA",
+      "home_team": "Aer Lingus PM",
+      "away_team": "DVC Bravo"
+    },
+    {
+      "matchday": "Matchday 12",
+      "sub_league": "League - PM",
+      "date": "19/04/2026",
+      "time": "13:30",
+      "venue": "Colaiste Bride (Clondalkin)",
+      "home_team": "DVC Bravo",
+      "away_team": "TCD PM"
+    },
+    {
+      "matchday": "Matchday 13",
+      "sub_league": "League - PM",
+      "date": "19/04/2026",
+      "time": "15:30",
+      "venue": "Castlelands Community Centre",
+      "home_team": "Balbriggan Eagles",
+      "away_team": "Dalkey Devils PM"
+    },
+    {
+      "matchday": "Matchday 13",
+      "sub_league": "League - PM",
+      "date": "19/04/2026",
+      "time": "16:00",
+      "venue": "Firhouse Community College",
+      "home_team": "Tallaght Rockets PM",
+      "away_team": "Gardians Fianna"
+    },
+    {
+      "matchday": "Matchday 13",
+      "sub_league": "League - PM",
+      "date": "19/04/2026",
+      "time": "16:00",
+      "venue": "UCD Sports Centre",
+      "home_team": "UCD PM",
+      "away_team": "Aer Lingus PM"
+    }
+  ],
+  "sub_leagues": {
+    "League - PM": [
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - PM",
+        "date": "01/02/2026",
+        "time": "11:00",
+        "venue": "Firhouse Community College",
+        "home_team": "Tallaght Rockets PM",
+        "away_team": "DVC Bravo"
+      },
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - PM",
+        "date": "01/02/2026",
+        "time": "15:30",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Eagles",
+        "away_team": "Aer Lingus PM"
+      },
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - PM",
+        "date": "01/02/2026",
+        "time": "17:30",
+        "venue": "Castle Park School",
+        "home_team": "Dalkey Devils PM",
+        "away_team": "Gardians Fianna"
+      },
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - PM",
+        "date": "01/03/2026",
+        "time": "14:00",
+        "venue": "Phoenix Sports Centre (Maynooth Univ)",
+        "home_team": "Ireland Men's U20",
+        "away_team": "Tallaght Rockets PM"
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - PM",
+        "date": "06/12/2025",
+        "time": "14:00",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U20",
+        "away_team": "DVC Bravo"
+      },
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - PM",
+        "date": "07/03/2026",
+        "time": "13:30",
+        "venue": "UCD Sports Centre",
+        "home_team": "UCD PM",
+        "away_team": "Tallaght Rockets PM"
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - PM",
+        "date": "07/12/2025",
+        "time": "14:00",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U20",
+        "away_team": "Aer Lingus PM"
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - PM",
+        "date": "08/02/2026",
+        "time": "13:30",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC Bravo",
+        "away_team": "UCD PM"
+      },
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - PM",
+        "date": "08/02/2026",
+        "time": "14:00",
+        "venue": "Trinity College Sports Centre",
+        "home_team": "TCD PM",
+        "away_team": "Dalkey Devils PM"
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - PM",
+        "date": "08/02/2026",
+        "time": "15:30",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Eagles",
+        "away_team": "Gardians Fianna"
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - PM",
+        "date": "08/02/2026",
+        "time": "16:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus PM",
+        "away_team": "Tallaght Rockets PM"
+      },
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - PM",
+        "date": "08/03/2026",
+        "time": "12:30",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC Bravo",
+        "away_team": "Gardians Fianna"
+      },
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - PM",
+        "date": "08/03/2026",
+        "time": "15:30",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Eagles",
+        "away_team": "TCD PM"
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - PM",
+        "date": "08/03/2026",
+        "time": "17:30",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus PM",
+        "away_team": "Dalkey Devils PM"
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - PM",
+        "date": "08/11/2025",
+        "time": "14:00",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U20",
+        "away_team": "Balbriggan Eagles"
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - PM",
+        "date": "09/11/2025",
+        "time": "14:00",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U20",
+        "away_team": "Gardians Fianna"
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - PM",
+        "date": "10/01/2026",
+        "time": "10:00",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Fianna",
+        "away_team": "Tallaght Rockets PM"
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - PM",
+        "date": "11/01/2026",
+        "time": "14:00",
+        "venue": "Trinity College Sports Centre",
+        "home_team": "TCD PM",
+        "away_team": "DVC Bravo"
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - PM",
+        "date": "11/01/2026",
+        "time": "17:30",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus PM",
+        "away_team": "UCD PM"
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - PM",
+        "date": "11/01/2026",
+        "time": "17:30",
+        "venue": "Castle Park School",
+        "home_team": "Dalkey Devils PM",
+        "away_team": "Balbriggan Eagles"
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - PM",
+        "date": "11/04/2026",
+        "time": "11:00",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Eagles",
+        "away_team": "UCD PM"
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - PM",
+        "date": "11/10/2025",
+        "time": "10:00",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Fianna",
+        "away_team": "Dalkey Devils PM"
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - PM",
+        "date": "12/04/2026",
+        "time": "14:00",
+        "venue": "Trinity College Sports Centre",
+        "home_team": "TCD PM",
+        "away_team": "Gardians Fianna"
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - PM",
+        "date": "12/04/2026",
+        "time": "15:00",
+        "venue": "Castle Park School",
+        "home_team": "Dalkey Devils PM",
+        "away_team": "Tallaght Rockets PM"
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - PM",
+        "date": "12/04/2026",
+        "time": "16:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus PM",
+        "away_team": "DVC Bravo"
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - PM",
+        "date": "12/10/2025",
+        "time": "14:00",
+        "venue": "Trinity College Sports Centre",
+        "home_team": "TCD PM",
+        "away_team": "UCD PM"
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - PM",
+        "date": "12/10/2025",
+        "time": "16:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus PM",
+        "away_team": "Balbriggan Eagles"
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - PM",
+        "date": "12/10/2025",
+        "time": "17:30",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC Bravo",
+        "away_team": "Tallaght Rockets PM"
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - PM",
+        "date": "13/12/2025",
+        "time": "12:30",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Fianna",
+        "away_team": "TCD PM"
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - PM",
+        "date": "14/02/2026",
+        "time": "12:30",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Fianna",
+        "away_team": "Aer Lingus PM"
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - PM",
+        "date": "14/02/2026",
+        "time": "17:00",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC Bravo",
+        "away_team": "Balbriggan Eagles"
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - PM",
+        "date": "14/12/2025",
+        "time": "11:00",
+        "venue": "Firhouse Community College",
+        "home_team": "Tallaght Rockets PM",
+        "away_team": "Dalkey Devils PM"
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - PM",
+        "date": "14/12/2025",
+        "time": "11:00",
+        "venue": "UCD Sports Centre",
+        "home_team": "UCD PM",
+        "away_team": "Balbriggan Eagles"
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - PM",
+        "date": "14/12/2025",
+        "time": "16:00",
+        "venue": "ALSAA",
+        "home_team": "DVC Bravo",
+        "away_team": "Aer Lingus PM"
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - PM",
+        "date": "15/02/2026",
+        "time": "17:30",
+        "venue": "Castle Park School",
+        "home_team": "Dalkey Devils PM",
+        "away_team": "UCD PM"
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - PM",
+        "date": "15/11/2025",
+        "time": "15:00",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Fianna",
+        "away_team": "DVC Bravo"
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - PM",
+        "date": "16/11/2025",
+        "time": "11:00",
+        "venue": "Firhouse Community College",
+        "home_team": "Tallaght Rockets PM",
+        "away_team": "UCD PM"
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - PM",
+        "date": "16/11/2025",
+        "time": "17:30",
+        "venue": "Castle Park School",
+        "home_team": "Dalkey Devils PM",
+        "away_team": "Aer Lingus PM"
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - PM",
+        "date": "16/11/2025",
+        "time": "18:00",
+        "venue": "St Mary's College (Naas)",
+        "home_team": "TCD PM",
+        "away_team": "Balbriggan Eagles"
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - PM",
+        "date": "18/10/2025",
+        "time": "10:00",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Fianna",
+        "away_team": "Balbriggan Eagles"
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - PM",
+        "date": "19/04/2026",
+        "time": "13:30",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC Bravo",
+        "away_team": "TCD PM"
+      },
+      {
+        "matchday": "Matchday 13",
+        "sub_league": "League - PM",
+        "date": "19/04/2026",
+        "time": "15:30",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Eagles",
+        "away_team": "Dalkey Devils PM"
+      },
+      {
+        "matchday": "Matchday 13",
+        "sub_league": "League - PM",
+        "date": "19/04/2026",
+        "time": "16:00",
+        "venue": "Firhouse Community College",
+        "home_team": "Tallaght Rockets PM",
+        "away_team": "Gardians Fianna"
+      },
+      {
+        "matchday": "Matchday 13",
+        "sub_league": "League - PM",
+        "date": "19/04/2026",
+        "time": "16:00",
+        "venue": "UCD Sports Centre",
+        "home_team": "UCD PM",
+        "away_team": "Aer Lingus PM"
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - PM",
+        "date": "19/10/2025",
+        "time": "16:00",
+        "venue": "Firhouse Community College",
+        "home_team": "Tallaght Rockets PM",
+        "away_team": "Aer Lingus PM"
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - PM",
+        "date": "19/10/2025",
+        "time": "17:30",
+        "venue": "Castle Park School",
+        "home_team": "Dalkey Devils PM",
+        "away_team": "TCD PM"
+      },
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - PM",
+        "date": "19/10/2025",
+        "time": "11:00",
+        "venue": "UCD Sports Centre",
+        "home_team": "UCD PM",
+        "away_team": "DVC Bravo"
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - PM",
+        "date": "21/03/2026",
+        "time": "12:30",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Fianna",
+        "away_team": "UCD PM"
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - PM",
+        "date": "22/03/2026",
+        "time": "11:00",
+        "venue": "Firhouse Community College",
+        "home_team": "Tallaght Rockets PM",
+        "away_team": "Balbriggan Eagles"
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - PM",
+        "date": "22/03/2026",
+        "time": "14:00",
+        "venue": "Trinity College Sports Centre",
+        "home_team": "TCD PM",
+        "away_team": "Aer Lingus PM"
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - PM",
+        "date": "22/03/2026",
+        "time": "15:00",
+        "venue": "Castle Park School",
+        "home_team": "Dalkey Devils PM",
+        "away_team": "DVC Bravo"
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - PM",
+        "date": "24/01/2026",
+        "time": "14:00",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U20",
+        "away_team": "Dalkey Devils PM"
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - PM",
+        "date": "25/01/2026",
+        "time": "14:00",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U20",
+        "away_team": "TCD PM"
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - PM",
+        "date": "25/10/2025",
+        "time": "18:00",
+        "venue": "St Mary's College (Naas)",
+        "home_team": "TCD PM",
+        "away_team": "Tallaght Rockets PM"
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - PM",
+        "date": "26/10/2025",
+        "time": "11:00",
+        "venue": "UCD Sports Centre",
+        "home_team": "UCD PM",
+        "away_team": "Dalkey Devils PM"
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - PM",
+        "date": "26/10/2025",
+        "time": "15:30",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Eagles",
+        "away_team": "DVC Bravo"
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - PM",
+        "date": "26/10/2025",
+        "time": "17:30",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus PM",
+        "away_team": "Gardians Fianna"
+      },
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - PM",
+        "date": "28/02/2026",
+        "time": "14:00",
+        "venue": "Phoenix Sports Centre (Maynooth Univ)",
+        "home_team": "Ireland Men's U20",
+        "away_team": "UCD PM"
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - PM",
+        "date": "29/11/2025",
+        "time": "13:30",
+        "venue": "UCD Sports Centre",
+        "home_team": "UCD PM",
+        "away_team": "Gardians Fianna"
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - PM",
+        "date": "30/11/2025",
+        "time": "11:00",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC Bravo",
+        "away_team": "Dalkey Devils PM"
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - PM",
+        "date": "30/11/2025",
+        "time": "15:30",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Eagles",
+        "away_team": "Tallaght Rockets PM"
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - PM",
+        "date": "30/11/2025",
+        "time": "16:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus PM",
+        "away_team": "TCD PM"
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - PM",
+        "date": "31/01/2026",
+        "time": "11:00",
+        "venue": "UCD Sports Centre",
+        "home_team": "UCD PM",
+        "away_team": "TCD PM"
+      }
+    ]
+  },
+  "teams": {
+    "Gardians Fianna": [
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - PM",
+        "date": "01/02/2026",
+        "time": "17:30",
+        "venue": "Castle Park School",
+        "home_team": "Dalkey Devils PM",
+        "away_team": "Gardians Fianna",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - PM",
+        "date": "08/02/2026",
+        "time": "15:30",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Eagles",
+        "away_team": "Gardians Fianna",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - PM",
+        "date": "08/03/2026",
+        "time": "12:30",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC Bravo",
+        "away_team": "Gardians Fianna",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - PM",
+        "date": "09/11/2025",
+        "time": "14:00",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U20",
+        "away_team": "Gardians Fianna",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - PM",
+        "date": "10/01/2026",
+        "time": "10:00",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Fianna",
+        "away_team": "Tallaght Rockets PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - PM",
+        "date": "11/10/2025",
+        "time": "10:00",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Fianna",
+        "away_team": "Dalkey Devils PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - PM",
+        "date": "12/04/2026",
+        "time": "14:00",
+        "venue": "Trinity College Sports Centre",
+        "home_team": "TCD PM",
+        "away_team": "Gardians Fianna",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - PM",
+        "date": "13/12/2025",
+        "time": "12:30",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Fianna",
+        "away_team": "TCD PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - PM",
+        "date": "14/02/2026",
+        "time": "12:30",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Fianna",
+        "away_team": "Aer Lingus PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - PM",
+        "date": "15/11/2025",
+        "time": "15:00",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Fianna",
+        "away_team": "DVC Bravo",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - PM",
+        "date": "18/10/2025",
+        "time": "10:00",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Fianna",
+        "away_team": "Balbriggan Eagles",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 13",
+        "sub_league": "League - PM",
+        "date": "19/04/2026",
+        "time": "16:00",
+        "venue": "Firhouse Community College",
+        "home_team": "Tallaght Rockets PM",
+        "away_team": "Gardians Fianna",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - PM",
+        "date": "21/03/2026",
+        "time": "12:30",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Fianna",
+        "away_team": "UCD PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - PM",
+        "date": "26/10/2025",
+        "time": "17:30",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus PM",
+        "away_team": "Gardians Fianna",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - PM",
+        "date": "29/11/2025",
+        "time": "13:30",
+        "venue": "UCD Sports Centre",
+        "home_team": "UCD PM",
+        "away_team": "Gardians Fianna",
+        "is_home": false
+      }
+    ],
+    "Dalkey Devils PM": [
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - PM",
+        "date": "01/02/2026",
+        "time": "17:30",
+        "venue": "Castle Park School",
+        "home_team": "Dalkey Devils PM",
+        "away_team": "Gardians Fianna",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - PM",
+        "date": "08/02/2026",
+        "time": "14:00",
+        "venue": "Trinity College Sports Centre",
+        "home_team": "TCD PM",
+        "away_team": "Dalkey Devils PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - PM",
+        "date": "08/03/2026",
+        "time": "17:30",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus PM",
+        "away_team": "Dalkey Devils PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - PM",
+        "date": "11/01/2026",
+        "time": "17:30",
+        "venue": "Castle Park School",
+        "home_team": "Dalkey Devils PM",
+        "away_team": "Balbriggan Eagles",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - PM",
+        "date": "11/10/2025",
+        "time": "10:00",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Fianna",
+        "away_team": "Dalkey Devils PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - PM",
+        "date": "12/04/2026",
+        "time": "15:00",
+        "venue": "Castle Park School",
+        "home_team": "Dalkey Devils PM",
+        "away_team": "Tallaght Rockets PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - PM",
+        "date": "14/12/2025",
+        "time": "11:00",
+        "venue": "Firhouse Community College",
+        "home_team": "Tallaght Rockets PM",
+        "away_team": "Dalkey Devils PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - PM",
+        "date": "15/02/2026",
+        "time": "17:30",
+        "venue": "Castle Park School",
+        "home_team": "Dalkey Devils PM",
+        "away_team": "UCD PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - PM",
+        "date": "16/11/2025",
+        "time": "17:30",
+        "venue": "Castle Park School",
+        "home_team": "Dalkey Devils PM",
+        "away_team": "Aer Lingus PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 13",
+        "sub_league": "League - PM",
+        "date": "19/04/2026",
+        "time": "15:30",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Eagles",
+        "away_team": "Dalkey Devils PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - PM",
+        "date": "19/10/2025",
+        "time": "17:30",
+        "venue": "Castle Park School",
+        "home_team": "Dalkey Devils PM",
+        "away_team": "TCD PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - PM",
+        "date": "22/03/2026",
+        "time": "15:00",
+        "venue": "Castle Park School",
+        "home_team": "Dalkey Devils PM",
+        "away_team": "DVC Bravo",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - PM",
+        "date": "24/01/2026",
+        "time": "14:00",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U20",
+        "away_team": "Dalkey Devils PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - PM",
+        "date": "26/10/2025",
+        "time": "11:00",
+        "venue": "UCD Sports Centre",
+        "home_team": "UCD PM",
+        "away_team": "Dalkey Devils PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - PM",
+        "date": "30/11/2025",
+        "time": "11:00",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC Bravo",
+        "away_team": "Dalkey Devils PM",
+        "is_home": false
+      }
+    ],
+    "TCD PM": [
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - PM",
+        "date": "08/02/2026",
+        "time": "14:00",
+        "venue": "Trinity College Sports Centre",
+        "home_team": "TCD PM",
+        "away_team": "Dalkey Devils PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - PM",
+        "date": "08/03/2026",
+        "time": "15:30",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Eagles",
+        "away_team": "TCD PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - PM",
+        "date": "11/01/2026",
+        "time": "14:00",
+        "venue": "Trinity College Sports Centre",
+        "home_team": "TCD PM",
+        "away_team": "DVC Bravo",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - PM",
+        "date": "12/04/2026",
+        "time": "14:00",
+        "venue": "Trinity College Sports Centre",
+        "home_team": "TCD PM",
+        "away_team": "Gardians Fianna",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - PM",
+        "date": "12/10/2025",
+        "time": "14:00",
+        "venue": "Trinity College Sports Centre",
+        "home_team": "TCD PM",
+        "away_team": "UCD PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - PM",
+        "date": "13/12/2025",
+        "time": "12:30",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Fianna",
+        "away_team": "TCD PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - PM",
+        "date": "16/11/2025",
+        "time": "18:00",
+        "venue": "St Mary's College (Naas)",
+        "home_team": "TCD PM",
+        "away_team": "Balbriggan Eagles",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - PM",
+        "date": "19/04/2026",
+        "time": "13:30",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC Bravo",
+        "away_team": "TCD PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - PM",
+        "date": "19/10/2025",
+        "time": "17:30",
+        "venue": "Castle Park School",
+        "home_team": "Dalkey Devils PM",
+        "away_team": "TCD PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - PM",
+        "date": "22/03/2026",
+        "time": "14:00",
+        "venue": "Trinity College Sports Centre",
+        "home_team": "TCD PM",
+        "away_team": "Aer Lingus PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - PM",
+        "date": "25/01/2026",
+        "time": "14:00",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U20",
+        "away_team": "TCD PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - PM",
+        "date": "25/10/2025",
+        "time": "18:00",
+        "venue": "St Mary's College (Naas)",
+        "home_team": "TCD PM",
+        "away_team": "Tallaght Rockets PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - PM",
+        "date": "30/11/2025",
+        "time": "16:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus PM",
+        "away_team": "TCD PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - PM",
+        "date": "31/01/2026",
+        "time": "11:00",
+        "venue": "UCD Sports Centre",
+        "home_team": "UCD PM",
+        "away_team": "TCD PM",
+        "is_home": false
+      }
+    ],
+    "UCD PM": [
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - PM",
+        "date": "07/03/2026",
+        "time": "13:30",
+        "venue": "UCD Sports Centre",
+        "home_team": "UCD PM",
+        "away_team": "Tallaght Rockets PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - PM",
+        "date": "08/02/2026",
+        "time": "13:30",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC Bravo",
+        "away_team": "UCD PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - PM",
+        "date": "11/01/2026",
+        "time": "17:30",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus PM",
+        "away_team": "UCD PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - PM",
+        "date": "11/04/2026",
+        "time": "11:00",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Eagles",
+        "away_team": "UCD PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - PM",
+        "date": "12/10/2025",
+        "time": "14:00",
+        "venue": "Trinity College Sports Centre",
+        "home_team": "TCD PM",
+        "away_team": "UCD PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - PM",
+        "date": "14/12/2025",
+        "time": "11:00",
+        "venue": "UCD Sports Centre",
+        "home_team": "UCD PM",
+        "away_team": "Balbriggan Eagles",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - PM",
+        "date": "15/02/2026",
+        "time": "17:30",
+        "venue": "Castle Park School",
+        "home_team": "Dalkey Devils PM",
+        "away_team": "UCD PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - PM",
+        "date": "16/11/2025",
+        "time": "11:00",
+        "venue": "Firhouse Community College",
+        "home_team": "Tallaght Rockets PM",
+        "away_team": "UCD PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 13",
+        "sub_league": "League - PM",
+        "date": "19/04/2026",
+        "time": "16:00",
+        "venue": "UCD Sports Centre",
+        "home_team": "UCD PM",
+        "away_team": "Aer Lingus PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - PM",
+        "date": "19/10/2025",
+        "time": "11:00",
+        "venue": "UCD Sports Centre",
+        "home_team": "UCD PM",
+        "away_team": "DVC Bravo",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - PM",
+        "date": "21/03/2026",
+        "time": "12:30",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Fianna",
+        "away_team": "UCD PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - PM",
+        "date": "26/10/2025",
+        "time": "11:00",
+        "venue": "UCD Sports Centre",
+        "home_team": "UCD PM",
+        "away_team": "Dalkey Devils PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - PM",
+        "date": "28/02/2026",
+        "time": "14:00",
+        "venue": "Phoenix Sports Centre (Maynooth Univ)",
+        "home_team": "Ireland Men's U20",
+        "away_team": "UCD PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - PM",
+        "date": "29/11/2025",
+        "time": "13:30",
+        "venue": "UCD Sports Centre",
+        "home_team": "UCD PM",
+        "away_team": "Gardians Fianna",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - PM",
+        "date": "31/01/2026",
+        "time": "11:00",
+        "venue": "UCD Sports Centre",
+        "home_team": "UCD PM",
+        "away_team": "TCD PM",
+        "is_home": true
+      }
+    ],
+    "Aer Lingus PM": [
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - PM",
+        "date": "01/02/2026",
+        "time": "15:30",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Eagles",
+        "away_team": "Aer Lingus PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - PM",
+        "date": "07/12/2025",
+        "time": "14:00",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U20",
+        "away_team": "Aer Lingus PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - PM",
+        "date": "08/02/2026",
+        "time": "16:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus PM",
+        "away_team": "Tallaght Rockets PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - PM",
+        "date": "08/03/2026",
+        "time": "17:30",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus PM",
+        "away_team": "Dalkey Devils PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - PM",
+        "date": "11/01/2026",
+        "time": "17:30",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus PM",
+        "away_team": "UCD PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - PM",
+        "date": "12/04/2026",
+        "time": "16:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus PM",
+        "away_team": "DVC Bravo",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - PM",
+        "date": "12/10/2025",
+        "time": "16:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus PM",
+        "away_team": "Balbriggan Eagles",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - PM",
+        "date": "14/02/2026",
+        "time": "12:30",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Fianna",
+        "away_team": "Aer Lingus PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - PM",
+        "date": "14/12/2025",
+        "time": "16:00",
+        "venue": "ALSAA",
+        "home_team": "DVC Bravo",
+        "away_team": "Aer Lingus PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - PM",
+        "date": "16/11/2025",
+        "time": "17:30",
+        "venue": "Castle Park School",
+        "home_team": "Dalkey Devils PM",
+        "away_team": "Aer Lingus PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 13",
+        "sub_league": "League - PM",
+        "date": "19/04/2026",
+        "time": "16:00",
+        "venue": "UCD Sports Centre",
+        "home_team": "UCD PM",
+        "away_team": "Aer Lingus PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - PM",
+        "date": "19/10/2025",
+        "time": "16:00",
+        "venue": "Firhouse Community College",
+        "home_team": "Tallaght Rockets PM",
+        "away_team": "Aer Lingus PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - PM",
+        "date": "22/03/2026",
+        "time": "14:00",
+        "venue": "Trinity College Sports Centre",
+        "home_team": "TCD PM",
+        "away_team": "Aer Lingus PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - PM",
+        "date": "26/10/2025",
+        "time": "17:30",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus PM",
+        "away_team": "Gardians Fianna",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - PM",
+        "date": "30/11/2025",
+        "time": "16:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus PM",
+        "away_team": "TCD PM",
+        "is_home": true
+      }
+    ],
+    "Balbriggan Eagles": [
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - PM",
+        "date": "01/02/2026",
+        "time": "15:30",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Eagles",
+        "away_team": "Aer Lingus PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - PM",
+        "date": "08/02/2026",
+        "time": "15:30",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Eagles",
+        "away_team": "Gardians Fianna",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - PM",
+        "date": "08/03/2026",
+        "time": "15:30",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Eagles",
+        "away_team": "TCD PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - PM",
+        "date": "08/11/2025",
+        "time": "14:00",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U20",
+        "away_team": "Balbriggan Eagles",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - PM",
+        "date": "11/01/2026",
+        "time": "17:30",
+        "venue": "Castle Park School",
+        "home_team": "Dalkey Devils PM",
+        "away_team": "Balbriggan Eagles",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - PM",
+        "date": "11/04/2026",
+        "time": "11:00",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Eagles",
+        "away_team": "UCD PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - PM",
+        "date": "12/10/2025",
+        "time": "16:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus PM",
+        "away_team": "Balbriggan Eagles",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - PM",
+        "date": "14/02/2026",
+        "time": "17:00",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC Bravo",
+        "away_team": "Balbriggan Eagles",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - PM",
+        "date": "14/12/2025",
+        "time": "11:00",
+        "venue": "UCD Sports Centre",
+        "home_team": "UCD PM",
+        "away_team": "Balbriggan Eagles",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - PM",
+        "date": "16/11/2025",
+        "time": "18:00",
+        "venue": "St Mary's College (Naas)",
+        "home_team": "TCD PM",
+        "away_team": "Balbriggan Eagles",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - PM",
+        "date": "18/10/2025",
+        "time": "10:00",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Fianna",
+        "away_team": "Balbriggan Eagles",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 13",
+        "sub_league": "League - PM",
+        "date": "19/04/2026",
+        "time": "15:30",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Eagles",
+        "away_team": "Dalkey Devils PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - PM",
+        "date": "22/03/2026",
+        "time": "11:00",
+        "venue": "Firhouse Community College",
+        "home_team": "Tallaght Rockets PM",
+        "away_team": "Balbriggan Eagles",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - PM",
+        "date": "26/10/2025",
+        "time": "15:30",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Eagles",
+        "away_team": "DVC Bravo",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - PM",
+        "date": "30/11/2025",
+        "time": "15:30",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Eagles",
+        "away_team": "Tallaght Rockets PM",
+        "is_home": true
+      }
+    ],
+    "DVC Bravo": [
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - PM",
+        "date": "01/02/2026",
+        "time": "11:00",
+        "venue": "Firhouse Community College",
+        "home_team": "Tallaght Rockets PM",
+        "away_team": "DVC Bravo",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - PM",
+        "date": "06/12/2025",
+        "time": "14:00",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U20",
+        "away_team": "DVC Bravo",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - PM",
+        "date": "08/02/2026",
+        "time": "13:30",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC Bravo",
+        "away_team": "UCD PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - PM",
+        "date": "08/03/2026",
+        "time": "12:30",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC Bravo",
+        "away_team": "Gardians Fianna",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - PM",
+        "date": "11/01/2026",
+        "time": "14:00",
+        "venue": "Trinity College Sports Centre",
+        "home_team": "TCD PM",
+        "away_team": "DVC Bravo",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - PM",
+        "date": "12/04/2026",
+        "time": "16:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus PM",
+        "away_team": "DVC Bravo",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - PM",
+        "date": "12/10/2025",
+        "time": "17:30",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC Bravo",
+        "away_team": "Tallaght Rockets PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - PM",
+        "date": "14/02/2026",
+        "time": "17:00",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC Bravo",
+        "away_team": "Balbriggan Eagles",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - PM",
+        "date": "14/12/2025",
+        "time": "16:00",
+        "venue": "ALSAA",
+        "home_team": "DVC Bravo",
+        "away_team": "Aer Lingus PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - PM",
+        "date": "15/11/2025",
+        "time": "15:00",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Fianna",
+        "away_team": "DVC Bravo",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - PM",
+        "date": "19/04/2026",
+        "time": "13:30",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC Bravo",
+        "away_team": "TCD PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - PM",
+        "date": "19/10/2025",
+        "time": "11:00",
+        "venue": "UCD Sports Centre",
+        "home_team": "UCD PM",
+        "away_team": "DVC Bravo",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - PM",
+        "date": "22/03/2026",
+        "time": "15:00",
+        "venue": "Castle Park School",
+        "home_team": "Dalkey Devils PM",
+        "away_team": "DVC Bravo",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - PM",
+        "date": "26/10/2025",
+        "time": "15:30",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Eagles",
+        "away_team": "DVC Bravo",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - PM",
+        "date": "30/11/2025",
+        "time": "11:00",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC Bravo",
+        "away_team": "Dalkey Devils PM",
+        "is_home": true
+      }
+    ],
+    "Tallaght Rockets PM": [
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - PM",
+        "date": "01/02/2026",
+        "time": "11:00",
+        "venue": "Firhouse Community College",
+        "home_team": "Tallaght Rockets PM",
+        "away_team": "DVC Bravo",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - PM",
+        "date": "01/03/2026",
+        "time": "14:00",
+        "venue": "Phoenix Sports Centre (Maynooth Univ)",
+        "home_team": "Ireland Men's U20",
+        "away_team": "Tallaght Rockets PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - PM",
+        "date": "07/03/2026",
+        "time": "13:30",
+        "venue": "UCD Sports Centre",
+        "home_team": "UCD PM",
+        "away_team": "Tallaght Rockets PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - PM",
+        "date": "08/02/2026",
+        "time": "16:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus PM",
+        "away_team": "Tallaght Rockets PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - PM",
+        "date": "10/01/2026",
+        "time": "10:00",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Fianna",
+        "away_team": "Tallaght Rockets PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - PM",
+        "date": "12/04/2026",
+        "time": "15:00",
+        "venue": "Castle Park School",
+        "home_team": "Dalkey Devils PM",
+        "away_team": "Tallaght Rockets PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - PM",
+        "date": "12/10/2025",
+        "time": "17:30",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC Bravo",
+        "away_team": "Tallaght Rockets PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - PM",
+        "date": "14/12/2025",
+        "time": "11:00",
+        "venue": "Firhouse Community College",
+        "home_team": "Tallaght Rockets PM",
+        "away_team": "Dalkey Devils PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - PM",
+        "date": "16/11/2025",
+        "time": "11:00",
+        "venue": "Firhouse Community College",
+        "home_team": "Tallaght Rockets PM",
+        "away_team": "UCD PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 13",
+        "sub_league": "League - PM",
+        "date": "19/04/2026",
+        "time": "16:00",
+        "venue": "Firhouse Community College",
+        "home_team": "Tallaght Rockets PM",
+        "away_team": "Gardians Fianna",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - PM",
+        "date": "19/10/2025",
+        "time": "16:00",
+        "venue": "Firhouse Community College",
+        "home_team": "Tallaght Rockets PM",
+        "away_team": "Aer Lingus PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - PM",
+        "date": "22/03/2026",
+        "time": "11:00",
+        "venue": "Firhouse Community College",
+        "home_team": "Tallaght Rockets PM",
+        "away_team": "Balbriggan Eagles",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - PM",
+        "date": "25/10/2025",
+        "time": "18:00",
+        "venue": "St Mary's College (Naas)",
+        "home_team": "TCD PM",
+        "away_team": "Tallaght Rockets PM",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - PM",
+        "date": "30/11/2025",
+        "time": "15:30",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Eagles",
+        "away_team": "Tallaght Rockets PM",
+        "is_home": false
+      }
+    ],
+    "Ireland Men's U20": [
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - PM",
+        "date": "01/03/2026",
+        "time": "14:00",
+        "venue": "Phoenix Sports Centre (Maynooth Univ)",
+        "home_team": "Ireland Men's U20",
+        "away_team": "Tallaght Rockets PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - PM",
+        "date": "06/12/2025",
+        "time": "14:00",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U20",
+        "away_team": "DVC Bravo",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - PM",
+        "date": "07/12/2025",
+        "time": "14:00",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U20",
+        "away_team": "Aer Lingus PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - PM",
+        "date": "08/11/2025",
+        "time": "14:00",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U20",
+        "away_team": "Balbriggan Eagles",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - PM",
+        "date": "09/11/2025",
+        "time": "14:00",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U20",
+        "away_team": "Gardians Fianna",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - PM",
+        "date": "24/01/2026",
+        "time": "14:00",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U20",
+        "away_team": "Dalkey Devils PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - PM",
+        "date": "25/01/2026",
+        "time": "14:00",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U20",
+        "away_team": "TCD PM",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - PM",
+        "date": "28/02/2026",
+        "time": "14:00",
+        "venue": "Phoenix Sports Centre (Maynooth Univ)",
+        "home_team": "Ireland Men's U20",
+        "away_team": "UCD PM",
+        "is_home": true
+      }
+    ]
+  },
+  "metadata": {
+    "total_fixtures": 63,
+    "source": "VIR Competition Matches",
+    "sub_league_count": 1,
+    "competition_name": "Men's Premier Division",
+    "teams": [
+      "Aer Lingus PM",
+      "Balbriggan Eagles",
+      "DVC Bravo",
+      "Dalkey Devils PM",
+      "Gardians Fianna",
+      "Ireland Men's U20",
+      "TCD PM",
+      "Tallaght Rockets PM",
+      "UCD PM"
+    ],
+    "sub_leagues": [
+      "League - PM"
+    ]
+  },
+  "capturedAt": "2025-10-03T20:52:32.932Z",
+  "weekOf": "2025-10-03",
+  "dataVersion": "1.0",
+  "source": "VIR Competition Matches"
+}
