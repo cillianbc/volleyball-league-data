@@ -1,0 +1,374 @@
+{
+  "all_fixtures": [
+    {
+      "matchday": "Matchday 1",
+      "sub_league": "League - D3M Group A",
+      "date": "02/11/2025",
+      "time": "14:30",
+      "venue": "Castleblayney College",
+      "home_team": "Carrick Crows D3M",
+      "away_team": "Mayo D3M"
+    },
+    {
+      "matchday": "Matchday 1",
+      "sub_league": "League - D3M Group A",
+      "date": "17/02/2026",
+      "time": "14:30",
+      "venue": "Castleblayney College",
+      "home_team": "Carrick Crows D3M",
+      "away_team": "Ballinasloe Eagles D3M"
+    },
+    {
+      "matchday": "Matchday 1",
+      "sub_league": "League - D3M Group B",
+      "date": "07/12/2025",
+      "time": "15:30",
+      "venue": "Collinstown Sports Complex",
+      "home_team": "IVI Dragons D3M",
+      "away_team": "Celestials D3M"
+    },
+    {
+      "matchday": "Matchday 1",
+      "sub_league": "League - D3M Group B",
+      "date": "12/10/2025",
+      "time": "15:00",
+      "venue": "Riverstick Community Centre",
+      "home_team": "Cork Lions D3M",
+      "away_team": "Octopus D3M"
+    },
+    {
+      "matchday": "Matchday 1",
+      "sub_league": "League - D3M Group C",
+      "date": "15/11/2025",
+      "time": "12:00",
+      "venue": "Riverstick Community Centre",
+      "home_team": "Cork Lions D3M",
+      "away_team": "Phoenix Killarney D3M"
+    },
+    {
+      "matchday": "Matchday 2",
+      "sub_league": "League - D3M Group C",
+      "date": "21/12/2025",
+      "time": "14:00",
+      "venue": "Riverstick Community Centre",
+      "home_team": "Cork Lions D3M",
+      "away_team": "Sharks W Cork D3M"
+    },
+    {
+      "matchday": "Matchday 2",
+      "sub_league": "League - D3M Group D",
+      "date": "18/10/2025",
+      "time": "17:00",
+      "venue": "St Mary's College (Naas)",
+      "home_team": "Naas Cobras D3M",
+      "away_team": "Midlands D3M"
+    },
+    {
+      "matchday": "Matchday 2",
+      "sub_league": "League - D3M Group D",
+      "date": "14/12/2025",
+      "time": "18:00",
+      "venue": "St Mary's College (Naas)",
+      "home_team": "Naas Cobras D3M",
+      "away_team": "Jackals D3M"
+    }
+  ],
+  "sub_leagues": {
+    "League - D3M Group A": [
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3M Group A",
+        "date": "02/11/2025",
+        "time": "14:30",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D3M",
+        "away_team": "Mayo D3M"
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3M Group A",
+        "date": "17/02/2026",
+        "time": "14:30",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D3M",
+        "away_team": "Ballinasloe Eagles D3M"
+      }
+    ],
+    "League - D3M Group B": [
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3M Group B",
+        "date": "07/12/2025",
+        "time": "15:30",
+        "venue": "Collinstown Sports Complex",
+        "home_team": "IVI Dragons D3M",
+        "away_team": "Celestials D3M"
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3M Group B",
+        "date": "12/10/2025",
+        "time": "15:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Cork Lions D3M",
+        "away_team": "Octopus D3M"
+      }
+    ],
+    "League - D3M Group C": [
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3M Group C",
+        "date": "15/11/2025",
+        "time": "12:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Cork Lions D3M",
+        "away_team": "Phoenix Killarney D3M"
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D3M Group C",
+        "date": "21/12/2025",
+        "time": "14:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Cork Lions D3M",
+        "away_team": "Sharks W Cork D3M"
+      }
+    ],
+    "League - D3M Group D": [
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D3M Group D",
+        "date": "14/12/2025",
+        "time": "18:00",
+        "venue": "St Mary's College (Naas)",
+        "home_team": "Naas Cobras D3M",
+        "away_team": "Jackals D3M"
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D3M Group D",
+        "date": "18/10/2025",
+        "time": "17:00",
+        "venue": "St Mary's College (Naas)",
+        "home_team": "Naas Cobras D3M",
+        "away_team": "Midlands D3M"
+      }
+    ]
+  },
+  "teams": {
+    "Carrick Crows D3M": [
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3M Group A",
+        "date": "02/11/2025",
+        "time": "14:30",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D3M",
+        "away_team": "Mayo D3M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3M Group A",
+        "date": "17/02/2026",
+        "time": "14:30",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D3M",
+        "away_team": "Ballinasloe Eagles D3M",
+        "is_home": true
+      }
+    ],
+    "Mayo D3M": [
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3M Group A",
+        "date": "02/11/2025",
+        "time": "14:30",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D3M",
+        "away_team": "Mayo D3M",
+        "is_home": false
+      }
+    ],
+    "Ballinasloe Eagles D3M": [
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3M Group A",
+        "date": "17/02/2026",
+        "time": "14:30",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D3M",
+        "away_team": "Ballinasloe Eagles D3M",
+        "is_home": false
+      }
+    ],
+    "IVI Dragons D3M": [
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3M Group B",
+        "date": "07/12/2025",
+        "time": "15:30",
+        "venue": "Collinstown Sports Complex",
+        "home_team": "IVI Dragons D3M",
+        "away_team": "Celestials D3M",
+        "is_home": true
+      }
+    ],
+    "Celestials D3M": [
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3M Group B",
+        "date": "07/12/2025",
+        "time": "15:30",
+        "venue": "Collinstown Sports Complex",
+        "home_team": "IVI Dragons D3M",
+        "away_team": "Celestials D3M",
+        "is_home": false
+      }
+    ],
+    "Cork Lions D3M": [
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3M Group B",
+        "date": "12/10/2025",
+        "time": "15:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Cork Lions D3M",
+        "away_team": "Octopus D3M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3M Group C",
+        "date": "15/11/2025",
+        "time": "12:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Cork Lions D3M",
+        "away_team": "Phoenix Killarney D3M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D3M Group C",
+        "date": "21/12/2025",
+        "time": "14:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Cork Lions D3M",
+        "away_team": "Sharks W Cork D3M",
+        "is_home": true
+      }
+    ],
+    "Octopus D3M": [
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3M Group B",
+        "date": "12/10/2025",
+        "time": "15:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Cork Lions D3M",
+        "away_team": "Octopus D3M",
+        "is_home": false
+      }
+    ],
+    "Phoenix Killarney D3M": [
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3M Group C",
+        "date": "15/11/2025",
+        "time": "12:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Cork Lions D3M",
+        "away_team": "Phoenix Killarney D3M",
+        "is_home": false
+      }
+    ],
+    "Sharks W Cork D3M": [
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D3M Group C",
+        "date": "21/12/2025",
+        "time": "14:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Cork Lions D3M",
+        "away_team": "Sharks W Cork D3M",
+        "is_home": false
+      }
+    ],
+    "Naas Cobras D3M": [
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D3M Group D",
+        "date": "14/12/2025",
+        "time": "18:00",
+        "venue": "St Mary's College (Naas)",
+        "home_team": "Naas Cobras D3M",
+        "away_team": "Jackals D3M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D3M Group D",
+        "date": "18/10/2025",
+        "time": "17:00",
+        "venue": "St Mary's College (Naas)",
+        "home_team": "Naas Cobras D3M",
+        "away_team": "Midlands D3M",
+        "is_home": true
+      }
+    ],
+    "Midlands D3M": [
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D3M Group D",
+        "date": "18/10/2025",
+        "time": "17:00",
+        "venue": "St Mary's College (Naas)",
+        "home_team": "Naas Cobras D3M",
+        "away_team": "Midlands D3M",
+        "is_home": false
+      }
+    ],
+    "Jackals D3M": [
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D3M Group D",
+        "date": "14/12/2025",
+        "time": "18:00",
+        "venue": "St Mary's College (Naas)",
+        "home_team": "Naas Cobras D3M",
+        "away_team": "Jackals D3M",
+        "is_home": false
+      }
+    ]
+  },
+  "metadata": {
+    "total_fixtures": 8,
+    "source": "VIR Competition Matches",
+    "sub_league_count": 4,
+    "competition_name": "Men's Division 3",
+    "teams": [
+      "Ballinasloe Eagles D3M",
+      "Carrick Crows D3M",
+      "Celestials D3M",
+      "Cork Lions D3M",
+      "IVI Dragons D3M",
+      "Jackals D3M",
+      "Mayo D3M",
+      "Midlands D3M",
+      "Naas Cobras D3M",
+      "Octopus D3M",
+      "Phoenix Killarney D3M",
+      "Sharks W Cork D3M"
+    ],
+    "sub_leagues": [
+      "League - D3M Group A",
+      "League - D3M Group B",
+      "League - D3M Group C",
+      "League - D3M Group D"
+    ]
+  },
+  "capturedAt": "2025-10-03T20:13:29.721Z",
+  "weekOf": "2025-10-03",
+  "dataVersion": "1.0",
+  "source": "VIR Competition Matches"
+}
