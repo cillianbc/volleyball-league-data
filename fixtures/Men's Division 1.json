@@ -1,0 +1,2484 @@
+{
+  "all_fixtures": [
+    {
+      "matchday": "Matchday 1",
+      "sub_league": "League - D1M",
+      "date": "11/10/2025",
+      "time": "12:30",
+      "venue": "Colaiste De hIde",
+      "home_team": "Gardians Masters",
+      "away_team": "Net Force D1M"
+    },
+    {
+      "matchday": "Matchday 1",
+      "sub_league": "League - D1M",
+      "date": "12/10/2025",
+      "time": "12:30",
+      "venue": "Castleblayney College",
+      "home_team": "Carrick Crows D1M",
+      "away_team": "Balbriggan Broncos"
+    },
+    {
+      "matchday": "Matchday 1",
+      "sub_league": "League - D1M",
+      "date": "12/10/2025",
+      "time": "12:30",
+      "venue": "Colaiste Bride (Clondalkin)",
+      "home_team": "DVC D1M",
+      "away_team": "Galway D1M"
+    },
+    {
+      "matchday": "Matchday 1",
+      "sub_league": "League - D1M",
+      "date": "12/10/2025",
+      "time": "13:30",
+      "venue": "ALSAA",
+      "home_team": "Aer Lingus Harriers",
+      "away_team": "Munster Thunder D1M"
+    },
+    {
+      "matchday": "Matchday 1",
+      "sub_league": "League - D1M",
+      "date": "18/10/2025",
+      "time": "17:30",
+      "venue": "Colaiste De hIde",
+      "home_team": "Gardians Masters",
+      "away_team": "Munster Thunder D1M"
+    },
+    {
+      "matchday": "Matchday 2",
+      "sub_league": "League - D1M",
+      "date": "19/10/2025",
+      "time": "11:30",
+      "venue": "Adamstown Community Centre",
+      "home_team": "DVC D1M",
+      "away_team": "Balbriggan Broncos"
+    },
+    {
+      "matchday": "Matchday 2",
+      "sub_league": "League - D1M",
+      "date": "19/10/2025",
+      "time": "13:30",
+      "venue": "Colaiste Muire Mathair (Galway)",
+      "home_team": "Galway D1M",
+      "away_team": "Aer Lingus Harriers"
+    },
+    {
+      "matchday": "Matchday 2",
+      "sub_league": "League - D1M",
+      "date": "19/10/2025",
+      "time": "16:00",
+      "venue": "Riverstick Community Centre",
+      "home_team": "Net Force D1M",
+      "away_team": "Carrick Crows D1M"
+    },
+    {
+      "matchday": "Matchday 2",
+      "sub_league": "League - D1M",
+      "date": "25/10/2025",
+      "time": "12:30",
+      "venue": "Castlelands Community Centre",
+      "home_team": "Balbriggan Broncos",
+      "away_team": "Net Force D1M"
+    },
+    {
+      "matchday": "Matchday 2",
+      "sub_league": "League - D1M",
+      "date": "26/10/2025",
+      "time": "12:30",
+      "venue": "Castleblayney College",
+      "home_team": "Carrick Crows D1M",
+      "away_team": "Galway D1M"
+    },
+    {
+      "matchday": "Matchday 3",
+      "sub_league": "League - D1M",
+      "date": "26/10/2025",
+      "time": "15:00",
+      "venue": "ALSAA",
+      "home_team": "Aer Lingus Harriers",
+      "away_team": "Gardians Masters"
+    },
+    {
+      "matchday": "Matchday 3",
+      "sub_league": "League - D1M",
+      "date": "08/11/2025",
+      "time": "11:30",
+      "venue": "Tech University Dublin, Tallaght",
+      "home_team": "Ireland Men's U18",
+      "away_team": "Gardians Masters"
+    },
+    {
+      "matchday": "Matchday 3",
+      "sub_league": "League - D1M",
+      "date": "09/11/2025",
+      "time": "11:30",
+      "venue": "Tech University Dublin, Tallaght",
+      "home_team": "Ireland Men's U18",
+      "away_team": "Balbriggan Broncos"
+    },
+    {
+      "matchday": "Matchday 3",
+      "sub_league": "League - D1M",
+      "date": "15/02/2026",
+      "time": "14:30",
+      "venue": "Clonlara Community Centre",
+      "home_team": "Munster Thunder D1M",
+      "away_team": "DVC D1M"
+    },
+    {
+      "matchday": "Matchday 3",
+      "sub_league": "League - D1M",
+      "date": "15/11/2025",
+      "time": "14:30",
+      "venue": "Castleblayney College",
+      "home_team": "Carrick Crows D1M",
+      "away_team": "Munster Thunder D1M"
+    },
+    {
+      "matchday": "Matchday 4",
+      "sub_league": "League - D1M",
+      "date": "15/11/2025",
+      "time": "17:30",
+      "venue": "Colaiste De hIde",
+      "home_team": "Gardians Masters",
+      "away_team": "DVC D1M"
+    },
+    {
+      "matchday": "Matchday 4",
+      "sub_league": "League - D1M",
+      "date": "16/11/2025",
+      "time": "13:30",
+      "venue": "Colaiste Muire Mathair (Galway)",
+      "home_team": "Galway D1M",
+      "away_team": "Balbriggan Broncos"
+    },
+    {
+      "matchday": "Matchday 4",
+      "sub_league": "League - D1M",
+      "date": "16/11/2025",
+      "time": "16:00",
+      "venue": "Riverstick Community Centre",
+      "home_team": "Net Force D1M",
+      "away_team": "Aer Lingus Harriers"
+    },
+    {
+      "matchday": "Matchday 4",
+      "sub_league": "League - D1M",
+      "date": "29/11/2025",
+      "time": "15:00",
+      "venue": "Castlelands Community Centre",
+      "home_team": "Balbriggan Broncos",
+      "away_team": "Gardians Masters"
+    },
+    {
+      "matchday": "Matchday 4",
+      "sub_league": "League - D1M",
+      "date": "30/11/2025",
+      "time": "13:30",
+      "venue": "ALSAA",
+      "home_team": "Aer Lingus Harriers",
+      "away_team": "Carrick Crows D1M"
+    },
+    {
+      "matchday": "Matchday 5",
+      "sub_league": "League - D1M",
+      "date": "30/11/2025",
+      "time": "13:30",
+      "venue": "Colaiste Bride (Clondalkin)",
+      "home_team": "DVC D1M",
+      "away_team": "Net Force D1M"
+    },
+    {
+      "matchday": "Matchday 5",
+      "sub_league": "League - D1M",
+      "date": "30/11/2025",
+      "time": "14:30",
+      "venue": "Clonlara Community Centre",
+      "home_team": "Munster Thunder D1M",
+      "away_team": "Galway D1M"
+    },
+    {
+      "matchday": "Matchday 5",
+      "sub_league": "League - D1M",
+      "date": "06/12/2025",
+      "time": "11:30",
+      "venue": "Tech University Dublin, Tallaght",
+      "home_team": "Ireland Men's U18",
+      "away_team": "DVC D1M"
+    },
+    {
+      "matchday": "Matchday 5",
+      "sub_league": "League - D1M",
+      "date": "07/12/2025",
+      "time": "11:30",
+      "venue": "Tech University Dublin, Tallaght",
+      "home_team": "Ireland Men's U18",
+      "away_team": "Aer Lingus Harriers"
+    },
+    {
+      "matchday": "Matchday 5",
+      "sub_league": "League - D1M",
+      "date": "13/12/2025",
+      "time": "15:00",
+      "venue": "Colaiste De hIde",
+      "home_team": "Gardians Masters",
+      "away_team": "Carrick Crows D1M"
+    },
+    {
+      "matchday": "Matchday 6",
+      "sub_league": "League - D1M",
+      "date": "14/12/2025",
+      "time": "10:30",
+      "venue": "Castlelands Community Centre",
+      "home_team": "Balbriggan Broncos",
+      "away_team": "Munster Thunder D1M"
+    },
+    {
+      "matchday": "Matchday 6",
+      "sub_league": "League - D1M",
+      "date": "14/12/2025",
+      "time": "13:30",
+      "venue": "ALSAA",
+      "home_team": "DVC D1M",
+      "away_team": "Aer Lingus Harriers"
+    },
+    {
+      "matchday": "Matchday 6",
+      "sub_league": "League - D1M",
+      "date": "14/12/2025",
+      "time": "13:30",
+      "venue": "Colaiste Muire Mathair (Galway)",
+      "home_team": "Galway D1M",
+      "away_team": "Net Force D1M"
+    },
+    {
+      "matchday": "Matchday 6",
+      "sub_league": "League - D1M",
+      "date": "10/01/2026",
+      "time": "15:00",
+      "venue": "Colaiste De hIde",
+      "home_team": "Gardians Masters",
+      "away_team": "Galway D1M"
+    },
+    {
+      "matchday": "Matchday 6",
+      "sub_league": "League - D1M",
+      "date": "11/01/2026",
+      "time": "15:00",
+      "venue": "ALSAA",
+      "home_team": "Aer Lingus Harriers",
+      "away_team": "Balbriggan Broncos"
+    },
+    {
+      "matchday": "Matchday 7",
+      "sub_league": "League - D1M",
+      "date": "11/01/2026",
+      "time": "15:00",
+      "venue": "Castleblayney College",
+      "home_team": "Carrick Crows D1M",
+      "away_team": "DVC D1M"
+    },
+    {
+      "matchday": "Matchday 7",
+      "sub_league": "League - D1M",
+      "date": "11/01/2026",
+      "time": "16:00",
+      "venue": "Riverstick Community Centre",
+      "home_team": "Net Force D1M",
+      "away_team": "Munster Thunder D1M"
+    },
+    {
+      "matchday": "Matchday 7",
+      "sub_league": "League - D1M",
+      "date": "24/01/2026",
+      "time": "13:00",
+      "venue": "Riverstick Community Centre",
+      "home_team": "Net Force D1M",
+      "away_team": "Ireland Men's U18"
+    },
+    {
+      "matchday": "Matchday 7",
+      "sub_league": "League - D1M",
+      "date": "25/01/2026",
+      "time": "11:30",
+      "venue": "Tech University Dublin, Tallaght",
+      "home_team": "Ireland Men's U18",
+      "away_team": "Carrick Crows D1M"
+    },
+    {
+      "matchday": "Matchday 7",
+      "sub_league": "League - D1M",
+      "date": "31/01/2026",
+      "time": "12:30",
+      "venue": "Castlelands Community Centre",
+      "home_team": "Balbriggan Broncos",
+      "away_team": "Carrick Crows D1M"
+    },
+    {
+      "matchday": "Matchday 8",
+      "sub_league": "League - D1M",
+      "date": "01/02/2026",
+      "time": "13:30",
+      "venue": "Colaiste Muire Mathair (Galway)",
+      "home_team": "Galway D1M",
+      "away_team": "DVC D1M"
+    },
+    {
+      "matchday": "Matchday 8",
+      "sub_league": "League - D1M",
+      "date": "01/02/2026",
+      "time": "14:30",
+      "venue": "Clonlara Community Centre",
+      "home_team": "Munster Thunder D1M",
+      "away_team": "Aer Lingus Harriers"
+    },
+    {
+      "matchday": "Matchday 8",
+      "sub_league": "League - D1M",
+      "date": "01/02/2026",
+      "time": "16:00",
+      "venue": "Riverstick Community Centre",
+      "home_team": "Net Force D1M",
+      "away_team": "Gardians Masters"
+    },
+    {
+      "matchday": "Matchday 8",
+      "sub_league": "League - D1M",
+      "date": "08/02/2026",
+      "time": "11:30",
+      "venue": "Castleblayney College",
+      "home_team": "Carrick Crows D1M",
+      "away_team": "Net Force D1M"
+    },
+    {
+      "matchday": "Matchday 8",
+      "sub_league": "League - D1M",
+      "date": "08/02/2026",
+      "time": "13:00",
+      "venue": "Castlelands Community Centre",
+      "home_team": "Balbriggan Broncos",
+      "away_team": "DVC D1M"
+    },
+    {
+      "matchday": "Matchday 9",
+      "sub_league": "League - D1M",
+      "date": "08/02/2026",
+      "time": "13:30",
+      "venue": "ALSAA",
+      "home_team": "Aer Lingus Harriers",
+      "away_team": "Galway D1M"
+    },
+    {
+      "matchday": "Matchday 9",
+      "sub_league": "League - D1M",
+      "date": "08/02/2026",
+      "time": "14:30",
+      "venue": "Clonlara Community Centre",
+      "home_team": "Munster Thunder D1M",
+      "away_team": "Gardians Masters"
+    },
+    {
+      "matchday": "Matchday 9",
+      "sub_league": "League - D1M",
+      "date": "26/10/2025",
+      "time": "12:30",
+      "venue": "Colaiste Bride (Clondalkin)",
+      "home_team": "DVC D1M",
+      "away_team": "Munster Thunder D1M"
+    },
+    {
+      "matchday": "Matchday 9",
+      "sub_league": "League - D1M",
+      "date": "14/02/2026",
+      "time": "10:00",
+      "venue": "Colaiste De hIde",
+      "home_team": "Gardians Masters",
+      "away_team": "Aer Lingus Harriers"
+    },
+    {
+      "matchday": "Matchday 9",
+      "sub_league": "League - D1M",
+      "date": "15/02/2026",
+      "time": "13:30",
+      "venue": "Colaiste Muire Mathair (Galway)",
+      "home_team": "Galway D1M",
+      "away_team": "Carrick Crows D1M"
+    },
+    {
+      "matchday": "Matchday 10",
+      "sub_league": "League - D1M",
+      "date": "15/02/2026",
+      "time": "16:00",
+      "venue": "Riverstick Community Centre",
+      "home_team": "Net Force D1M",
+      "away_team": "Balbriggan Broncos"
+    },
+    {
+      "matchday": "Matchday 10",
+      "sub_league": "League - D1M",
+      "date": "28/02/2026",
+      "time": "11:30",
+      "venue": "Phoenix Sports Centre (Maynooth Univ)",
+      "home_team": "Ireland Men's U18",
+      "away_team": "Galway D1M"
+    },
+    {
+      "matchday": "Matchday 10",
+      "sub_league": "League - D1M",
+      "date": "01/03/2026",
+      "time": "13:00",
+      "venue": "Clonlara Community Centre",
+      "home_team": "Munster Thunder D1M",
+      "away_team": "Ireland Men's U18"
+    },
+    {
+      "matchday": "Matchday 10",
+      "sub_league": "League - D1M",
+      "date": "07/03/2026",
+      "time": "15:00",
+      "venue": "Castlelands Community Centre",
+      "home_team": "Balbriggan Broncos",
+      "away_team": "Galway D1M"
+    },
+    {
+      "matchday": "Matchday 10",
+      "sub_league": "League - D1M",
+      "date": "08/03/2026",
+      "time": "14:30",
+      "venue": "Clonlara Community Centre",
+      "home_team": "Munster Thunder D1M",
+      "away_team": "Carrick Crows D1M"
+    },
+    {
+      "matchday": "Matchday 11",
+      "sub_league": "League - D1M",
+      "date": "08/03/2026",
+      "time": "15:00",
+      "venue": "ALSAA",
+      "home_team": "Aer Lingus Harriers",
+      "away_team": "Net Force D1M"
+    },
+    {
+      "matchday": "Matchday 11",
+      "sub_league": "League - D1M",
+      "date": "08/03/2026",
+      "time": "17:30",
+      "venue": "Colaiste Bride (Clondalkin)",
+      "home_team": "DVC D1M",
+      "away_team": "Gardians Masters"
+    },
+    {
+      "matchday": "Matchday 11",
+      "sub_league": "League - D1M",
+      "date": "21/03/2026",
+      "time": "10:00",
+      "venue": "Colaiste De hIde",
+      "home_team": "Gardians Masters",
+      "away_team": "Balbriggan Broncos"
+    },
+    {
+      "matchday": "Matchday 11",
+      "sub_league": "League - D1M",
+      "date": "21/03/2026",
+      "time": "17:00",
+      "venue": "Castleblayney College",
+      "home_team": "Carrick Crows D1M",
+      "away_team": "Aer Lingus Harriers"
+    },
+    {
+      "matchday": "Matchday 11",
+      "sub_league": "League - D1M",
+      "date": "22/03/2026",
+      "time": "13:30",
+      "venue": "Colaiste Muire Mathair (Galway)",
+      "home_team": "Galway D1M",
+      "away_team": "Munster Thunder D1M"
+    },
+    {
+      "matchday": "Matchday 12",
+      "sub_league": "League - D1M",
+      "date": "22/03/2026",
+      "time": "16:00",
+      "venue": "Riverstick Community Centre",
+      "home_team": "Net Force D1M",
+      "away_team": "DVC D1M"
+    },
+    {
+      "matchday": "Matchday 12",
+      "sub_league": "League - D1M",
+      "date": "12/04/2026",
+      "time": "13:30",
+      "venue": "ALSAA",
+      "home_team": "Aer Lingus Harriers",
+      "away_team": "DVC D1M"
+    },
+    {
+      "matchday": "Matchday 12",
+      "sub_league": "League - D1M",
+      "date": "12/04/2026",
+      "time": "14:30",
+      "venue": "Clonlara Community Centre",
+      "home_team": "Munster Thunder D1M",
+      "away_team": "Balbriggan Broncos"
+    },
+    {
+      "matchday": "Matchday 12",
+      "sub_league": "League - D1M",
+      "date": "12/04/2026",
+      "time": "15:00",
+      "venue": "Castleblayney College",
+      "home_team": "Carrick Crows D1M",
+      "away_team": "Gardians Masters"
+    },
+    {
+      "matchday": "Matchday 12",
+      "sub_league": "League - D1M",
+      "date": "12/04/2026",
+      "time": "16:00",
+      "venue": "Riverstick Community Centre",
+      "home_team": "Net Force D1M",
+      "away_team": "Galway D1M"
+    },
+    {
+      "matchday": "Matchday 13",
+      "sub_league": "League - D1M",
+      "date": "19/04/2026",
+      "time": "11:00",
+      "venue": "Colaiste Bride (Clondalkin)",
+      "home_team": "DVC D1M",
+      "away_team": "Carrick Crows D1M"
+    },
+    {
+      "matchday": "Matchday 13",
+      "sub_league": "League - D1M",
+      "date": "19/04/2026",
+      "time": "13:00",
+      "venue": "Castlelands Community Centre",
+      "home_team": "Balbriggan Broncos",
+      "away_team": "Aer Lingus Harriers"
+    },
+    {
+      "matchday": "Matchday 13",
+      "sub_league": "League - D1M",
+      "date": "19/04/2026",
+      "time": "13:30",
+      "venue": "Colaiste Muire Mathair (Galway)",
+      "home_team": "Galway D1M",
+      "away_team": "Gardians Masters"
+    },
+    {
+      "matchday": "Matchday 13",
+      "sub_league": "League - D1M",
+      "date": "19/04/2026",
+      "time": "14:30",
+      "venue": "Clonlara Community Centre",
+      "home_team": "Munster Thunder D1M",
+      "away_team": "Net Force D1M"
+    }
+  ],
+  "sub_leagues": {
+    "League - D1M": [
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - D1M",
+        "date": "01/02/2026",
+        "time": "13:30",
+        "venue": "Colaiste Muire Mathair (Galway)",
+        "home_team": "Galway D1M",
+        "away_team": "DVC D1M"
+      },
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - D1M",
+        "date": "01/02/2026",
+        "time": "14:30",
+        "venue": "Clonlara Community Centre",
+        "home_team": "Munster Thunder D1M",
+        "away_team": "Aer Lingus Harriers"
+      },
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - D1M",
+        "date": "01/02/2026",
+        "time": "16:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Net Force D1M",
+        "away_team": "Gardians Masters"
+      },
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - D1M",
+        "date": "01/03/2026",
+        "time": "13:00",
+        "venue": "Clonlara Community Centre",
+        "home_team": "Munster Thunder D1M",
+        "away_team": "Ireland Men's U18"
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - D1M",
+        "date": "06/12/2025",
+        "time": "11:30",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U18",
+        "away_team": "DVC D1M"
+      },
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - D1M",
+        "date": "07/03/2026",
+        "time": "15:00",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Broncos",
+        "away_team": "Galway D1M"
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - D1M",
+        "date": "07/12/2025",
+        "time": "11:30",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U18",
+        "away_team": "Aer Lingus Harriers"
+      },
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - D1M",
+        "date": "08/02/2026",
+        "time": "11:30",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D1M",
+        "away_team": "Net Force D1M"
+      },
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - D1M",
+        "date": "08/02/2026",
+        "time": "13:00",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Broncos",
+        "away_team": "DVC D1M"
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - D1M",
+        "date": "08/02/2026",
+        "time": "13:30",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Harriers",
+        "away_team": "Galway D1M"
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - D1M",
+        "date": "08/02/2026",
+        "time": "14:30",
+        "venue": "Clonlara Community Centre",
+        "home_team": "Munster Thunder D1M",
+        "away_team": "Gardians Masters"
+      },
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - D1M",
+        "date": "08/03/2026",
+        "time": "14:30",
+        "venue": "Clonlara Community Centre",
+        "home_team": "Munster Thunder D1M",
+        "away_team": "Carrick Crows D1M"
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - D1M",
+        "date": "08/03/2026",
+        "time": "15:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Harriers",
+        "away_team": "Net Force D1M"
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - D1M",
+        "date": "08/03/2026",
+        "time": "17:30",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC D1M",
+        "away_team": "Gardians Masters"
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D1M",
+        "date": "08/11/2025",
+        "time": "11:30",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U18",
+        "away_team": "Gardians Masters"
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D1M",
+        "date": "09/11/2025",
+        "time": "11:30",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U18",
+        "away_team": "Balbriggan Broncos"
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - D1M",
+        "date": "10/01/2026",
+        "time": "15:00",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Masters",
+        "away_team": "Galway D1M"
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - D1M",
+        "date": "11/01/2026",
+        "time": "15:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Harriers",
+        "away_team": "Balbriggan Broncos"
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D1M",
+        "date": "11/01/2026",
+        "time": "15:00",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D1M",
+        "away_team": "DVC D1M"
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D1M",
+        "date": "11/01/2026",
+        "time": "16:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Net Force D1M",
+        "away_team": "Munster Thunder D1M"
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D1M",
+        "date": "11/10/2025",
+        "time": "12:30",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Masters",
+        "away_team": "Net Force D1M"
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - D1M",
+        "date": "12/04/2026",
+        "time": "13:30",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Harriers",
+        "away_team": "DVC D1M"
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - D1M",
+        "date": "12/04/2026",
+        "time": "14:30",
+        "venue": "Clonlara Community Centre",
+        "home_team": "Munster Thunder D1M",
+        "away_team": "Balbriggan Broncos"
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - D1M",
+        "date": "12/04/2026",
+        "time": "15:00",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D1M",
+        "away_team": "Gardians Masters"
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - D1M",
+        "date": "12/04/2026",
+        "time": "16:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Net Force D1M",
+        "away_team": "Galway D1M"
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D1M",
+        "date": "12/10/2025",
+        "time": "12:30",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D1M",
+        "away_team": "Balbriggan Broncos"
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D1M",
+        "date": "12/10/2025",
+        "time": "12:30",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC D1M",
+        "away_team": "Galway D1M"
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D1M",
+        "date": "12/10/2025",
+        "time": "13:30",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Harriers",
+        "away_team": "Munster Thunder D1M"
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - D1M",
+        "date": "13/12/2025",
+        "time": "15:00",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Masters",
+        "away_team": "Carrick Crows D1M"
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - D1M",
+        "date": "14/02/2026",
+        "time": "10:00",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Masters",
+        "away_team": "Aer Lingus Harriers"
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - D1M",
+        "date": "14/12/2025",
+        "time": "10:30",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Broncos",
+        "away_team": "Munster Thunder D1M"
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - D1M",
+        "date": "14/12/2025",
+        "time": "13:30",
+        "venue": "ALSAA",
+        "home_team": "DVC D1M",
+        "away_team": "Aer Lingus Harriers"
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - D1M",
+        "date": "14/12/2025",
+        "time": "13:30",
+        "venue": "Colaiste Muire Mathair (Galway)",
+        "home_team": "Galway D1M",
+        "away_team": "Net Force D1M"
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D1M",
+        "date": "15/02/2026",
+        "time": "14:30",
+        "venue": "Clonlara Community Centre",
+        "home_team": "Munster Thunder D1M",
+        "away_team": "DVC D1M"
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - D1M",
+        "date": "15/02/2026",
+        "time": "13:30",
+        "venue": "Colaiste Muire Mathair (Galway)",
+        "home_team": "Galway D1M",
+        "away_team": "Carrick Crows D1M"
+      },
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - D1M",
+        "date": "15/02/2026",
+        "time": "16:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Net Force D1M",
+        "away_team": "Balbriggan Broncos"
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D1M",
+        "date": "15/11/2025",
+        "time": "14:30",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D1M",
+        "away_team": "Munster Thunder D1M"
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - D1M",
+        "date": "15/11/2025",
+        "time": "17:30",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Masters",
+        "away_team": "DVC D1M"
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - D1M",
+        "date": "16/11/2025",
+        "time": "13:30",
+        "venue": "Colaiste Muire Mathair (Galway)",
+        "home_team": "Galway D1M",
+        "away_team": "Balbriggan Broncos"
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - D1M",
+        "date": "16/11/2025",
+        "time": "16:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Net Force D1M",
+        "away_team": "Aer Lingus Harriers"
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D1M",
+        "date": "18/10/2025",
+        "time": "17:30",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Masters",
+        "away_team": "Munster Thunder D1M"
+      },
+      {
+        "matchday": "Matchday 13",
+        "sub_league": "League - D1M",
+        "date": "19/04/2026",
+        "time": "11:00",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC D1M",
+        "away_team": "Carrick Crows D1M"
+      },
+      {
+        "matchday": "Matchday 13",
+        "sub_league": "League - D1M",
+        "date": "19/04/2026",
+        "time": "13:00",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Broncos",
+        "away_team": "Aer Lingus Harriers"
+      },
+      {
+        "matchday": "Matchday 13",
+        "sub_league": "League - D1M",
+        "date": "19/04/2026",
+        "time": "13:30",
+        "venue": "Colaiste Muire Mathair (Galway)",
+        "home_team": "Galway D1M",
+        "away_team": "Gardians Masters"
+      },
+      {
+        "matchday": "Matchday 13",
+        "sub_league": "League - D1M",
+        "date": "19/04/2026",
+        "time": "14:30",
+        "venue": "Clonlara Community Centre",
+        "home_team": "Munster Thunder D1M",
+        "away_team": "Net Force D1M"
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D1M",
+        "date": "19/10/2025",
+        "time": "11:30",
+        "venue": "Adamstown Community Centre",
+        "home_team": "DVC D1M",
+        "away_team": "Balbriggan Broncos"
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D1M",
+        "date": "19/10/2025",
+        "time": "13:30",
+        "venue": "Colaiste Muire Mathair (Galway)",
+        "home_team": "Galway D1M",
+        "away_team": "Aer Lingus Harriers"
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D1M",
+        "date": "19/10/2025",
+        "time": "16:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Net Force D1M",
+        "away_team": "Carrick Crows D1M"
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - D1M",
+        "date": "21/03/2026",
+        "time": "10:00",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Masters",
+        "away_team": "Balbriggan Broncos"
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - D1M",
+        "date": "21/03/2026",
+        "time": "17:00",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D1M",
+        "away_team": "Aer Lingus Harriers"
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - D1M",
+        "date": "22/03/2026",
+        "time": "13:30",
+        "venue": "Colaiste Muire Mathair (Galway)",
+        "home_team": "Galway D1M",
+        "away_team": "Munster Thunder D1M"
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - D1M",
+        "date": "22/03/2026",
+        "time": "16:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Net Force D1M",
+        "away_team": "DVC D1M"
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D1M",
+        "date": "24/01/2026",
+        "time": "13:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Net Force D1M",
+        "away_team": "Ireland Men's U18"
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D1M",
+        "date": "25/01/2026",
+        "time": "11:30",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U18",
+        "away_team": "Carrick Crows D1M"
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D1M",
+        "date": "25/10/2025",
+        "time": "12:30",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Broncos",
+        "away_team": "Net Force D1M"
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D1M",
+        "date": "26/10/2025",
+        "time": "12:30",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D1M",
+        "away_team": "Galway D1M"
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D1M",
+        "date": "26/10/2025",
+        "time": "15:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Harriers",
+        "away_team": "Gardians Masters"
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - D1M",
+        "date": "26/10/2025",
+        "time": "12:30",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC D1M",
+        "away_team": "Munster Thunder D1M"
+      },
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - D1M",
+        "date": "28/02/2026",
+        "time": "11:30",
+        "venue": "Phoenix Sports Centre (Maynooth Univ)",
+        "home_team": "Ireland Men's U18",
+        "away_team": "Galway D1M"
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - D1M",
+        "date": "29/11/2025",
+        "time": "15:00",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Broncos",
+        "away_team": "Gardians Masters"
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - D1M",
+        "date": "30/11/2025",
+        "time": "13:30",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Harriers",
+        "away_team": "Carrick Crows D1M"
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - D1M",
+        "date": "30/11/2025",
+        "time": "13:30",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC D1M",
+        "away_team": "Net Force D1M"
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - D1M",
+        "date": "30/11/2025",
+        "time": "14:30",
+        "venue": "Clonlara Community Centre",
+        "home_team": "Munster Thunder D1M",
+        "away_team": "Galway D1M"
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D1M",
+        "date": "31/01/2026",
+        "time": "12:30",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Broncos",
+        "away_team": "Carrick Crows D1M"
+      }
+    ]
+  },
+  "teams": {
+    "Gardians Masters": [
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - D1M",
+        "date": "01/02/2026",
+        "time": "16:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Net Force D1M",
+        "away_team": "Gardians Masters",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - D1M",
+        "date": "08/02/2026",
+        "time": "14:30",
+        "venue": "Clonlara Community Centre",
+        "home_team": "Munster Thunder D1M",
+        "away_team": "Gardians Masters",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - D1M",
+        "date": "08/03/2026",
+        "time": "17:30",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC D1M",
+        "away_team": "Gardians Masters",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D1M",
+        "date": "08/11/2025",
+        "time": "11:30",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U18",
+        "away_team": "Gardians Masters",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - D1M",
+        "date": "10/01/2026",
+        "time": "15:00",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Masters",
+        "away_team": "Galway D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D1M",
+        "date": "11/10/2025",
+        "time": "12:30",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Masters",
+        "away_team": "Net Force D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - D1M",
+        "date": "12/04/2026",
+        "time": "15:00",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D1M",
+        "away_team": "Gardians Masters",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - D1M",
+        "date": "13/12/2025",
+        "time": "15:00",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Masters",
+        "away_team": "Carrick Crows D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - D1M",
+        "date": "14/02/2026",
+        "time": "10:00",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Masters",
+        "away_team": "Aer Lingus Harriers",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - D1M",
+        "date": "15/11/2025",
+        "time": "17:30",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Masters",
+        "away_team": "DVC D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D1M",
+        "date": "18/10/2025",
+        "time": "17:30",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Masters",
+        "away_team": "Munster Thunder D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 13",
+        "sub_league": "League - D1M",
+        "date": "19/04/2026",
+        "time": "13:30",
+        "venue": "Colaiste Muire Mathair (Galway)",
+        "home_team": "Galway D1M",
+        "away_team": "Gardians Masters",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - D1M",
+        "date": "21/03/2026",
+        "time": "10:00",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Masters",
+        "away_team": "Balbriggan Broncos",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D1M",
+        "date": "26/10/2025",
+        "time": "15:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Harriers",
+        "away_team": "Gardians Masters",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - D1M",
+        "date": "29/11/2025",
+        "time": "15:00",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Broncos",
+        "away_team": "Gardians Masters",
+        "is_home": false
+      }
+    ],
+    "Net Force D1M": [
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - D1M",
+        "date": "01/02/2026",
+        "time": "16:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Net Force D1M",
+        "away_team": "Gardians Masters",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - D1M",
+        "date": "08/02/2026",
+        "time": "11:30",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D1M",
+        "away_team": "Net Force D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - D1M",
+        "date": "08/03/2026",
+        "time": "15:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Harriers",
+        "away_team": "Net Force D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D1M",
+        "date": "11/01/2026",
+        "time": "16:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Net Force D1M",
+        "away_team": "Munster Thunder D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D1M",
+        "date": "11/10/2025",
+        "time": "12:30",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Masters",
+        "away_team": "Net Force D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - D1M",
+        "date": "12/04/2026",
+        "time": "16:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Net Force D1M",
+        "away_team": "Galway D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - D1M",
+        "date": "14/12/2025",
+        "time": "13:30",
+        "venue": "Colaiste Muire Mathair (Galway)",
+        "home_team": "Galway D1M",
+        "away_team": "Net Force D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - D1M",
+        "date": "15/02/2026",
+        "time": "16:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Net Force D1M",
+        "away_team": "Balbriggan Broncos",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - D1M",
+        "date": "16/11/2025",
+        "time": "16:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Net Force D1M",
+        "away_team": "Aer Lingus Harriers",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 13",
+        "sub_league": "League - D1M",
+        "date": "19/04/2026",
+        "time": "14:30",
+        "venue": "Clonlara Community Centre",
+        "home_team": "Munster Thunder D1M",
+        "away_team": "Net Force D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D1M",
+        "date": "19/10/2025",
+        "time": "16:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Net Force D1M",
+        "away_team": "Carrick Crows D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - D1M",
+        "date": "22/03/2026",
+        "time": "16:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Net Force D1M",
+        "away_team": "DVC D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D1M",
+        "date": "24/01/2026",
+        "time": "13:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Net Force D1M",
+        "away_team": "Ireland Men's U18",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D1M",
+        "date": "25/10/2025",
+        "time": "12:30",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Broncos",
+        "away_team": "Net Force D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - D1M",
+        "date": "30/11/2025",
+        "time": "13:30",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC D1M",
+        "away_team": "Net Force D1M",
+        "is_home": false
+      }
+    ],
+    "Carrick Crows D1M": [
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - D1M",
+        "date": "08/02/2026",
+        "time": "11:30",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D1M",
+        "away_team": "Net Force D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - D1M",
+        "date": "08/03/2026",
+        "time": "14:30",
+        "venue": "Clonlara Community Centre",
+        "home_team": "Munster Thunder D1M",
+        "away_team": "Carrick Crows D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D1M",
+        "date": "11/01/2026",
+        "time": "15:00",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D1M",
+        "away_team": "DVC D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - D1M",
+        "date": "12/04/2026",
+        "time": "15:00",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D1M",
+        "away_team": "Gardians Masters",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D1M",
+        "date": "12/10/2025",
+        "time": "12:30",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D1M",
+        "away_team": "Balbriggan Broncos",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - D1M",
+        "date": "13/12/2025",
+        "time": "15:00",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Masters",
+        "away_team": "Carrick Crows D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - D1M",
+        "date": "15/02/2026",
+        "time": "13:30",
+        "venue": "Colaiste Muire Mathair (Galway)",
+        "home_team": "Galway D1M",
+        "away_team": "Carrick Crows D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D1M",
+        "date": "15/11/2025",
+        "time": "14:30",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D1M",
+        "away_team": "Munster Thunder D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 13",
+        "sub_league": "League - D1M",
+        "date": "19/04/2026",
+        "time": "11:00",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC D1M",
+        "away_team": "Carrick Crows D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D1M",
+        "date": "19/10/2025",
+        "time": "16:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Net Force D1M",
+        "away_team": "Carrick Crows D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - D1M",
+        "date": "21/03/2026",
+        "time": "17:00",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D1M",
+        "away_team": "Aer Lingus Harriers",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D1M",
+        "date": "25/01/2026",
+        "time": "11:30",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U18",
+        "away_team": "Carrick Crows D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D1M",
+        "date": "26/10/2025",
+        "time": "12:30",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D1M",
+        "away_team": "Galway D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - D1M",
+        "date": "30/11/2025",
+        "time": "13:30",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Harriers",
+        "away_team": "Carrick Crows D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D1M",
+        "date": "31/01/2026",
+        "time": "12:30",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Broncos",
+        "away_team": "Carrick Crows D1M",
+        "is_home": false
+      }
+    ],
+    "Balbriggan Broncos": [
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - D1M",
+        "date": "07/03/2026",
+        "time": "15:00",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Broncos",
+        "away_team": "Galway D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - D1M",
+        "date": "08/02/2026",
+        "time": "13:00",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Broncos",
+        "away_team": "DVC D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D1M",
+        "date": "09/11/2025",
+        "time": "11:30",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U18",
+        "away_team": "Balbriggan Broncos",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - D1M",
+        "date": "11/01/2026",
+        "time": "15:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Harriers",
+        "away_team": "Balbriggan Broncos",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - D1M",
+        "date": "12/04/2026",
+        "time": "14:30",
+        "venue": "Clonlara Community Centre",
+        "home_team": "Munster Thunder D1M",
+        "away_team": "Balbriggan Broncos",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D1M",
+        "date": "12/10/2025",
+        "time": "12:30",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D1M",
+        "away_team": "Balbriggan Broncos",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - D1M",
+        "date": "14/12/2025",
+        "time": "10:30",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Broncos",
+        "away_team": "Munster Thunder D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - D1M",
+        "date": "15/02/2026",
+        "time": "16:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Net Force D1M",
+        "away_team": "Balbriggan Broncos",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - D1M",
+        "date": "16/11/2025",
+        "time": "13:30",
+        "venue": "Colaiste Muire Mathair (Galway)",
+        "home_team": "Galway D1M",
+        "away_team": "Balbriggan Broncos",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 13",
+        "sub_league": "League - D1M",
+        "date": "19/04/2026",
+        "time": "13:00",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Broncos",
+        "away_team": "Aer Lingus Harriers",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D1M",
+        "date": "19/10/2025",
+        "time": "11:30",
+        "venue": "Adamstown Community Centre",
+        "home_team": "DVC D1M",
+        "away_team": "Balbriggan Broncos",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - D1M",
+        "date": "21/03/2026",
+        "time": "10:00",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Masters",
+        "away_team": "Balbriggan Broncos",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D1M",
+        "date": "25/10/2025",
+        "time": "12:30",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Broncos",
+        "away_team": "Net Force D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - D1M",
+        "date": "29/11/2025",
+        "time": "15:00",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Broncos",
+        "away_team": "Gardians Masters",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D1M",
+        "date": "31/01/2026",
+        "time": "12:30",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Broncos",
+        "away_team": "Carrick Crows D1M",
+        "is_home": true
+      }
+    ],
+    "DVC D1M": [
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - D1M",
+        "date": "01/02/2026",
+        "time": "13:30",
+        "venue": "Colaiste Muire Mathair (Galway)",
+        "home_team": "Galway D1M",
+        "away_team": "DVC D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - D1M",
+        "date": "06/12/2025",
+        "time": "11:30",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U18",
+        "away_team": "DVC D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - D1M",
+        "date": "08/02/2026",
+        "time": "13:00",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Broncos",
+        "away_team": "DVC D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - D1M",
+        "date": "08/03/2026",
+        "time": "17:30",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC D1M",
+        "away_team": "Gardians Masters",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D1M",
+        "date": "11/01/2026",
+        "time": "15:00",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D1M",
+        "away_team": "DVC D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - D1M",
+        "date": "12/04/2026",
+        "time": "13:30",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Harriers",
+        "away_team": "DVC D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D1M",
+        "date": "12/10/2025",
+        "time": "12:30",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC D1M",
+        "away_team": "Galway D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - D1M",
+        "date": "14/12/2025",
+        "time": "13:30",
+        "venue": "ALSAA",
+        "home_team": "DVC D1M",
+        "away_team": "Aer Lingus Harriers",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D1M",
+        "date": "15/02/2026",
+        "time": "14:30",
+        "venue": "Clonlara Community Centre",
+        "home_team": "Munster Thunder D1M",
+        "away_team": "DVC D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - D1M",
+        "date": "15/11/2025",
+        "time": "17:30",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Masters",
+        "away_team": "DVC D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 13",
+        "sub_league": "League - D1M",
+        "date": "19/04/2026",
+        "time": "11:00",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC D1M",
+        "away_team": "Carrick Crows D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D1M",
+        "date": "19/10/2025",
+        "time": "11:30",
+        "venue": "Adamstown Community Centre",
+        "home_team": "DVC D1M",
+        "away_team": "Balbriggan Broncos",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - D1M",
+        "date": "22/03/2026",
+        "time": "16:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Net Force D1M",
+        "away_team": "DVC D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - D1M",
+        "date": "26/10/2025",
+        "time": "12:30",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC D1M",
+        "away_team": "Munster Thunder D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - D1M",
+        "date": "30/11/2025",
+        "time": "13:30",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC D1M",
+        "away_team": "Net Force D1M",
+        "is_home": true
+      }
+    ],
+    "Galway D1M": [
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - D1M",
+        "date": "01/02/2026",
+        "time": "13:30",
+        "venue": "Colaiste Muire Mathair (Galway)",
+        "home_team": "Galway D1M",
+        "away_team": "DVC D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - D1M",
+        "date": "07/03/2026",
+        "time": "15:00",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Broncos",
+        "away_team": "Galway D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - D1M",
+        "date": "08/02/2026",
+        "time": "13:30",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Harriers",
+        "away_team": "Galway D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - D1M",
+        "date": "10/01/2026",
+        "time": "15:00",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Masters",
+        "away_team": "Galway D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - D1M",
+        "date": "12/04/2026",
+        "time": "16:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Net Force D1M",
+        "away_team": "Galway D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D1M",
+        "date": "12/10/2025",
+        "time": "12:30",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC D1M",
+        "away_team": "Galway D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - D1M",
+        "date": "14/12/2025",
+        "time": "13:30",
+        "venue": "Colaiste Muire Mathair (Galway)",
+        "home_team": "Galway D1M",
+        "away_team": "Net Force D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - D1M",
+        "date": "15/02/2026",
+        "time": "13:30",
+        "venue": "Colaiste Muire Mathair (Galway)",
+        "home_team": "Galway D1M",
+        "away_team": "Carrick Crows D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - D1M",
+        "date": "16/11/2025",
+        "time": "13:30",
+        "venue": "Colaiste Muire Mathair (Galway)",
+        "home_team": "Galway D1M",
+        "away_team": "Balbriggan Broncos",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 13",
+        "sub_league": "League - D1M",
+        "date": "19/04/2026",
+        "time": "13:30",
+        "venue": "Colaiste Muire Mathair (Galway)",
+        "home_team": "Galway D1M",
+        "away_team": "Gardians Masters",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D1M",
+        "date": "19/10/2025",
+        "time": "13:30",
+        "venue": "Colaiste Muire Mathair (Galway)",
+        "home_team": "Galway D1M",
+        "away_team": "Aer Lingus Harriers",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - D1M",
+        "date": "22/03/2026",
+        "time": "13:30",
+        "venue": "Colaiste Muire Mathair (Galway)",
+        "home_team": "Galway D1M",
+        "away_team": "Munster Thunder D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D1M",
+        "date": "26/10/2025",
+        "time": "12:30",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D1M",
+        "away_team": "Galway D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - D1M",
+        "date": "28/02/2026",
+        "time": "11:30",
+        "venue": "Phoenix Sports Centre (Maynooth Univ)",
+        "home_team": "Ireland Men's U18",
+        "away_team": "Galway D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - D1M",
+        "date": "30/11/2025",
+        "time": "14:30",
+        "venue": "Clonlara Community Centre",
+        "home_team": "Munster Thunder D1M",
+        "away_team": "Galway D1M",
+        "is_home": false
+      }
+    ],
+    "Aer Lingus Harriers": [
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - D1M",
+        "date": "01/02/2026",
+        "time": "14:30",
+        "venue": "Clonlara Community Centre",
+        "home_team": "Munster Thunder D1M",
+        "away_team": "Aer Lingus Harriers",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - D1M",
+        "date": "07/12/2025",
+        "time": "11:30",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U18",
+        "away_team": "Aer Lingus Harriers",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - D1M",
+        "date": "08/02/2026",
+        "time": "13:30",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Harriers",
+        "away_team": "Galway D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - D1M",
+        "date": "08/03/2026",
+        "time": "15:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Harriers",
+        "away_team": "Net Force D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - D1M",
+        "date": "11/01/2026",
+        "time": "15:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Harriers",
+        "away_team": "Balbriggan Broncos",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - D1M",
+        "date": "12/04/2026",
+        "time": "13:30",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Harriers",
+        "away_team": "DVC D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D1M",
+        "date": "12/10/2025",
+        "time": "13:30",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Harriers",
+        "away_team": "Munster Thunder D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - D1M",
+        "date": "14/02/2026",
+        "time": "10:00",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Masters",
+        "away_team": "Aer Lingus Harriers",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - D1M",
+        "date": "14/12/2025",
+        "time": "13:30",
+        "venue": "ALSAA",
+        "home_team": "DVC D1M",
+        "away_team": "Aer Lingus Harriers",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - D1M",
+        "date": "16/11/2025",
+        "time": "16:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Net Force D1M",
+        "away_team": "Aer Lingus Harriers",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 13",
+        "sub_league": "League - D1M",
+        "date": "19/04/2026",
+        "time": "13:00",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Broncos",
+        "away_team": "Aer Lingus Harriers",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D1M",
+        "date": "19/10/2025",
+        "time": "13:30",
+        "venue": "Colaiste Muire Mathair (Galway)",
+        "home_team": "Galway D1M",
+        "away_team": "Aer Lingus Harriers",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - D1M",
+        "date": "21/03/2026",
+        "time": "17:00",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D1M",
+        "away_team": "Aer Lingus Harriers",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D1M",
+        "date": "26/10/2025",
+        "time": "15:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Harriers",
+        "away_team": "Gardians Masters",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - D1M",
+        "date": "30/11/2025",
+        "time": "13:30",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Harriers",
+        "away_team": "Carrick Crows D1M",
+        "is_home": true
+      }
+    ],
+    "Munster Thunder D1M": [
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - D1M",
+        "date": "01/02/2026",
+        "time": "14:30",
+        "venue": "Clonlara Community Centre",
+        "home_team": "Munster Thunder D1M",
+        "away_team": "Aer Lingus Harriers",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - D1M",
+        "date": "01/03/2026",
+        "time": "13:00",
+        "venue": "Clonlara Community Centre",
+        "home_team": "Munster Thunder D1M",
+        "away_team": "Ireland Men's U18",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - D1M",
+        "date": "08/02/2026",
+        "time": "14:30",
+        "venue": "Clonlara Community Centre",
+        "home_team": "Munster Thunder D1M",
+        "away_team": "Gardians Masters",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - D1M",
+        "date": "08/03/2026",
+        "time": "14:30",
+        "venue": "Clonlara Community Centre",
+        "home_team": "Munster Thunder D1M",
+        "away_team": "Carrick Crows D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D1M",
+        "date": "11/01/2026",
+        "time": "16:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Net Force D1M",
+        "away_team": "Munster Thunder D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 12",
+        "sub_league": "League - D1M",
+        "date": "12/04/2026",
+        "time": "14:30",
+        "venue": "Clonlara Community Centre",
+        "home_team": "Munster Thunder D1M",
+        "away_team": "Balbriggan Broncos",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D1M",
+        "date": "12/10/2025",
+        "time": "13:30",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Harriers",
+        "away_team": "Munster Thunder D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - D1M",
+        "date": "14/12/2025",
+        "time": "10:30",
+        "venue": "Castlelands Community Centre",
+        "home_team": "Balbriggan Broncos",
+        "away_team": "Munster Thunder D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D1M",
+        "date": "15/02/2026",
+        "time": "14:30",
+        "venue": "Clonlara Community Centre",
+        "home_team": "Munster Thunder D1M",
+        "away_team": "DVC D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D1M",
+        "date": "15/11/2025",
+        "time": "14:30",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D1M",
+        "away_team": "Munster Thunder D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D1M",
+        "date": "18/10/2025",
+        "time": "17:30",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Masters",
+        "away_team": "Munster Thunder D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 13",
+        "sub_league": "League - D1M",
+        "date": "19/04/2026",
+        "time": "14:30",
+        "venue": "Clonlara Community Centre",
+        "home_team": "Munster Thunder D1M",
+        "away_team": "Net Force D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - D1M",
+        "date": "22/03/2026",
+        "time": "13:30",
+        "venue": "Colaiste Muire Mathair (Galway)",
+        "home_team": "Galway D1M",
+        "away_team": "Munster Thunder D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - D1M",
+        "date": "26/10/2025",
+        "time": "12:30",
+        "venue": "Colaiste Bride (Clondalkin)",
+        "home_team": "DVC D1M",
+        "away_team": "Munster Thunder D1M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - D1M",
+        "date": "30/11/2025",
+        "time": "14:30",
+        "venue": "Clonlara Community Centre",
+        "home_team": "Munster Thunder D1M",
+        "away_team": "Galway D1M",
+        "is_home": true
+      }
+    ],
+    "Ireland Men's U18": [
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - D1M",
+        "date": "01/03/2026",
+        "time": "13:00",
+        "venue": "Clonlara Community Centre",
+        "home_team": "Munster Thunder D1M",
+        "away_team": "Ireland Men's U18",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - D1M",
+        "date": "06/12/2025",
+        "time": "11:30",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U18",
+        "away_team": "DVC D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - D1M",
+        "date": "07/12/2025",
+        "time": "11:30",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U18",
+        "away_team": "Aer Lingus Harriers",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D1M",
+        "date": "08/11/2025",
+        "time": "11:30",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U18",
+        "away_team": "Gardians Masters",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D1M",
+        "date": "09/11/2025",
+        "time": "11:30",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U18",
+        "away_team": "Balbriggan Broncos",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D1M",
+        "date": "24/01/2026",
+        "time": "13:00",
+        "venue": "Riverstick Community Centre",
+        "home_team": "Net Force D1M",
+        "away_team": "Ireland Men's U18",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D1M",
+        "date": "25/01/2026",
+        "time": "11:30",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Ireland Men's U18",
+        "away_team": "Carrick Crows D1M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - D1M",
+        "date": "28/02/2026",
+        "time": "11:30",
+        "venue": "Phoenix Sports Centre (Maynooth Univ)",
+        "home_team": "Ireland Men's U18",
+        "away_team": "Galway D1M",
+        "is_home": true
+      }
+    ]
+  },
+  "metadata": {
+    "total_fixtures": 64,
+    "source": "VIR Competition Matches",
+    "sub_league_count": 1,
+    "competition_name": "Men's Division 1",
+    "teams": [
+      "Aer Lingus Harriers",
+      "Balbriggan Broncos",
+      "Carrick Crows D1M",
+      "DVC D1M",
+      "Galway D1M",
+      "Gardians Masters",
+      "Ireland Men's U18",
+      "Munster Thunder D1M",
+      "Net Force D1M"
+    ],
+    "sub_leagues": [
+      "League - D1M"
+    ]
+  },
+  "capturedAt": "2025-10-03T19:55:10.312Z",
+  "weekOf": "2025-10-03",
+  "dataVersion": "1.0",
+  "source": "VIR Competition Matches"
+}
