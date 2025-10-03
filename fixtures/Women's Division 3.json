@@ -1,0 +1,584 @@
+{
+  "all_fixtures": [
+    {
+      "matchday": "Matchday 1",
+      "sub_league": "League - D3W Group A",
+      "date": "26/10/2025",
+      "time": "10:00",
+      "venue": "ALSAA",
+      "home_team": "Aer Lingus Hawks",
+      "away_team": "Santry Phoenix D3W"
+    },
+    {
+      "matchday": "Matchday 1",
+      "sub_league": "League - D3W Group A",
+      "date": "01/11/2025",
+      "time": "20:30",
+      "venue": "Artane Beaumont Family Recreation Centre",
+      "home_team": "Santry Aces D3W",
+      "away_team": "Aer Lingus Hawks"
+    },
+    {
+      "matchday": "Matchday 1",
+      "sub_league": "League - D3W Group A",
+      "date": "22/11/2025",
+      "time": "18:00",
+      "venue": "Artane Beaumont Family Recreation Centre",
+      "home_team": "Santry Aces D3W",
+      "away_team": "Cavan Cats D3W"
+    },
+    {
+      "matchday": "Matchday 1",
+      "sub_league": "League - D3W Group A",
+      "date": "22/11/2025",
+      "time": "20:30",
+      "venue": "Artane Beaumont Family Recreation Centre",
+      "home_team": "Santry Phoenix D3W",
+      "away_team": "Aer Lingus Hawks"
+    },
+    {
+      "matchday": "Matchday 1",
+      "sub_league": "League - D3W Group B",
+      "date": "30/11/2025",
+      "time": "16:00",
+      "venue": "Artane Beaumont Family Recreation Centre",
+      "home_team": "Santry Phoenix D3W",
+      "away_team": "Cavan Cats D3W"
+    },
+    {
+      "matchday": "Matchday 2",
+      "sub_league": "League - D3W Group B",
+      "date": "14/12/2025",
+      "time": "11:00",
+      "venue": "ALSAA",
+      "home_team": "Aer Lingus Hawks",
+      "away_team": "Cavan Cats D3W"
+    },
+    {
+      "matchday": "Matchday 2",
+      "sub_league": "League - D3W Group B",
+      "date": "14/12/2025",
+      "time": "19:00",
+      "venue": "Our Lady of Mercy College, Beaumont",
+      "home_team": "Santry Phoenix D3W",
+      "away_team": "Santry Aces D3W"
+    },
+    {
+      "matchday": "Matchday 2",
+      "sub_league": "League - D3W Group B",
+      "date": "11/01/2026",
+      "time": "10:00",
+      "venue": "ALSAA",
+      "home_team": "Aer Lingus Hawks",
+      "away_team": "Santry Aces D3W"
+    },
+    {
+      "matchday": "Matchday 2",
+      "sub_league": "League - D3W Group C",
+      "date": "20/01/2026",
+      "time": "19:00",
+      "venue": "Artane Beaumont Family Recreation Centre",
+      "home_team": "Santry Aces D3W",
+      "away_team": "Santry Phoenix D3W"
+    },
+    {
+      "matchday": "Matchday 2",
+      "sub_league": "League - D3W Group C",
+      "date": "01/02/2026",
+      "time": "16:30",
+      "venue": "Artane Beaumont Family Recreation Centre",
+      "home_team": "Santry Phoenix D3W",
+      "away_team": "Santry Aces D3W"
+    },
+    {
+      "matchday": "Matchday 3",
+      "sub_league": "League - D3W Group C",
+      "date": "08/02/2026",
+      "time": "11:00",
+      "venue": "ALSAA",
+      "home_team": "Cavan Cats D3W",
+      "away_team": "Aer Lingus Hawks"
+    },
+    {
+      "matchday": "Matchday 3",
+      "sub_league": "League - D3W Group C",
+      "date": "15/02/2026",
+      "time": "16:30",
+      "venue": "Mercy College (Coolock)",
+      "home_team": "Santry Aces D3W",
+      "away_team": "Cavan Cats D3W"
+    },
+    {
+      "matchday": "Matchday 3",
+      "sub_league": "League - D3W Group D",
+      "date": "08/03/2026",
+      "time": "12:30",
+      "venue": "ALSAA",
+      "home_team": "Cavan Cats D3W",
+      "away_team": "Aer Lingus Hawks"
+    },
+    {
+      "matchday": "Matchday 3",
+      "sub_league": "League - D3W Group D",
+      "date": "18/10/2025",
+      "time": "15:00",
+      "venue": "St Mary's College (Naas)",
+      "home_team": "Naas Cobras D3W",
+      "away_team": "RCSI D3W"
+    }
+  ],
+  "sub_leagues": {
+    "League - D3W Group A": [
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3W Group A",
+        "date": "01/11/2025",
+        "time": "20:30",
+        "venue": "Artane Beaumont Family Recreation Centre",
+        "home_team": "Santry Aces D3W",
+        "away_team": "Aer Lingus Hawks"
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3W Group A",
+        "date": "22/11/2025",
+        "time": "18:00",
+        "venue": "Artane Beaumont Family Recreation Centre",
+        "home_team": "Santry Aces D3W",
+        "away_team": "Cavan Cats D3W"
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3W Group A",
+        "date": "22/11/2025",
+        "time": "20:30",
+        "venue": "Artane Beaumont Family Recreation Centre",
+        "home_team": "Santry Phoenix D3W",
+        "away_team": "Aer Lingus Hawks"
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3W Group A",
+        "date": "26/10/2025",
+        "time": "10:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Hawks",
+        "away_team": "Santry Phoenix D3W"
+      }
+    ],
+    "League - D3W Group B": [
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D3W Group B",
+        "date": "11/01/2026",
+        "time": "10:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Hawks",
+        "away_team": "Santry Aces D3W"
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D3W Group B",
+        "date": "14/12/2025",
+        "time": "11:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Hawks",
+        "away_team": "Cavan Cats D3W"
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D3W Group B",
+        "date": "14/12/2025",
+        "time": "19:00",
+        "venue": "Our Lady of Mercy College, Beaumont",
+        "home_team": "Santry Phoenix D3W",
+        "away_team": "Santry Aces D3W"
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3W Group B",
+        "date": "30/11/2025",
+        "time": "16:00",
+        "venue": "Artane Beaumont Family Recreation Centre",
+        "home_team": "Santry Phoenix D3W",
+        "away_team": "Cavan Cats D3W"
+      }
+    ],
+    "League - D3W Group C": [
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D3W Group C",
+        "date": "01/02/2026",
+        "time": "16:30",
+        "venue": "Artane Beaumont Family Recreation Centre",
+        "home_team": "Santry Phoenix D3W",
+        "away_team": "Santry Aces D3W"
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D3W Group C",
+        "date": "08/02/2026",
+        "time": "11:00",
+        "venue": "ALSAA",
+        "home_team": "Cavan Cats D3W",
+        "away_team": "Aer Lingus Hawks"
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D3W Group C",
+        "date": "15/02/2026",
+        "time": "16:30",
+        "venue": "Mercy College (Coolock)",
+        "home_team": "Santry Aces D3W",
+        "away_team": "Cavan Cats D3W"
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D3W Group C",
+        "date": "20/01/2026",
+        "time": "19:00",
+        "venue": "Artane Beaumont Family Recreation Centre",
+        "home_team": "Santry Aces D3W",
+        "away_team": "Santry Phoenix D3W"
+      }
+    ],
+    "League - D3W Group D": [
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D3W Group D",
+        "date": "08/03/2026",
+        "time": "12:30",
+        "venue": "ALSAA",
+        "home_team": "Cavan Cats D3W",
+        "away_team": "Aer Lingus Hawks"
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D3W Group D",
+        "date": "18/10/2025",
+        "time": "15:00",
+        "venue": "St Mary's College (Naas)",
+        "home_team": "Naas Cobras D3W",
+        "away_team": "RCSI D3W"
+      }
+    ]
+  },
+  "teams": {
+    "Aer Lingus Hawks": [
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3W Group A",
+        "date": "01/11/2025",
+        "time": "20:30",
+        "venue": "Artane Beaumont Family Recreation Centre",
+        "home_team": "Santry Aces D3W",
+        "away_team": "Aer Lingus Hawks",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D3W Group C",
+        "date": "08/02/2026",
+        "time": "11:00",
+        "venue": "ALSAA",
+        "home_team": "Cavan Cats D3W",
+        "away_team": "Aer Lingus Hawks",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D3W Group D",
+        "date": "08/03/2026",
+        "time": "12:30",
+        "venue": "ALSAA",
+        "home_team": "Cavan Cats D3W",
+        "away_team": "Aer Lingus Hawks",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D3W Group B",
+        "date": "11/01/2026",
+        "time": "10:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Hawks",
+        "away_team": "Santry Aces D3W",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D3W Group B",
+        "date": "14/12/2025",
+        "time": "11:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Hawks",
+        "away_team": "Cavan Cats D3W",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3W Group A",
+        "date": "22/11/2025",
+        "time": "20:30",
+        "venue": "Artane Beaumont Family Recreation Centre",
+        "home_team": "Santry Phoenix D3W",
+        "away_team": "Aer Lingus Hawks",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3W Group A",
+        "date": "26/10/2025",
+        "time": "10:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Hawks",
+        "away_team": "Santry Phoenix D3W",
+        "is_home": true
+      }
+    ],
+    "Santry Phoenix D3W": [
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D3W Group C",
+        "date": "01/02/2026",
+        "time": "16:30",
+        "venue": "Artane Beaumont Family Recreation Centre",
+        "home_team": "Santry Phoenix D3W",
+        "away_team": "Santry Aces D3W",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D3W Group B",
+        "date": "14/12/2025",
+        "time": "19:00",
+        "venue": "Our Lady of Mercy College, Beaumont",
+        "home_team": "Santry Phoenix D3W",
+        "away_team": "Santry Aces D3W",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D3W Group C",
+        "date": "20/01/2026",
+        "time": "19:00",
+        "venue": "Artane Beaumont Family Recreation Centre",
+        "home_team": "Santry Aces D3W",
+        "away_team": "Santry Phoenix D3W",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3W Group A",
+        "date": "22/11/2025",
+        "time": "20:30",
+        "venue": "Artane Beaumont Family Recreation Centre",
+        "home_team": "Santry Phoenix D3W",
+        "away_team": "Aer Lingus Hawks",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3W Group A",
+        "date": "26/10/2025",
+        "time": "10:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Hawks",
+        "away_team": "Santry Phoenix D3W",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3W Group B",
+        "date": "30/11/2025",
+        "time": "16:00",
+        "venue": "Artane Beaumont Family Recreation Centre",
+        "home_team": "Santry Phoenix D3W",
+        "away_team": "Cavan Cats D3W",
+        "is_home": true
+      }
+    ],
+    "Santry Aces D3W": [
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D3W Group C",
+        "date": "01/02/2026",
+        "time": "16:30",
+        "venue": "Artane Beaumont Family Recreation Centre",
+        "home_team": "Santry Phoenix D3W",
+        "away_team": "Santry Aces D3W",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3W Group A",
+        "date": "01/11/2025",
+        "time": "20:30",
+        "venue": "Artane Beaumont Family Recreation Centre",
+        "home_team": "Santry Aces D3W",
+        "away_team": "Aer Lingus Hawks",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D3W Group B",
+        "date": "11/01/2026",
+        "time": "10:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Hawks",
+        "away_team": "Santry Aces D3W",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D3W Group B",
+        "date": "14/12/2025",
+        "time": "19:00",
+        "venue": "Our Lady of Mercy College, Beaumont",
+        "home_team": "Santry Phoenix D3W",
+        "away_team": "Santry Aces D3W",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D3W Group C",
+        "date": "15/02/2026",
+        "time": "16:30",
+        "venue": "Mercy College (Coolock)",
+        "home_team": "Santry Aces D3W",
+        "away_team": "Cavan Cats D3W",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D3W Group C",
+        "date": "20/01/2026",
+        "time": "19:00",
+        "venue": "Artane Beaumont Family Recreation Centre",
+        "home_team": "Santry Aces D3W",
+        "away_team": "Santry Phoenix D3W",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3W Group A",
+        "date": "22/11/2025",
+        "time": "18:00",
+        "venue": "Artane Beaumont Family Recreation Centre",
+        "home_team": "Santry Aces D3W",
+        "away_team": "Cavan Cats D3W",
+        "is_home": true
+      }
+    ],
+    "Cavan Cats D3W": [
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D3W Group C",
+        "date": "08/02/2026",
+        "time": "11:00",
+        "venue": "ALSAA",
+        "home_team": "Cavan Cats D3W",
+        "away_team": "Aer Lingus Hawks",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D3W Group D",
+        "date": "08/03/2026",
+        "time": "12:30",
+        "venue": "ALSAA",
+        "home_team": "Cavan Cats D3W",
+        "away_team": "Aer Lingus Hawks",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D3W Group B",
+        "date": "14/12/2025",
+        "time": "11:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Hawks",
+        "away_team": "Cavan Cats D3W",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D3W Group C",
+        "date": "15/02/2026",
+        "time": "16:30",
+        "venue": "Mercy College (Coolock)",
+        "home_team": "Santry Aces D3W",
+        "away_team": "Cavan Cats D3W",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3W Group A",
+        "date": "22/11/2025",
+        "time": "18:00",
+        "venue": "Artane Beaumont Family Recreation Centre",
+        "home_team": "Santry Aces D3W",
+        "away_team": "Cavan Cats D3W",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3W Group B",
+        "date": "30/11/2025",
+        "time": "16:00",
+        "venue": "Artane Beaumont Family Recreation Centre",
+        "home_team": "Santry Phoenix D3W",
+        "away_team": "Cavan Cats D3W",
+        "is_home": false
+      }
+    ],
+    "Naas Cobras D3W": [
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D3W Group D",
+        "date": "18/10/2025",
+        "time": "15:00",
+        "venue": "St Mary's College (Naas)",
+        "home_team": "Naas Cobras D3W",
+        "away_team": "RCSI D3W",
+        "is_home": true
+      }
+    ],
+    "RCSI D3W": [
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D3W Group D",
+        "date": "18/10/2025",
+        "time": "15:00",
+        "venue": "St Mary's College (Naas)",
+        "home_team": "Naas Cobras D3W",
+        "away_team": "RCSI D3W",
+        "is_home": false
+      }
+    ]
+  },
+  "metadata": {
+    "total_fixtures": 14,
+    "source": "VIR Competition Matches",
+    "sub_league_count": 4,
+    "competition_name": "Women's Division 3",
+    "teams": [
+      "Aer Lingus Hawks",
+      "Cavan Cats D3W",
+      "Naas Cobras D3W",
+      "RCSI D3W",
+      "Santry Aces D3W",
+      "Santry Phoenix D3W"
+    ],
+    "sub_leagues": [
+      "League - D3W Group A",
+      "League - D3W Group B",
+      "League - D3W Group C",
+      "League - D3W Group D"
+    ]
+  },
+  "capturedAt": "2025-10-03T20:23:35.356Z",
+  "weekOf": "2025-10-03",
+  "dataVersion": "1.0",
+  "source": "VIR Competition Matches"
+}
