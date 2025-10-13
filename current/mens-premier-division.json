@@ -4,27 +4,27 @@
   "teams": [
     {
       "league": "Men's Premier Division",
-      "teamId": "348",
-      "teamName": "Aer Lingus PM",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_348.jpg",
-      "rankingPoints": 0,
+      "teamId": "416",
+      "teamName": "Tallaght Rockets PM",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_416.jpg",
+      "rankingPoints": 3,
       "matches": {
-        "played": 0,
-        "won": 0,
+        "played": 1,
+        "won": 1,
         "lost": 0
       },
       "sets": {
-        "won": 0,
+        "won": 3,
         "lost": 0,
         "ratio": 0
       },
       "points": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
+        "won": 76,
+        "lost": 67,
+        "ratio": 1.134
       },
       "resultsBreakdown": {
-        "wins3_0": 0,
+        "wins3_0": 1,
         "wins3_1": 0,
         "wins3_2": 0,
         "losses2_3": 0,
@@ -39,25 +39,25 @@
       "teamId": "414",
       "teamName": "Balbriggan Eagles",
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_414.jpg",
-      "rankingPoints": 0,
+      "rankingPoints": 3,
       "matches": {
-        "played": 0,
-        "won": 0,
+        "played": 1,
+        "won": 1,
         "lost": 0
       },
       "sets": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
+        "won": 3,
+        "lost": 1,
+        "ratio": 3
       },
       "points": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
+        "won": 99,
+        "lost": 77,
+        "ratio": 1.286
       },
       "resultsBreakdown": {
         "wins3_0": 0,
-        "wins3_1": 0,
+        "wins3_1": 1,
         "wins3_2": 0,
         "losses2_3": 0,
         "losses1_3": 0,
@@ -71,25 +71,25 @@
       "teamId": "415",
       "teamName": "Dalkey Devils PM",
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_415.jpg",
-      "rankingPoints": 0,
+      "rankingPoints": 3,
       "matches": {
-        "played": 0,
-        "won": 0,
+        "played": 1,
+        "won": 1,
         "lost": 0
       },
       "sets": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
+        "won": 3,
+        "lost": 1,
+        "ratio": 3
       },
       "points": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
+        "won": 100,
+        "lost": 87,
+        "ratio": 1.149
       },
       "resultsBreakdown": {
         "wins3_0": 0,
-        "wins3_1": 0,
+        "wins3_1": 1,
         "wins3_2": 0,
         "losses2_3": 0,
         "losses1_3": 0,
@@ -100,28 +100,28 @@
     },
     {
       "league": "Men's Premier Division",
-      "teamId": "347",
-      "teamName": "DVC Bravo",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_347.jpg",
-      "rankingPoints": 0,
+      "teamId": "318",
+      "teamName": "TCD PM",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_318.jpg",
+      "rankingPoints": 3,
       "matches": {
-        "played": 0,
-        "won": 0,
+        "played": 1,
+        "won": 1,
         "lost": 0
       },
       "sets": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
+        "won": 3,
+        "lost": 1,
+        "ratio": 3
       },
       "points": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
+        "won": 92,
+        "lost": 82,
+        "ratio": 1.122
       },
       "resultsBreakdown": {
         "wins3_0": 0,
-        "wins3_1": 0,
+        "wins3_1": 1,
         "wins3_2": 0,
         "losses2_3": 0,
         "losses1_3": 0,
@@ -129,38 +129,6 @@
       },
       "penalty": null,
       "position": 4
-    },
-    {
-      "league": "Men's Premier Division",
-      "teamId": "346",
-      "teamName": "Gardians Fianna",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_346.jpg",
-      "rankingPoints": 0,
-      "matches": {
-        "played": 0,
-        "won": 0,
-        "lost": 0
-      },
-      "sets": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
-      },
-      "points": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
-      },
-      "resultsBreakdown": {
-        "wins3_0": 0,
-        "wins3_1": 0,
-        "wins3_2": 0,
-        "losses2_3": 0,
-        "losses1_3": 0,
-        "losses0_3": 0
-      },
-      "penalty": null,
-      "position": 5
     },
     {
       "league": "Men's Premier Division",
@@ -192,71 +160,7 @@
         "losses0_3": 0
       },
       "penalty": null,
-      "position": 6
-    },
-    {
-      "league": "Men's Premier Division",
-      "teamId": "416",
-      "teamName": "Tallaght Rockets PM",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_416.jpg",
-      "rankingPoints": 0,
-      "matches": {
-        "played": 0,
-        "won": 0,
-        "lost": 0
-      },
-      "sets": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
-      },
-      "points": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
-      },
-      "resultsBreakdown": {
-        "wins3_0": 0,
-        "wins3_1": 0,
-        "wins3_2": 0,
-        "losses2_3": 0,
-        "losses1_3": 0,
-        "losses0_3": 0
-      },
-      "penalty": null,
-      "position": 7
-    },
-    {
-      "league": "Men's Premier Division",
-      "teamId": "318",
-      "teamName": "TCD PM",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_318.jpg",
-      "rankingPoints": 0,
-      "matches": {
-        "played": 0,
-        "won": 0,
-        "lost": 0
-      },
-      "sets": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
-      },
-      "points": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
-      },
-      "resultsBreakdown": {
-        "wins3_0": 0,
-        "wins3_1": 0,
-        "wins3_2": 0,
-        "losses2_3": 0,
-        "losses1_3": 0,
-        "losses0_3": 0
-      },
-      "penalty": null,
-      "position": 8
+      "position": 5
     },
     {
       "league": "Men's Premier Division",
@@ -265,19 +169,115 @@
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_317.jpg",
       "rankingPoints": 0,
       "matches": {
-        "played": 0,
+        "played": 1,
         "won": 0,
-        "lost": 0
+        "lost": 1
+      },
+      "sets": {
+        "won": 1,
+        "lost": 3,
+        "ratio": 0.33
+      },
+      "points": {
+        "won": 82,
+        "lost": 92,
+        "ratio": 0.891
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 1,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 6
+    },
+    {
+      "league": "Men's Premier Division",
+      "teamId": "346",
+      "teamName": "Gardians Fianna",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_346.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 1,
+        "won": 0,
+        "lost": 1
+      },
+      "sets": {
+        "won": 1,
+        "lost": 3,
+        "ratio": 0.33
+      },
+      "points": {
+        "won": 87,
+        "lost": 100,
+        "ratio": 0.87
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 1,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 7
+    },
+    {
+      "league": "Men's Premier Division",
+      "teamId": "348",
+      "teamName": "Aer Lingus PM",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_348.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 1,
+        "won": 0,
+        "lost": 1
+      },
+      "sets": {
+        "won": 1,
+        "lost": 3,
+        "ratio": 0.33
+      },
+      "points": {
+        "won": 77,
+        "lost": 99,
+        "ratio": 0.778
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 1,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 8
+    },
+    {
+      "league": "Men's Premier Division",
+      "teamId": "347",
+      "teamName": "DVC Bravo",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_347.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 1,
+        "won": 0,
+        "lost": 1
       },
       "sets": {
         "won": 0,
-        "lost": 0,
+        "lost": 3,
         "ratio": 0
       },
       "points": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
+        "won": 67,
+        "lost": 76,
+        "ratio": 0.882
       },
       "resultsBreakdown": {
         "wins3_0": 0,
@@ -285,15 +285,15 @@
         "wins3_2": 0,
         "losses2_3": 0,
         "losses1_3": 0,
-        "losses0_3": 0
+        "losses0_3": 1
       },
       "penalty": null,
       "position": 9
     }
   ],
-  "updated": "2025-09-08T09:07:22.068Z",
+  "updated": "2025-10-13T13:33:28.432Z",
   "totalTeams": 9,
-  "lastUpdated": "2025-09-08T09:07:22.127Z",
+  "lastUpdated": "2025-10-13T13:33:28.535Z",
   "dataVersion": "1.0",
   "source": "VIR Volleyball Standings"
 }
