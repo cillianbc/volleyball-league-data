@@ -4,27 +4,27 @@
   "teams": [
     {
       "league": "Women's Premier Division",
-      "teamId": "354",
-      "teamName": "DVC Lions",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_354.jpg",
-      "rankingPoints": 0,
+      "teamId": "352",
+      "teamName": "Santry Calypso",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_352.jpg",
+      "rankingPoints": 3,
       "matches": {
-        "played": 0,
-        "won": 0,
+        "played": 1,
+        "won": 1,
         "lost": 0
       },
       "sets": {
-        "won": 0,
+        "won": 3,
         "lost": 0,
         "ratio": 0
       },
       "points": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
+        "won": 75,
+        "lost": 37,
+        "ratio": 2.027
       },
       "resultsBreakdown": {
-        "wins3_0": 0,
+        "wins3_0": 1,
         "wins3_1": 0,
         "wins3_2": 0,
         "losses2_3": 0,
@@ -36,27 +36,27 @@
     },
     {
       "league": "Women's Premier Division",
-      "teamId": "310",
-      "teamName": "Galway PW",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_310.jpg",
-      "rankingPoints": 0,
+      "teamId": "354",
+      "teamName": "DVC Lions",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_354.jpg",
+      "rankingPoints": 3,
       "matches": {
-        "played": 0,
-        "won": 0,
+        "played": 1,
+        "won": 1,
         "lost": 0
       },
       "sets": {
-        "won": 0,
+        "won": 3,
         "lost": 0,
         "ratio": 0
       },
       "points": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
+        "won": 75,
+        "lost": 43,
+        "ratio": 1.744
       },
       "resultsBreakdown": {
-        "wins3_0": 0,
+        "wins3_0": 1,
         "wins3_1": 0,
         "wins3_2": 0,
         "losses2_3": 0,
@@ -71,24 +71,24 @@
       "teamId": "353",
       "teamName": "Gardians PW",
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_353.jpg",
-      "rankingPoints": 0,
+      "rankingPoints": 3,
       "matches": {
-        "played": 0,
-        "won": 0,
+        "played": 1,
+        "won": 1,
         "lost": 0
       },
       "sets": {
-        "won": 0,
+        "won": 3,
         "lost": 0,
         "ratio": 0
       },
       "points": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
+        "won": 75,
+        "lost": 56,
+        "ratio": 1.339
       },
       "resultsBreakdown": {
-        "wins3_0": 0,
+        "wins3_0": 1,
         "wins3_1": 0,
         "wins3_2": 0,
         "losses2_3": 0,
@@ -97,6 +97,38 @@
       },
       "penalty": null,
       "position": 3
+    },
+    {
+      "league": "Women's Premier Division",
+      "teamId": "311",
+      "teamName": "UCD PW",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_311.jpg",
+      "rankingPoints": 3,
+      "matches": {
+        "played": 1,
+        "won": 1,
+        "lost": 0
+      },
+      "sets": {
+        "won": 3,
+        "lost": 0,
+        "ratio": 0
+      },
+      "points": {
+        "won": 88,
+        "lost": 82,
+        "ratio": 1.073
+      },
+      "resultsBreakdown": {
+        "wins3_0": 1,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 4
     },
     {
       "league": "Women's Premier Division",
@@ -128,103 +160,7 @@
         "losses0_3": 0
       },
       "penalty": null,
-      "position": 4
-    },
-    {
-      "league": "Women's Premier Division",
-      "teamId": "312",
-      "teamName": "Munster Thunder PW",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_312.jpg",
-      "rankingPoints": 0,
-      "matches": {
-        "played": 0,
-        "won": 0,
-        "lost": 0
-      },
-      "sets": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
-      },
-      "points": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
-      },
-      "resultsBreakdown": {
-        "wins3_0": 0,
-        "wins3_1": 0,
-        "wins3_2": 0,
-        "losses2_3": 0,
-        "losses1_3": 0,
-        "losses0_3": 0
-      },
-      "penalty": null,
       "position": 5
-    },
-    {
-      "league": "Women's Premier Division",
-      "teamId": "309",
-      "teamName": "Net Force PW",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_309.jpg",
-      "rankingPoints": 0,
-      "matches": {
-        "played": 0,
-        "won": 0,
-        "lost": 0
-      },
-      "sets": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
-      },
-      "points": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
-      },
-      "resultsBreakdown": {
-        "wins3_0": 0,
-        "wins3_1": 0,
-        "wins3_2": 0,
-        "losses2_3": 0,
-        "losses1_3": 0,
-        "losses0_3": 0
-      },
-      "penalty": null,
-      "position": 6
-    },
-    {
-      "league": "Women's Premier Division",
-      "teamId": "352",
-      "teamName": "Santry Calypso",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_352.jpg",
-      "rankingPoints": 0,
-      "matches": {
-        "played": 0,
-        "won": 0,
-        "lost": 0
-      },
-      "sets": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
-      },
-      "points": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
-      },
-      "resultsBreakdown": {
-        "wins3_0": 0,
-        "wins3_1": 0,
-        "wins3_2": 0,
-        "losses2_3": 0,
-        "losses1_3": 0,
-        "losses0_3": 0
-      },
-      "penalty": null,
-      "position": 7
     },
     {
       "league": "Women's Premier Division",
@@ -233,19 +169,19 @@
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_313.jpg",
       "rankingPoints": 0,
       "matches": {
-        "played": 0,
+        "played": 1,
         "won": 0,
-        "lost": 0
+        "lost": 1
       },
       "sets": {
         "won": 0,
-        "lost": 0,
+        "lost": 3,
         "ratio": 0
       },
       "points": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
+        "won": 82,
+        "lost": 88,
+        "ratio": 0.932
       },
       "resultsBreakdown": {
         "wins3_0": 0,
@@ -253,31 +189,95 @@
         "wins3_2": 0,
         "losses2_3": 0,
         "losses1_3": 0,
-        "losses0_3": 0
+        "losses0_3": 1
+      },
+      "penalty": null,
+      "position": 6
+    },
+    {
+      "league": "Women's Premier Division",
+      "teamId": "309",
+      "teamName": "Net Force PW",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_309.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 1,
+        "won": 0,
+        "lost": 1
+      },
+      "sets": {
+        "won": 0,
+        "lost": 3,
+        "ratio": 0
+      },
+      "points": {
+        "won": 56,
+        "lost": 75,
+        "ratio": 0.747
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 1
+      },
+      "penalty": null,
+      "position": 7
+    },
+    {
+      "league": "Women's Premier Division",
+      "teamId": "310",
+      "teamName": "Galway PW",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_310.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 1,
+        "won": 0,
+        "lost": 1
+      },
+      "sets": {
+        "won": 0,
+        "lost": 3,
+        "ratio": 0
+      },
+      "points": {
+        "won": 43,
+        "lost": 75,
+        "ratio": 0.573
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 1
       },
       "penalty": null,
       "position": 8
     },
     {
       "league": "Women's Premier Division",
-      "teamId": "311",
-      "teamName": "UCD PW",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_311.jpg",
+      "teamId": "312",
+      "teamName": "Munster Thunder PW",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_312.jpg",
       "rankingPoints": 0,
       "matches": {
-        "played": 0,
+        "played": 1,
         "won": 0,
-        "lost": 0
+        "lost": 1
       },
       "sets": {
         "won": 0,
-        "lost": 0,
+        "lost": 3,
         "ratio": 0
       },
       "points": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
+        "won": 37,
+        "lost": 75,
+        "ratio": 0.493
       },
       "resultsBreakdown": {
         "wins3_0": 0,
@@ -285,15 +285,15 @@
         "wins3_2": 0,
         "losses2_3": 0,
         "losses1_3": 0,
-        "losses0_3": 0
+        "losses0_3": 1
       },
       "penalty": null,
       "position": 9
     }
   ],
-  "updated": "2025-09-08T09:07:22.068Z",
+  "updated": "2025-10-16T23:00:01.918Z",
   "totalTeams": 9,
-  "lastUpdated": "2025-09-08T09:07:22.129Z",
+  "lastUpdated": "2025-10-16T23:00:02.022Z",
   "dataVersion": "1.0",
   "source": "VIR Volleyball Standings"
 }
