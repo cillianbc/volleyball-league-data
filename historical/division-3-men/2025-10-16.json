@@ -1,0 +1,17 @@
+{
+  "league": "Men's Division 3",
+  "totalTeams": 0,
+  "subLeagueCount": 0,
+  "extractedAt": "2025-10-16T23:00:15.220Z",
+  "subLeagues": [],
+  "teams": [],
+  "capturedAt": "2025-10-16T23:00:15.288Z",
+  "weekOf": "2025-10-16",
+  "dataVersion": "2.0",
+  "source": "VIR Volleyball Standings",
+  "schemaInfo": {
+    "hasSubLeagues": true,
+    "flatTeamsIncluded": true,
+    "hierarchicalDataIncluded": true
+  }
+}
