@@ -4,27 +4,27 @@
   "teams": [
     {
       "league": "Women's Division 1",
-      "teamId": "400",
-      "teamName": "Balbriggan Flames",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_400.jpg",
-      "rankingPoints": 0,
+      "teamId": "401",
+      "teamName": "Dalkey Devils D1W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_401.jpg",
+      "rankingPoints": 3,
       "matches": {
-        "played": 0,
-        "won": 0,
+        "played": 1,
+        "won": 1,
         "lost": 0
       },
       "sets": {
-        "won": 0,
+        "won": 3,
         "lost": 0,
         "ratio": 0
       },
       "points": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
+        "won": 75,
+        "lost": 46,
+        "ratio": 1.63
       },
       "resultsBreakdown": {
-        "wins3_0": 0,
+        "wins3_0": 1,
         "wins3_1": 0,
         "wins3_2": 0,
         "losses2_3": 0,
@@ -36,27 +36,27 @@
     },
     {
       "league": "Women's Division 1",
-      "teamId": "391",
-      "teamName": "BMP Valkyries",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_391.jpg",
-      "rankingPoints": 0,
+      "teamId": "373",
+      "teamName": "Santry Rebels",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_373.jpg",
+      "rankingPoints": 3,
       "matches": {
-        "played": 0,
-        "won": 0,
+        "played": 1,
+        "won": 1,
         "lost": 0
       },
       "sets": {
-        "won": 0,
+        "won": 3,
         "lost": 0,
         "ratio": 0
       },
       "points": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
+        "won": 77,
+        "lost": 64,
+        "ratio": 1.203
       },
       "resultsBreakdown": {
-        "wins3_0": 0,
+        "wins3_0": 1,
         "wins3_1": 0,
         "wins3_2": 0,
         "losses2_3": 0,
@@ -68,28 +68,28 @@
     },
     {
       "league": "Women's Division 1",
-      "teamId": "401",
-      "teamName": "Dalkey Devils D1W",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_401.jpg",
-      "rankingPoints": 0,
+      "teamId": "400",
+      "teamName": "Balbriggan Flames",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_400.jpg",
+      "rankingPoints": 3,
       "matches": {
-        "played": 0,
-        "won": 0,
+        "played": 1,
+        "won": 1,
         "lost": 0
       },
       "sets": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
+        "won": 3,
+        "lost": 1,
+        "ratio": 3
       },
       "points": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
+        "won": 98,
+        "lost": 87,
+        "ratio": 1.126
       },
       "resultsBreakdown": {
         "wins3_0": 0,
-        "wins3_1": 0,
+        "wins3_1": 1,
         "wins3_2": 0,
         "losses2_3": 0,
         "losses1_3": 0,
@@ -100,29 +100,29 @@
     },
     {
       "league": "Women's Division 1",
-      "teamId": "314",
-      "teamName": "Impact Macroom D1W",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_314.jpg",
-      "rankingPoints": 0,
+      "teamId": "375",
+      "teamName": "SETU Carlow D1W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_375.jpg",
+      "rankingPoints": 2,
       "matches": {
-        "played": 0,
-        "won": 0,
+        "played": 1,
+        "won": 1,
         "lost": 0
       },
       "sets": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
+        "won": 3,
+        "lost": 2,
+        "ratio": 1.5
       },
       "points": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
+        "won": 109,
+        "lost": 107,
+        "ratio": 1.019
       },
       "resultsBreakdown": {
         "wins3_0": 0,
         "wins3_1": 0,
-        "wins3_2": 0,
+        "wins3_2": 1,
         "losses2_3": 0,
         "losses1_3": 0,
         "losses0_3": 0
@@ -164,30 +164,30 @@
     },
     {
       "league": "Women's Division 1",
-      "teamId": "373",
-      "teamName": "Santry Rebels",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_373.jpg",
-      "rankingPoints": 0,
+      "teamId": "374",
+      "teamName": "Santry Sparks",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_374.jpg",
+      "rankingPoints": 1,
       "matches": {
-        "played": 0,
+        "played": 1,
         "won": 0,
-        "lost": 0
+        "lost": 1
       },
       "sets": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
+        "won": 2,
+        "lost": 3,
+        "ratio": 0.67
       },
       "points": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
+        "won": 107,
+        "lost": 109,
+        "ratio": 0.982
       },
       "resultsBreakdown": {
         "wins3_0": 0,
         "wins3_1": 0,
         "wins3_2": 0,
-        "losses2_3": 0,
+        "losses2_3": 1,
         "losses1_3": 0,
         "losses0_3": 0
       },
@@ -196,67 +196,35 @@
     },
     {
       "league": "Women's Division 1",
-      "teamId": "374",
-      "teamName": "Santry Sparks",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_374.jpg",
+      "teamId": "314",
+      "teamName": "Impact Macroom D1W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_314.jpg",
       "rankingPoints": 0,
       "matches": {
-        "played": 0,
+        "played": 1,
         "won": 0,
-        "lost": 0
+        "lost": 1
       },
       "sets": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
+        "won": 1,
+        "lost": 3,
+        "ratio": 0.33
       },
       "points": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
+        "won": 87,
+        "lost": 98,
+        "ratio": 0.888
       },
       "resultsBreakdown": {
         "wins3_0": 0,
         "wins3_1": 0,
         "wins3_2": 0,
         "losses2_3": 0,
-        "losses1_3": 0,
+        "losses1_3": 1,
         "losses0_3": 0
       },
       "penalty": null,
       "position": 7
-    },
-    {
-      "league": "Women's Division 1",
-      "teamId": "375",
-      "teamName": "SETU Carlow D1W",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_375.jpg",
-      "rankingPoints": 0,
-      "matches": {
-        "played": 0,
-        "won": 0,
-        "lost": 0
-      },
-      "sets": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
-      },
-      "points": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
-      },
-      "resultsBreakdown": {
-        "wins3_0": 0,
-        "wins3_1": 0,
-        "wins3_2": 0,
-        "losses2_3": 0,
-        "losses1_3": 0,
-        "losses0_3": 0
-      },
-      "penalty": null,
-      "position": 8
     },
     {
       "league": "Women's Division 1",
@@ -265,19 +233,19 @@
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_402.jpg",
       "rankingPoints": 0,
       "matches": {
-        "played": 0,
+        "played": 1,
         "won": 0,
-        "lost": 0
+        "lost": 1
       },
       "sets": {
         "won": 0,
-        "lost": 0,
+        "lost": 3,
         "ratio": 0
       },
       "points": {
-        "won": 0,
-        "lost": 0,
-        "ratio": 0
+        "won": 64,
+        "lost": 77,
+        "ratio": 0.831
       },
       "resultsBreakdown": {
         "wins3_0": 0,
@@ -285,15 +253,47 @@
         "wins3_2": 0,
         "losses2_3": 0,
         "losses1_3": 0,
-        "losses0_3": 0
+        "losses0_3": 1
+      },
+      "penalty": null,
+      "position": 8
+    },
+    {
+      "league": "Women's Division 1",
+      "teamId": "391",
+      "teamName": "BMP Valkyries",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_391.jpg",
+      "rankingPoints": 0,
+      "matches": {
+        "played": 1,
+        "won": 0,
+        "lost": 1
+      },
+      "sets": {
+        "won": 0,
+        "lost": 3,
+        "ratio": 0
+      },
+      "points": {
+        "won": 46,
+        "lost": 75,
+        "ratio": 0.613
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 1
       },
       "penalty": null,
       "position": 9
     }
   ],
-  "updated": "2025-09-08T09:07:22.068Z",
+  "updated": "2025-10-17T14:28:20.559Z",
   "totalTeams": 9,
-  "lastUpdated": "2025-09-08T09:07:22.139Z",
+  "lastUpdated": "2025-10-17T14:28:20.773Z",
   "dataVersion": "1.0",
   "source": "VIR Volleyball Standings"
 }
