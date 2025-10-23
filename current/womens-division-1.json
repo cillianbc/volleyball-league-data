@@ -7,24 +7,24 @@
       "teamId": "401",
       "teamName": "Dalkey Devils D1W",
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_401.jpg",
-      "rankingPoints": 3,
+      "rankingPoints": 6,
       "matches": {
-        "played": 1,
-        "won": 1,
+        "played": 2,
+        "won": 2,
         "lost": 0
       },
       "sets": {
-        "won": 3,
+        "won": 6,
         "lost": 0,
         "ratio": 0
       },
       "points": {
-        "won": 75,
-        "lost": 46,
-        "ratio": 1.63
+        "won": 150,
+        "lost": 105,
+        "ratio": 1.429
       },
       "resultsBreakdown": {
-        "wins3_0": 1,
+        "wins3_0": 2,
         "wins3_1": 0,
         "wins3_2": 0,
         "losses2_3": 0,
@@ -36,29 +36,29 @@
     },
     {
       "league": "Women's Division 1",
-      "teamId": "373",
-      "teamName": "Santry Rebels",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_373.jpg",
-      "rankingPoints": 3,
+      "teamId": "400",
+      "teamName": "Balbriggan Flames",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_400.jpg",
+      "rankingPoints": 5,
       "matches": {
-        "played": 1,
-        "won": 1,
+        "played": 2,
+        "won": 2,
         "lost": 0
       },
       "sets": {
-        "won": 3,
-        "lost": 0,
-        "ratio": 0
+        "won": 6,
+        "lost": 3,
+        "ratio": 2
       },
       "points": {
-        "won": 77,
-        "lost": 64,
-        "ratio": 1.203
+        "won": 216,
+        "lost": 188,
+        "ratio": 1.149
       },
       "resultsBreakdown": {
-        "wins3_0": 1,
-        "wins3_1": 0,
-        "wins3_2": 0,
+        "wins3_0": 0,
+        "wins3_1": 1,
+        "wins3_2": 1,
         "losses2_3": 0,
         "losses1_3": 0,
         "losses0_3": 0
@@ -68,29 +68,29 @@
     },
     {
       "league": "Women's Division 1",
-      "teamId": "400",
-      "teamName": "Balbriggan Flames",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_400.jpg",
-      "rankingPoints": 3,
+      "teamId": "375",
+      "teamName": "SETU Carlow D1W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_375.jpg",
+      "rankingPoints": 5,
       "matches": {
-        "played": 1,
-        "won": 1,
+        "played": 2,
+        "won": 2,
         "lost": 0
       },
       "sets": {
-        "won": 3,
-        "lost": 1,
-        "ratio": 3
+        "won": 6,
+        "lost": 3,
+        "ratio": 2
       },
       "points": {
-        "won": 98,
-        "lost": 87,
-        "ratio": 1.126
+        "won": 202,
+        "lost": 185,
+        "ratio": 1.092
       },
       "resultsBreakdown": {
         "wins3_0": 0,
         "wins3_1": 1,
-        "wins3_2": 0,
+        "wins3_2": 1,
         "losses2_3": 0,
         "losses1_3": 0,
         "losses0_3": 0
@@ -100,35 +100,67 @@
     },
     {
       "league": "Women's Division 1",
-      "teamId": "375",
-      "teamName": "SETU Carlow D1W",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_375.jpg",
-      "rankingPoints": 2,
+      "teamId": "374",
+      "teamName": "Santry Sparks",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_374.jpg",
+      "rankingPoints": 4,
       "matches": {
-        "played": 1,
+        "played": 2,
         "won": 1,
-        "lost": 0
+        "lost": 1
       },
       "sets": {
-        "won": 3,
-        "lost": 2,
-        "ratio": 1.5
+        "won": 5,
+        "lost": 4,
+        "ratio": 1.25
       },
       "points": {
-        "won": 109,
-        "lost": 107,
-        "ratio": 1.019
+        "won": 205,
+        "lost": 186,
+        "ratio": 1.102
       },
       "resultsBreakdown": {
         "wins3_0": 0,
-        "wins3_1": 0,
-        "wins3_2": 1,
-        "losses2_3": 0,
+        "wins3_1": 1,
+        "wins3_2": 0,
+        "losses2_3": 1,
         "losses1_3": 0,
         "losses0_3": 0
       },
       "penalty": null,
       "position": 4
+    },
+    {
+      "league": "Women's Division 1",
+      "teamId": "373",
+      "teamName": "Santry Rebels",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_373.jpg",
+      "rankingPoints": 3,
+      "matches": {
+        "played": 2,
+        "won": 1,
+        "lost": 1
+      },
+      "sets": {
+        "won": 4,
+        "lost": 3,
+        "ratio": 1.33
+      },
+      "points": {
+        "won": 154,
+        "lost": 162,
+        "ratio": 0.951
+      },
+      "resultsBreakdown": {
+        "wins3_0": 1,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 1,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 5
     },
     {
       "league": "Women's Division 1",
@@ -160,28 +192,28 @@
         "losses0_3": 0
       },
       "penalty": null,
-      "position": 5
+      "position": 6
     },
     {
       "league": "Women's Division 1",
-      "teamId": "374",
-      "teamName": "Santry Sparks",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_374.jpg",
+      "teamId": "402",
+      "teamName": "Tallaght Rockets D1W",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_402.jpg",
       "rankingPoints": 1,
       "matches": {
-        "played": 1,
+        "played": 2,
         "won": 0,
-        "lost": 1
+        "lost": 2
       },
       "sets": {
         "won": 2,
-        "lost": 3,
-        "ratio": 0.67
+        "lost": 6,
+        "ratio": 0.33
       },
       "points": {
-        "won": 107,
-        "lost": 109,
-        "ratio": 0.982
+        "won": 165,
+        "lost": 195,
+        "ratio": 0.846
       },
       "resultsBreakdown": {
         "wins3_0": 0,
@@ -189,10 +221,10 @@
         "wins3_2": 0,
         "losses2_3": 1,
         "losses1_3": 0,
-        "losses0_3": 0
+        "losses0_3": 1
       },
       "penalty": null,
-      "position": 6
+      "position": 7
     },
     {
       "league": "Women's Division 1",
@@ -201,19 +233,19 @@
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_314.jpg",
       "rankingPoints": 0,
       "matches": {
-        "played": 1,
+        "played": 2,
         "won": 0,
-        "lost": 1
+        "lost": 2
       },
       "sets": {
         "won": 1,
-        "lost": 3,
-        "ratio": 0.33
+        "lost": 6,
+        "ratio": 0.17
       },
       "points": {
-        "won": 87,
-        "lost": 98,
-        "ratio": 0.888
+        "won": 146,
+        "lost": 173,
+        "ratio": 0.844
       },
       "resultsBreakdown": {
         "wins3_0": 0,
@@ -221,38 +253,6 @@
         "wins3_2": 0,
         "losses2_3": 0,
         "losses1_3": 1,
-        "losses0_3": 0
-      },
-      "penalty": null,
-      "position": 7
-    },
-    {
-      "league": "Women's Division 1",
-      "teamId": "402",
-      "teamName": "Tallaght Rockets D1W",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_402.jpg",
-      "rankingPoints": 0,
-      "matches": {
-        "played": 1,
-        "won": 0,
-        "lost": 1
-      },
-      "sets": {
-        "won": 0,
-        "lost": 3,
-        "ratio": 0
-      },
-      "points": {
-        "won": 64,
-        "lost": 77,
-        "ratio": 0.831
-      },
-      "resultsBreakdown": {
-        "wins3_0": 0,
-        "wins3_1": 0,
-        "wins3_2": 0,
-        "losses2_3": 0,
-        "losses1_3": 0,
         "losses0_3": 1
       },
       "penalty": null,
@@ -265,35 +265,35 @@
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_391.jpg",
       "rankingPoints": 0,
       "matches": {
-        "played": 1,
+        "played": 2,
         "won": 0,
-        "lost": 1
+        "lost": 2
       },
       "sets": {
-        "won": 0,
-        "lost": 3,
-        "ratio": 0
+        "won": 1,
+        "lost": 6,
+        "ratio": 0.17
       },
       "points": {
-        "won": 46,
-        "lost": 75,
-        "ratio": 0.613
+        "won": 124,
+        "lost": 168,
+        "ratio": 0.738
       },
       "resultsBreakdown": {
         "wins3_0": 0,
         "wins3_1": 0,
         "wins3_2": 0,
         "losses2_3": 0,
-        "losses1_3": 0,
+        "losses1_3": 1,
         "losses0_3": 1
       },
       "penalty": null,
       "position": 9
     }
   ],
-  "updated": "2025-10-17T14:28:20.559Z",
+  "updated": "2025-10-23T23:00:05.109Z",
   "totalTeams": 9,
-  "lastUpdated": "2025-10-17T14:28:20.773Z",
+  "lastUpdated": "2025-10-23T23:00:05.303Z",
   "dataVersion": "1.0",
   "source": "VIR Volleyball Standings"
 }
