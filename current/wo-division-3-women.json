@@ -2,7 +2,7 @@
   "league": "Women's Division 3",
   "totalTeams": 17,
   "subLeagueCount": 4,
-  "extractedAt": "2025-10-17T14:54:03.402Z",
+  "extractedAt": "2025-10-23T23:00:12.500Z",
   "subLeagues": [
     {
       "name": "League - D3W Group A",
@@ -212,8 +212,8 @@
         },
         {
           "position": 3,
-          "teamId": "370",
-          "teamName": "Santry 2 D3W",
+          "teamId": "369",
+          "teamName": "Santry D3W",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -240,8 +240,8 @@
         },
         {
           "position": 4,
-          "teamId": "369",
-          "teamName": "Santry D3W",
+          "teamId": "370",
+          "teamName": "Santry Phoenix D3W",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -718,8 +718,8 @@
     },
     {
       "position": 3,
-      "teamId": "370",
-      "teamName": "Santry 2 D3W",
+      "teamId": "369",
+      "teamName": "Santry D3W",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -748,8 +748,8 @@
     },
     {
       "position": 4,
-      "teamId": "369",
-      "teamName": "Santry D3W",
+      "teamId": "370",
+      "teamName": "Santry Phoenix D3W",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -1017,7 +1017,7 @@
       "championshipId": "109"
     }
   ],
-  "lastUpdated": "2025-10-17T14:54:07.463Z",
+  "lastUpdated": "2025-10-23T23:00:12.756Z",
   "dataVersion": "2.0",
   "source": "VIR Volleyball Standings",
   "schemaInfo": {
