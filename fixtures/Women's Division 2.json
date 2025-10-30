@@ -48,6 +48,15 @@
     {
       "matchday": "Matchday 2",
       "sub_league": "League - D2W Group A",
+      "date": "07/12/2025",
+      "time": "12:00",
+      "venue": "Firhouse Community College",
+      "home_team": "Tallaght Rockets D2W",
+      "away_team": "UCD D2W"
+    },
+    {
+      "matchday": "Matchday 2",
+      "sub_league": "League - D2W Group A",
       "date": "25/10/2025",
       "time": "15:30",
       "venue": "Colaiste De hIde",
@@ -82,7 +91,7 @@
       "away_team": "Tallaght Rockets D2W"
     },
     {
-      "matchday": "Matchday 2",
+      "matchday": "Matchday 3",
       "sub_league": "League - D2W Group A",
       "date": "15/11/2025",
       "time": "17:00",
@@ -127,7 +136,7 @@
       "away_team": "IVI Vixens D2W"
     },
     {
-      "matchday": "Matchday 3",
+      "matchday": "Matchday 4",
       "sub_league": "League - D2W Group A",
       "date": "07/12/2025",
       "time": "10:30",
@@ -172,7 +181,7 @@
       "away_team": "Tallaght Rockets D2W"
     },
     {
-      "matchday": "Matchday 4",
+      "matchday": "Matchday 5",
       "sub_league": "League - D2W Group A",
       "date": "11/01/2026",
       "time": "12:30",
@@ -217,7 +226,7 @@
       "away_team": "IVI Vixens D2W"
     },
     {
-      "matchday": "Matchday 5",
+      "matchday": "Matchday 6",
       "sub_league": "League - D2W Group A",
       "date": "08/02/2026",
       "time": "11:00",
@@ -262,7 +271,7 @@
       "away_team": "Aer Lingus Kestrels"
     },
     {
-      "matchday": "Matchday 6",
+      "matchday": "Matchday 7",
       "sub_league": "League - D2W Group A",
       "date": "07/03/2026",
       "time": "10:00",
@@ -307,7 +316,7 @@
       "away_team": "Tallaght Rockets D2W"
     },
     {
-      "matchday": "Matchday 7",
+      "matchday": "Matchday 8",
       "sub_league": "League - D2W Group A",
       "date": "22/03/2026",
       "time": "14:30",
@@ -352,7 +361,7 @@
       "away_team": "Newbridge Panthers"
     },
     {
-      "matchday": "Matchday 8",
+      "matchday": "Matchday 9",
       "sub_league": "League - D2W Group A",
       "date": "19/04/2026",
       "time": "11:00",
@@ -397,7 +406,7 @@
       "away_team": "Longford Smashers D2W"
     },
     {
-      "matchday": "Matchday 9",
+      "matchday": "Matchday 10",
       "sub_league": "League - D2W Group B",
       "date": "18/10/2025",
       "time": "12:30",
@@ -442,7 +451,7 @@
       "away_team": "Santry Cosmopolitan"
     },
     {
-      "matchday": "Matchday 10",
+      "matchday": "Matchday 11",
       "sub_league": "League - D2W Group B",
       "date": "07/12/2025",
       "time": "12:30",
@@ -487,7 +496,7 @@
       "away_team": "Santry Cosmopolitan"
     },
     {
-      "matchday": "Matchday 11",
+      "matchday": "Matchday 12",
       "sub_league": "League - D2W Group B",
       "date": "30/11/2025",
       "time": "11:00",
@@ -532,7 +541,7 @@
       "away_team": "Mayo D2W"
     },
     {
-      "matchday": "Matchday 12",
+      "matchday": "Matchday 13",
       "sub_league": "League - D2W Group B",
       "date": "10/01/2026",
       "time": "17:30",
@@ -577,7 +586,7 @@
       "away_team": "Santry Nova"
     },
     {
-      "matchday": "Matchday 13",
+      "matchday": "Matchday 14",
       "sub_league": "League - D2W Group B",
       "date": "01/02/2026",
       "time": "15:30",
@@ -622,7 +631,7 @@
       "away_team": "Santry Nova"
     },
     {
-      "matchday": "Matchday 14",
+      "matchday": "Matchday 15",
       "sub_league": "League - D2W Group B",
       "date": "15/02/2026",
       "time": "11:30",
@@ -667,7 +676,7 @@
       "away_team": "Longford Smashers D2W"
     },
     {
-      "matchday": "Matchday 15",
+      "matchday": "Matchday 16",
       "sub_league": "League - D2W Group B",
       "date": "21/03/2026",
       "time": "15:00",
@@ -712,7 +721,7 @@
       "away_team": "Dalkey Devils D2W"
     },
     {
-      "matchday": "Matchday 16",
+      "matchday": "Matchday 17",
       "sub_league": "League - D2W Group B",
       "date": "12/04/2026",
       "time": "15:30",
@@ -740,7 +749,7 @@
     },
     {
       "matchday": "Matchday 17",
-      "sub_league": "League - D2W Group C",
+      "sub_league": "League - D2W Group B",
       "date": "19/04/2026",
       "time": "15:00",
       "venue": "Castle Park School",
@@ -757,7 +766,7 @@
       "away_team": "Dalkey Aces D2W"
     },
     {
-      "matchday": "Matchday 17",
+      "matchday": "Matchday 18",
       "sub_league": "League - D2W Group C",
       "date": "12/10/2025",
       "time": "14:00",
@@ -802,15 +811,6 @@
       "away_team": "Kilkenny Spartans D2W"
     },
     {
-      "matchday": "Matchday 18",
-      "sub_league": "League - D2W Group C",
-      "date": "19/10/2025",
-      "time": "18:00",
-      "venue": "Patrician Secondary School (Newbridge)",
-      "home_team": "Kildare D2W",
-      "away_team": "Kilkenny Spartans D2W"
-    },
-    {
       "matchday": "Matchday 19",
       "sub_league": "League - D2W Group C",
       "date": "25/10/2025",
@@ -818,15 +818,6 @@
       "venue": "Loreto Secondary School (Kilkenny)",
       "home_team": "Kilkenny Spartans D2W",
       "away_team": "Celestials D2W"
-    },
-    {
-      "matchday": "Matchday 19",
-      "sub_league": "League - D2W Group C",
-      "date": "26/10/2025",
-      "time": "14:00",
-      "venue": "Coláiste Chríost Rí",
-      "home_team": "Cork Volleyball Acad D2W",
-      "away_team": "BMP Hawks"
     },
     {
       "matchday": "Matchday 19",
@@ -856,7 +847,7 @@
       "away_team": "Cork Volleyball Acad D2W"
     },
     {
-      "matchday": "Matchday 20",
+      "matchday": "Matchday 19",
       "sub_league": "League - D2W Group C",
       "date": "16/11/2025",
       "time": "18:30",
@@ -901,7 +892,7 @@
       "away_team": "Kildare D2W"
     },
     {
-      "matchday": "Matchday 21",
+      "matchday": "Matchday 20",
       "sub_league": "League - D2W Group C",
       "date": "14/12/2025",
       "time": "16:00",
@@ -935,6 +926,15 @@
       "venue": "Ballymun Trinity Comprehensive",
       "home_team": "BMP Hawks",
       "away_team": "Celestials D2W"
+    },
+    {
+      "matchday": "Matchday 21",
+      "sub_league": "League - D2W Group C",
+      "date": "11/01/2026",
+      "time": "14:00",
+      "venue": "Coláiste Chríost Rí",
+      "home_team": "Cork Volleyball Acad D2W",
+      "away_team": "Dalkey Aces D2W"
     },
     {
       "matchday": "Matchday 21",
@@ -1020,6 +1020,15 @@
     {
       "matchday": "Matchday 23",
       "sub_league": "League - D2W Group C",
+      "date": "01/03/2026",
+      "time": "18:00",
+      "venue": "Coláiste Chríost Rí",
+      "home_team": "Cork Volleyball Acad D2W",
+      "away_team": "Kildare D2W"
+    },
+    {
+      "matchday": "Matchday 23",
+      "sub_league": "League - D2W Group C",
       "date": "08/03/2026",
       "time": "11:00",
       "venue": "St Mary's College (Naas)",
@@ -1027,7 +1036,7 @@
       "away_team": "BMP Hawks"
     },
     {
-      "matchday": "Matchday 23",
+      "matchday": "Matchday 24",
       "sub_league": "League - D2W Group C",
       "date": "08/03/2026",
       "time": "17:30",
@@ -1072,7 +1081,7 @@
       "away_team": "BMP Hawks"
     },
     {
-      "matchday": "Matchday 24",
+      "matchday": "Matchday 25",
       "sub_league": "League - D2W Group C",
       "date": "12/04/2026",
       "time": "16:30",
@@ -1138,7 +1147,7 @@
         "away_team": "IVI Vixens D2W"
       },
       {
-        "matchday": "Matchday 6",
+        "matchday": "Matchday 7",
         "sub_league": "League - D2W Group A",
         "date": "07/03/2026",
         "time": "10:00",
@@ -1147,7 +1156,16 @@
         "away_team": "Carrick Crows D2W"
       },
       {
-        "matchday": "Matchday 3",
+        "matchday": "Matchday 2",
+        "sub_league": "League - D2W Group A",
+        "date": "07/12/2025",
+        "time": "12:00",
+        "venue": "Firhouse Community College",
+        "home_team": "Tallaght Rockets D2W",
+        "away_team": "UCD D2W"
+      },
+      {
+        "matchday": "Matchday 4",
         "sub_league": "League - D2W Group A",
         "date": "07/12/2025",
         "time": "10:30",
@@ -1156,7 +1174,7 @@
         "away_team": "Carrick Crows D2W"
       },
       {
-        "matchday": "Matchday 5",
+        "matchday": "Matchday 6",
         "sub_league": "League - D2W Group A",
         "date": "08/02/2026",
         "time": "11:00",
@@ -1219,7 +1237,7 @@
         "away_team": "Tallaght Rockets D2W"
       },
       {
-        "matchday": "Matchday 4",
+        "matchday": "Matchday 5",
         "sub_league": "League - D2W Group A",
         "date": "11/01/2026",
         "time": "12:30",
@@ -1327,7 +1345,7 @@
         "away_team": "Aer Lingus Kestrels"
       },
       {
-        "matchday": "Matchday 2",
+        "matchday": "Matchday 3",
         "sub_league": "League - D2W Group A",
         "date": "15/11/2025",
         "time": "17:00",
@@ -1354,7 +1372,7 @@
         "away_team": "Newbridge Panthers"
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D2W Group A",
         "date": "19/04/2026",
         "time": "11:00",
@@ -1408,7 +1426,7 @@
         "away_team": "Tallaght Rockets D2W"
       },
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D2W Group A",
         "date": "22/03/2026",
         "time": "14:30",
@@ -1482,7 +1500,7 @@
     ],
     "League - D2W Group B": [
       {
-        "matchday": "Matchday 13",
+        "matchday": "Matchday 14",
         "sub_league": "League - D2W Group B",
         "date": "01/02/2026",
         "time": "15:30",
@@ -1509,7 +1527,7 @@
         "away_team": "Jackals D2W"
       },
       {
-        "matchday": "Matchday 10",
+        "matchday": "Matchday 11",
         "sub_league": "League - D2W Group B",
         "date": "07/12/2025",
         "time": "12:30",
@@ -1563,7 +1581,7 @@
         "away_team": "Jackals D2W"
       },
       {
-        "matchday": "Matchday 12",
+        "matchday": "Matchday 13",
         "sub_league": "League - D2W Group B",
         "date": "10/01/2026",
         "time": "17:30",
@@ -1635,7 +1653,7 @@
         "away_team": "Longford Smashers D2W"
       },
       {
-        "matchday": "Matchday 16",
+        "matchday": "Matchday 17",
         "sub_league": "League - D2W Group B",
         "date": "12/04/2026",
         "time": "15:30",
@@ -1680,7 +1698,7 @@
         "away_team": "Mayo D2W"
       },
       {
-        "matchday": "Matchday 14",
+        "matchday": "Matchday 15",
         "sub_league": "League - D2W Group B",
         "date": "15/02/2026",
         "time": "11:30",
@@ -1725,7 +1743,7 @@
         "away_team": "Santry Nova"
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 10",
         "sub_league": "League - D2W Group B",
         "date": "18/10/2025",
         "time": "12:30",
@@ -1761,7 +1779,16 @@
         "away_team": "Longford Smashers D2W"
       },
       {
-        "matchday": "Matchday 15",
+        "matchday": "Matchday 17",
+        "sub_league": "League - D2W Group B",
+        "date": "19/04/2026",
+        "time": "15:00",
+        "venue": "Castle Park School",
+        "home_team": "Dalkey Devils D2W",
+        "away_team": "Santry Nova"
+      },
+      {
+        "matchday": "Matchday 16",
         "sub_league": "League - D2W Group B",
         "date": "21/03/2026",
         "time": "15:00",
@@ -1815,7 +1842,7 @@
         "away_team": "Santry Cosmopolitan"
       },
       {
-        "matchday": "Matchday 11",
+        "matchday": "Matchday 12",
         "sub_league": "League - D2W Group B",
         "date": "30/11/2025",
         "time": "11:00",
@@ -1871,6 +1898,15 @@
         "away_team": "Kilkenny Spartans D2W"
       },
       {
+        "matchday": "Matchday 23",
+        "sub_league": "League - D2W Group C",
+        "date": "01/03/2026",
+        "time": "18:00",
+        "venue": "Coláiste Chríost Rí",
+        "home_team": "Cork Volleyball Acad D2W",
+        "away_team": "Kildare D2W"
+      },
+      {
         "matchday": "Matchday 22",
         "sub_league": "League - D2W Group C",
         "date": "08/02/2026",
@@ -1907,7 +1943,7 @@
         "away_team": "BMP Hawks"
       },
       {
-        "matchday": "Matchday 23",
+        "matchday": "Matchday 24",
         "sub_league": "League - D2W Group C",
         "date": "08/03/2026",
         "time": "17:30",
@@ -1934,6 +1970,15 @@
         "away_team": "Celestials D2W"
       },
       {
+        "matchday": "Matchday 21",
+        "sub_league": "League - D2W Group C",
+        "date": "11/01/2026",
+        "time": "14:00",
+        "venue": "Coláiste Chríost Rí",
+        "home_team": "Cork Volleyball Acad D2W",
+        "away_team": "Dalkey Aces D2W"
+      },
+      {
         "matchday": "Matchday 24",
         "sub_league": "League - D2W Group C",
         "date": "11/04/2026",
@@ -1952,7 +1997,7 @@
         "away_team": "Dalkey Aces D2W"
       },
       {
-        "matchday": "Matchday 24",
+        "matchday": "Matchday 25",
         "sub_league": "League - D2W Group C",
         "date": "12/04/2026",
         "time": "16:30",
@@ -1961,7 +2006,7 @@
         "away_team": "Celestials D2W"
       },
       {
-        "matchday": "Matchday 17",
+        "matchday": "Matchday 18",
         "sub_league": "League - D2W Group C",
         "date": "12/10/2025",
         "time": "14:00",
@@ -1997,7 +2042,7 @@
         "away_team": "Kildare D2W"
       },
       {
-        "matchday": "Matchday 21",
+        "matchday": "Matchday 20",
         "sub_league": "League - D2W Group C",
         "date": "14/12/2025",
         "time": "16:00",
@@ -2060,7 +2105,7 @@
         "away_team": "Cork Volleyball Acad D2W"
       },
       {
-        "matchday": "Matchday 20",
+        "matchday": "Matchday 19",
         "sub_league": "League - D2W Group C",
         "date": "16/11/2025",
         "time": "18:30",
@@ -2085,15 +2130,6 @@
         "venue": "Tech University Dublin, Tallaght",
         "home_team": "Celestials D2W",
         "away_team": "Cork Volleyball Acad D2W"
-      },
-      {
-        "matchday": "Matchday 17",
-        "sub_league": "League - D2W Group C",
-        "date": "19/04/2026",
-        "time": "15:00",
-        "venue": "Castle Park School",
-        "home_team": "Dalkey Devils D2W",
-        "away_team": "Santry Nova"
       },
       {
         "matchday": "Matchday 25",
@@ -2127,15 +2163,6 @@
         "sub_league": "League - D2W Group C",
         "date": "19/10/2025",
         "time": "15:30",
-        "venue": "Patrician Secondary School (Newbridge)",
-        "home_team": "Kildare D2W",
-        "away_team": "Kilkenny Spartans D2W"
-      },
-      {
-        "matchday": "Matchday 18",
-        "sub_league": "League - D2W Group C",
-        "date": "19/10/2025",
-        "time": "18:00",
         "venue": "Patrician Secondary School (Newbridge)",
         "home_team": "Kildare D2W",
         "away_team": "Kilkenny Spartans D2W"
@@ -2175,15 +2202,6 @@
         "venue": "Loreto Secondary School (Kilkenny)",
         "home_team": "Kilkenny Spartans D2W",
         "away_team": "Celestials D2W"
-      },
-      {
-        "matchday": "Matchday 19",
-        "sub_league": "League - D2W Group C",
-        "date": "26/10/2025",
-        "time": "14:00",
-        "venue": "Coláiste Chríost Rí",
-        "home_team": "Cork Volleyball Acad D2W",
-        "away_team": "BMP Hawks"
       },
       {
         "matchday": "Matchday 20",
@@ -2236,7 +2254,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 4",
+        "matchday": "Matchday 5",
         "sub_league": "League - D2W Group A",
         "date": "11/01/2026",
         "time": "12:30",
@@ -2358,7 +2376,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 6",
+        "matchday": "Matchday 7",
         "sub_league": "League - D2W Group A",
         "date": "07/03/2026",
         "time": "10:00",
@@ -2418,7 +2436,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 2",
+        "matchday": "Matchday 3",
         "sub_league": "League - D2W Group A",
         "date": "15/11/2025",
         "time": "17:00",
@@ -2480,7 +2498,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 6",
+        "matchday": "Matchday 7",
         "sub_league": "League - D2W Group A",
         "date": "07/03/2026",
         "time": "10:00",
@@ -2490,7 +2508,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 3",
+        "matchday": "Matchday 4",
         "sub_league": "League - D2W Group A",
         "date": "07/12/2025",
         "time": "10:30",
@@ -2540,7 +2558,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 2",
+        "matchday": "Matchday 3",
         "sub_league": "League - D2W Group A",
         "date": "15/11/2025",
         "time": "17:00",
@@ -2550,7 +2568,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D2W Group A",
         "date": "19/04/2026",
         "time": "11:00",
@@ -2602,7 +2620,17 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 5",
+        "matchday": "Matchday 2",
+        "sub_league": "League - D2W Group A",
+        "date": "07/12/2025",
+        "time": "12:00",
+        "venue": "Firhouse Community College",
+        "home_team": "Tallaght Rockets D2W",
+        "away_team": "UCD D2W",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 6",
         "sub_league": "League - D2W Group A",
         "date": "08/02/2026",
         "time": "11:00",
@@ -2612,7 +2640,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 4",
+        "matchday": "Matchday 5",
         "sub_league": "League - D2W Group A",
         "date": "11/01/2026",
         "time": "12:30",
@@ -2672,7 +2700,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D2W Group A",
         "date": "22/03/2026",
         "time": "14:30",
@@ -2724,7 +2752,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 3",
+        "matchday": "Matchday 4",
         "sub_league": "League - D2W Group A",
         "date": "07/12/2025",
         "time": "10:30",
@@ -2794,7 +2822,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D2W Group A",
         "date": "22/03/2026",
         "time": "14:30",
@@ -2948,7 +2976,17 @@
     ],
     "Tallaght Rockets D2W": [
       {
-        "matchday": "Matchday 5",
+        "matchday": "Matchday 2",
+        "sub_league": "League - D2W Group A",
+        "date": "07/12/2025",
+        "time": "12:00",
+        "venue": "Firhouse Community College",
+        "home_team": "Tallaght Rockets D2W",
+        "away_team": "UCD D2W",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 6",
         "sub_league": "League - D2W Group A",
         "date": "08/02/2026",
         "time": "11:00",
@@ -3018,7 +3056,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D2W Group A",
         "date": "19/04/2026",
         "time": "11:00",
@@ -3131,7 +3169,7 @@
       },
       {
         "matchday": "Matchday 17",
-        "sub_league": "League - D2W Group C",
+        "sub_league": "League - D2W Group B",
         "date": "19/04/2026",
         "time": "15:00",
         "venue": "Castle Park School",
@@ -3140,7 +3178,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 15",
+        "matchday": "Matchday 16",
         "sub_league": "League - D2W Group B",
         "date": "21/03/2026",
         "time": "15:00",
@@ -3160,7 +3198,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 11",
+        "matchday": "Matchday 12",
         "sub_league": "League - D2W Group B",
         "date": "30/11/2025",
         "time": "11:00",
@@ -3252,7 +3290,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 10",
         "sub_league": "League - D2W Group B",
         "date": "18/10/2025",
         "time": "12:30",
@@ -3364,7 +3402,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 14",
+        "matchday": "Matchday 15",
         "sub_league": "League - D2W Group B",
         "date": "15/02/2026",
         "time": "11:30",
@@ -3384,7 +3422,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 15",
+        "matchday": "Matchday 16",
         "sub_league": "League - D2W Group B",
         "date": "21/03/2026",
         "time": "15:00",
@@ -3404,7 +3442,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 11",
+        "matchday": "Matchday 12",
         "sub_league": "League - D2W Group B",
         "date": "30/11/2025",
         "time": "11:00",
@@ -3426,7 +3464,7 @@
     ],
     "Dalkey Devils D2W": [
       {
-        "matchday": "Matchday 10",
+        "matchday": "Matchday 11",
         "sub_league": "League - D2W Group B",
         "date": "07/12/2025",
         "time": "12:30",
@@ -3507,7 +3545,7 @@
       },
       {
         "matchday": "Matchday 17",
-        "sub_league": "League - D2W Group C",
+        "sub_league": "League - D2W Group B",
         "date": "19/04/2026",
         "time": "15:00",
         "venue": "Castle Park School",
@@ -3548,7 +3586,7 @@
     ],
     "Gardians Angels": [
       {
-        "matchday": "Matchday 13",
+        "matchday": "Matchday 14",
         "sub_league": "League - D2W Group B",
         "date": "01/02/2026",
         "time": "15:30",
@@ -3568,7 +3606,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 12",
+        "matchday": "Matchday 13",
         "sub_league": "League - D2W Group B",
         "date": "10/01/2026",
         "time": "17:30",
@@ -3618,7 +3656,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 10",
         "sub_league": "League - D2W Group B",
         "date": "18/10/2025",
         "time": "12:30",
@@ -3670,7 +3708,7 @@
     ],
     "Longford Smashers D2W": [
       {
-        "matchday": "Matchday 13",
+        "matchday": "Matchday 14",
         "sub_league": "League - D2W Group B",
         "date": "01/02/2026",
         "time": "15:30",
@@ -3680,7 +3718,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 10",
+        "matchday": "Matchday 11",
         "sub_league": "League - D2W Group B",
         "date": "07/12/2025",
         "time": "12:30",
@@ -3740,7 +3778,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 16",
+        "matchday": "Matchday 17",
         "sub_league": "League - D2W Group B",
         "date": "12/04/2026",
         "time": "15:30",
@@ -3812,7 +3850,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 12",
+        "matchday": "Matchday 13",
         "sub_league": "League - D2W Group B",
         "date": "10/01/2026",
         "time": "17:30",
@@ -3822,7 +3860,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 16",
+        "matchday": "Matchday 17",
         "sub_league": "League - D2W Group B",
         "date": "12/04/2026",
         "time": "15:30",
@@ -3842,7 +3880,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 14",
+        "matchday": "Matchday 15",
         "sub_league": "League - D2W Group B",
         "date": "15/02/2026",
         "time": "11:30",
@@ -3974,7 +4012,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 21",
+        "matchday": "Matchday 20",
         "sub_league": "League - D2W Group C",
         "date": "14/12/2025",
         "time": "16:00",
@@ -3998,16 +4036,6 @@
         "sub_league": "League - D2W Group C",
         "date": "19/10/2025",
         "time": "15:30",
-        "venue": "Patrician Secondary School (Newbridge)",
-        "home_team": "Kildare D2W",
-        "away_team": "Kilkenny Spartans D2W",
-        "is_home": false
-      },
-      {
-        "matchday": "Matchday 18",
-        "sub_league": "League - D2W Group C",
-        "date": "19/10/2025",
-        "time": "18:00",
         "venue": "Patrician Secondary School (Newbridge)",
         "home_team": "Kildare D2W",
         "away_team": "Kilkenny Spartans D2W",
@@ -4066,7 +4094,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 23",
+        "matchday": "Matchday 24",
         "sub_league": "League - D2W Group C",
         "date": "08/03/2026",
         "time": "17:30",
@@ -4074,6 +4102,16 @@
         "home_team": "Dalkey Aces D2W",
         "away_team": "Celestials D2W",
         "is_home": true
+      },
+      {
+        "matchday": "Matchday 21",
+        "sub_league": "League - D2W Group C",
+        "date": "11/01/2026",
+        "time": "14:00",
+        "venue": "Coláiste Chríost Rí",
+        "home_team": "Cork Volleyball Acad D2W",
+        "away_team": "Dalkey Aces D2W",
+        "is_home": false
       },
       {
         "matchday": "Matchday 17",
@@ -4188,7 +4226,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 17",
+        "matchday": "Matchday 18",
         "sub_league": "League - D2W Group C",
         "date": "12/10/2025",
         "time": "14:00",
@@ -4208,7 +4246,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 20",
+        "matchday": "Matchday 19",
         "sub_league": "League - D2W Group C",
         "date": "16/11/2025",
         "time": "18:30",
@@ -4280,7 +4318,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 23",
+        "matchday": "Matchday 24",
         "sub_league": "League - D2W Group C",
         "date": "08/03/2026",
         "time": "17:30",
@@ -4300,7 +4338,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 24",
+        "matchday": "Matchday 25",
         "sub_league": "League - D2W Group C",
         "date": "12/04/2026",
         "time": "16:30",
@@ -4310,7 +4348,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 17",
+        "matchday": "Matchday 18",
         "sub_league": "League - D2W Group C",
         "date": "12/10/2025",
         "time": "14:00",
@@ -4442,7 +4480,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 21",
+        "matchday": "Matchday 20",
         "sub_league": "League - D2W Group C",
         "date": "14/12/2025",
         "time": "16:00",
@@ -4462,7 +4500,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 20",
+        "matchday": "Matchday 19",
         "sub_league": "League - D2W Group C",
         "date": "16/11/2025",
         "time": "18:30",
@@ -4492,16 +4530,6 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 19",
-        "sub_league": "League - D2W Group C",
-        "date": "26/10/2025",
-        "time": "14:00",
-        "venue": "Coláiste Chríost Rí",
-        "home_team": "Cork Volleyball Acad D2W",
-        "away_team": "BMP Hawks",
-        "is_home": false
-      },
-      {
         "matchday": "Matchday 20",
         "sub_league": "League - D2W Group C",
         "date": "30/11/2025",
@@ -4524,6 +4552,16 @@
         "is_home": true
       },
       {
+        "matchday": "Matchday 23",
+        "sub_league": "League - D2W Group C",
+        "date": "01/03/2026",
+        "time": "18:00",
+        "venue": "Coláiste Chríost Rí",
+        "home_team": "Cork Volleyball Acad D2W",
+        "away_team": "Kildare D2W",
+        "is_home": false
+      },
+      {
         "matchday": "Matchday 22",
         "sub_league": "League - D2W Group C",
         "date": "08/02/2026",
@@ -4534,7 +4572,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 24",
+        "matchday": "Matchday 25",
         "sub_league": "League - D2W Group C",
         "date": "12/04/2026",
         "time": "16:30",
@@ -4604,16 +4642,6 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 18",
-        "sub_league": "League - D2W Group C",
-        "date": "19/10/2025",
-        "time": "18:00",
-        "venue": "Patrician Secondary School (Newbridge)",
-        "home_team": "Kildare D2W",
-        "away_team": "Kilkenny Spartans D2W",
-        "is_home": true
-      },
-      {
         "matchday": "Matchday 24",
         "sub_league": "League - D2W Group C",
         "date": "22/03/2026",
@@ -4636,6 +4664,16 @@
     ],
     "Cork Volleyball Acad D2W": [
       {
+        "matchday": "Matchday 23",
+        "sub_league": "League - D2W Group C",
+        "date": "01/03/2026",
+        "time": "18:00",
+        "venue": "Coláiste Chríost Rí",
+        "home_team": "Cork Volleyball Acad D2W",
+        "away_team": "Kildare D2W",
+        "is_home": true
+      },
+      {
         "matchday": "Matchday 22",
         "sub_league": "League - D2W Group C",
         "date": "08/02/2026",
@@ -4643,6 +4681,16 @@
         "venue": "Coláiste Chríost Rí",
         "home_team": "Cork Volleyball Acad D2W",
         "away_team": "Celestials D2W",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 21",
+        "sub_league": "League - D2W Group C",
+        "date": "11/01/2026",
+        "time": "14:00",
+        "venue": "Coláiste Chríost Rí",
+        "home_team": "Cork Volleyball Acad D2W",
+        "away_team": "Dalkey Aces D2W",
         "is_home": true
       },
       {
@@ -4706,16 +4754,6 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 19",
-        "sub_league": "League - D2W Group C",
-        "date": "26/10/2025",
-        "time": "14:00",
-        "venue": "Coláiste Chríost Rí",
-        "home_team": "Cork Volleyball Acad D2W",
-        "away_team": "BMP Hawks",
-        "is_home": true
-      },
-      {
         "matchday": "Matchday 20",
         "sub_league": "League - D2W Group C",
         "date": "30/11/2025",
@@ -4728,7 +4766,7 @@
     ]
   },
   "metadata": {
-    "total_fixtures": 123,
+    "total_fixtures": 124,
     "source": "VIR Competition Matches",
     "sub_league_count": 3,
     "competition_name": "Women's Division 2",
@@ -4761,7 +4799,7 @@
       "League - D2W Group C"
     ]
   },
-  "lastUpdated": "2025-10-16T23:00:27.722Z",
+  "lastUpdated": "2025-10-30T22:14:52.370Z",
   "dataVersion": "1.0",
   "source": "VIR Competition Matches"
 }
