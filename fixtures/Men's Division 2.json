@@ -111,6 +111,15 @@
     {
       "matchday": "Matchday 3",
       "sub_league": "League - D2M Group A",
+      "date": "09/11/2025",
+      "time": "14:00",
+      "venue": "Collinstown Sports Complex",
+      "home_team": "Intl Volleyball Ireland D2M",
+      "away_team": "Naas Pythons D2M"
+    },
+    {
+      "matchday": "Matchday 3",
+      "sub_league": "League - D2M Group A",
       "date": "16/11/2025",
       "time": "12:30",
       "venue": "Castle Park School",
@@ -127,7 +136,7 @@
       "away_team": "UCD D2M"
     },
     {
-      "matchday": "Matchday 3",
+      "matchday": "Matchday 4",
       "sub_league": "League - D2M Group A",
       "date": "16/11/2025",
       "time": "16:30",
@@ -172,7 +181,7 @@
       "away_team": "Impact Macroom D2M"
     },
     {
-      "matchday": "Matchday 4",
+      "matchday": "Matchday 5",
       "sub_league": "League - D2M Group A",
       "date": "13/12/2025",
       "time": "13:30",
@@ -184,10 +193,10 @@
       "matchday": "Matchday 5",
       "sub_league": "League - D2M Group A",
       "date": "14/12/2025",
-      "time": "13:00",
-      "venue": "Collinstown Sports Complex",
-      "home_team": "Intl Volleyball Ireland D2M",
-      "away_team": "Impact Macroom D2M"
+      "time": "12:30",
+      "venue": "Castle Park School",
+      "home_team": "Tallaght Rockets D2M",
+      "away_team": "Dalkey Devils D2M"
     },
     {
       "matchday": "Matchday 5",
@@ -201,6 +210,15 @@
     {
       "matchday": "Matchday 5",
       "sub_league": "League - D2M Group A",
+      "date": "28/02/2026",
+      "time": "13:30",
+      "venue": "Collinstown Sports Complex",
+      "home_team": "Intl Volleyball Ireland D2M",
+      "away_team": "Impact Macroom D2M"
+    },
+    {
+      "matchday": "Matchday 5",
+      "sub_league": "League - D2M Group A",
       "date": "11/01/2026",
       "time": "10:00",
       "venue": "Castle Park School",
@@ -208,7 +226,7 @@
       "away_team": "Gardians Dullahan"
     },
     {
-      "matchday": "Matchday 5",
+      "matchday": "Matchday 6",
       "sub_league": "League - D2M Group A",
       "date": "11/01/2026",
       "time": "11:30",
@@ -217,13 +235,22 @@
       "away_team": "Tallaght Rockets D2M"
     },
     {
-      "matchday": "Matchday 5",
+      "matchday": "Matchday 6",
       "sub_league": "League - D2M Group A",
       "date": "11/01/2026",
       "time": "14:00",
       "venue": "Macroom Community Leisure Centre",
       "home_team": "Impact Macroom D2M",
       "away_team": "Naas Pythons D2M"
+    },
+    {
+      "matchday": "Matchday 6",
+      "sub_league": "League - D2M Group A",
+      "date": "11/01/2026",
+      "time": "16:30",
+      "venue": "Coláiste Chríost Rí",
+      "home_team": "Cork Volleyball Acad D2M",
+      "away_team": "UCD D2M"
     },
     {
       "matchday": "Matchday 6",
@@ -244,7 +271,7 @@
       "away_team": "Intl Volleyball Ireland D2M"
     },
     {
-      "matchday": "Matchday 6",
+      "matchday": "Matchday 7",
       "sub_league": "League - D2M Group A",
       "date": "01/02/2026",
       "time": "13:30",
@@ -253,7 +280,7 @@
       "away_team": "Naas Pythons D2M"
     },
     {
-      "matchday": "Matchday 6",
+      "matchday": "Matchday 7",
       "sub_league": "League - D2M Group A",
       "date": "01/02/2026",
       "time": "13:30",
@@ -262,7 +289,7 @@
       "away_team": "Impact Macroom D2M"
     },
     {
-      "matchday": "Matchday 6",
+      "matchday": "Matchday 7",
       "sub_league": "League - D2M Group A",
       "date": "07/02/2026",
       "time": "15:30",
@@ -289,7 +316,7 @@
       "away_team": "Dalkey Devils D2M"
     },
     {
-      "matchday": "Matchday 7",
+      "matchday": "Matchday 8",
       "sub_league": "League - D2M Group A",
       "date": "08/02/2026",
       "time": "16:30",
@@ -298,7 +325,7 @@
       "away_team": "Tallaght Rockets D2M"
     },
     {
-      "matchday": "Matchday 7",
+      "matchday": "Matchday 8",
       "sub_league": "League - D2M Group A",
       "date": "15/02/2026",
       "time": "11:00",
@@ -307,7 +334,7 @@
       "away_team": "Impact Macroom D2M"
     },
     {
-      "matchday": "Matchday 7",
+      "matchday": "Matchday 8",
       "sub_league": "League - D2M Group A",
       "date": "15/02/2026",
       "time": "11:30",
@@ -334,7 +361,7 @@
       "away_team": "UCD D2M"
     },
     {
-      "matchday": "Matchday 8",
+      "matchday": "Matchday 9",
       "sub_league": "League - D2M Group A",
       "date": "07/03/2026",
       "time": "11:00",
@@ -343,7 +370,7 @@
       "away_team": "Tallaght Rockets D2M"
     },
     {
-      "matchday": "Matchday 8",
+      "matchday": "Matchday 9",
       "sub_league": "League - D2M Group A",
       "date": "07/03/2026",
       "time": "15:30",
@@ -352,7 +379,16 @@
       "away_team": "Impact Macroom D2M"
     },
     {
-      "matchday": "Matchday 8",
+      "matchday": "Matchday 9",
+      "sub_league": "League - D2M Group A",
+      "date": "07/03/2026",
+      "time": "16:30",
+      "venue": "Coláiste Chríost Rí",
+      "home_team": "Cork Volleyball Acad D2M",
+      "away_team": "Dalkey Devils D2M"
+    },
+    {
+      "matchday": "Matchday 9",
       "sub_league": "League - D2M Group A",
       "date": "08/03/2026",
       "time": "16:00",
@@ -370,7 +406,7 @@
       "away_team": "UCD D2M"
     },
     {
-      "matchday": "Matchday 9",
+      "matchday": "Matchday 10",
       "sub_league": "League - D2M Group A",
       "date": "22/03/2026",
       "time": "13:30",
@@ -379,7 +415,7 @@
       "away_team": "Gardians Dullahan"
     },
     {
-      "matchday": "Matchday 9",
+      "matchday": "Matchday 10",
       "sub_league": "League - D2M Group A",
       "date": "22/03/2026",
       "time": "16:30",
@@ -388,7 +424,7 @@
       "away_team": "Cork Volleyball Acad D2M"
     },
     {
-      "matchday": "Matchday 9",
+      "matchday": "Matchday 10",
       "sub_league": "League - D2M Group A",
       "date": "22/03/2026",
       "time": "17:30",
@@ -397,7 +433,7 @@
       "away_team": "Naas Pythons D2M"
     },
     {
-      "matchday": "Matchday 9",
+      "matchday": "Matchday 10",
       "sub_league": "League - D2M Group A",
       "date": "11/04/2026",
       "time": "15:30",
@@ -415,7 +451,7 @@
       "away_team": "Tallaght Rockets D2M"
     },
     {
-      "matchday": "Matchday 10",
+      "matchday": "Matchday 11",
       "sub_league": "League - D2M Group A",
       "date": "12/04/2026",
       "time": "16:30",
@@ -424,8 +460,8 @@
       "away_team": "Intl Volleyball Ireland D2M"
     },
     {
-      "matchday": "Matchday 10",
-      "sub_league": "League - D2M Group A",
+      "matchday": "Matchday 11",
+      "sub_league": "League - D2M Group B",
       "date": "18/04/2026",
       "time": "15:00",
       "venue": "Colaiste De hIde",
@@ -433,8 +469,8 @@
       "away_team": "Dalkey Devils D2M"
     },
     {
-      "matchday": "Matchday 10",
-      "sub_league": "League - D2M Group A",
+      "matchday": "Matchday 11",
+      "sub_league": "League - D2M Group B",
       "date": "19/04/2026",
       "time": "11:30",
       "venue": "St Mary's College (Naas)",
@@ -442,8 +478,8 @@
       "away_team": "Impact Macroom D2M"
     },
     {
-      "matchday": "Matchday 10",
-      "sub_league": "League - D2M Group A",
+      "matchday": "Matchday 11",
+      "sub_league": "League - D2M Group B",
       "date": "19/04/2026",
       "time": "13:30",
       "venue": "Firhouse Community College",
@@ -460,7 +496,7 @@
       "away_team": "Cork Volleyball Acad D2M"
     },
     {
-      "matchday": "Matchday 11",
+      "matchday": "Matchday 12",
       "sub_league": "League - D2M Group B",
       "date": "11/10/2025",
       "time": "14:30",
@@ -469,7 +505,7 @@
       "away_team": "SETU Carlow D2M"
     },
     {
-      "matchday": "Matchday 11",
+      "matchday": "Matchday 12",
       "sub_league": "League - D2M Group B",
       "date": "12/10/2025",
       "time": "13:30",
@@ -478,7 +514,7 @@
       "away_team": "Kildare Panthers"
     },
     {
-      "matchday": "Matchday 11",
+      "matchday": "Matchday 12",
       "sub_league": "League - D2M Group B",
       "date": "12/10/2025",
       "time": "14:00",
@@ -487,7 +523,7 @@
       "away_team": "Balbriggan Tigers"
     },
     {
-      "matchday": "Matchday 11",
+      "matchday": "Matchday 12",
       "sub_league": "League - D2M Group B",
       "date": "12/10/2025",
       "time": "14:30",
@@ -505,7 +541,7 @@
       "away_team": "Jackals D2M"
     },
     {
-      "matchday": "Matchday 12",
+      "matchday": "Matchday 13",
       "sub_league": "League - D2M Group B",
       "date": "19/10/2025",
       "time": "13:00",
@@ -514,7 +550,7 @@
       "away_team": "Impact Stars D2M"
     },
     {
-      "matchday": "Matchday 12",
+      "matchday": "Matchday 13",
       "sub_league": "League - D2M Group B",
       "date": "19/10/2025",
       "time": "14:30",
@@ -523,7 +559,7 @@
       "away_team": "Balbriggan Tigers"
     },
     {
-      "matchday": "Matchday 12",
+      "matchday": "Matchday 13",
       "sub_league": "League - D2M Group B",
       "date": "19/10/2025",
       "time": "16:00",
@@ -532,7 +568,7 @@
       "away_team": "SETU Carlow D2M"
     },
     {
-      "matchday": "Matchday 12",
+      "matchday": "Matchday 13",
       "sub_league": "League - D2M Group B",
       "date": "25/10/2025",
       "time": "14:30",
@@ -550,16 +586,16 @@
       "away_team": "Kildare Panthers"
     },
     {
-      "matchday": "Matchday 13",
+      "matchday": "Matchday 14",
       "sub_league": "League - D2M Group B",
       "date": "26/10/2025",
       "time": "11:00",
-      "venue": "Barrow Centre",
+      "venue": "Loreto Secondary School (Kilkenny)",
       "home_team": "SETU Carlow D2M",
       "away_team": "Crumlin Phivo"
     },
     {
-      "matchday": "Matchday 13",
+      "matchday": "Matchday 14",
       "sub_league": "League - D2M Group B",
       "date": "09/11/2025",
       "time": "13:30",
@@ -568,7 +604,7 @@
       "away_team": "Celestials D2M"
     },
     {
-      "matchday": "Matchday 13",
+      "matchday": "Matchday 14",
       "sub_league": "League - D2M Group B",
       "date": "15/11/2025",
       "time": "10:30",
@@ -577,7 +613,7 @@
       "away_team": "Balbriggan Tigers"
     },
     {
-      "matchday": "Matchday 13",
+      "matchday": "Matchday 14",
       "sub_league": "League - D2M Group B",
       "date": "16/11/2025",
       "time": "13:30",
@@ -595,7 +631,7 @@
       "away_team": "SETU Carlow D2M"
     },
     {
-      "matchday": "Matchday 14",
+      "matchday": "Matchday 15",
       "sub_league": "League - D2M Group B",
       "date": "16/11/2025",
       "time": "16:30",
@@ -604,7 +640,7 @@
       "away_team": "Jackals D2M"
     },
     {
-      "matchday": "Matchday 14",
+      "matchday": "Matchday 15",
       "sub_league": "League - D2M Group B",
       "date": "29/11/2025",
       "time": "11:00",
@@ -613,7 +649,7 @@
       "away_team": "Celestials D2M"
     },
     {
-      "matchday": "Matchday 14",
+      "matchday": "Matchday 15",
       "sub_league": "League - D2M Group B",
       "date": "29/11/2025",
       "time": "12:00",
@@ -622,7 +658,7 @@
       "away_team": "Impact Stars D2M"
     },
     {
-      "matchday": "Matchday 14",
+      "matchday": "Matchday 15",
       "sub_league": "League - D2M Group B",
       "date": "30/11/2025",
       "time": "13:00",
@@ -640,7 +676,7 @@
       "away_team": "Kildare Panthers"
     },
     {
-      "matchday": "Matchday 15",
+      "matchday": "Matchday 16",
       "sub_league": "League - D2M Group B",
       "date": "13/12/2025",
       "time": "13:00",
@@ -649,7 +685,7 @@
       "away_team": "Impact Stars D2M"
     },
     {
-      "matchday": "Matchday 15",
+      "matchday": "Matchday 16",
       "sub_league": "League - D2M Group B",
       "date": "14/12/2025",
       "time": "14:30",
@@ -658,7 +694,7 @@
       "away_team": "Jackals D2M"
     },
     {
-      "matchday": "Matchday 15",
+      "matchday": "Matchday 16",
       "sub_league": "League - D2M Group B",
       "date": "14/12/2025",
       "time": "15:30",
@@ -667,7 +703,7 @@
       "away_team": "SETU Carlow D2M"
     },
     {
-      "matchday": "Matchday 15",
+      "matchday": "Matchday 16",
       "sub_league": "League - D2M Group B",
       "date": "14/12/2025",
       "time": "16:00",
@@ -685,7 +721,7 @@
       "away_team": "Balbriggan Tigers"
     },
     {
-      "matchday": "Matchday 16",
+      "matchday": "Matchday 17",
       "sub_league": "League - D2M Group B",
       "date": "11/01/2026",
       "time": "13:00",
@@ -694,7 +730,7 @@
       "away_team": "SETU Carlow D2M"
     },
     {
-      "matchday": "Matchday 16",
+      "matchday": "Matchday 17",
       "sub_league": "League - D2M Group B",
       "date": "11/01/2026",
       "time": "13:30",
@@ -703,7 +739,7 @@
       "away_team": "Celestials D2M"
     },
     {
-      "matchday": "Matchday 16",
+      "matchday": "Matchday 17",
       "sub_league": "League - D2M Group B",
       "date": "11/01/2026",
       "time": "16:30",
@@ -712,7 +748,7 @@
       "away_team": "Crumlin Phivo"
     },
     {
-      "matchday": "Matchday 16",
+      "matchday": "Matchday 17",
       "sub_league": "League - D2M Group B",
       "date": "31/01/2026",
       "time": "11:00",
@@ -730,7 +766,7 @@
       "away_team": "Crumlin Phivo"
     },
     {
-      "matchday": "Matchday 17",
+      "matchday": "Matchday 18",
       "sub_league": "League - D2M Group B",
       "date": "01/02/2026",
       "time": "13:00",
@@ -739,7 +775,7 @@
       "away_team": "Impact Stars D2M"
     },
     {
-      "matchday": "Matchday 17",
+      "matchday": "Matchday 18",
       "sub_league": "League - D2M Group B",
       "date": "01/02/2026",
       "time": "16:30",
@@ -748,7 +784,7 @@
       "away_team": "BMP Titans"
     },
     {
-      "matchday": "Matchday 17",
+      "matchday": "Matchday 18",
       "sub_league": "League - D2M Group B",
       "date": "07/02/2026",
       "time": "11:00",
@@ -757,7 +793,7 @@
       "away_team": "BMP Titans"
     },
     {
-      "matchday": "Matchday 17",
+      "matchday": "Matchday 18",
       "sub_league": "League - D2M Group B",
       "date": "07/02/2026",
       "time": "12:30",
@@ -775,7 +811,7 @@
       "away_team": "Celestials D2M"
     },
     {
-      "matchday": "Matchday 18",
+      "matchday": "Matchday 19",
       "sub_league": "League - D2M Group B",
       "date": "08/02/2026",
       "time": "16:30",
@@ -784,7 +820,7 @@
       "away_team": "Kildare Panthers"
     },
     {
-      "matchday": "Matchday 18",
+      "matchday": "Matchday 19",
       "sub_league": "League - D2M Group B",
       "date": "14/02/2026",
       "time": "13:00",
@@ -793,7 +829,7 @@
       "away_team": "Impact Stars D2M"
     },
     {
-      "matchday": "Matchday 18",
+      "matchday": "Matchday 19",
       "sub_league": "League - D2M Group B",
       "date": "15/02/2026",
       "time": "11:00",
@@ -802,7 +838,7 @@
       "away_team": "Jackals D2M"
     },
     {
-      "matchday": "Matchday 18",
+      "matchday": "Matchday 19",
       "sub_league": "League - D2M Group B",
       "date": "15/02/2026",
       "time": "11:30",
@@ -820,7 +856,7 @@
       "away_team": "Balbriggan Tigers"
     },
     {
-      "matchday": "Matchday 19",
+      "matchday": "Matchday 20",
       "sub_league": "League - D2M Group B",
       "date": "07/03/2026",
       "time": "11:00",
@@ -829,7 +865,7 @@
       "away_team": "Impact Stars D2M"
     },
     {
-      "matchday": "Matchday 19",
+      "matchday": "Matchday 20",
       "sub_league": "League - D2M Group B",
       "date": "07/03/2026",
       "time": "12:00",
@@ -838,7 +874,7 @@
       "away_team": "Kildare Panthers"
     },
     {
-      "matchday": "Matchday 19",
+      "matchday": "Matchday 20",
       "sub_league": "League - D2M Group B",
       "date": "08/03/2026",
       "time": "13:00",
@@ -847,7 +883,7 @@
       "away_team": "Celestials D2M"
     },
     {
-      "matchday": "Matchday 19",
+      "matchday": "Matchday 20",
       "sub_league": "League - D2M Group B",
       "date": "08/03/2026",
       "time": "14:30",
@@ -865,7 +901,7 @@
       "away_team": "SETU Carlow D2M"
     },
     {
-      "matchday": "Matchday 20",
+      "matchday": "Matchday 21",
       "sub_league": "League - D2M Group B",
       "date": "22/03/2026",
       "time": "13:30",
@@ -874,7 +910,7 @@
       "away_team": "Balbriggan Tigers"
     },
     {
-      "matchday": "Matchday 20",
+      "matchday": "Matchday 21",
       "sub_league": "League - D2M Group B",
       "date": "22/03/2026",
       "time": "14:00",
@@ -883,8 +919,8 @@
       "away_team": "Jackals D2M"
     },
     {
-      "matchday": "Matchday 20",
-      "sub_league": "League - D2M Group B",
+      "matchday": "Matchday 21",
+      "sub_league": "League - D2M Group C",
       "date": "22/03/2026",
       "time": "16:30",
       "venue": "Patrician Secondary School (Newbridge)",
@@ -892,8 +928,8 @@
       "away_team": "Crumlin Phivo"
     },
     {
-      "matchday": "Matchday 20",
-      "sub_league": "League - D2M Group B",
+      "matchday": "Matchday 21",
+      "sub_league": "League - D2M Group C",
       "date": "11/04/2026",
       "time": "11:00",
       "venue": "Barrow Centre",
@@ -910,7 +946,7 @@
       "away_team": "Crumlin Phivo"
     },
     {
-      "matchday": "Matchday 21",
+      "matchday": "Matchday 22",
       "sub_league": "League - D2M Group C",
       "date": "12/04/2026",
       "time": "14:00",
@@ -919,7 +955,7 @@
       "away_team": "BMP Titans"
     },
     {
-      "matchday": "Matchday 21",
+      "matchday": "Matchday 22",
       "sub_league": "League - D2M Group C",
       "date": "12/04/2026",
       "time": "14:00",
@@ -928,7 +964,7 @@
       "away_team": "Celestials D2M"
     },
     {
-      "matchday": "Matchday 21",
+      "matchday": "Matchday 22",
       "sub_league": "League - D2M Group C",
       "date": "18/04/2026",
       "time": "11:00",
@@ -937,7 +973,7 @@
       "away_team": "Kildare Panthers"
     },
     {
-      "matchday": "Matchday 21",
+      "matchday": "Matchday 22",
       "sub_league": "League - D2M Group C",
       "date": "18/04/2026",
       "time": "11:00",
@@ -955,7 +991,7 @@
       "away_team": "Jackals D2M"
     },
     {
-      "matchday": "Matchday 22",
+      "matchday": "Matchday 23",
       "sub_league": "League - D2M Group C",
       "date": "19/04/2026",
       "time": "14:30",
@@ -964,7 +1000,7 @@
       "away_team": "Impact Stars D2M"
     },
     {
-      "matchday": "Matchday 22",
+      "matchday": "Matchday 23",
       "sub_league": "League - D2M Group C",
       "date": "11/10/2025",
       "time": "11:30",
@@ -973,7 +1009,7 @@
       "away_team": "Balbriggan T-Rex"
     },
     {
-      "matchday": "Matchday 22",
+      "matchday": "Matchday 23",
       "sub_league": "League - D2M Group C",
       "date": "11/10/2025",
       "time": "14:30",
@@ -982,7 +1018,7 @@
       "away_team": "Galway D2M"
     },
     {
-      "matchday": "Matchday 22",
+      "matchday": "Matchday 23",
       "sub_league": "League - D2M Group C",
       "date": "12/10/2025",
       "time": "11:00",
@@ -1000,16 +1036,16 @@
       "away_team": "Balbriggan T-Rex"
     },
     {
-      "matchday": "Matchday 23",
+      "matchday": "Matchday 24",
       "sub_league": "League - D2M Group C",
       "date": "19/10/2025",
-      "time": "15:30",
+      "time": "18:00",
       "venue": "Patrician Secondary School (Newbridge)",
       "home_team": "Kildare Jaguars",
       "away_team": "Kilkenny Spartans D2M"
     },
     {
-      "matchday": "Matchday 23",
+      "matchday": "Matchday 24",
       "sub_league": "League - D2M Group C",
       "date": "19/10/2025",
       "time": "18:30",
@@ -1018,7 +1054,7 @@
       "away_team": "Gardians Panda D2M"
     },
     {
-      "matchday": "Matchday 23",
+      "matchday": "Matchday 24",
       "sub_league": "League - D2M Group C",
       "date": "25/10/2025",
       "time": "13:00",
@@ -1027,7 +1063,7 @@
       "away_team": "Crumlin Ravens"
     },
     {
-      "matchday": "Matchday 23",
+      "matchday": "Matchday 24",
       "sub_league": "League - D2M Group C",
       "date": "25/10/2025",
       "time": "13:30",
@@ -1045,7 +1081,7 @@
       "away_team": "Kildare Jaguars"
     },
     {
-      "matchday": "Matchday 24",
+      "matchday": "Matchday 25",
       "sub_league": "League - D2M Group C",
       "date": "15/11/2025",
       "time": "11:30",
@@ -1054,7 +1090,7 @@
       "away_team": "Gardians Panda D2M"
     },
     {
-      "matchday": "Matchday 24",
+      "matchday": "Matchday 25",
       "sub_league": "League - D2M Group C",
       "date": "16/11/2025",
       "time": "11:00",
@@ -1063,7 +1099,7 @@
       "away_team": "Crumlin Ravens"
     },
     {
-      "matchday": "Matchday 24",
+      "matchday": "Matchday 25",
       "sub_league": "League - D2M Group C",
       "date": "29/11/2025",
       "time": "12:30",
@@ -1072,7 +1108,7 @@
       "away_team": "BMP Hunters"
     },
     {
-      "matchday": "Matchday 24",
+      "matchday": "Matchday 25",
       "sub_league": "League - D2M Group C",
       "date": "29/11/2025",
       "time": "13:00",
@@ -1090,7 +1126,7 @@
       "away_team": "Kildare Jaguars"
     },
     {
-      "matchday": "Matchday 25",
+      "matchday": "Matchday 26",
       "sub_league": "League - D2M Group C",
       "date": "13/12/2025",
       "time": "12:30",
@@ -1099,7 +1135,7 @@
       "away_team": "Gardians Panda D2M"
     },
     {
-      "matchday": "Matchday 25",
+      "matchday": "Matchday 26",
       "sub_league": "League - D2M Group C",
       "date": "14/12/2025",
       "time": "11:00",
@@ -1108,7 +1144,7 @@
       "away_team": "Kildare Jaguars"
     },
     {
-      "matchday": "Matchday 25",
+      "matchday": "Matchday 26",
       "sub_league": "League - D2M Group C",
       "date": "14/12/2025",
       "time": "13:30",
@@ -1117,7 +1153,7 @@
       "away_team": "Kilkenny Spartans D2M"
     },
     {
-      "matchday": "Matchday 25",
+      "matchday": "Matchday 26",
       "sub_league": "League - D2M Group C",
       "date": "10/01/2026",
       "time": "11:00",
@@ -1135,7 +1171,7 @@
       "away_team": "Galway D2M"
     },
     {
-      "matchday": "Matchday 26",
+      "matchday": "Matchday 27",
       "sub_league": "League - D2M Group C",
       "date": "11/01/2026",
       "time": "15:30",
@@ -1144,7 +1180,7 @@
       "away_team": "Gardians Panda D2M"
     },
     {
-      "matchday": "Matchday 26",
+      "matchday": "Matchday 27",
       "sub_league": "League - D2M Group C",
       "date": "31/01/2026",
       "time": "15:00",
@@ -1153,7 +1189,7 @@
       "away_team": "Kilkenny Spartans D2M"
     },
     {
-      "matchday": "Matchday 26",
+      "matchday": "Matchday 27",
       "sub_league": "League - D2M Group C",
       "date": "01/02/2026",
       "time": "11:00",
@@ -1162,7 +1198,7 @@
       "away_team": "Crumlin Ravens"
     },
     {
-      "matchday": "Matchday 26",
+      "matchday": "Matchday 27",
       "sub_league": "League - D2M Group C",
       "date": "01/02/2026",
       "time": "14:00",
@@ -1180,7 +1216,7 @@
       "away_team": "BMP Hunters"
     },
     {
-      "matchday": "Matchday 27",
+      "matchday": "Matchday 28",
       "sub_league": "League - D2M Group C",
       "date": "07/02/2026",
       "time": "15:00",
@@ -1189,7 +1225,7 @@
       "away_team": "Crumlin Ravens"
     },
     {
-      "matchday": "Matchday 27",
+      "matchday": "Matchday 28",
       "sub_league": "League - D2M Group C",
       "date": "08/02/2026",
       "time": "11:30",
@@ -1198,7 +1234,7 @@
       "away_team": "Kildare Jaguars"
     },
     {
-      "matchday": "Matchday 27",
+      "matchday": "Matchday 28",
       "sub_league": "League - D2M Group C",
       "date": "15/02/2026",
       "time": "11:00",
@@ -1207,7 +1243,7 @@
       "away_team": "Kilkenny Spartans D2M"
     },
     {
-      "matchday": "Matchday 27",
+      "matchday": "Matchday 28",
       "sub_league": "League - D2M Group C",
       "date": "15/02/2026",
       "time": "14:30",
@@ -1225,7 +1261,7 @@
       "away_team": "Balbriggan T-Rex"
     },
     {
-      "matchday": "Matchday 28",
+      "matchday": "Matchday 29",
       "sub_league": "League - D2M Group C",
       "date": "07/03/2026",
       "time": "12:30",
@@ -1234,7 +1270,7 @@
       "away_team": "Galway D2M"
     },
     {
-      "matchday": "Matchday 28",
+      "matchday": "Matchday 29",
       "sub_league": "League - D2M Group C",
       "date": "07/03/2026",
       "time": "12:30",
@@ -1243,7 +1279,7 @@
       "away_team": "Kilkenny Spartans D2M"
     },
     {
-      "matchday": "Matchday 28",
+      "matchday": "Matchday 29",
       "sub_league": "League - D2M Group C",
       "date": "07/03/2026",
       "time": "14:30",
@@ -1252,7 +1288,7 @@
       "away_team": "BMP Hunters"
     },
     {
-      "matchday": "Matchday 28",
+      "matchday": "Matchday 29",
       "sub_league": "League - D2M Group C",
       "date": "22/03/2026",
       "time": "11:00",
@@ -1270,7 +1306,7 @@
       "away_team": "Gardians Panda D2M"
     },
     {
-      "matchday": "Matchday 29",
+      "matchday": "Matchday 30",
       "sub_league": "League - D2M Group C",
       "date": "22/03/2026",
       "time": "14:00",
@@ -1279,7 +1315,7 @@
       "away_team": "Crumlin Ravens"
     },
     {
-      "matchday": "Matchday 29",
+      "matchday": "Matchday 30",
       "sub_league": "League - D2M Group C",
       "date": "11/04/2026",
       "time": "13:00",
@@ -1288,7 +1324,7 @@
       "away_team": "Balbriggan T-Rex"
     },
     {
-      "matchday": "Matchday 29",
+      "matchday": "Matchday 30",
       "sub_league": "League - D2M Group C",
       "date": "11/04/2026",
       "time": "14:00",
@@ -1297,7 +1333,7 @@
       "away_team": "BMP Hunters"
     },
     {
-      "matchday": "Matchday 29",
+      "matchday": "Matchday 30",
       "sub_league": "League - D2M Group C",
       "date": "12/04/2026",
       "time": "11:30",
@@ -1315,7 +1351,7 @@
       "away_team": "Kildare Jaguars"
     },
     {
-      "matchday": "Matchday 30",
+      "matchday": "Matchday 31",
       "sub_league": "League - D2M Group C",
       "date": "18/04/2026",
       "time": "14:30",
@@ -1324,7 +1360,7 @@
       "away_team": "Kilkenny Spartans D2M"
     },
     {
-      "matchday": "Matchday 30",
+      "matchday": "Matchday 31",
       "sub_league": "League - D2M Group C",
       "date": "19/04/2026",
       "time": "11:00",
@@ -1336,7 +1372,7 @@
   "sub_leagues": {
     "League - D2M Group A": [
       {
-        "matchday": "Matchday 6",
+        "matchday": "Matchday 7",
         "sub_league": "League - D2M Group A",
         "date": "01/02/2026",
         "time": "13:30",
@@ -1345,7 +1381,7 @@
         "away_team": "Naas Pythons D2M"
       },
       {
-        "matchday": "Matchday 6",
+        "matchday": "Matchday 7",
         "sub_league": "League - D2M Group A",
         "date": "01/02/2026",
         "time": "13:30",
@@ -1354,7 +1390,7 @@
         "away_team": "Impact Macroom D2M"
       },
       {
-        "matchday": "Matchday 6",
+        "matchday": "Matchday 7",
         "sub_league": "League - D2M Group A",
         "date": "07/02/2026",
         "time": "15:30",
@@ -1363,7 +1399,7 @@
         "away_team": "Intl Volleyball Ireland D2M"
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D2M Group A",
         "date": "07/03/2026",
         "time": "11:00",
@@ -1372,13 +1408,22 @@
         "away_team": "Tallaght Rockets D2M"
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D2M Group A",
         "date": "07/03/2026",
         "time": "15:30",
         "venue": "Colaiste De hIde",
         "home_team": "Gardians Dullahan",
         "away_team": "Impact Macroom D2M"
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - D2M Group A",
+        "date": "07/03/2026",
+        "time": "16:30",
+        "venue": "Coláiste Chríost Rí",
+        "home_team": "Cork Volleyball Acad D2M",
+        "away_team": "Dalkey Devils D2M"
       },
       {
         "matchday": "Matchday 7",
@@ -1399,7 +1444,7 @@
         "away_team": "Dalkey Devils D2M"
       },
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D2M Group A",
         "date": "08/02/2026",
         "time": "16:30",
@@ -1408,7 +1453,7 @@
         "away_team": "Tallaght Rockets D2M"
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D2M Group A",
         "date": "08/03/2026",
         "time": "16:00",
@@ -1426,6 +1471,15 @@
         "away_team": "Tallaght Rockets D2M"
       },
       {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D2M Group A",
+        "date": "09/11/2025",
+        "time": "14:00",
+        "venue": "Collinstown Sports Complex",
+        "home_team": "Intl Volleyball Ireland D2M",
+        "away_team": "Naas Pythons D2M"
+      },
+      {
         "matchday": "Matchday 5",
         "sub_league": "League - D2M Group A",
         "date": "11/01/2026",
@@ -1435,7 +1489,7 @@
         "away_team": "Gardians Dullahan"
       },
       {
-        "matchday": "Matchday 5",
+        "matchday": "Matchday 6",
         "sub_league": "League - D2M Group A",
         "date": "11/01/2026",
         "time": "11:30",
@@ -1444,7 +1498,7 @@
         "away_team": "Tallaght Rockets D2M"
       },
       {
-        "matchday": "Matchday 5",
+        "matchday": "Matchday 6",
         "sub_league": "League - D2M Group A",
         "date": "11/01/2026",
         "time": "14:00",
@@ -1453,7 +1507,16 @@
         "away_team": "Naas Pythons D2M"
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 6",
+        "sub_league": "League - D2M Group A",
+        "date": "11/01/2026",
+        "time": "16:30",
+        "venue": "Coláiste Chríost Rí",
+        "home_team": "Cork Volleyball Acad D2M",
+        "away_team": "UCD D2M"
+      },
+      {
+        "matchday": "Matchday 10",
         "sub_league": "League - D2M Group A",
         "date": "11/04/2026",
         "time": "15:30",
@@ -1480,7 +1543,7 @@
         "away_team": "Tallaght Rockets D2M"
       },
       {
-        "matchday": "Matchday 10",
+        "matchday": "Matchday 11",
         "sub_league": "League - D2M Group A",
         "date": "12/04/2026",
         "time": "16:30",
@@ -1516,7 +1579,7 @@
         "away_team": "Tallaght Rockets D2M"
       },
       {
-        "matchday": "Matchday 4",
+        "matchday": "Matchday 5",
         "sub_league": "League - D2M Group A",
         "date": "13/12/2025",
         "time": "13:30",
@@ -1528,10 +1591,10 @@
         "matchday": "Matchday 5",
         "sub_league": "League - D2M Group A",
         "date": "14/12/2025",
-        "time": "13:00",
-        "venue": "Collinstown Sports Complex",
-        "home_team": "Intl Volleyball Ireland D2M",
-        "away_team": "Impact Macroom D2M"
+        "time": "12:30",
+        "venue": "Castle Park School",
+        "home_team": "Tallaght Rockets D2M",
+        "away_team": "Dalkey Devils D2M"
       },
       {
         "matchday": "Matchday 5",
@@ -1543,7 +1606,7 @@
         "away_team": "Cork Volleyball Acad D2M"
       },
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D2M Group A",
         "date": "15/02/2026",
         "time": "11:00",
@@ -1552,7 +1615,7 @@
         "away_team": "Impact Macroom D2M"
       },
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D2M Group A",
         "date": "15/02/2026",
         "time": "11:30",
@@ -1597,40 +1660,13 @@
         "away_team": "UCD D2M"
       },
       {
-        "matchday": "Matchday 3",
+        "matchday": "Matchday 4",
         "sub_league": "League - D2M Group A",
         "date": "16/11/2025",
         "time": "16:30",
         "venue": "Macroom Community Leisure Centre",
         "home_team": "Impact Macroom D2M",
         "away_team": "Gardians Dullahan"
-      },
-      {
-        "matchday": "Matchday 10",
-        "sub_league": "League - D2M Group A",
-        "date": "18/04/2026",
-        "time": "15:00",
-        "venue": "Colaiste De hIde",
-        "home_team": "Gardians Dullahan",
-        "away_team": "Dalkey Devils D2M"
-      },
-      {
-        "matchday": "Matchday 10",
-        "sub_league": "League - D2M Group A",
-        "date": "19/04/2026",
-        "time": "11:30",
-        "venue": "St Mary's College (Naas)",
-        "home_team": "Naas Pythons D2M",
-        "away_team": "Impact Macroom D2M"
-      },
-      {
-        "matchday": "Matchday 10",
-        "sub_league": "League - D2M Group A",
-        "date": "19/04/2026",
-        "time": "13:30",
-        "venue": "Firhouse Community College",
-        "home_team": "Tallaght Rockets D2M",
-        "away_team": "Intl Volleyball Ireland D2M"
       },
       {
         "matchday": "Matchday 1",
@@ -1678,7 +1714,7 @@
         "away_team": "UCD D2M"
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 10",
         "sub_league": "League - D2M Group A",
         "date": "22/03/2026",
         "time": "13:30",
@@ -1687,7 +1723,7 @@
         "away_team": "Gardians Dullahan"
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 10",
         "sub_league": "League - D2M Group A",
         "date": "22/03/2026",
         "time": "16:30",
@@ -1696,7 +1732,7 @@
         "away_team": "Cork Volleyball Acad D2M"
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 10",
         "sub_league": "League - D2M Group A",
         "date": "22/03/2026",
         "time": "17:30",
@@ -1730,6 +1766,15 @@
         "venue": "Coláiste Chríost Rí",
         "home_team": "Cork Volleyball Acad D2M",
         "away_team": "Intl Volleyball Ireland D2M"
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - D2M Group A",
+        "date": "28/02/2026",
+        "time": "13:30",
+        "venue": "Collinstown Sports Complex",
+        "home_team": "Intl Volleyball Ireland D2M",
+        "away_team": "Impact Macroom D2M"
       },
       {
         "matchday": "Matchday 4",
@@ -1788,7 +1833,7 @@
     ],
     "League - D2M Group B": [
       {
-        "matchday": "Matchday 17",
+        "matchday": "Matchday 18",
         "sub_league": "League - D2M Group B",
         "date": "01/02/2026",
         "time": "13:00",
@@ -1797,7 +1842,7 @@
         "away_team": "Impact Stars D2M"
       },
       {
-        "matchday": "Matchday 17",
+        "matchday": "Matchday 18",
         "sub_league": "League - D2M Group B",
         "date": "01/02/2026",
         "time": "16:30",
@@ -1806,7 +1851,7 @@
         "away_team": "BMP Titans"
       },
       {
-        "matchday": "Matchday 17",
+        "matchday": "Matchday 18",
         "sub_league": "League - D2M Group B",
         "date": "07/02/2026",
         "time": "11:00",
@@ -1815,7 +1860,7 @@
         "away_team": "BMP Titans"
       },
       {
-        "matchday": "Matchday 17",
+        "matchday": "Matchday 18",
         "sub_league": "League - D2M Group B",
         "date": "07/02/2026",
         "time": "12:30",
@@ -1824,7 +1869,7 @@
         "away_team": "Crumlin Phivo"
       },
       {
-        "matchday": "Matchday 19",
+        "matchday": "Matchday 20",
         "sub_league": "League - D2M Group B",
         "date": "07/03/2026",
         "time": "11:00",
@@ -1833,7 +1878,7 @@
         "away_team": "Impact Stars D2M"
       },
       {
-        "matchday": "Matchday 19",
+        "matchday": "Matchday 20",
         "sub_league": "League - D2M Group B",
         "date": "07/03/2026",
         "time": "12:00",
@@ -1851,7 +1896,7 @@
         "away_team": "Celestials D2M"
       },
       {
-        "matchday": "Matchday 18",
+        "matchday": "Matchday 19",
         "sub_league": "League - D2M Group B",
         "date": "08/02/2026",
         "time": "16:30",
@@ -1860,7 +1905,7 @@
         "away_team": "Kildare Panthers"
       },
       {
-        "matchday": "Matchday 19",
+        "matchday": "Matchday 20",
         "sub_league": "League - D2M Group B",
         "date": "08/03/2026",
         "time": "13:00",
@@ -1869,7 +1914,7 @@
         "away_team": "Celestials D2M"
       },
       {
-        "matchday": "Matchday 19",
+        "matchday": "Matchday 20",
         "sub_league": "League - D2M Group B",
         "date": "08/03/2026",
         "time": "14:30",
@@ -1878,7 +1923,7 @@
         "away_team": "BMP Titans"
       },
       {
-        "matchday": "Matchday 13",
+        "matchday": "Matchday 14",
         "sub_league": "League - D2M Group B",
         "date": "09/11/2025",
         "time": "13:30",
@@ -1896,7 +1941,7 @@
         "away_team": "Balbriggan Tigers"
       },
       {
-        "matchday": "Matchday 16",
+        "matchday": "Matchday 17",
         "sub_league": "League - D2M Group B",
         "date": "11/01/2026",
         "time": "13:00",
@@ -1905,7 +1950,7 @@
         "away_team": "SETU Carlow D2M"
       },
       {
-        "matchday": "Matchday 16",
+        "matchday": "Matchday 17",
         "sub_league": "League - D2M Group B",
         "date": "11/01/2026",
         "time": "13:30",
@@ -1914,7 +1959,7 @@
         "away_team": "Celestials D2M"
       },
       {
-        "matchday": "Matchday 16",
+        "matchday": "Matchday 17",
         "sub_league": "League - D2M Group B",
         "date": "11/01/2026",
         "time": "16:30",
@@ -1923,16 +1968,7 @@
         "away_team": "Crumlin Phivo"
       },
       {
-        "matchday": "Matchday 20",
-        "sub_league": "League - D2M Group B",
-        "date": "11/04/2026",
-        "time": "11:00",
-        "venue": "Barrow Centre",
-        "home_team": "SETU Carlow D2M",
-        "away_team": "Balbriggan Tigers"
-      },
-      {
-        "matchday": "Matchday 11",
+        "matchday": "Matchday 12",
         "sub_league": "League - D2M Group B",
         "date": "11/10/2025",
         "time": "14:30",
@@ -1941,7 +1977,7 @@
         "away_team": "SETU Carlow D2M"
       },
       {
-        "matchday": "Matchday 11",
+        "matchday": "Matchday 12",
         "sub_league": "League - D2M Group B",
         "date": "12/10/2025",
         "time": "13:30",
@@ -1950,7 +1986,7 @@
         "away_team": "Kildare Panthers"
       },
       {
-        "matchday": "Matchday 11",
+        "matchday": "Matchday 12",
         "sub_league": "League - D2M Group B",
         "date": "12/10/2025",
         "time": "14:00",
@@ -1959,7 +1995,7 @@
         "away_team": "Balbriggan Tigers"
       },
       {
-        "matchday": "Matchday 11",
+        "matchday": "Matchday 12",
         "sub_league": "League - D2M Group B",
         "date": "12/10/2025",
         "time": "14:30",
@@ -1968,7 +2004,7 @@
         "away_team": "Celestials D2M"
       },
       {
-        "matchday": "Matchday 15",
+        "matchday": "Matchday 16",
         "sub_league": "League - D2M Group B",
         "date": "13/12/2025",
         "time": "13:00",
@@ -1977,7 +2013,7 @@
         "away_team": "Impact Stars D2M"
       },
       {
-        "matchday": "Matchday 18",
+        "matchday": "Matchday 19",
         "sub_league": "League - D2M Group B",
         "date": "14/02/2026",
         "time": "13:00",
@@ -1986,7 +2022,7 @@
         "away_team": "Impact Stars D2M"
       },
       {
-        "matchday": "Matchday 15",
+        "matchday": "Matchday 16",
         "sub_league": "League - D2M Group B",
         "date": "14/12/2025",
         "time": "14:30",
@@ -1995,7 +2031,7 @@
         "away_team": "Jackals D2M"
       },
       {
-        "matchday": "Matchday 15",
+        "matchday": "Matchday 16",
         "sub_league": "League - D2M Group B",
         "date": "14/12/2025",
         "time": "15:30",
@@ -2004,7 +2040,7 @@
         "away_team": "SETU Carlow D2M"
       },
       {
-        "matchday": "Matchday 15",
+        "matchday": "Matchday 16",
         "sub_league": "League - D2M Group B",
         "date": "14/12/2025",
         "time": "16:00",
@@ -2013,7 +2049,7 @@
         "away_team": "Kildare Panthers"
       },
       {
-        "matchday": "Matchday 18",
+        "matchday": "Matchday 19",
         "sub_league": "League - D2M Group B",
         "date": "15/02/2026",
         "time": "11:00",
@@ -2022,7 +2058,7 @@
         "away_team": "Jackals D2M"
       },
       {
-        "matchday": "Matchday 18",
+        "matchday": "Matchday 19",
         "sub_league": "League - D2M Group B",
         "date": "15/02/2026",
         "time": "11:30",
@@ -2040,7 +2076,7 @@
         "away_team": "Balbriggan Tigers"
       },
       {
-        "matchday": "Matchday 13",
+        "matchday": "Matchday 14",
         "sub_league": "League - D2M Group B",
         "date": "15/11/2025",
         "time": "10:30",
@@ -2049,7 +2085,7 @@
         "away_team": "Balbriggan Tigers"
       },
       {
-        "matchday": "Matchday 13",
+        "matchday": "Matchday 14",
         "sub_league": "League - D2M Group B",
         "date": "16/11/2025",
         "time": "13:30",
@@ -2067,13 +2103,40 @@
         "away_team": "SETU Carlow D2M"
       },
       {
-        "matchday": "Matchday 14",
+        "matchday": "Matchday 15",
         "sub_league": "League - D2M Group B",
         "date": "16/11/2025",
         "time": "16:30",
         "venue": "Patrician Secondary School (Newbridge)",
         "home_team": "Kildare Panthers",
         "away_team": "Jackals D2M"
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - D2M Group B",
+        "date": "18/04/2026",
+        "time": "15:00",
+        "venue": "Colaiste De hIde",
+        "home_team": "Gardians Dullahan",
+        "away_team": "Dalkey Devils D2M"
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - D2M Group B",
+        "date": "19/04/2026",
+        "time": "11:30",
+        "venue": "St Mary's College (Naas)",
+        "home_team": "Naas Pythons D2M",
+        "away_team": "Impact Macroom D2M"
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - D2M Group B",
+        "date": "19/04/2026",
+        "time": "13:30",
+        "venue": "Firhouse Community College",
+        "home_team": "Tallaght Rockets D2M",
+        "away_team": "Intl Volleyball Ireland D2M"
       },
       {
         "matchday": "Matchday 11",
@@ -2094,7 +2157,7 @@
         "away_team": "Jackals D2M"
       },
       {
-        "matchday": "Matchday 12",
+        "matchday": "Matchday 13",
         "sub_league": "League - D2M Group B",
         "date": "19/10/2025",
         "time": "13:00",
@@ -2103,7 +2166,7 @@
         "away_team": "Impact Stars D2M"
       },
       {
-        "matchday": "Matchday 12",
+        "matchday": "Matchday 13",
         "sub_league": "League - D2M Group B",
         "date": "19/10/2025",
         "time": "14:30",
@@ -2112,7 +2175,7 @@
         "away_team": "Balbriggan Tigers"
       },
       {
-        "matchday": "Matchday 12",
+        "matchday": "Matchday 13",
         "sub_league": "League - D2M Group B",
         "date": "19/10/2025",
         "time": "16:00",
@@ -2130,7 +2193,7 @@
         "away_team": "SETU Carlow D2M"
       },
       {
-        "matchday": "Matchday 20",
+        "matchday": "Matchday 21",
         "sub_league": "League - D2M Group B",
         "date": "22/03/2026",
         "time": "13:30",
@@ -2139,7 +2202,7 @@
         "away_team": "Balbriggan Tigers"
       },
       {
-        "matchday": "Matchday 20",
+        "matchday": "Matchday 21",
         "sub_league": "League - D2M Group B",
         "date": "22/03/2026",
         "time": "14:00",
@@ -2148,16 +2211,7 @@
         "away_team": "Jackals D2M"
       },
       {
-        "matchday": "Matchday 20",
-        "sub_league": "League - D2M Group B",
-        "date": "22/03/2026",
-        "time": "16:30",
-        "venue": "Patrician Secondary School (Newbridge)",
-        "home_team": "Kildare Panthers",
-        "away_team": "Crumlin Phivo"
-      },
-      {
-        "matchday": "Matchday 12",
+        "matchday": "Matchday 13",
         "sub_league": "League - D2M Group B",
         "date": "25/10/2025",
         "time": "14:30",
@@ -2175,16 +2229,16 @@
         "away_team": "Kildare Panthers"
       },
       {
-        "matchday": "Matchday 13",
+        "matchday": "Matchday 14",
         "sub_league": "League - D2M Group B",
         "date": "26/10/2025",
         "time": "11:00",
-        "venue": "Barrow Centre",
+        "venue": "Loreto Secondary School (Kilkenny)",
         "home_team": "SETU Carlow D2M",
         "away_team": "Crumlin Phivo"
       },
       {
-        "matchday": "Matchday 14",
+        "matchday": "Matchday 15",
         "sub_league": "League - D2M Group B",
         "date": "29/11/2025",
         "time": "11:00",
@@ -2193,7 +2247,7 @@
         "away_team": "Celestials D2M"
       },
       {
-        "matchday": "Matchday 14",
+        "matchday": "Matchday 15",
         "sub_league": "League - D2M Group B",
         "date": "29/11/2025",
         "time": "12:00",
@@ -2202,7 +2256,7 @@
         "away_team": "Impact Stars D2M"
       },
       {
-        "matchday": "Matchday 14",
+        "matchday": "Matchday 15",
         "sub_league": "League - D2M Group B",
         "date": "30/11/2025",
         "time": "13:00",
@@ -2220,7 +2274,7 @@
         "away_team": "Kildare Panthers"
       },
       {
-        "matchday": "Matchday 16",
+        "matchday": "Matchday 17",
         "sub_league": "League - D2M Group B",
         "date": "31/01/2026",
         "time": "11:00",
@@ -2240,7 +2294,7 @@
     ],
     "League - D2M Group C": [
       {
-        "matchday": "Matchday 26",
+        "matchday": "Matchday 27",
         "sub_league": "League - D2M Group C",
         "date": "01/02/2026",
         "time": "11:00",
@@ -2249,7 +2303,7 @@
         "away_team": "Crumlin Ravens"
       },
       {
-        "matchday": "Matchday 26",
+        "matchday": "Matchday 27",
         "sub_league": "League - D2M Group C",
         "date": "01/02/2026",
         "time": "14:00",
@@ -2267,7 +2321,7 @@
         "away_team": "BMP Hunters"
       },
       {
-        "matchday": "Matchday 27",
+        "matchday": "Matchday 28",
         "sub_league": "League - D2M Group C",
         "date": "07/02/2026",
         "time": "15:00",
@@ -2276,7 +2330,7 @@
         "away_team": "Crumlin Ravens"
       },
       {
-        "matchday": "Matchday 28",
+        "matchday": "Matchday 29",
         "sub_league": "League - D2M Group C",
         "date": "07/03/2026",
         "time": "12:30",
@@ -2285,7 +2339,7 @@
         "away_team": "Galway D2M"
       },
       {
-        "matchday": "Matchday 28",
+        "matchday": "Matchday 29",
         "sub_league": "League - D2M Group C",
         "date": "07/03/2026",
         "time": "12:30",
@@ -2294,7 +2348,7 @@
         "away_team": "Kilkenny Spartans D2M"
       },
       {
-        "matchday": "Matchday 28",
+        "matchday": "Matchday 29",
         "sub_league": "League - D2M Group C",
         "date": "07/03/2026",
         "time": "14:30",
@@ -2303,7 +2357,7 @@
         "away_team": "BMP Hunters"
       },
       {
-        "matchday": "Matchday 27",
+        "matchday": "Matchday 28",
         "sub_league": "League - D2M Group C",
         "date": "08/02/2026",
         "time": "11:30",
@@ -2312,7 +2366,7 @@
         "away_team": "Kildare Jaguars"
       },
       {
-        "matchday": "Matchday 25",
+        "matchday": "Matchday 26",
         "sub_league": "League - D2M Group C",
         "date": "10/01/2026",
         "time": "11:00",
@@ -2330,7 +2384,7 @@
         "away_team": "Galway D2M"
       },
       {
-        "matchday": "Matchday 26",
+        "matchday": "Matchday 27",
         "sub_league": "League - D2M Group C",
         "date": "11/01/2026",
         "time": "15:30",
@@ -2342,13 +2396,22 @@
         "matchday": "Matchday 21",
         "sub_league": "League - D2M Group C",
         "date": "11/04/2026",
+        "time": "11:00",
+        "venue": "Barrow Centre",
+        "home_team": "SETU Carlow D2M",
+        "away_team": "Balbriggan Tigers"
+      },
+      {
+        "matchday": "Matchday 21",
+        "sub_league": "League - D2M Group C",
+        "date": "11/04/2026",
         "time": "14:30",
         "venue": "Phoenix Sports Centre (Maynooth Univ)",
         "home_team": "Jackals D2M",
         "away_team": "Crumlin Phivo"
       },
       {
-        "matchday": "Matchday 29",
+        "matchday": "Matchday 30",
         "sub_league": "League - D2M Group C",
         "date": "11/04/2026",
         "time": "13:00",
@@ -2357,7 +2420,7 @@
         "away_team": "Balbriggan T-Rex"
       },
       {
-        "matchday": "Matchday 29",
+        "matchday": "Matchday 30",
         "sub_league": "League - D2M Group C",
         "date": "11/04/2026",
         "time": "14:00",
@@ -2366,7 +2429,7 @@
         "away_team": "BMP Hunters"
       },
       {
-        "matchday": "Matchday 22",
+        "matchday": "Matchday 23",
         "sub_league": "League - D2M Group C",
         "date": "11/10/2025",
         "time": "11:30",
@@ -2375,7 +2438,7 @@
         "away_team": "Balbriggan T-Rex"
       },
       {
-        "matchday": "Matchday 22",
+        "matchday": "Matchday 23",
         "sub_league": "League - D2M Group C",
         "date": "11/10/2025",
         "time": "14:30",
@@ -2384,7 +2447,7 @@
         "away_team": "Galway D2M"
       },
       {
-        "matchday": "Matchday 21",
+        "matchday": "Matchday 22",
         "sub_league": "League - D2M Group C",
         "date": "12/04/2026",
         "time": "14:00",
@@ -2393,7 +2456,7 @@
         "away_team": "BMP Titans"
       },
       {
-        "matchday": "Matchday 21",
+        "matchday": "Matchday 22",
         "sub_league": "League - D2M Group C",
         "date": "12/04/2026",
         "time": "14:00",
@@ -2402,7 +2465,7 @@
         "away_team": "Celestials D2M"
       },
       {
-        "matchday": "Matchday 29",
+        "matchday": "Matchday 30",
         "sub_league": "League - D2M Group C",
         "date": "12/04/2026",
         "time": "11:30",
@@ -2411,7 +2474,7 @@
         "away_team": "Galway D2M"
       },
       {
-        "matchday": "Matchday 22",
+        "matchday": "Matchday 23",
         "sub_league": "League - D2M Group C",
         "date": "12/10/2025",
         "time": "11:00",
@@ -2420,7 +2483,7 @@
         "away_team": "Kildare Jaguars"
       },
       {
-        "matchday": "Matchday 25",
+        "matchday": "Matchday 26",
         "sub_league": "League - D2M Group C",
         "date": "13/12/2025",
         "time": "12:30",
@@ -2429,7 +2492,7 @@
         "away_team": "Gardians Panda D2M"
       },
       {
-        "matchday": "Matchday 25",
+        "matchday": "Matchday 26",
         "sub_league": "League - D2M Group C",
         "date": "14/12/2025",
         "time": "11:00",
@@ -2438,7 +2501,7 @@
         "away_team": "Kildare Jaguars"
       },
       {
-        "matchday": "Matchday 25",
+        "matchday": "Matchday 26",
         "sub_league": "League - D2M Group C",
         "date": "14/12/2025",
         "time": "13:30",
@@ -2447,7 +2510,7 @@
         "away_team": "Kilkenny Spartans D2M"
       },
       {
-        "matchday": "Matchday 27",
+        "matchday": "Matchday 28",
         "sub_league": "League - D2M Group C",
         "date": "15/02/2026",
         "time": "11:00",
@@ -2456,7 +2519,7 @@
         "away_team": "Kilkenny Spartans D2M"
       },
       {
-        "matchday": "Matchday 27",
+        "matchday": "Matchday 28",
         "sub_league": "League - D2M Group C",
         "date": "15/02/2026",
         "time": "14:30",
@@ -2474,7 +2537,7 @@
         "away_team": "Balbriggan T-Rex"
       },
       {
-        "matchday": "Matchday 24",
+        "matchday": "Matchday 25",
         "sub_league": "League - D2M Group C",
         "date": "15/11/2025",
         "time": "11:30",
@@ -2483,7 +2546,7 @@
         "away_team": "Gardians Panda D2M"
       },
       {
-        "matchday": "Matchday 24",
+        "matchday": "Matchday 25",
         "sub_league": "League - D2M Group C",
         "date": "16/11/2025",
         "time": "11:00",
@@ -2492,7 +2555,7 @@
         "away_team": "Crumlin Ravens"
       },
       {
-        "matchday": "Matchday 21",
+        "matchday": "Matchday 22",
         "sub_league": "League - D2M Group C",
         "date": "18/04/2026",
         "time": "11:00",
@@ -2501,7 +2564,7 @@
         "away_team": "Kildare Panthers"
       },
       {
-        "matchday": "Matchday 21",
+        "matchday": "Matchday 22",
         "sub_league": "League - D2M Group C",
         "date": "18/04/2026",
         "time": "11:00",
@@ -2519,7 +2582,7 @@
         "away_team": "Kildare Jaguars"
       },
       {
-        "matchday": "Matchday 30",
+        "matchday": "Matchday 31",
         "sub_league": "League - D2M Group C",
         "date": "18/04/2026",
         "time": "14:30",
@@ -2537,7 +2600,7 @@
         "away_team": "Jackals D2M"
       },
       {
-        "matchday": "Matchday 22",
+        "matchday": "Matchday 23",
         "sub_league": "League - D2M Group C",
         "date": "19/04/2026",
         "time": "14:30",
@@ -2546,7 +2609,7 @@
         "away_team": "Impact Stars D2M"
       },
       {
-        "matchday": "Matchday 30",
+        "matchday": "Matchday 31",
         "sub_league": "League - D2M Group C",
         "date": "19/04/2026",
         "time": "11:00",
@@ -2564,16 +2627,16 @@
         "away_team": "Balbriggan T-Rex"
       },
       {
-        "matchday": "Matchday 23",
+        "matchday": "Matchday 24",
         "sub_league": "League - D2M Group C",
         "date": "19/10/2025",
-        "time": "15:30",
+        "time": "18:00",
         "venue": "Patrician Secondary School (Newbridge)",
         "home_team": "Kildare Jaguars",
         "away_team": "Kilkenny Spartans D2M"
       },
       {
-        "matchday": "Matchday 23",
+        "matchday": "Matchday 24",
         "sub_league": "League - D2M Group C",
         "date": "19/10/2025",
         "time": "18:30",
@@ -2582,7 +2645,16 @@
         "away_team": "Gardians Panda D2M"
       },
       {
-        "matchday": "Matchday 28",
+        "matchday": "Matchday 21",
+        "sub_league": "League - D2M Group C",
+        "date": "22/03/2026",
+        "time": "16:30",
+        "venue": "Patrician Secondary School (Newbridge)",
+        "home_team": "Kildare Panthers",
+        "away_team": "Crumlin Phivo"
+      },
+      {
+        "matchday": "Matchday 29",
         "sub_league": "League - D2M Group C",
         "date": "22/03/2026",
         "time": "11:00",
@@ -2600,7 +2672,7 @@
         "away_team": "Gardians Panda D2M"
       },
       {
-        "matchday": "Matchday 29",
+        "matchday": "Matchday 30",
         "sub_league": "League - D2M Group C",
         "date": "22/03/2026",
         "time": "14:00",
@@ -2609,7 +2681,7 @@
         "away_team": "Crumlin Ravens"
       },
       {
-        "matchday": "Matchday 23",
+        "matchday": "Matchday 24",
         "sub_league": "League - D2M Group C",
         "date": "25/10/2025",
         "time": "13:00",
@@ -2618,7 +2690,7 @@
         "away_team": "Crumlin Ravens"
       },
       {
-        "matchday": "Matchday 23",
+        "matchday": "Matchday 24",
         "sub_league": "League - D2M Group C",
         "date": "25/10/2025",
         "time": "13:30",
@@ -2636,7 +2708,7 @@
         "away_team": "Kildare Jaguars"
       },
       {
-        "matchday": "Matchday 24",
+        "matchday": "Matchday 25",
         "sub_league": "League - D2M Group C",
         "date": "29/11/2025",
         "time": "12:30",
@@ -2645,7 +2717,7 @@
         "away_team": "BMP Hunters"
       },
       {
-        "matchday": "Matchday 24",
+        "matchday": "Matchday 25",
         "sub_league": "League - D2M Group C",
         "date": "29/11/2025",
         "time": "13:00",
@@ -2663,7 +2735,7 @@
         "away_team": "Kildare Jaguars"
       },
       {
-        "matchday": "Matchday 26",
+        "matchday": "Matchday 27",
         "sub_league": "League - D2M Group C",
         "date": "31/01/2026",
         "time": "15:00",
@@ -2676,7 +2748,7 @@
   "teams": {
     "Intl Volleyball Ireland D2M": [
       {
-        "matchday": "Matchday 6",
+        "matchday": "Matchday 7",
         "sub_league": "League - D2M Group A",
         "date": "07/02/2026",
         "time": "15:30",
@@ -2686,7 +2758,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D2M Group A",
         "date": "08/03/2026",
         "time": "16:00",
@@ -2696,7 +2768,17 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 5",
+        "matchday": "Matchday 3",
+        "sub_league": "League - D2M Group A",
+        "date": "09/11/2025",
+        "time": "14:00",
+        "venue": "Collinstown Sports Complex",
+        "home_team": "Intl Volleyball Ireland D2M",
+        "away_team": "Naas Pythons D2M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 6",
         "sub_league": "League - D2M Group A",
         "date": "11/01/2026",
         "time": "11:30",
@@ -2716,7 +2798,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 10",
+        "matchday": "Matchday 11",
         "sub_league": "League - D2M Group A",
         "date": "12/04/2026",
         "time": "16:30",
@@ -2724,16 +2806,6 @@
         "home_team": "Impact Macroom D2M",
         "away_team": "Intl Volleyball Ireland D2M",
         "is_home": false
-      },
-      {
-        "matchday": "Matchday 5",
-        "sub_league": "League - D2M Group A",
-        "date": "14/12/2025",
-        "time": "13:00",
-        "venue": "Collinstown Sports Complex",
-        "home_team": "Intl Volleyball Ireland D2M",
-        "away_team": "Impact Macroom D2M",
-        "is_home": true
       },
       {
         "matchday": "Matchday 8",
@@ -2746,8 +2818,8 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 10",
-        "sub_league": "League - D2M Group A",
+        "matchday": "Matchday 11",
+        "sub_league": "League - D2M Group B",
         "date": "19/04/2026",
         "time": "13:30",
         "venue": "Firhouse Community College",
@@ -2786,6 +2858,16 @@
         "is_home": false
       },
       {
+        "matchday": "Matchday 5",
+        "sub_league": "League - D2M Group A",
+        "date": "28/02/2026",
+        "time": "13:30",
+        "venue": "Collinstown Sports Complex",
+        "home_team": "Intl Volleyball Ireland D2M",
+        "away_team": "Impact Macroom D2M",
+        "is_home": true
+      },
+      {
         "matchday": "Matchday 4",
         "sub_league": "League - D2M Group A",
         "date": "30/11/2025",
@@ -2807,6 +2889,16 @@
       }
     ],
     "Dalkey Devils D2M": [
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - D2M Group A",
+        "date": "07/03/2026",
+        "time": "16:30",
+        "venue": "Coláiste Chríost Rí",
+        "home_team": "Cork Volleyball Acad D2M",
+        "away_team": "Dalkey Devils D2M",
+        "is_home": false
+      },
       {
         "matchday": "Matchday 7",
         "sub_league": "League - D2M Group A",
@@ -2848,6 +2940,16 @@
         "is_home": true
       },
       {
+        "matchday": "Matchday 5",
+        "sub_league": "League - D2M Group A",
+        "date": "14/12/2025",
+        "time": "12:30",
+        "venue": "Castle Park School",
+        "home_team": "Tallaght Rockets D2M",
+        "away_team": "Dalkey Devils D2M",
+        "is_home": false
+      },
+      {
         "matchday": "Matchday 8",
         "sub_league": "League - D2M Group A",
         "date": "15/02/2026",
@@ -2868,8 +2970,8 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 10",
-        "sub_league": "League - D2M Group A",
+        "matchday": "Matchday 11",
+        "sub_league": "League - D2M Group B",
         "date": "18/04/2026",
         "time": "15:00",
         "venue": "Colaiste De hIde",
@@ -2888,7 +2990,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 10",
         "sub_league": "League - D2M Group A",
         "date": "22/03/2026",
         "time": "17:30",
@@ -2930,13 +3032,33 @@
     ],
     "Cork Volleyball Acad D2M": [
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 9",
+        "sub_league": "League - D2M Group A",
+        "date": "07/03/2026",
+        "time": "16:30",
+        "venue": "Coláiste Chríost Rí",
+        "home_team": "Cork Volleyball Acad D2M",
+        "away_team": "Dalkey Devils D2M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 8",
         "sub_league": "League - D2M Group A",
         "date": "08/02/2026",
         "time": "16:30",
         "venue": "Coláiste Chríost Rí",
         "home_team": "Cork Volleyball Acad D2M",
         "away_team": "Tallaght Rockets D2M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - D2M Group A",
+        "date": "11/01/2026",
+        "time": "16:30",
+        "venue": "Coláiste Chríost Rí",
+        "home_team": "Cork Volleyball Acad D2M",
+        "away_team": "UCD D2M",
         "is_home": true
       },
       {
@@ -3000,7 +3122,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 10",
         "sub_league": "League - D2M Group A",
         "date": "22/03/2026",
         "time": "16:30",
@@ -3042,7 +3164,7 @@
     ],
     "Gardians Dullahan": [
       {
-        "matchday": "Matchday 6",
+        "matchday": "Matchday 7",
         "sub_league": "League - D2M Group A",
         "date": "07/02/2026",
         "time": "15:30",
@@ -3052,7 +3174,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D2M Group A",
         "date": "07/03/2026",
         "time": "15:30",
@@ -3072,7 +3194,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 10",
         "sub_league": "League - D2M Group A",
         "date": "11/04/2026",
         "time": "15:30",
@@ -3092,7 +3214,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 4",
+        "matchday": "Matchday 5",
         "sub_league": "League - D2M Group A",
         "date": "13/12/2025",
         "time": "13:30",
@@ -3102,7 +3224,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D2M Group A",
         "date": "15/02/2026",
         "time": "11:30",
@@ -3112,7 +3234,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 3",
+        "matchday": "Matchday 4",
         "sub_league": "League - D2M Group A",
         "date": "16/11/2025",
         "time": "16:30",
@@ -3122,8 +3244,8 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 10",
-        "sub_league": "League - D2M Group A",
+        "matchday": "Matchday 11",
+        "sub_league": "League - D2M Group B",
         "date": "18/04/2026",
         "time": "15:00",
         "venue": "Colaiste De hIde",
@@ -3142,7 +3264,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 10",
         "sub_league": "League - D2M Group A",
         "date": "22/03/2026",
         "time": "13:30",
@@ -3184,7 +3306,7 @@
     ],
     "Impact Macroom D2M": [
       {
-        "matchday": "Matchday 6",
+        "matchday": "Matchday 7",
         "sub_league": "League - D2M Group A",
         "date": "01/02/2026",
         "time": "13:30",
@@ -3194,7 +3316,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D2M Group A",
         "date": "07/03/2026",
         "time": "15:30",
@@ -3224,7 +3346,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 5",
+        "matchday": "Matchday 6",
         "sub_league": "League - D2M Group A",
         "date": "11/01/2026",
         "time": "14:00",
@@ -3234,7 +3356,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 10",
+        "matchday": "Matchday 11",
         "sub_league": "League - D2M Group A",
         "date": "12/04/2026",
         "time": "16:30",
@@ -3254,17 +3376,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 5",
-        "sub_league": "League - D2M Group A",
-        "date": "14/12/2025",
-        "time": "13:00",
-        "venue": "Collinstown Sports Complex",
-        "home_team": "Intl Volleyball Ireland D2M",
-        "away_team": "Impact Macroom D2M",
-        "is_home": false
-      },
-      {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D2M Group A",
         "date": "15/02/2026",
         "time": "11:00",
@@ -3274,7 +3386,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 3",
+        "matchday": "Matchday 4",
         "sub_league": "League - D2M Group A",
         "date": "16/11/2025",
         "time": "16:30",
@@ -3284,8 +3396,8 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 10",
-        "sub_league": "League - D2M Group A",
+        "matchday": "Matchday 11",
+        "sub_league": "League - D2M Group B",
         "date": "19/04/2026",
         "time": "11:30",
         "venue": "St Mary's College (Naas)",
@@ -3304,7 +3416,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 10",
         "sub_league": "League - D2M Group A",
         "date": "22/03/2026",
         "time": "16:30",
@@ -3312,6 +3424,16 @@
         "home_team": "Impact Macroom D2M",
         "away_team": "Cork Volleyball Acad D2M",
         "is_home": true
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - D2M Group A",
+        "date": "28/02/2026",
+        "time": "13:30",
+        "venue": "Collinstown Sports Complex",
+        "home_team": "Intl Volleyball Ireland D2M",
+        "away_team": "Impact Macroom D2M",
+        "is_home": false
       },
       {
         "matchday": "Matchday 4",
@@ -3326,7 +3448,7 @@
     ],
     "UCD D2M": [
       {
-        "matchday": "Matchday 6",
+        "matchday": "Matchday 7",
         "sub_league": "League - D2M Group A",
         "date": "01/02/2026",
         "time": "13:30",
@@ -3336,7 +3458,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D2M Group A",
         "date": "07/03/2026",
         "time": "11:00",
@@ -3356,7 +3478,17 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 6",
+        "sub_league": "League - D2M Group A",
+        "date": "11/01/2026",
+        "time": "16:30",
+        "venue": "Coláiste Chríost Rí",
+        "home_team": "Cork Volleyball Acad D2M",
+        "away_team": "UCD D2M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 10",
         "sub_league": "League - D2M Group A",
         "date": "11/04/2026",
         "time": "15:30",
@@ -3376,7 +3508,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 4",
+        "matchday": "Matchday 5",
         "sub_league": "League - D2M Group A",
         "date": "13/12/2025",
         "time": "13:30",
@@ -3458,7 +3590,7 @@
     ],
     "Naas Pythons D2M": [
       {
-        "matchday": "Matchday 6",
+        "matchday": "Matchday 7",
         "sub_league": "League - D2M Group A",
         "date": "01/02/2026",
         "time": "13:30",
@@ -3478,7 +3610,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D2M Group A",
         "date": "08/03/2026",
         "time": "16:00",
@@ -3488,7 +3620,17 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 5",
+        "matchday": "Matchday 3",
+        "sub_league": "League - D2M Group A",
+        "date": "09/11/2025",
+        "time": "14:00",
+        "venue": "Collinstown Sports Complex",
+        "home_team": "Intl Volleyball Ireland D2M",
+        "away_team": "Naas Pythons D2M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 6",
         "sub_league": "League - D2M Group A",
         "date": "11/01/2026",
         "time": "14:00",
@@ -3518,7 +3660,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D2M Group A",
         "date": "15/02/2026",
         "time": "11:30",
@@ -3528,8 +3670,8 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 10",
-        "sub_league": "League - D2M Group A",
+        "matchday": "Matchday 11",
+        "sub_league": "League - D2M Group B",
         "date": "19/04/2026",
         "time": "11:30",
         "venue": "St Mary's College (Naas)",
@@ -3548,7 +3690,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 10",
         "sub_league": "League - D2M Group A",
         "date": "22/03/2026",
         "time": "17:30",
@@ -3580,7 +3722,7 @@
     ],
     "Tallaght Rockets D2M": [
       {
-        "matchday": "Matchday 6",
+        "matchday": "Matchday 7",
         "sub_league": "League - D2M Group A",
         "date": "01/02/2026",
         "time": "13:30",
@@ -3590,7 +3732,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D2M Group A",
         "date": "07/03/2026",
         "time": "11:00",
@@ -3600,7 +3742,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D2M Group A",
         "date": "08/02/2026",
         "time": "16:30",
@@ -3620,7 +3762,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 5",
+        "matchday": "Matchday 6",
         "sub_league": "League - D2M Group A",
         "date": "11/01/2026",
         "time": "11:30",
@@ -3650,7 +3792,17 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 5",
+        "sub_league": "League - D2M Group A",
+        "date": "14/12/2025",
+        "time": "12:30",
+        "venue": "Castle Park School",
+        "home_team": "Tallaght Rockets D2M",
+        "away_team": "Dalkey Devils D2M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 8",
         "sub_league": "League - D2M Group A",
         "date": "15/02/2026",
         "time": "11:00",
@@ -3670,8 +3822,8 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 10",
-        "sub_league": "League - D2M Group A",
+        "matchday": "Matchday 11",
+        "sub_league": "League - D2M Group B",
         "date": "19/04/2026",
         "time": "13:30",
         "venue": "Firhouse Community College",
@@ -3690,7 +3842,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 10",
         "sub_league": "League - D2M Group A",
         "date": "22/03/2026",
         "time": "13:30",
@@ -3712,7 +3864,7 @@
     ],
     "Jackals D2M": [
       {
-        "matchday": "Matchday 19",
+        "matchday": "Matchday 20",
         "sub_league": "League - D2M Group B",
         "date": "07/03/2026",
         "time": "12:00",
@@ -3752,7 +3904,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 11",
+        "matchday": "Matchday 12",
         "sub_league": "League - D2M Group B",
         "date": "11/10/2025",
         "time": "14:30",
@@ -3762,7 +3914,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 15",
+        "matchday": "Matchday 16",
         "sub_league": "League - D2M Group B",
         "date": "14/12/2025",
         "time": "14:30",
@@ -3772,7 +3924,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 18",
+        "matchday": "Matchday 19",
         "sub_league": "League - D2M Group B",
         "date": "15/02/2026",
         "time": "11:00",
@@ -3782,7 +3934,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 14",
+        "matchday": "Matchday 15",
         "sub_league": "League - D2M Group B",
         "date": "16/11/2025",
         "time": "16:30",
@@ -3812,7 +3964,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 20",
+        "matchday": "Matchday 21",
         "sub_league": "League - D2M Group B",
         "date": "22/03/2026",
         "time": "14:00",
@@ -3822,7 +3974,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 12",
+        "matchday": "Matchday 13",
         "sub_league": "League - D2M Group B",
         "date": "25/10/2025",
         "time": "14:30",
@@ -3832,7 +3984,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 14",
+        "matchday": "Matchday 15",
         "sub_league": "League - D2M Group B",
         "date": "29/11/2025",
         "time": "12:00",
@@ -3842,7 +3994,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 16",
+        "matchday": "Matchday 17",
         "sub_league": "League - D2M Group B",
         "date": "31/01/2026",
         "time": "11:00",
@@ -3854,7 +4006,7 @@
     ],
     "SETU Carlow D2M": [
       {
-        "matchday": "Matchday 17",
+        "matchday": "Matchday 18",
         "sub_league": "League - D2M Group B",
         "date": "07/02/2026",
         "time": "11:00",
@@ -3864,7 +4016,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 19",
+        "matchday": "Matchday 20",
         "sub_league": "League - D2M Group B",
         "date": "07/03/2026",
         "time": "11:00",
@@ -3874,7 +4026,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 16",
+        "matchday": "Matchday 17",
         "sub_league": "League - D2M Group B",
         "date": "11/01/2026",
         "time": "13:00",
@@ -3884,8 +4036,8 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 20",
-        "sub_league": "League - D2M Group B",
+        "matchday": "Matchday 21",
+        "sub_league": "League - D2M Group C",
         "date": "11/04/2026",
         "time": "11:00",
         "venue": "Barrow Centre",
@@ -3894,7 +4046,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 11",
+        "matchday": "Matchday 12",
         "sub_league": "League - D2M Group B",
         "date": "11/10/2025",
         "time": "14:30",
@@ -3904,7 +4056,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 15",
+        "matchday": "Matchday 16",
         "sub_league": "League - D2M Group B",
         "date": "14/12/2025",
         "time": "15:30",
@@ -3914,7 +4066,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 18",
+        "matchday": "Matchday 19",
         "sub_league": "League - D2M Group B",
         "date": "15/02/2026",
         "time": "11:30",
@@ -3934,7 +4086,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 21",
+        "matchday": "Matchday 22",
         "sub_league": "League - D2M Group C",
         "date": "18/04/2026",
         "time": "11:00",
@@ -3944,7 +4096,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 12",
+        "matchday": "Matchday 13",
         "sub_league": "League - D2M Group B",
         "date": "19/10/2025",
         "time": "16:00",
@@ -3964,17 +4116,17 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 13",
+        "matchday": "Matchday 14",
         "sub_league": "League - D2M Group B",
         "date": "26/10/2025",
         "time": "11:00",
-        "venue": "Barrow Centre",
+        "venue": "Loreto Secondary School (Kilkenny)",
         "home_team": "SETU Carlow D2M",
         "away_team": "Crumlin Phivo",
         "is_home": true
       },
       {
-        "matchday": "Matchday 14",
+        "matchday": "Matchday 15",
         "sub_league": "League - D2M Group B",
         "date": "29/11/2025",
         "time": "11:00",
@@ -3984,7 +4136,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 16",
+        "matchday": "Matchday 17",
         "sub_league": "League - D2M Group B",
         "date": "31/01/2026",
         "time": "11:00",
@@ -3996,7 +4148,7 @@
     ],
     "BMP Titans": [
       {
-        "matchday": "Matchday 17",
+        "matchday": "Matchday 18",
         "sub_league": "League - D2M Group B",
         "date": "01/02/2026",
         "time": "16:30",
@@ -4006,7 +4158,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 17",
+        "matchday": "Matchday 18",
         "sub_league": "League - D2M Group B",
         "date": "07/02/2026",
         "time": "11:00",
@@ -4016,7 +4168,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 19",
+        "matchday": "Matchday 20",
         "sub_league": "League - D2M Group B",
         "date": "08/03/2026",
         "time": "14:30",
@@ -4026,7 +4178,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 16",
+        "matchday": "Matchday 17",
         "sub_league": "League - D2M Group B",
         "date": "11/01/2026",
         "time": "13:30",
@@ -4036,7 +4188,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 21",
+        "matchday": "Matchday 22",
         "sub_league": "League - D2M Group C",
         "date": "12/04/2026",
         "time": "14:00",
@@ -4046,7 +4198,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 11",
+        "matchday": "Matchday 12",
         "sub_league": "League - D2M Group B",
         "date": "12/10/2025",
         "time": "13:30",
@@ -4056,7 +4208,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 15",
+        "matchday": "Matchday 16",
         "sub_league": "League - D2M Group B",
         "date": "13/12/2025",
         "time": "13:00",
@@ -4066,7 +4218,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 18",
+        "matchday": "Matchday 19",
         "sub_league": "League - D2M Group B",
         "date": "15/02/2026",
         "time": "11:00",
@@ -4076,7 +4228,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 13",
+        "matchday": "Matchday 14",
         "sub_league": "League - D2M Group B",
         "date": "16/11/2025",
         "time": "13:30",
@@ -4086,7 +4238,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 21",
+        "matchday": "Matchday 22",
         "sub_league": "League - D2M Group C",
         "date": "18/04/2026",
         "time": "11:00",
@@ -4096,7 +4248,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 12",
+        "matchday": "Matchday 13",
         "sub_league": "League - D2M Group B",
         "date": "19/10/2025",
         "time": "16:00",
@@ -4106,7 +4258,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 20",
+        "matchday": "Matchday 21",
         "sub_league": "League - D2M Group B",
         "date": "22/03/2026",
         "time": "13:30",
@@ -4116,7 +4268,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 12",
+        "matchday": "Matchday 13",
         "sub_league": "League - D2M Group B",
         "date": "25/10/2025",
         "time": "14:30",
@@ -4126,7 +4278,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 14",
+        "matchday": "Matchday 15",
         "sub_league": "League - D2M Group B",
         "date": "30/11/2025",
         "time": "13:00",
@@ -4138,7 +4290,7 @@
     ],
     "Kildare Panthers": [
       {
-        "matchday": "Matchday 17",
+        "matchday": "Matchday 18",
         "sub_league": "League - D2M Group B",
         "date": "01/02/2026",
         "time": "16:30",
@@ -4148,7 +4300,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 19",
+        "matchday": "Matchday 20",
         "sub_league": "League - D2M Group B",
         "date": "07/03/2026",
         "time": "12:00",
@@ -4158,7 +4310,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 18",
+        "matchday": "Matchday 19",
         "sub_league": "League - D2M Group B",
         "date": "08/02/2026",
         "time": "16:30",
@@ -4168,7 +4320,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 16",
+        "matchday": "Matchday 17",
         "sub_league": "League - D2M Group B",
         "date": "11/01/2026",
         "time": "13:00",
@@ -4178,7 +4330,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 21",
+        "matchday": "Matchday 22",
         "sub_league": "League - D2M Group C",
         "date": "12/04/2026",
         "time": "14:00",
@@ -4188,7 +4340,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 11",
+        "matchday": "Matchday 12",
         "sub_league": "League - D2M Group B",
         "date": "12/10/2025",
         "time": "13:30",
@@ -4198,7 +4350,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 15",
+        "matchday": "Matchday 16",
         "sub_league": "League - D2M Group B",
         "date": "14/12/2025",
         "time": "16:00",
@@ -4218,7 +4370,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 14",
+        "matchday": "Matchday 15",
         "sub_league": "League - D2M Group B",
         "date": "16/11/2025",
         "time": "16:30",
@@ -4228,7 +4380,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 21",
+        "matchday": "Matchday 22",
         "sub_league": "League - D2M Group C",
         "date": "18/04/2026",
         "time": "11:00",
@@ -4238,7 +4390,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 12",
+        "matchday": "Matchday 13",
         "sub_league": "League - D2M Group B",
         "date": "19/10/2025",
         "time": "13:00",
@@ -4248,8 +4400,8 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 20",
-        "sub_league": "League - D2M Group B",
+        "matchday": "Matchday 21",
+        "sub_league": "League - D2M Group C",
         "date": "22/03/2026",
         "time": "16:30",
         "venue": "Patrician Secondary School (Newbridge)",
@@ -4280,7 +4432,7 @@
     ],
     "Impact Stars D2M": [
       {
-        "matchday": "Matchday 17",
+        "matchday": "Matchday 18",
         "sub_league": "League - D2M Group B",
         "date": "01/02/2026",
         "time": "13:00",
@@ -4290,7 +4442,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 19",
+        "matchday": "Matchday 20",
         "sub_league": "League - D2M Group B",
         "date": "07/03/2026",
         "time": "11:00",
@@ -4300,7 +4452,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 18",
+        "matchday": "Matchday 19",
         "sub_league": "League - D2M Group B",
         "date": "08/02/2026",
         "time": "16:30",
@@ -4310,7 +4462,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 13",
+        "matchday": "Matchday 14",
         "sub_league": "League - D2M Group B",
         "date": "09/11/2025",
         "time": "13:30",
@@ -4320,7 +4472,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 16",
+        "matchday": "Matchday 17",
         "sub_league": "League - D2M Group B",
         "date": "11/01/2026",
         "time": "16:30",
@@ -4330,7 +4482,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 21",
+        "matchday": "Matchday 22",
         "sub_league": "League - D2M Group C",
         "date": "12/04/2026",
         "time": "14:00",
@@ -4340,7 +4492,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 11",
+        "matchday": "Matchday 12",
         "sub_league": "League - D2M Group B",
         "date": "12/10/2025",
         "time": "14:00",
@@ -4350,7 +4502,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 15",
+        "matchday": "Matchday 16",
         "sub_league": "League - D2M Group B",
         "date": "13/12/2025",
         "time": "13:00",
@@ -4360,7 +4512,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 18",
+        "matchday": "Matchday 19",
         "sub_league": "League - D2M Group B",
         "date": "14/02/2026",
         "time": "13:00",
@@ -4380,7 +4532,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 22",
+        "matchday": "Matchday 23",
         "sub_league": "League - D2M Group C",
         "date": "19/04/2026",
         "time": "14:30",
@@ -4390,7 +4542,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 12",
+        "matchday": "Matchday 13",
         "sub_league": "League - D2M Group B",
         "date": "19/10/2025",
         "time": "13:00",
@@ -4400,7 +4552,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 20",
+        "matchday": "Matchday 21",
         "sub_league": "League - D2M Group B",
         "date": "22/03/2026",
         "time": "14:00",
@@ -4410,7 +4562,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 14",
+        "matchday": "Matchday 15",
         "sub_league": "League - D2M Group B",
         "date": "29/11/2025",
         "time": "12:00",
@@ -4422,7 +4574,7 @@
     ],
     "Balbriggan Tigers": [
       {
-        "matchday": "Matchday 17",
+        "matchday": "Matchday 18",
         "sub_league": "League - D2M Group B",
         "date": "01/02/2026",
         "time": "13:00",
@@ -4432,7 +4584,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 17",
+        "matchday": "Matchday 18",
         "sub_league": "League - D2M Group B",
         "date": "07/02/2026",
         "time": "12:30",
@@ -4442,7 +4594,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 19",
+        "matchday": "Matchday 20",
         "sub_league": "League - D2M Group B",
         "date": "08/03/2026",
         "time": "13:00",
@@ -4462,8 +4614,8 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 20",
-        "sub_league": "League - D2M Group B",
+        "matchday": "Matchday 21",
+        "sub_league": "League - D2M Group C",
         "date": "11/04/2026",
         "time": "11:00",
         "venue": "Barrow Centre",
@@ -4472,7 +4624,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 11",
+        "matchday": "Matchday 12",
         "sub_league": "League - D2M Group B",
         "date": "12/10/2025",
         "time": "14:00",
@@ -4482,7 +4634,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 15",
+        "matchday": "Matchday 16",
         "sub_league": "League - D2M Group B",
         "date": "14/12/2025",
         "time": "15:30",
@@ -4502,7 +4654,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 13",
+        "matchday": "Matchday 14",
         "sub_league": "League - D2M Group B",
         "date": "15/11/2025",
         "time": "10:30",
@@ -4522,7 +4674,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 12",
+        "matchday": "Matchday 13",
         "sub_league": "League - D2M Group B",
         "date": "19/10/2025",
         "time": "14:30",
@@ -4532,7 +4684,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 20",
+        "matchday": "Matchday 21",
         "sub_league": "League - D2M Group B",
         "date": "22/03/2026",
         "time": "13:30",
@@ -4552,7 +4704,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 14",
+        "matchday": "Matchday 15",
         "sub_league": "League - D2M Group B",
         "date": "30/11/2025",
         "time": "13:00",
@@ -4564,7 +4716,7 @@
     ],
     "Crumlin Phivo": [
       {
-        "matchday": "Matchday 17",
+        "matchday": "Matchday 18",
         "sub_league": "League - D2M Group B",
         "date": "07/02/2026",
         "time": "12:30",
@@ -4574,7 +4726,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 19",
+        "matchday": "Matchday 20",
         "sub_league": "League - D2M Group B",
         "date": "08/03/2026",
         "time": "14:30",
@@ -4584,7 +4736,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 16",
+        "matchday": "Matchday 17",
         "sub_league": "League - D2M Group B",
         "date": "11/01/2026",
         "time": "16:30",
@@ -4604,7 +4756,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 11",
+        "matchday": "Matchday 12",
         "sub_league": "League - D2M Group B",
         "date": "12/10/2025",
         "time": "14:30",
@@ -4614,7 +4766,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 15",
+        "matchday": "Matchday 16",
         "sub_league": "League - D2M Group B",
         "date": "14/12/2025",
         "time": "14:30",
@@ -4624,7 +4776,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 18",
+        "matchday": "Matchday 19",
         "sub_league": "League - D2M Group B",
         "date": "15/02/2026",
         "time": "11:30",
@@ -4634,7 +4786,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 13",
+        "matchday": "Matchday 14",
         "sub_league": "League - D2M Group B",
         "date": "16/11/2025",
         "time": "13:30",
@@ -4644,7 +4796,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 22",
+        "matchday": "Matchday 23",
         "sub_league": "League - D2M Group C",
         "date": "19/04/2026",
         "time": "14:30",
@@ -4654,7 +4806,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 12",
+        "matchday": "Matchday 13",
         "sub_league": "League - D2M Group B",
         "date": "19/10/2025",
         "time": "14:30",
@@ -4664,8 +4816,8 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 20",
-        "sub_league": "League - D2M Group B",
+        "matchday": "Matchday 21",
+        "sub_league": "League - D2M Group C",
         "date": "22/03/2026",
         "time": "16:30",
         "venue": "Patrician Secondary School (Newbridge)",
@@ -4674,11 +4826,11 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 13",
+        "matchday": "Matchday 14",
         "sub_league": "League - D2M Group B",
         "date": "26/10/2025",
         "time": "11:00",
-        "venue": "Barrow Centre",
+        "venue": "Loreto Secondary School (Kilkenny)",
         "home_team": "SETU Carlow D2M",
         "away_team": "Crumlin Phivo",
         "is_home": false
@@ -4716,7 +4868,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 19",
+        "matchday": "Matchday 20",
         "sub_league": "League - D2M Group B",
         "date": "08/03/2026",
         "time": "13:00",
@@ -4726,7 +4878,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 13",
+        "matchday": "Matchday 14",
         "sub_league": "League - D2M Group B",
         "date": "09/11/2025",
         "time": "13:30",
@@ -4736,7 +4888,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 16",
+        "matchday": "Matchday 17",
         "sub_league": "League - D2M Group B",
         "date": "11/01/2026",
         "time": "13:30",
@@ -4746,7 +4898,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 21",
+        "matchday": "Matchday 22",
         "sub_league": "League - D2M Group C",
         "date": "12/04/2026",
         "time": "14:00",
@@ -4756,7 +4908,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 11",
+        "matchday": "Matchday 12",
         "sub_league": "League - D2M Group B",
         "date": "12/10/2025",
         "time": "14:30",
@@ -4766,7 +4918,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 18",
+        "matchday": "Matchday 19",
         "sub_league": "League - D2M Group B",
         "date": "14/02/2026",
         "time": "13:00",
@@ -4776,7 +4928,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 15",
+        "matchday": "Matchday 16",
         "sub_league": "League - D2M Group B",
         "date": "14/12/2025",
         "time": "16:00",
@@ -4786,7 +4938,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 13",
+        "matchday": "Matchday 14",
         "sub_league": "League - D2M Group B",
         "date": "15/11/2025",
         "time": "10:30",
@@ -4796,7 +4948,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 21",
+        "matchday": "Matchday 22",
         "sub_league": "League - D2M Group C",
         "date": "18/04/2026",
         "time": "11:00",
@@ -4826,7 +4978,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 14",
+        "matchday": "Matchday 15",
         "sub_league": "League - D2M Group B",
         "date": "29/11/2025",
         "time": "11:00",
@@ -4848,7 +5000,7 @@
     ],
     "Kilkenny Spartans D2M": [
       {
-        "matchday": "Matchday 28",
+        "matchday": "Matchday 29",
         "sub_league": "League - D2M Group C",
         "date": "07/03/2026",
         "time": "12:30",
@@ -4858,7 +5010,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 27",
+        "matchday": "Matchday 28",
         "sub_league": "League - D2M Group C",
         "date": "08/02/2026",
         "time": "11:30",
@@ -4868,7 +5020,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 25",
+        "matchday": "Matchday 26",
         "sub_league": "League - D2M Group C",
         "date": "10/01/2026",
         "time": "11:00",
@@ -4878,7 +5030,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 29",
+        "matchday": "Matchday 30",
         "sub_league": "League - D2M Group C",
         "date": "11/04/2026",
         "time": "14:00",
@@ -4888,7 +5040,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 22",
+        "matchday": "Matchday 23",
         "sub_league": "League - D2M Group C",
         "date": "11/10/2025",
         "time": "11:30",
@@ -4898,7 +5050,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 25",
+        "matchday": "Matchday 26",
         "sub_league": "League - D2M Group C",
         "date": "14/12/2025",
         "time": "13:30",
@@ -4908,7 +5060,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 27",
+        "matchday": "Matchday 28",
         "sub_league": "League - D2M Group C",
         "date": "15/02/2026",
         "time": "11:00",
@@ -4918,7 +5070,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 24",
+        "matchday": "Matchday 25",
         "sub_league": "League - D2M Group C",
         "date": "15/11/2025",
         "time": "11:30",
@@ -4928,7 +5080,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 30",
+        "matchday": "Matchday 31",
         "sub_league": "League - D2M Group C",
         "date": "18/04/2026",
         "time": "14:30",
@@ -4938,17 +5090,17 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 23",
+        "matchday": "Matchday 24",
         "sub_league": "League - D2M Group C",
         "date": "19/10/2025",
-        "time": "15:30",
+        "time": "18:00",
         "venue": "Patrician Secondary School (Newbridge)",
         "home_team": "Kildare Jaguars",
         "away_team": "Kilkenny Spartans D2M",
         "is_home": false
       },
       {
-        "matchday": "Matchday 23",
+        "matchday": "Matchday 24",
         "sub_league": "League - D2M Group C",
         "date": "25/10/2025",
         "time": "13:30",
@@ -4958,7 +5110,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 26",
+        "matchday": "Matchday 27",
         "sub_league": "League - D2M Group C",
         "date": "31/01/2026",
         "time": "15:00",
@@ -4970,7 +5122,7 @@
     ],
     "Balbriggan T-Rex": [
       {
-        "matchday": "Matchday 27",
+        "matchday": "Matchday 28",
         "sub_league": "League - D2M Group C",
         "date": "07/02/2026",
         "time": "15:00",
@@ -4980,7 +5132,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 28",
+        "matchday": "Matchday 29",
         "sub_league": "League - D2M Group C",
         "date": "07/03/2026",
         "time": "12:30",
@@ -4990,7 +5142,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 29",
+        "matchday": "Matchday 30",
         "sub_league": "League - D2M Group C",
         "date": "11/04/2026",
         "time": "13:00",
@@ -5000,7 +5152,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 22",
+        "matchday": "Matchday 23",
         "sub_league": "League - D2M Group C",
         "date": "11/10/2025",
         "time": "11:30",
@@ -5010,7 +5162,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 25",
+        "matchday": "Matchday 26",
         "sub_league": "League - D2M Group C",
         "date": "13/12/2025",
         "time": "12:30",
@@ -5040,7 +5192,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 28",
+        "matchday": "Matchday 29",
         "sub_league": "League - D2M Group C",
         "date": "22/03/2026",
         "time": "11:00",
@@ -5060,7 +5212,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 24",
+        "matchday": "Matchday 25",
         "sub_league": "League - D2M Group C",
         "date": "29/11/2025",
         "time": "12:30",
@@ -5070,7 +5222,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 26",
+        "matchday": "Matchday 27",
         "sub_league": "League - D2M Group C",
         "date": "31/01/2026",
         "time": "15:00",
@@ -5082,7 +5234,7 @@
     ],
     "Crumlin Ravens": [
       {
-        "matchday": "Matchday 26",
+        "matchday": "Matchday 27",
         "sub_league": "League - D2M Group C",
         "date": "01/02/2026",
         "time": "11:00",
@@ -5092,7 +5244,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 27",
+        "matchday": "Matchday 28",
         "sub_league": "League - D2M Group C",
         "date": "07/02/2026",
         "time": "15:00",
@@ -5102,7 +5254,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 28",
+        "matchday": "Matchday 29",
         "sub_league": "League - D2M Group C",
         "date": "07/03/2026",
         "time": "14:30",
@@ -5112,7 +5264,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 25",
+        "matchday": "Matchday 26",
         "sub_league": "League - D2M Group C",
         "date": "10/01/2026",
         "time": "11:00",
@@ -5122,7 +5274,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 22",
+        "matchday": "Matchday 23",
         "sub_league": "League - D2M Group C",
         "date": "11/10/2025",
         "time": "14:30",
@@ -5132,7 +5284,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 27",
+        "matchday": "Matchday 28",
         "sub_league": "League - D2M Group C",
         "date": "15/02/2026",
         "time": "14:30",
@@ -5142,7 +5294,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 24",
+        "matchday": "Matchday 25",
         "sub_league": "League - D2M Group C",
         "date": "16/11/2025",
         "time": "11:00",
@@ -5152,7 +5304,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 30",
+        "matchday": "Matchday 31",
         "sub_league": "League - D2M Group C",
         "date": "18/04/2026",
         "time": "14:30",
@@ -5172,7 +5324,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 29",
+        "matchday": "Matchday 30",
         "sub_league": "League - D2M Group C",
         "date": "22/03/2026",
         "time": "14:00",
@@ -5182,7 +5334,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 23",
+        "matchday": "Matchday 24",
         "sub_league": "League - D2M Group C",
         "date": "25/10/2025",
         "time": "13:00",
@@ -5204,7 +5356,7 @@
     ],
     "Galway D2M": [
       {
-        "matchday": "Matchday 26",
+        "matchday": "Matchday 27",
         "sub_league": "League - D2M Group C",
         "date": "01/02/2026",
         "time": "11:00",
@@ -5214,7 +5366,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 28",
+        "matchday": "Matchday 29",
         "sub_league": "League - D2M Group C",
         "date": "07/03/2026",
         "time": "12:30",
@@ -5234,7 +5386,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 22",
+        "matchday": "Matchday 23",
         "sub_league": "League - D2M Group C",
         "date": "11/10/2025",
         "time": "14:30",
@@ -5244,7 +5396,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 29",
+        "matchday": "Matchday 30",
         "sub_league": "League - D2M Group C",
         "date": "12/04/2026",
         "time": "11:30",
@@ -5254,7 +5406,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 25",
+        "matchday": "Matchday 26",
         "sub_league": "League - D2M Group C",
         "date": "14/12/2025",
         "time": "11:00",
@@ -5264,7 +5416,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 27",
+        "matchday": "Matchday 28",
         "sub_league": "League - D2M Group C",
         "date": "15/02/2026",
         "time": "11:00",
@@ -5274,7 +5426,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 30",
+        "matchday": "Matchday 31",
         "sub_league": "League - D2M Group C",
         "date": "19/04/2026",
         "time": "11:00",
@@ -5294,7 +5446,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 23",
+        "matchday": "Matchday 24",
         "sub_league": "League - D2M Group C",
         "date": "25/10/2025",
         "time": "13:30",
@@ -5304,7 +5456,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 24",
+        "matchday": "Matchday 25",
         "sub_league": "League - D2M Group C",
         "date": "29/11/2025",
         "time": "13:00",
@@ -5316,7 +5468,7 @@
     ],
     "BMP Hunters": [
       {
-        "matchday": "Matchday 26",
+        "matchday": "Matchday 27",
         "sub_league": "League - D2M Group C",
         "date": "01/02/2026",
         "time": "14:00",
@@ -5336,7 +5488,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 28",
+        "matchday": "Matchday 29",
         "sub_league": "League - D2M Group C",
         "date": "07/03/2026",
         "time": "14:30",
@@ -5356,7 +5508,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 29",
+        "matchday": "Matchday 30",
         "sub_league": "League - D2M Group C",
         "date": "11/04/2026",
         "time": "14:00",
@@ -5366,7 +5518,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 22",
+        "matchday": "Matchday 23",
         "sub_league": "League - D2M Group C",
         "date": "12/10/2025",
         "time": "11:00",
@@ -5376,7 +5528,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 25",
+        "matchday": "Matchday 26",
         "sub_league": "League - D2M Group C",
         "date": "14/12/2025",
         "time": "13:30",
@@ -5386,7 +5538,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 24",
+        "matchday": "Matchday 25",
         "sub_league": "League - D2M Group C",
         "date": "16/11/2025",
         "time": "11:00",
@@ -5396,7 +5548,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 30",
+        "matchday": "Matchday 31",
         "sub_league": "League - D2M Group C",
         "date": "19/04/2026",
         "time": "11:00",
@@ -5406,7 +5558,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 23",
+        "matchday": "Matchday 24",
         "sub_league": "League - D2M Group C",
         "date": "19/10/2025",
         "time": "18:30",
@@ -5416,7 +5568,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 28",
+        "matchday": "Matchday 29",
         "sub_league": "League - D2M Group C",
         "date": "22/03/2026",
         "time": "11:00",
@@ -5426,7 +5578,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 24",
+        "matchday": "Matchday 25",
         "sub_league": "League - D2M Group C",
         "date": "29/11/2025",
         "time": "12:30",
@@ -5438,7 +5590,7 @@
     ],
     "Kildare Jaguars": [
       {
-        "matchday": "Matchday 26",
+        "matchday": "Matchday 27",
         "sub_league": "League - D2M Group C",
         "date": "01/02/2026",
         "time": "14:00",
@@ -5448,7 +5600,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 27",
+        "matchday": "Matchday 28",
         "sub_league": "League - D2M Group C",
         "date": "08/02/2026",
         "time": "11:30",
@@ -5458,7 +5610,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 26",
+        "matchday": "Matchday 27",
         "sub_league": "League - D2M Group C",
         "date": "11/01/2026",
         "time": "15:30",
@@ -5468,7 +5620,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 29",
+        "matchday": "Matchday 30",
         "sub_league": "League - D2M Group C",
         "date": "12/04/2026",
         "time": "11:30",
@@ -5478,7 +5630,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 22",
+        "matchday": "Matchday 23",
         "sub_league": "League - D2M Group C",
         "date": "12/10/2025",
         "time": "11:00",
@@ -5488,7 +5640,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 25",
+        "matchday": "Matchday 26",
         "sub_league": "League - D2M Group C",
         "date": "14/12/2025",
         "time": "11:00",
@@ -5518,17 +5670,17 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 23",
+        "matchday": "Matchday 24",
         "sub_league": "League - D2M Group C",
         "date": "19/10/2025",
-        "time": "15:30",
+        "time": "18:00",
         "venue": "Patrician Secondary School (Newbridge)",
         "home_team": "Kildare Jaguars",
         "away_team": "Kilkenny Spartans D2M",
         "is_home": true
       },
       {
-        "matchday": "Matchday 29",
+        "matchday": "Matchday 30",
         "sub_league": "League - D2M Group C",
         "date": "22/03/2026",
         "time": "14:00",
@@ -5570,7 +5722,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 28",
+        "matchday": "Matchday 29",
         "sub_league": "League - D2M Group C",
         "date": "07/03/2026",
         "time": "12:30",
@@ -5580,7 +5732,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 26",
+        "matchday": "Matchday 27",
         "sub_league": "League - D2M Group C",
         "date": "11/01/2026",
         "time": "15:30",
@@ -5590,7 +5742,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 29",
+        "matchday": "Matchday 30",
         "sub_league": "League - D2M Group C",
         "date": "11/04/2026",
         "time": "13:00",
@@ -5600,7 +5752,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 25",
+        "matchday": "Matchday 26",
         "sub_league": "League - D2M Group C",
         "date": "13/12/2025",
         "time": "12:30",
@@ -5610,7 +5762,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 27",
+        "matchday": "Matchday 28",
         "sub_league": "League - D2M Group C",
         "date": "15/02/2026",
         "time": "14:30",
@@ -5620,7 +5772,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 24",
+        "matchday": "Matchday 25",
         "sub_league": "League - D2M Group C",
         "date": "15/11/2025",
         "time": "11:30",
@@ -5640,7 +5792,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 23",
+        "matchday": "Matchday 24",
         "sub_league": "League - D2M Group C",
         "date": "19/10/2025",
         "time": "18:30",
@@ -5660,7 +5812,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 23",
+        "matchday": "Matchday 24",
         "sub_league": "League - D2M Group C",
         "date": "25/10/2025",
         "time": "13:00",
@@ -5670,7 +5822,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 24",
+        "matchday": "Matchday 25",
         "sub_league": "League - D2M Group C",
         "date": "29/11/2025",
         "time": "13:00",
@@ -5682,7 +5834,7 @@
     ]
   },
   "metadata": {
-    "total_fixtures": 148,
+    "total_fixtures": 152,
     "source": "VIR Competition Matches",
     "sub_league_count": 3,
     "competition_name": "Men's Division 2",
@@ -5717,8 +5869,7 @@
       "League - D2M Group C"
     ]
   },
-  "capturedAt": "2025-10-03T20:53:13.824Z",
-  "weekOf": "2025-10-03",
+  "lastUpdated": "2025-10-30T22:14:09.707Z",
   "dataVersion": "1.0",
   "source": "VIR Competition Matches"
 }
