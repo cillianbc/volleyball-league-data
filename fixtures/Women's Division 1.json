@@ -95,7 +95,7 @@
       "sub_league": "League - D1W",
       "date": "26/10/2025",
       "time": "13:30",
-      "venue": "Barrow Centre",
+      "venue": "Loreto Secondary School (Kilkenny)",
       "home_team": "SETU Carlow D1W",
       "away_team": "Tallaght Rockets D1W"
     },
@@ -129,7 +129,7 @@
     {
       "matchday": "Matchday 3",
       "sub_league": "League - D1W",
-      "date": "03/11/2025",
+      "date": "10/11/2025",
       "time": "20:00",
       "venue": "Artane Beaumont Family Recreation Centre",
       "home_team": "Santry Rebels",
@@ -229,7 +229,7 @@
       "matchday": "Matchday 6",
       "sub_league": "League - D1W",
       "date": "13/12/2025",
-      "time": "18:00",
+      "time": "20:30",
       "venue": "Artane Beaumont Family Recreation Centre",
       "home_team": "Santry Rebels",
       "away_team": "Dalkey Devils D1W"
@@ -328,7 +328,7 @@
       "matchday": "Matchday 8",
       "sub_league": "League - D1W",
       "date": "31/01/2026",
-      "time": "20:30",
+      "time": "18:00",
       "venue": "Artane Beaumont Family Recreation Centre",
       "home_team": "Santry Rebels",
       "away_team": "Tallaght Rockets D1W"
@@ -543,6 +543,15 @@
     {
       "matchday": "Matchday 13",
       "sub_league": "League - D1W",
+      "date": "01/03/2026",
+      "time": "13:30",
+      "venue": "Firhouse Community College",
+      "home_team": "Tallaght Rockets D1W",
+      "away_team": "Impact Macroom D1W"
+    },
+    {
+      "matchday": "Matchday 13",
+      "sub_league": "League - D1W",
       "date": "18/04/2026",
       "time": "12:30",
       "venue": "Castlelands Community Centre",
@@ -589,6 +598,15 @@
         "away_team": "Ireland Women's U18"
       },
       {
+        "matchday": "Matchday 13",
+        "sub_league": "League - D1W",
+        "date": "01/03/2026",
+        "time": "13:30",
+        "venue": "Firhouse Community College",
+        "home_team": "Tallaght Rockets D1W",
+        "away_team": "Impact Macroom D1W"
+      },
+      {
         "matchday": "Matchday 3",
         "sub_league": "League - D1W",
         "date": "02/11/2025",
@@ -596,15 +614,6 @@
         "venue": "Macroom Community Leisure Centre",
         "home_team": "Impact Macroom D1W",
         "away_team": "Santry Rebels"
-      },
-      {
-        "matchday": "Matchday 3",
-        "sub_league": "League - D1W",
-        "date": "03/11/2025",
-        "time": "20:00",
-        "venue": "Artane Beaumont Family Recreation Centre",
-        "home_team": "Santry Rebels",
-        "away_team": "Balbriggan Flames"
       },
       {
         "matchday": "Matchday 6",
@@ -742,6 +751,15 @@
         "away_team": "Balbriggan Flames"
       },
       {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D1W",
+        "date": "10/11/2025",
+        "time": "20:00",
+        "venue": "Artane Beaumont Family Recreation Centre",
+        "home_team": "Santry Rebels",
+        "away_team": "Balbriggan Flames"
+      },
+      {
         "matchday": "Matchday 7",
         "sub_league": "League - D1W",
         "date": "11/01/2026",
@@ -844,7 +862,7 @@
         "matchday": "Matchday 6",
         "sub_league": "League - D1W",
         "date": "13/12/2025",
-        "time": "18:00",
+        "time": "20:30",
         "venue": "Artane Beaumont Family Recreation Centre",
         "home_team": "Santry Rebels",
         "away_team": "Dalkey Devils D1W"
@@ -1061,7 +1079,7 @@
         "sub_league": "League - D1W",
         "date": "26/10/2025",
         "time": "13:30",
-        "venue": "Barrow Centre",
+        "venue": "Loreto Secondary School (Kilkenny)",
         "home_team": "SETU Carlow D1W",
         "away_team": "Tallaght Rockets D1W"
       },
@@ -1132,7 +1150,7 @@
         "matchday": "Matchday 8",
         "sub_league": "League - D1W",
         "date": "31/01/2026",
-        "time": "20:30",
+        "time": "18:00",
         "venue": "Artane Beaumont Family Recreation Centre",
         "home_team": "Santry Rebels",
         "away_team": "Tallaght Rockets D1W"
@@ -1141,6 +1159,16 @@
   },
   "teams": {
     "Tallaght Rockets D1W": [
+      {
+        "matchday": "Matchday 13",
+        "sub_league": "League - D1W",
+        "date": "01/03/2026",
+        "time": "13:30",
+        "venue": "Firhouse Community College",
+        "home_team": "Tallaght Rockets D1W",
+        "away_team": "Impact Macroom D1W",
+        "is_home": true
+      },
       {
         "matchday": "Matchday 5",
         "sub_league": "League - D1W",
@@ -1256,7 +1284,7 @@
         "sub_league": "League - D1W",
         "date": "26/10/2025",
         "time": "13:30",
-        "venue": "Barrow Centre",
+        "venue": "Loreto Secondary School (Kilkenny)",
         "home_team": "SETU Carlow D1W",
         "away_team": "Tallaght Rockets D1W",
         "is_home": false
@@ -1275,7 +1303,7 @@
         "matchday": "Matchday 8",
         "sub_league": "League - D1W",
         "date": "31/01/2026",
-        "time": "20:30",
+        "time": "18:00",
         "venue": "Artane Beaumont Family Recreation Centre",
         "home_team": "Santry Rebels",
         "away_team": "Tallaght Rockets D1W",
@@ -1302,16 +1330,6 @@
         "home_team": "Impact Macroom D1W",
         "away_team": "Santry Rebels",
         "is_home": false
-      },
-      {
-        "matchday": "Matchday 3",
-        "sub_league": "League - D1W",
-        "date": "03/11/2025",
-        "time": "20:00",
-        "venue": "Artane Beaumont Family Recreation Centre",
-        "home_team": "Santry Rebels",
-        "away_team": "Balbriggan Flames",
-        "is_home": true
       },
       {
         "matchday": "Matchday 9",
@@ -1344,6 +1362,16 @@
         "is_home": false
       },
       {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D1W",
+        "date": "10/11/2025",
+        "time": "20:00",
+        "venue": "Artane Beaumont Family Recreation Centre",
+        "home_team": "Santry Rebels",
+        "away_team": "Balbriggan Flames",
+        "is_home": true
+      },
+      {
         "matchday": "Matchday 12",
         "sub_league": "League - D1W",
         "date": "12/04/2026",
@@ -1367,7 +1395,7 @@
         "matchday": "Matchday 6",
         "sub_league": "League - D1W",
         "date": "13/12/2025",
-        "time": "18:00",
+        "time": "20:30",
         "venue": "Artane Beaumont Family Recreation Centre",
         "home_team": "Santry Rebels",
         "away_team": "Dalkey Devils D1W",
@@ -1427,7 +1455,7 @@
         "matchday": "Matchday 8",
         "sub_league": "League - D1W",
         "date": "31/01/2026",
-        "time": "20:30",
+        "time": "18:00",
         "venue": "Artane Beaumont Family Recreation Centre",
         "home_team": "Santry Rebels",
         "away_team": "Tallaght Rockets D1W",
@@ -1442,6 +1470,16 @@
         "time": "10:30",
         "venue": "Castlelands Community Centre",
         "home_team": "Balbriggan Flames",
+        "away_team": "Impact Macroom D1W",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 13",
+        "sub_league": "League - D1W",
+        "date": "01/03/2026",
+        "time": "13:30",
+        "venue": "Firhouse Community College",
+        "home_team": "Tallaght Rockets D1W",
         "away_team": "Impact Macroom D1W",
         "is_home": false
       },
@@ -1588,16 +1626,6 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 3",
-        "sub_league": "League - D1W",
-        "date": "03/11/2025",
-        "time": "20:00",
-        "venue": "Artane Beaumont Family Recreation Centre",
-        "home_team": "Santry Rebels",
-        "away_team": "Balbriggan Flames",
-        "is_home": false
-      },
-      {
         "matchday": "Matchday 5",
         "sub_league": "League - D1W",
         "date": "06/12/2025",
@@ -1634,6 +1662,16 @@
         "time": "18:00",
         "venue": "Artane Beaumont Family Recreation Centre",
         "home_team": "Santry Sparks",
+        "away_team": "Balbriggan Flames",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D1W",
+        "date": "10/11/2025",
+        "time": "20:00",
+        "venue": "Artane Beaumont Family Recreation Centre",
+        "home_team": "Santry Rebels",
         "away_team": "Balbriggan Flames",
         "is_home": false
       },
@@ -1945,7 +1983,7 @@
         "matchday": "Matchday 6",
         "sub_league": "League - D1W",
         "date": "13/12/2025",
-        "time": "18:00",
+        "time": "20:30",
         "venue": "Artane Beaumont Family Recreation Centre",
         "home_team": "Santry Rebels",
         "away_team": "Dalkey Devils D1W",
@@ -2300,7 +2338,7 @@
         "sub_league": "League - D1W",
         "date": "26/10/2025",
         "time": "13:30",
-        "venue": "Barrow Centre",
+        "venue": "Loreto Secondary School (Kilkenny)",
         "home_team": "SETU Carlow D1W",
         "away_team": "Tallaght Rockets D1W",
         "is_home": true
@@ -2420,7 +2458,7 @@
     ]
   },
   "metadata": {
-    "total_fixtures": 63,
+    "total_fixtures": 64,
     "source": "VIR Competition Matches",
     "sub_league_count": 1,
     "competition_name": "Women's Division 1",
@@ -2439,8 +2477,7 @@
       "League - D1W"
     ]
   },
-  "capturedAt": "2025-10-03T20:51:59.312Z",
-  "weekOf": "2025-10-03",
+  "lastUpdated": "2025-10-30T22:03:51.501Z",
   "dataVersion": "1.0",
   "source": "VIR Competition Matches"
 }
