@@ -2,7 +2,7 @@
   "league": "Women's Division 2",
   "totalTeams": 21,
   "subLeagueCount": 3,
-  "extractedAt": "2025-10-17T14:54:03.411Z",
+  "extractedAt": "2025-10-30T21:59:30.090Z",
   "subLeagues": [
     {
       "name": "League - D2W Group A",
@@ -10,34 +10,6 @@
       "teams": [
         {
           "position": 1,
-          "teamId": "378",
-          "teamName": "Gardians Panda D2W",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 2,
           "teamId": "379",
           "teamName": "IVI Vixens D2W",
           "logoUrl": "",
@@ -65,7 +37,7 @@
           }
         },
         {
-          "position": 3,
+          "position": 2,
           "teamId": "315",
           "teamName": "UCD D2W",
           "logoUrl": "",
@@ -93,9 +65,9 @@
           }
         },
         {
-          "position": 4,
-          "teamId": "408",
-          "teamName": "Tallaght Rockets D2W",
+          "position": 3,
+          "teamId": "378",
+          "teamName": "Gardians Panda D2W",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -121,7 +93,7 @@
           }
         },
         {
-          "position": 5,
+          "position": 4,
           "teamId": "403",
           "teamName": "Carrick Crows D2W",
           "logoUrl": "",
@@ -149,9 +121,37 @@
           }
         },
         {
+          "position": 5,
+          "teamId": "408",
+          "teamName": "Tallaght Rockets D2W",
+          "logoUrl": "",
+          "points": 0,
+          "detailedStats": {
+            "rankingPoints": 0,
+            "matchesPlayed": 0,
+            "matchesWon": 0,
+            "matchesLost": 0,
+            "setsWon": 0,
+            "setsLost": 0,
+            "pointsWon": 0,
+            "pointsLost": 0,
+            "results": {
+              "wins3_0": 0,
+              "wins3_1": 0,
+              "wins3_2": 0,
+              "losses2_3": 0,
+              "losses1_3": 0,
+              "losses0_3": 0
+            },
+            "setRatio": 0,
+            "pointRatio": 0,
+            "penalty": "-"
+          }
+        },
+        {
           "position": 6,
-          "teamId": "399",
-          "teamName": "Newbridge Panthers",
+          "teamId": "368",
+          "teamName": "Aer Lingus Kestrels",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -178,8 +178,8 @@
         },
         {
           "position": 7,
-          "teamId": "368",
-          "teamName": "Aer Lingus Kestrels",
+          "teamId": "399",
+          "teamName": "Newbridge Panthers",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -212,8 +212,8 @@
       "teams": [
         {
           "position": 1,
-          "teamId": "405",
-          "teamName": "Dalkey Devils D2W",
+          "teamId": "371",
+          "teamName": "Santry Cosmopolitan",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -240,34 +240,6 @@
         },
         {
           "position": 2,
-          "teamId": "392",
-          "teamName": "Longford Smashers D2W",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 3,
           "teamId": "372",
           "teamName": "Santry Nova",
           "logoUrl": "",
@@ -295,9 +267,37 @@
           }
         },
         {
+          "position": 3,
+          "teamId": "405",
+          "teamName": "Dalkey Devils D2W",
+          "logoUrl": "",
+          "points": 0,
+          "detailedStats": {
+            "rankingPoints": 0,
+            "matchesPlayed": 0,
+            "matchesWon": 0,
+            "matchesLost": 0,
+            "setsWon": 0,
+            "setsLost": 0,
+            "pointsWon": 0,
+            "pointsLost": 0,
+            "results": {
+              "wins3_0": 0,
+              "wins3_1": 0,
+              "wins3_2": 0,
+              "losses2_3": 0,
+              "losses1_3": 0,
+              "losses0_3": 0
+            },
+            "setRatio": 0,
+            "pointRatio": 0,
+            "penalty": "-"
+          }
+        },
+        {
           "position": 4,
-          "teamId": "371",
-          "teamName": "Santry Cosmopolitan",
+          "teamId": "392",
+          "teamName": "Longford Smashers D2W",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -352,8 +352,8 @@
         },
         {
           "position": 6,
-          "teamId": "377",
-          "teamName": "Gardians Angels",
+          "teamId": "389",
+          "teamName": "Jackals D2W",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -380,8 +380,8 @@
         },
         {
           "position": 7,
-          "teamId": "389",
-          "teamName": "Jackals D2W",
+          "teamId": "377",
+          "teamName": "Gardians Angels",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -414,62 +414,6 @@
       "teams": [
         {
           "position": 1,
-          "teamId": "407",
-          "teamName": "Kildare D2W",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 2,
-          "teamId": "406",
-          "teamName": "Dalkey Aces D2W",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 3,
           "teamId": "410",
           "teamName": "Naas Vipers D2W",
           "logoUrl": "",
@@ -497,63 +441,7 @@
           }
         },
         {
-          "position": 4,
-          "teamId": "376",
-          "teamName": "Cork Volleyball Acad D2W",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 5,
-          "teamId": "404",
-          "teamName": "Celestials D2W",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 6,
+          "position": 2,
           "teamId": "380",
           "teamName": "Kilkenny Spartans D2W",
           "logoUrl": "",
@@ -581,9 +469,121 @@
           }
         },
         {
-          "position": 7,
+          "position": 3,
+          "teamId": "376",
+          "teamName": "Cork Volleyball Acad D2W",
+          "logoUrl": "",
+          "points": 0,
+          "detailedStats": {
+            "rankingPoints": 0,
+            "matchesPlayed": 0,
+            "matchesWon": 0,
+            "matchesLost": 0,
+            "setsWon": 0,
+            "setsLost": 0,
+            "pointsWon": 0,
+            "pointsLost": 0,
+            "results": {
+              "wins3_0": 0,
+              "wins3_1": 0,
+              "wins3_2": 0,
+              "losses2_3": 0,
+              "losses1_3": 0,
+              "losses0_3": 0
+            },
+            "setRatio": 0,
+            "pointRatio": 0,
+            "penalty": "-"
+          }
+        },
+        {
+          "position": 4,
+          "teamId": "406",
+          "teamName": "Dalkey Aces D2W",
+          "logoUrl": "",
+          "points": 0,
+          "detailedStats": {
+            "rankingPoints": 0,
+            "matchesPlayed": 0,
+            "matchesWon": 0,
+            "matchesLost": 0,
+            "setsWon": 0,
+            "setsLost": 0,
+            "pointsWon": 0,
+            "pointsLost": 0,
+            "results": {
+              "wins3_0": 0,
+              "wins3_1": 0,
+              "wins3_2": 0,
+              "losses2_3": 0,
+              "losses1_3": 0,
+              "losses0_3": 0
+            },
+            "setRatio": 0,
+            "pointRatio": 0,
+            "penalty": "-"
+          }
+        },
+        {
+          "position": 5,
+          "teamId": "407",
+          "teamName": "Kildare D2W",
+          "logoUrl": "",
+          "points": 0,
+          "detailedStats": {
+            "rankingPoints": 0,
+            "matchesPlayed": 0,
+            "matchesWon": 0,
+            "matchesLost": 0,
+            "setsWon": 0,
+            "setsLost": 0,
+            "pointsWon": 0,
+            "pointsLost": 0,
+            "results": {
+              "wins3_0": 0,
+              "wins3_1": 0,
+              "wins3_2": 0,
+              "losses2_3": 0,
+              "losses1_3": 0,
+              "losses0_3": 0
+            },
+            "setRatio": 0,
+            "pointRatio": 0,
+            "penalty": "-"
+          }
+        },
+        {
+          "position": 6,
           "teamId": "390",
           "teamName": "BMP Hawks",
+          "logoUrl": "",
+          "points": 0,
+          "detailedStats": {
+            "rankingPoints": 0,
+            "matchesPlayed": 0,
+            "matchesWon": 0,
+            "matchesLost": 0,
+            "setsWon": 0,
+            "setsLost": 0,
+            "pointsWon": 0,
+            "pointsLost": 0,
+            "results": {
+              "wins3_0": 0,
+              "wins3_1": 0,
+              "wins3_2": 0,
+              "losses2_3": 0,
+              "losses1_3": 0,
+              "losses0_3": 0
+            },
+            "setRatio": 0,
+            "pointRatio": 0,
+            "penalty": "-"
+          }
+        },
+        {
+          "position": 7,
+          "teamId": "404",
+          "teamName": "Celestials D2W",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -614,36 +614,6 @@
   "teams": [
     {
       "position": 1,
-      "teamId": "378",
-      "teamName": "Gardians Panda D2W",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D2W Group A",
-      "championshipId": "86"
-    },
-    {
-      "position": 2,
       "teamId": "379",
       "teamName": "IVI Vixens D2W",
       "logoUrl": "",
@@ -673,7 +643,7 @@
       "championshipId": "86"
     },
     {
-      "position": 3,
+      "position": 2,
       "teamId": "315",
       "teamName": "UCD D2W",
       "logoUrl": "",
@@ -703,9 +673,9 @@
       "championshipId": "86"
     },
     {
-      "position": 4,
-      "teamId": "408",
-      "teamName": "Tallaght Rockets D2W",
+      "position": 3,
+      "teamId": "378",
+      "teamName": "Gardians Panda D2W",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -733,7 +703,7 @@
       "championshipId": "86"
     },
     {
-      "position": 5,
+      "position": 4,
       "teamId": "403",
       "teamName": "Carrick Crows D2W",
       "logoUrl": "",
@@ -763,9 +733,9 @@
       "championshipId": "86"
     },
     {
-      "position": 6,
-      "teamId": "399",
-      "teamName": "Newbridge Panthers",
+      "position": 5,
+      "teamId": "408",
+      "teamName": "Tallaght Rockets D2W",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -793,7 +763,7 @@
       "championshipId": "86"
     },
     {
-      "position": 7,
+      "position": 6,
       "teamId": "368",
       "teamName": "Aer Lingus Kestrels",
       "logoUrl": "",
@@ -823,9 +793,39 @@
       "championshipId": "86"
     },
     {
+      "position": 7,
+      "teamId": "399",
+      "teamName": "Newbridge Panthers",
+      "logoUrl": "",
+      "points": 0,
+      "detailedStats": {
+        "rankingPoints": 0,
+        "matchesPlayed": 0,
+        "matchesWon": 0,
+        "matchesLost": 0,
+        "setsWon": 0,
+        "setsLost": 0,
+        "pointsWon": 0,
+        "pointsLost": 0,
+        "results": {
+          "wins3_0": 0,
+          "wins3_1": 0,
+          "wins3_2": 0,
+          "losses2_3": 0,
+          "losses1_3": 0,
+          "losses0_3": 0
+        },
+        "setRatio": 0,
+        "pointRatio": 0,
+        "penalty": "-"
+      },
+      "subLeague": "League - D2W Group A",
+      "championshipId": "86"
+    },
+    {
       "position": 1,
-      "teamId": "405",
-      "teamName": "Dalkey Devils D2W",
+      "teamId": "371",
+      "teamName": "Santry Cosmopolitan",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -854,36 +854,6 @@
     },
     {
       "position": 2,
-      "teamId": "392",
-      "teamName": "Longford Smashers D2W",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D2W Group B",
-      "championshipId": "99"
-    },
-    {
-      "position": 3,
       "teamId": "372",
       "teamName": "Santry Nova",
       "logoUrl": "",
@@ -913,9 +883,39 @@
       "championshipId": "99"
     },
     {
+      "position": 3,
+      "teamId": "405",
+      "teamName": "Dalkey Devils D2W",
+      "logoUrl": "",
+      "points": 0,
+      "detailedStats": {
+        "rankingPoints": 0,
+        "matchesPlayed": 0,
+        "matchesWon": 0,
+        "matchesLost": 0,
+        "setsWon": 0,
+        "setsLost": 0,
+        "pointsWon": 0,
+        "pointsLost": 0,
+        "results": {
+          "wins3_0": 0,
+          "wins3_1": 0,
+          "wins3_2": 0,
+          "losses2_3": 0,
+          "losses1_3": 0,
+          "losses0_3": 0
+        },
+        "setRatio": 0,
+        "pointRatio": 0,
+        "penalty": "-"
+      },
+      "subLeague": "League - D2W Group B",
+      "championshipId": "99"
+    },
+    {
       "position": 4,
-      "teamId": "371",
-      "teamName": "Santry Cosmopolitan",
+      "teamId": "392",
+      "teamName": "Longford Smashers D2W",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -974,36 +974,6 @@
     },
     {
       "position": 6,
-      "teamId": "377",
-      "teamName": "Gardians Angels",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D2W Group B",
-      "championshipId": "99"
-    },
-    {
-      "position": 7,
       "teamId": "389",
       "teamName": "Jackals D2W",
       "logoUrl": "",
@@ -1033,67 +1003,37 @@
       "championshipId": "99"
     },
     {
+      "position": 7,
+      "teamId": "377",
+      "teamName": "Gardians Angels",
+      "logoUrl": "",
+      "points": 0,
+      "detailedStats": {
+        "rankingPoints": 0,
+        "matchesPlayed": 0,
+        "matchesWon": 0,
+        "matchesLost": 0,
+        "setsWon": 0,
+        "setsLost": 0,
+        "pointsWon": 0,
+        "pointsLost": 0,
+        "results": {
+          "wins3_0": 0,
+          "wins3_1": 0,
+          "wins3_2": 0,
+          "losses2_3": 0,
+          "losses1_3": 0,
+          "losses0_3": 0
+        },
+        "setRatio": 0,
+        "pointRatio": 0,
+        "penalty": "-"
+      },
+      "subLeague": "League - D2W Group B",
+      "championshipId": "99"
+    },
+    {
       "position": 1,
-      "teamId": "407",
-      "teamName": "Kildare D2W",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D2W Group C",
-      "championshipId": "100"
-    },
-    {
-      "position": 2,
-      "teamId": "406",
-      "teamName": "Dalkey Aces D2W",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D2W Group C",
-      "championshipId": "100"
-    },
-    {
-      "position": 3,
       "teamId": "410",
       "teamName": "Naas Vipers D2W",
       "logoUrl": "",
@@ -1123,67 +1063,7 @@
       "championshipId": "100"
     },
     {
-      "position": 4,
-      "teamId": "376",
-      "teamName": "Cork Volleyball Acad D2W",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D2W Group C",
-      "championshipId": "100"
-    },
-    {
-      "position": 5,
-      "teamId": "404",
-      "teamName": "Celestials D2W",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D2W Group C",
-      "championshipId": "100"
-    },
-    {
-      "position": 6,
+      "position": 2,
       "teamId": "380",
       "teamName": "Kilkenny Spartans D2W",
       "logoUrl": "",
@@ -1213,7 +1093,97 @@
       "championshipId": "100"
     },
     {
-      "position": 7,
+      "position": 3,
+      "teamId": "376",
+      "teamName": "Cork Volleyball Acad D2W",
+      "logoUrl": "",
+      "points": 0,
+      "detailedStats": {
+        "rankingPoints": 0,
+        "matchesPlayed": 0,
+        "matchesWon": 0,
+        "matchesLost": 0,
+        "setsWon": 0,
+        "setsLost": 0,
+        "pointsWon": 0,
+        "pointsLost": 0,
+        "results": {
+          "wins3_0": 0,
+          "wins3_1": 0,
+          "wins3_2": 0,
+          "losses2_3": 0,
+          "losses1_3": 0,
+          "losses0_3": 0
+        },
+        "setRatio": 0,
+        "pointRatio": 0,
+        "penalty": "-"
+      },
+      "subLeague": "League - D2W Group C",
+      "championshipId": "100"
+    },
+    {
+      "position": 4,
+      "teamId": "406",
+      "teamName": "Dalkey Aces D2W",
+      "logoUrl": "",
+      "points": 0,
+      "detailedStats": {
+        "rankingPoints": 0,
+        "matchesPlayed": 0,
+        "matchesWon": 0,
+        "matchesLost": 0,
+        "setsWon": 0,
+        "setsLost": 0,
+        "pointsWon": 0,
+        "pointsLost": 0,
+        "results": {
+          "wins3_0": 0,
+          "wins3_1": 0,
+          "wins3_2": 0,
+          "losses2_3": 0,
+          "losses1_3": 0,
+          "losses0_3": 0
+        },
+        "setRatio": 0,
+        "pointRatio": 0,
+        "penalty": "-"
+      },
+      "subLeague": "League - D2W Group C",
+      "championshipId": "100"
+    },
+    {
+      "position": 5,
+      "teamId": "407",
+      "teamName": "Kildare D2W",
+      "logoUrl": "",
+      "points": 0,
+      "detailedStats": {
+        "rankingPoints": 0,
+        "matchesPlayed": 0,
+        "matchesWon": 0,
+        "matchesLost": 0,
+        "setsWon": 0,
+        "setsLost": 0,
+        "pointsWon": 0,
+        "pointsLost": 0,
+        "results": {
+          "wins3_0": 0,
+          "wins3_1": 0,
+          "wins3_2": 0,
+          "losses2_3": 0,
+          "losses1_3": 0,
+          "losses0_3": 0
+        },
+        "setRatio": 0,
+        "pointRatio": 0,
+        "penalty": "-"
+      },
+      "subLeague": "League - D2W Group C",
+      "championshipId": "100"
+    },
+    {
+      "position": 6,
       "teamId": "390",
       "teamName": "BMP Hawks",
       "logoUrl": "",
@@ -1241,9 +1211,39 @@
       },
       "subLeague": "League - D2W Group C",
       "championshipId": "100"
+    },
+    {
+      "position": 7,
+      "teamId": "404",
+      "teamName": "Celestials D2W",
+      "logoUrl": "",
+      "points": 0,
+      "detailedStats": {
+        "rankingPoints": 0,
+        "matchesPlayed": 0,
+        "matchesWon": 0,
+        "matchesLost": 0,
+        "setsWon": 0,
+        "setsLost": 0,
+        "pointsWon": 0,
+        "pointsLost": 0,
+        "results": {
+          "wins3_0": 0,
+          "wins3_1": 0,
+          "wins3_2": 0,
+          "losses2_3": 0,
+          "losses1_3": 0,
+          "losses0_3": 0
+        },
+        "setRatio": 0,
+        "pointRatio": 0,
+        "penalty": "-"
+      },
+      "subLeague": "League - D2W Group C",
+      "championshipId": "100"
     }
   ],
-  "lastUpdated": "2025-10-17T14:54:07.484Z",
+  "lastUpdated": "2025-10-30T21:59:30.580Z",
   "dataVersion": "2.0",
   "source": "VIR Volleyball Standings",
   "schemaInfo": {
