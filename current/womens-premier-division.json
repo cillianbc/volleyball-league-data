@@ -7,24 +7,24 @@
       "teamId": "352",
       "teamName": "Santry Calypso",
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_352.jpg",
-      "rankingPoints": 3,
+      "rankingPoints": 9,
       "matches": {
-        "played": 1,
-        "won": 1,
+        "played": 3,
+        "won": 3,
         "lost": 0
       },
       "sets": {
-        "won": 3,
+        "won": 9,
         "lost": 0,
         "ratio": 0
       },
       "points": {
-        "won": 75,
-        "lost": 37,
-        "ratio": 2.027
+        "won": 225,
+        "lost": 130,
+        "ratio": 1.731
       },
       "resultsBreakdown": {
-        "wins3_0": 1,
+        "wins3_0": 3,
         "wins3_1": 0,
         "wins3_2": 0,
         "losses2_3": 0,
@@ -39,24 +39,24 @@
       "teamId": "354",
       "teamName": "DVC Lions",
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_354.jpg",
-      "rankingPoints": 3,
+      "rankingPoints": 9,
       "matches": {
-        "played": 1,
-        "won": 1,
+        "played": 3,
+        "won": 3,
         "lost": 0
       },
       "sets": {
-        "won": 3,
+        "won": 9,
         "lost": 0,
         "ratio": 0
       },
       "points": {
-        "won": 75,
-        "lost": 43,
-        "ratio": 1.744
+        "won": 225,
+        "lost": 142,
+        "ratio": 1.584
       },
       "resultsBreakdown": {
-        "wins3_0": 1,
+        "wins3_0": 3,
         "wins3_1": 0,
         "wins3_2": 0,
         "losses2_3": 0,
@@ -71,29 +71,29 @@
       "teamId": "353",
       "teamName": "Gardians PW",
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_353.jpg",
-      "rankingPoints": 3,
+      "rankingPoints": 6,
       "matches": {
-        "played": 1,
-        "won": 1,
-        "lost": 0
+        "played": 3,
+        "won": 2,
+        "lost": 1
       },
       "sets": {
-        "won": 3,
-        "lost": 0,
-        "ratio": 0
+        "won": 6,
+        "lost": 3,
+        "ratio": 2
       },
       "points": {
-        "won": 75,
-        "lost": 56,
-        "ratio": 1.339
+        "won": 207,
+        "lost": 179,
+        "ratio": 1.156
       },
       "resultsBreakdown": {
-        "wins3_0": 1,
+        "wins3_0": 2,
         "wins3_1": 0,
         "wins3_2": 0,
         "losses2_3": 0,
         "losses1_3": 0,
-        "losses0_3": 0
+        "losses0_3": 1
       },
       "penalty": null,
       "position": 3
@@ -103,32 +103,96 @@
       "teamId": "311",
       "teamName": "UCD PW",
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_311.jpg",
-      "rankingPoints": 3,
+      "rankingPoints": 6,
       "matches": {
-        "played": 1,
-        "won": 1,
-        "lost": 0
+        "played": 3,
+        "won": 2,
+        "lost": 1
       },
       "sets": {
-        "won": 3,
-        "lost": 0,
-        "ratio": 0
+        "won": 6,
+        "lost": 3,
+        "ratio": 2
       },
       "points": {
-        "won": 88,
-        "lost": 82,
-        "ratio": 1.073
+        "won": 234,
+        "lost": 216,
+        "ratio": 1.083
       },
       "resultsBreakdown": {
-        "wins3_0": 1,
+        "wins3_0": 2,
         "wins3_1": 0,
         "wins3_2": 0,
         "losses2_3": 0,
         "losses1_3": 0,
-        "losses0_3": 0
+        "losses0_3": 1
       },
       "penalty": null,
       "position": 4
+    },
+    {
+      "league": "Women's Premier Division",
+      "teamId": "313",
+      "teamName": "TCD PW",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_313.jpg",
+      "rankingPoints": 3,
+      "matches": {
+        "played": 3,
+        "won": 1,
+        "lost": 2
+      },
+      "sets": {
+        "won": 4,
+        "lost": 7,
+        "ratio": 0.57
+      },
+      "points": {
+        "won": 272,
+        "lost": 270,
+        "ratio": 1.007
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 1,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 1,
+        "losses0_3": 1
+      },
+      "penalty": null,
+      "position": 5
+    },
+    {
+      "league": "Women's Premier Division",
+      "teamId": "309",
+      "teamName": "Net Force PW",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_309.jpg",
+      "rankingPoints": 3,
+      "matches": {
+        "played": 3,
+        "won": 1,
+        "lost": 2
+      },
+      "sets": {
+        "won": 3,
+        "lost": 7,
+        "ratio": 0.43
+      },
+      "points": {
+        "won": 218,
+        "lost": 253,
+        "ratio": 0.862
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 1,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 2
+      },
+      "penalty": null,
+      "position": 6
     },
     {
       "league": "Women's Premier Division",
@@ -160,70 +224,6 @@
         "losses0_3": 0
       },
       "penalty": null,
-      "position": 5
-    },
-    {
-      "league": "Women's Premier Division",
-      "teamId": "313",
-      "teamName": "TCD PW",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_313.jpg",
-      "rankingPoints": 0,
-      "matches": {
-        "played": 1,
-        "won": 0,
-        "lost": 1
-      },
-      "sets": {
-        "won": 0,
-        "lost": 3,
-        "ratio": 0
-      },
-      "points": {
-        "won": 82,
-        "lost": 88,
-        "ratio": 0.932
-      },
-      "resultsBreakdown": {
-        "wins3_0": 0,
-        "wins3_1": 0,
-        "wins3_2": 0,
-        "losses2_3": 0,
-        "losses1_3": 0,
-        "losses0_3": 1
-      },
-      "penalty": null,
-      "position": 6
-    },
-    {
-      "league": "Women's Premier Division",
-      "teamId": "309",
-      "teamName": "Net Force PW",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_309.jpg",
-      "rankingPoints": 0,
-      "matches": {
-        "played": 1,
-        "won": 0,
-        "lost": 1
-      },
-      "sets": {
-        "won": 0,
-        "lost": 3,
-        "ratio": 0
-      },
-      "points": {
-        "won": 56,
-        "lost": 75,
-        "ratio": 0.747
-      },
-      "resultsBreakdown": {
-        "wins3_0": 0,
-        "wins3_1": 0,
-        "wins3_2": 0,
-        "losses2_3": 0,
-        "losses1_3": 0,
-        "losses0_3": 1
-      },
-      "penalty": null,
       "position": 7
     },
     {
@@ -233,27 +233,27 @@
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_310.jpg",
       "rankingPoints": 0,
       "matches": {
-        "played": 1,
+        "played": 3,
         "won": 0,
-        "lost": 1
+        "lost": 3
       },
       "sets": {
-        "won": 0,
-        "lost": 3,
-        "ratio": 0
+        "won": 1,
+        "lost": 9,
+        "ratio": 0.11
       },
       "points": {
-        "won": 43,
-        "lost": 75,
-        "ratio": 0.573
+        "won": 158,
+        "lost": 244,
+        "ratio": 0.648
       },
       "resultsBreakdown": {
         "wins3_0": 0,
         "wins3_1": 0,
         "wins3_2": 0,
         "losses2_3": 0,
-        "losses1_3": 0,
-        "losses0_3": 1
+        "losses1_3": 1,
+        "losses0_3": 2
       },
       "penalty": null,
       "position": 8
@@ -265,19 +265,19 @@
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_312.jpg",
       "rankingPoints": 0,
       "matches": {
-        "played": 1,
+        "played": 3,
         "won": 0,
-        "lost": 1
+        "lost": 3
       },
       "sets": {
         "won": 0,
-        "lost": 3,
+        "lost": 9,
         "ratio": 0
       },
       "points": {
-        "won": 37,
-        "lost": 75,
-        "ratio": 0.493
+        "won": 120,
+        "lost": 225,
+        "ratio": 0.533
       },
       "resultsBreakdown": {
         "wins3_0": 0,
@@ -285,15 +285,15 @@
         "wins3_2": 0,
         "losses2_3": 0,
         "losses1_3": 0,
-        "losses0_3": 1
+        "losses0_3": 3
       },
       "penalty": null,
       "position": 9
     }
   ],
-  "updated": "2025-10-17T14:28:20.559Z",
+  "updated": "2025-10-30T21:48:52.659Z",
   "totalTeams": 9,
-  "lastUpdated": "2025-10-17T14:28:20.733Z",
+  "lastUpdated": "2025-10-30T21:48:52.813Z",
   "dataVersion": "1.0",
   "source": "VIR Volleyball Standings"
 }
