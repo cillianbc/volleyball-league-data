@@ -2,7 +2,7 @@
   "league": "Men's Division 3",
   "totalTeams": 25,
   "subLeagueCount": 5,
-  "extractedAt": "2025-10-17T14:54:03.368Z",
+  "extractedAt": "2025-10-30T22:00:14.921Z",
   "subLeagues": [
     {
       "name": "League - D3M Group A",
@@ -10,90 +10,6 @@
       "teams": [
         {
           "position": 1,
-          "teamId": "428",
-          "teamName": "Ballinasloe Eagles D3M",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 2,
-          "teamId": "429",
-          "teamName": "Carrick Crows D3M",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 3,
-          "teamId": "331",
-          "teamName": "Cavan Cats D3M",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 4,
           "teamId": "397",
           "teamName": "Longford Smashers D3M",
           "logoUrl": "",
@@ -121,9 +37,93 @@
           }
         },
         {
-          "position": 5,
+          "position": 2,
+          "teamId": "331",
+          "teamName": "Cavan Cats D3M",
+          "logoUrl": "",
+          "points": 0,
+          "detailedStats": {
+            "rankingPoints": 0,
+            "matchesPlayed": 0,
+            "matchesWon": 0,
+            "matchesLost": 0,
+            "setsWon": 0,
+            "setsLost": 0,
+            "pointsWon": 0,
+            "pointsLost": 0,
+            "results": {
+              "wins3_0": 0,
+              "wins3_1": 0,
+              "wins3_2": 0,
+              "losses2_3": 0,
+              "losses1_3": 0,
+              "losses0_3": 0
+            },
+            "setRatio": 0,
+            "pointRatio": 0,
+            "penalty": "-"
+          }
+        },
+        {
+          "position": 3,
           "teamId": "386",
           "teamName": "Mayo D3M",
+          "logoUrl": "",
+          "points": 0,
+          "detailedStats": {
+            "rankingPoints": 0,
+            "matchesPlayed": 0,
+            "matchesWon": 0,
+            "matchesLost": 0,
+            "setsWon": 0,
+            "setsLost": 0,
+            "pointsWon": 0,
+            "pointsLost": 0,
+            "results": {
+              "wins3_0": 0,
+              "wins3_1": 0,
+              "wins3_2": 0,
+              "losses2_3": 0,
+              "losses1_3": 0,
+              "losses0_3": 0
+            },
+            "setRatio": 0,
+            "pointRatio": 0,
+            "penalty": "-"
+          }
+        },
+        {
+          "position": 4,
+          "teamId": "429",
+          "teamName": "Carrick Crows D3M",
+          "logoUrl": "",
+          "points": 0,
+          "detailedStats": {
+            "rankingPoints": 0,
+            "matchesPlayed": 0,
+            "matchesWon": 0,
+            "matchesLost": 0,
+            "setsWon": 0,
+            "setsLost": 0,
+            "pointsWon": 0,
+            "pointsLost": 0,
+            "results": {
+              "wins3_0": 0,
+              "wins3_1": 0,
+              "wins3_2": 0,
+              "losses2_3": 0,
+              "losses1_3": 0,
+              "losses0_3": 0
+            },
+            "setRatio": 0,
+            "pointRatio": 0,
+            "penalty": "-"
+          }
+        },
+        {
+          "position": 5,
+          "teamId": "428",
+          "teamName": "Ballinasloe Eagles D3M",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -156,8 +156,8 @@
       "teams": [
         {
           "position": 1,
-          "teamId": "427",
-          "teamName": "Balbriggan D3M",
+          "teamId": "385",
+          "teamName": "RCSI D3M",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -212,8 +212,8 @@
         },
         {
           "position": 3,
-          "teamId": "334",
-          "teamName": "Crumlin D3M",
+          "teamId": "427",
+          "teamName": "Balbriggan D3M",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -268,8 +268,8 @@
         },
         {
           "position": 5,
-          "teamId": "385",
-          "teamName": "RCSI D3M",
+          "teamId": "334",
+          "teamName": "Crumlin D3M",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -302,90 +302,6 @@
       "teams": [
         {
           "position": 1,
-          "teamId": "387",
-          "teamName": "Clonmel D3M",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 2,
-          "teamId": "358",
-          "teamName": "Kilkenny Spartans D3M",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 3,
-          "teamId": "339",
-          "teamName": "Volleywoodstars 2 D3M",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 4,
           "teamId": "338",
           "teamName": "Volleywoodstars D3M",
           "logoUrl": "",
@@ -413,9 +329,93 @@
           }
         },
         {
-          "position": 5,
+          "position": 2,
+          "teamId": "387",
+          "teamName": "Clonmel D3M",
+          "logoUrl": "",
+          "points": 0,
+          "detailedStats": {
+            "rankingPoints": 0,
+            "matchesPlayed": 0,
+            "matchesWon": 0,
+            "matchesLost": 0,
+            "setsWon": 0,
+            "setsLost": 0,
+            "pointsWon": 0,
+            "pointsLost": 0,
+            "results": {
+              "wins3_0": 0,
+              "wins3_1": 0,
+              "wins3_2": 0,
+              "losses2_3": 0,
+              "losses1_3": 0,
+              "losses0_3": 0
+            },
+            "setRatio": 0,
+            "pointRatio": 0,
+            "penalty": "-"
+          }
+        },
+        {
+          "position": 3,
           "teamId": "342",
           "teamName": "Youghal D3M",
+          "logoUrl": "",
+          "points": 0,
+          "detailedStats": {
+            "rankingPoints": 0,
+            "matchesPlayed": 0,
+            "matchesWon": 0,
+            "matchesLost": 0,
+            "setsWon": 0,
+            "setsLost": 0,
+            "pointsWon": 0,
+            "pointsLost": 0,
+            "results": {
+              "wins3_0": 0,
+              "wins3_1": 0,
+              "wins3_2": 0,
+              "losses2_3": 0,
+              "losses1_3": 0,
+              "losses0_3": 0
+            },
+            "setRatio": 0,
+            "pointRatio": 0,
+            "penalty": "-"
+          }
+        },
+        {
+          "position": 4,
+          "teamId": "358",
+          "teamName": "Kilkenny Spartans D3M",
+          "logoUrl": "",
+          "points": 0,
+          "detailedStats": {
+            "rankingPoints": 0,
+            "matchesPlayed": 0,
+            "matchesWon": 0,
+            "matchesLost": 0,
+            "setsWon": 0,
+            "setsLost": 0,
+            "pointsWon": 0,
+            "pointsLost": 0,
+            "results": {
+              "wins3_0": 0,
+              "wins3_1": 0,
+              "wins3_2": 0,
+              "losses2_3": 0,
+              "losses1_3": 0,
+              "losses0_3": 0
+            },
+            "setRatio": 0,
+            "pointRatio": 0,
+            "penalty": "-"
+          }
+        },
+        {
+          "position": 5,
+          "teamId": "339",
+          "teamName": "Volleywoodstars 2 D3M",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -594,34 +594,6 @@
       "teams": [
         {
           "position": 1,
-          "teamId": "430",
-          "teamName": "Dalkey Devils D3M",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 2,
           "teamId": "335",
           "teamName": "IADT Turtles D3M",
           "logoUrl": "",
@@ -649,35 +621,7 @@
           }
         },
         {
-          "position": 3,
-          "teamId": "345",
-          "teamName": "Jackals D3M",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 4,
+          "position": 2,
           "teamId": "398",
           "teamName": "Midlands D3M",
           "logoUrl": "",
@@ -705,9 +649,65 @@
           }
         },
         {
-          "position": 5,
+          "position": 3,
+          "teamId": "430",
+          "teamName": "Dalkey Devils D3M",
+          "logoUrl": "",
+          "points": 0,
+          "detailedStats": {
+            "rankingPoints": 0,
+            "matchesPlayed": 0,
+            "matchesWon": 0,
+            "matchesLost": 0,
+            "setsWon": 0,
+            "setsLost": 0,
+            "pointsWon": 0,
+            "pointsLost": 0,
+            "results": {
+              "wins3_0": 0,
+              "wins3_1": 0,
+              "wins3_2": 0,
+              "losses2_3": 0,
+              "losses1_3": 0,
+              "losses0_3": 0
+            },
+            "setRatio": 0,
+            "pointRatio": 0,
+            "penalty": "-"
+          }
+        },
+        {
+          "position": 4,
           "teamId": "431",
           "teamName": "Naas Cobras D3M",
+          "logoUrl": "",
+          "points": 0,
+          "detailedStats": {
+            "rankingPoints": 0,
+            "matchesPlayed": 0,
+            "matchesWon": 0,
+            "matchesLost": 0,
+            "setsWon": 0,
+            "setsLost": 0,
+            "pointsWon": 0,
+            "pointsLost": 0,
+            "results": {
+              "wins3_0": 0,
+              "wins3_1": 0,
+              "wins3_2": 0,
+              "losses2_3": 0,
+              "losses1_3": 0,
+              "losses0_3": 0
+            },
+            "setRatio": 0,
+            "pointRatio": 0,
+            "penalty": "-"
+          }
+        },
+        {
+          "position": 5,
+          "teamId": "345",
+          "teamName": "Jackals D3M",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -738,96 +738,6 @@
   "teams": [
     {
       "position": 1,
-      "teamId": "428",
-      "teamName": "Ballinasloe Eagles D3M",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D3M Group A",
-      "championshipId": "97"
-    },
-    {
-      "position": 2,
-      "teamId": "429",
-      "teamName": "Carrick Crows D3M",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D3M Group A",
-      "championshipId": "97"
-    },
-    {
-      "position": 3,
-      "teamId": "331",
-      "teamName": "Cavan Cats D3M",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D3M Group A",
-      "championshipId": "97"
-    },
-    {
-      "position": 4,
       "teamId": "397",
       "teamName": "Longford Smashers D3M",
       "logoUrl": "",
@@ -857,7 +767,37 @@
       "championshipId": "97"
     },
     {
-      "position": 5,
+      "position": 2,
+      "teamId": "331",
+      "teamName": "Cavan Cats D3M",
+      "logoUrl": "",
+      "points": 0,
+      "detailedStats": {
+        "rankingPoints": 0,
+        "matchesPlayed": 0,
+        "matchesWon": 0,
+        "matchesLost": 0,
+        "setsWon": 0,
+        "setsLost": 0,
+        "pointsWon": 0,
+        "pointsLost": 0,
+        "results": {
+          "wins3_0": 0,
+          "wins3_1": 0,
+          "wins3_2": 0,
+          "losses2_3": 0,
+          "losses1_3": 0,
+          "losses0_3": 0
+        },
+        "setRatio": 0,
+        "pointRatio": 0,
+        "penalty": "-"
+      },
+      "subLeague": "League - D3M Group A",
+      "championshipId": "97"
+    },
+    {
+      "position": 3,
       "teamId": "386",
       "teamName": "Mayo D3M",
       "logoUrl": "",
@@ -887,9 +827,69 @@
       "championshipId": "97"
     },
     {
+      "position": 4,
+      "teamId": "429",
+      "teamName": "Carrick Crows D3M",
+      "logoUrl": "",
+      "points": 0,
+      "detailedStats": {
+        "rankingPoints": 0,
+        "matchesPlayed": 0,
+        "matchesWon": 0,
+        "matchesLost": 0,
+        "setsWon": 0,
+        "setsLost": 0,
+        "pointsWon": 0,
+        "pointsLost": 0,
+        "results": {
+          "wins3_0": 0,
+          "wins3_1": 0,
+          "wins3_2": 0,
+          "losses2_3": 0,
+          "losses1_3": 0,
+          "losses0_3": 0
+        },
+        "setRatio": 0,
+        "pointRatio": 0,
+        "penalty": "-"
+      },
+      "subLeague": "League - D3M Group A",
+      "championshipId": "97"
+    },
+    {
+      "position": 5,
+      "teamId": "428",
+      "teamName": "Ballinasloe Eagles D3M",
+      "logoUrl": "",
+      "points": 0,
+      "detailedStats": {
+        "rankingPoints": 0,
+        "matchesPlayed": 0,
+        "matchesWon": 0,
+        "matchesLost": 0,
+        "setsWon": 0,
+        "setsLost": 0,
+        "pointsWon": 0,
+        "pointsLost": 0,
+        "results": {
+          "wins3_0": 0,
+          "wins3_1": 0,
+          "wins3_2": 0,
+          "losses2_3": 0,
+          "losses1_3": 0,
+          "losses0_3": 0
+        },
+        "setRatio": 0,
+        "pointRatio": 0,
+        "penalty": "-"
+      },
+      "subLeague": "League - D3M Group A",
+      "championshipId": "97"
+    },
+    {
       "position": 1,
-      "teamId": "427",
-      "teamName": "Balbriggan D3M",
+      "teamId": "385",
+      "teamName": "RCSI D3M",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -948,8 +948,8 @@
     },
     {
       "position": 3,
-      "teamId": "334",
-      "teamName": "Crumlin D3M",
+      "teamId": "427",
+      "teamName": "Balbriggan D3M",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -1008,8 +1008,8 @@
     },
     {
       "position": 5,
-      "teamId": "385",
-      "teamName": "RCSI D3M",
+      "teamId": "334",
+      "teamName": "Crumlin D3M",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -1038,96 +1038,6 @@
     },
     {
       "position": 1,
-      "teamId": "387",
-      "teamName": "Clonmel D3M",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D3M Group C",
-      "championshipId": "106"
-    },
-    {
-      "position": 2,
-      "teamId": "358",
-      "teamName": "Kilkenny Spartans D3M",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D3M Group C",
-      "championshipId": "106"
-    },
-    {
-      "position": 3,
-      "teamId": "339",
-      "teamName": "Volleywoodstars 2 D3M",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D3M Group C",
-      "championshipId": "106"
-    },
-    {
-      "position": 4,
       "teamId": "338",
       "teamName": "Volleywoodstars D3M",
       "logoUrl": "",
@@ -1157,9 +1067,99 @@
       "championshipId": "106"
     },
     {
-      "position": 5,
+      "position": 2,
+      "teamId": "387",
+      "teamName": "Clonmel D3M",
+      "logoUrl": "",
+      "points": 0,
+      "detailedStats": {
+        "rankingPoints": 0,
+        "matchesPlayed": 0,
+        "matchesWon": 0,
+        "matchesLost": 0,
+        "setsWon": 0,
+        "setsLost": 0,
+        "pointsWon": 0,
+        "pointsLost": 0,
+        "results": {
+          "wins3_0": 0,
+          "wins3_1": 0,
+          "wins3_2": 0,
+          "losses2_3": 0,
+          "losses1_3": 0,
+          "losses0_3": 0
+        },
+        "setRatio": 0,
+        "pointRatio": 0,
+        "penalty": "-"
+      },
+      "subLeague": "League - D3M Group C",
+      "championshipId": "106"
+    },
+    {
+      "position": 3,
       "teamId": "342",
       "teamName": "Youghal D3M",
+      "logoUrl": "",
+      "points": 0,
+      "detailedStats": {
+        "rankingPoints": 0,
+        "matchesPlayed": 0,
+        "matchesWon": 0,
+        "matchesLost": 0,
+        "setsWon": 0,
+        "setsLost": 0,
+        "pointsWon": 0,
+        "pointsLost": 0,
+        "results": {
+          "wins3_0": 0,
+          "wins3_1": 0,
+          "wins3_2": 0,
+          "losses2_3": 0,
+          "losses1_3": 0,
+          "losses0_3": 0
+        },
+        "setRatio": 0,
+        "pointRatio": 0,
+        "penalty": "-"
+      },
+      "subLeague": "League - D3M Group C",
+      "championshipId": "106"
+    },
+    {
+      "position": 4,
+      "teamId": "358",
+      "teamName": "Kilkenny Spartans D3M",
+      "logoUrl": "",
+      "points": 0,
+      "detailedStats": {
+        "rankingPoints": 0,
+        "matchesPlayed": 0,
+        "matchesWon": 0,
+        "matchesLost": 0,
+        "setsWon": 0,
+        "setsLost": 0,
+        "pointsWon": 0,
+        "pointsLost": 0,
+        "results": {
+          "wins3_0": 0,
+          "wins3_1": 0,
+          "wins3_2": 0,
+          "losses2_3": 0,
+          "losses1_3": 0,
+          "losses0_3": 0
+        },
+        "setRatio": 0,
+        "pointRatio": 0,
+        "penalty": "-"
+      },
+      "subLeague": "League - D3M Group C",
+      "championshipId": "106"
+    },
+    {
+      "position": 5,
+      "teamId": "339",
+      "teamName": "Volleywoodstars 2 D3M",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -1338,36 +1338,6 @@
     },
     {
       "position": 1,
-      "teamId": "430",
-      "teamName": "Dalkey Devils D3M",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D3M Group E",
-      "championshipId": "108"
-    },
-    {
-      "position": 2,
       "teamId": "335",
       "teamName": "IADT Turtles D3M",
       "logoUrl": "",
@@ -1397,37 +1367,7 @@
       "championshipId": "108"
     },
     {
-      "position": 3,
-      "teamId": "345",
-      "teamName": "Jackals D3M",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D3M Group E",
-      "championshipId": "108"
-    },
-    {
-      "position": 4,
+      "position": 2,
       "teamId": "398",
       "teamName": "Midlands D3M",
       "logoUrl": "",
@@ -1457,7 +1397,37 @@
       "championshipId": "108"
     },
     {
-      "position": 5,
+      "position": 3,
+      "teamId": "430",
+      "teamName": "Dalkey Devils D3M",
+      "logoUrl": "",
+      "points": 0,
+      "detailedStats": {
+        "rankingPoints": 0,
+        "matchesPlayed": 0,
+        "matchesWon": 0,
+        "matchesLost": 0,
+        "setsWon": 0,
+        "setsLost": 0,
+        "pointsWon": 0,
+        "pointsLost": 0,
+        "results": {
+          "wins3_0": 0,
+          "wins3_1": 0,
+          "wins3_2": 0,
+          "losses2_3": 0,
+          "losses1_3": 0,
+          "losses0_3": 0
+        },
+        "setRatio": 0,
+        "pointRatio": 0,
+        "penalty": "-"
+      },
+      "subLeague": "League - D3M Group E",
+      "championshipId": "108"
+    },
+    {
+      "position": 4,
       "teamId": "431",
       "teamName": "Naas Cobras D3M",
       "logoUrl": "",
@@ -1485,9 +1455,39 @@
       },
       "subLeague": "League - D3M Group E",
       "championshipId": "108"
+    },
+    {
+      "position": 5,
+      "teamId": "345",
+      "teamName": "Jackals D3M",
+      "logoUrl": "",
+      "points": 0,
+      "detailedStats": {
+        "rankingPoints": 0,
+        "matchesPlayed": 0,
+        "matchesWon": 0,
+        "matchesLost": 0,
+        "setsWon": 0,
+        "setsLost": 0,
+        "pointsWon": 0,
+        "pointsLost": 0,
+        "results": {
+          "wins3_0": 0,
+          "wins3_1": 0,
+          "wins3_2": 0,
+          "losses2_3": 0,
+          "losses1_3": 0,
+          "losses0_3": 0
+        },
+        "setRatio": 0,
+        "pointRatio": 0,
+        "penalty": "-"
+      },
+      "subLeague": "League - D3M Group E",
+      "championshipId": "108"
     }
   ],
-  "lastUpdated": "2025-10-17T14:54:07.383Z",
+  "lastUpdated": "2025-10-30T22:00:15.184Z",
   "dataVersion": "2.0",
   "source": "VIR Volleyball Standings",
   "schemaInfo": {
