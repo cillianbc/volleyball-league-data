@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-04T15:19:05.592Z",
+  "lastUpdated": "2025-11-04T15:19:33.235Z",
   "totalClubs": 52,
   "clubs": [
     {
@@ -9,11 +9,10 @@
       "homeVenue": "Lakewood Sports & Social Club, Barnagore",
       "clubSecretary": "Magdalena Nega",
       "clubSecretaryUrl": "mailto:cork4funvolleyballclub@yahoo.com",
-      "contactEmail": "No",
       "nationalLeagueTeams": "No",
       "div3Teams": "No",
-      "youthTeams": "Associate",
-      "typeOfAffiliation": ""
+      "youthTeams": "No",
+      "typeOfAffiliation": "Associate"
     },
     {
       "clubName": "Aer Lingus VC",
@@ -22,11 +21,10 @@
       "homeVenue": "ALSAA Sports Centre",
       "clubSecretary": "Gerry White",
       "clubSecretaryUrl": "mailto:whitegerryj@gmail.com",
-      "contactEmail": "Men & Women",
-      "nationalLeagueTeams": "Women",
-      "div3Teams": "No",
-      "youthTeams": "National League",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "Men & Women",
+      "div3Teams": "Women",
+      "youthTeams": "No",
+      "typeOfAffiliation": "National League"
     },
     {
       "clubName": "ATU Sligo",
@@ -35,11 +33,10 @@
       "homeVenue": "ATU Sligo",
       "clubSecretary": "Kristyna Hajkova",
       "clubSecretaryUrl": "mailto:khajkova19@gmail.com",
-      "contactEmail": "No",
       "nationalLeagueTeams": "No",
       "div3Teams": "No",
-      "youthTeams": "Associate",
-      "typeOfAffiliation": ""
+      "youthTeams": "No",
+      "typeOfAffiliation": "Associate"
     },
     {
       "clubName": "Balbriggan Volleyball Club",
@@ -48,11 +45,10 @@
       "homeVenue": "Castlelands Comm Centre, Balbriggan",
       "clubSecretary": "Dave Dalton",
       "clubSecretaryUrl": "mailto:balbrigganvolleyballclub@gmail.com",
-      "contactEmail": "Men & Women",
-      "nationalLeagueTeams": "Men",
-      "div3Teams": "No",
-      "youthTeams": "National League",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "Men & Women",
+      "div3Teams": "Men",
+      "youthTeams": "No",
+      "typeOfAffiliation": "National League"
     },
     {
       "clubName": "Ballinasloe Eagles Volleyball Club",
@@ -61,11 +57,10 @@
       "homeVenue": "Clonfert College, Ballinasloe",
       "clubSecretary": "Claudia Guerrico",
       "clubSecretaryUrl": "mailto:ballinasloevc@gmail.com",
-      "contactEmail": "No",
-      "nationalLeagueTeams": "Men",
-      "div3Teams": "B U18, G U18",
-      "youthTeams": "Associate",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "No",
+      "div3Teams": "Men",
+      "youthTeams": "B U18, G U18",
+      "typeOfAffiliation": "Associate"
     },
     {
       "clubName": "Ballymun Patriots Volleyball Club",
@@ -74,11 +69,10 @@
       "homeVenue": "Ballymun Trinity Comprehensive, Dublin 9",
       "clubSecretary": "Begona Ollero",
       "clubSecretaryUrl": "mailto:ballymunpatriotsvolleyballclub@gmail.com",
-      "contactEmail": "Men & Women",
-      "nationalLeagueTeams": "No",
-      "div3Teams": "B U18, G U18",
-      "youthTeams": "National League",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "Men & Women",
+      "div3Teams": "No",
+      "youthTeams": "B U18, G U18",
+      "typeOfAffiliation": "National League"
     },
     {
       "clubName": "Burren Volleyball Club",
@@ -87,11 +81,10 @@
       "homeVenue": "Ennistymon Community Centre",
       "clubSecretary": "Leigh O'Connell",
       "clubSecretaryUrl": "mailto:Burrenvolleyballclub@gmail.com",
-      "contactEmail": "No",
-      "nationalLeagueTeams": "Women",
-      "div3Teams": "G U18, G U16",
-      "youthTeams": "Associate",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "No",
+      "div3Teams": "Women",
+      "youthTeams": "G U18, G U16",
+      "typeOfAffiliation": "Associate"
     },
     {
       "clubName": "Carrick Crows Volleyball Club",
@@ -100,11 +93,10 @@
       "homeVenue": "Castleblayney College",
       "clubSecretary": "Renee Ubaldo",
       "clubSecretaryUrl": "mailto:carrickcrows@gmail.com",
-      "contactEmail": "Men & Women",
-      "nationalLeagueTeams": "Men",
-      "div3Teams": "G U18",
-      "youthTeams": "National League",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "Men & Women",
+      "div3Teams": "Men",
+      "youthTeams": "G U18",
+      "typeOfAffiliation": "National League"
     },
     {
       "clubName": "Cavan Cats VC",
@@ -113,11 +105,10 @@
       "homeVenue": "Cavan Leisure Complex",
       "clubSecretary": "Demi Weng",
       "clubSecretaryUrl": "mailto:cavancats1@gmail.com",
-      "contactEmail": "No",
-      "nationalLeagueTeams": "Men & Women",
-      "div3Teams": "No",
-      "youthTeams": "Associate",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "No",
+      "div3Teams": "Men & Women",
+      "youthTeams": "No",
+      "typeOfAffiliation": "Associate"
     },
     {
       "clubName": "Celestials VC",
@@ -126,11 +117,10 @@
       "homeVenue": "D15 & Maynooth",
       "clubSecretary": "Dale Calabia",
       "clubSecretaryUrl": "mailto:celestialsvc@gmail.com",
-      "contactEmail": "Men & Women",
-      "nationalLeagueTeams": "Men",
-      "div3Teams": "No",
-      "youthTeams": "National League",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "Men & Women",
+      "div3Teams": "Men",
+      "youthTeams": "No",
+      "typeOfAffiliation": "National League"
     },
     {
       "clubName": "Clonmel Volleyball",
@@ -139,11 +129,10 @@
       "homeVenue": "Moyle Rovers GAA Club",
       "clubSecretary": "Karol Buszkiewicz",
       "clubSecretaryUrl": "mailto:Karol.buszkiewicz.mail@gmail.com",
-      "contactEmail": "No",
-      "nationalLeagueTeams": "Men & Women",
-      "div3Teams": "No",
-      "youthTeams": "Associate",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "No",
+      "div3Teams": "Men & Women",
+      "youthTeams": "No",
+      "typeOfAffiliation": "Associate"
     },
     {
       "clubName": "Cork Lions Volleyball Club",
@@ -152,11 +141,10 @@
       "homeVenue": "Presentation School Ballyphehane",
       "clubSecretary": "Jobin Joy",
       "clubSecretaryUrl": "mailto:jobinjoynua@gmail.com",
-      "contactEmail": "No",
-      "nationalLeagueTeams": "Men",
-      "div3Teams": "No",
-      "youthTeams": "Associate",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "No",
+      "div3Teams": "Men",
+      "youthTeams": "No",
+      "typeOfAffiliation": "Associate"
     },
     {
       "clubName": "Cork Volleyball Academy",
@@ -165,11 +153,10 @@
       "homeVenue": "Coláiste Chríost Rí Secondary School, Turner’s Cross",
       "clubSecretary": "Antonio Barros",
       "clubSecretaryUrl": "mailto:abar-3@hotmail.com",
-      "contactEmail": "Men & Women",
       "nationalLeagueTeams": "Men & Women",
-      "div3Teams": "B U18, G U18, G U16",
-      "youthTeams": "National League",
-      "typeOfAffiliation": ""
+      "div3Teams": "Men & Women",
+      "youthTeams": "B U18, G U18, G U16",
+      "typeOfAffiliation": "National League"
     },
     {
       "clubName": "Crumlin Volleyball Club",
@@ -178,11 +165,10 @@
       "homeVenue": "Clogher Road Sports Centre, Dublin 12",
       "clubSecretary": "Kason Chan",
       "clubSecretaryUrl": "mailto:crumlinvolleyballclub@gmail.com",
-      "contactEmail": "Men",
       "nationalLeagueTeams": "Men",
-      "div3Teams": "No",
-      "youthTeams": "National League",
-      "typeOfAffiliation": ""
+      "div3Teams": "Men",
+      "youthTeams": "No",
+      "typeOfAffiliation": "National League"
     },
     {
       "clubName": "Dalkey Devils Volleyball Club",
@@ -191,11 +177,10 @@
       "homeVenue": "Castle Park School, Dalkey",
       "clubSecretary": "Breda Eardley",
       "clubSecretaryUrl": "mailto:info@dalkeydevils.com",
-      "contactEmail": "Men & Women",
       "nationalLeagueTeams": "Men & Women",
-      "div3Teams": "B U18, G U18, G U16",
-      "youthTeams": "National League",
-      "typeOfAffiliation": ""
+      "div3Teams": "Men & Women",
+      "youthTeams": "B U18, G U18, G U16",
+      "typeOfAffiliation": "National League"
     },
     {
       "clubName": "Dublin Volleyball Club",
@@ -204,11 +189,10 @@
       "homeVenue": "Coláiste Bríde, Dublin 22",
       "clubSecretary": "Gabriela Duraes Zerbinatti",
       "clubSecretaryUrl": "mailto:dvcsec@gmail.com",
-      "contactEmail": "Men & Women",
-      "nationalLeagueTeams": "No",
+      "nationalLeagueTeams": "Men & Women",
       "div3Teams": "No",
-      "youthTeams": "National League",
-      "typeOfAffiliation": ""
+      "youthTeams": "No",
+      "typeOfAffiliation": "National League"
     },
     {
       "clubName": "Dynamite VC",
@@ -217,11 +201,10 @@
       "homeVenue": "Temperance Hall Sports Hall, Loughrea",
       "clubSecretary": "Giovanni Spera",
       "clubSecretaryUrl": "mailto:dynamitevolleyballclubie@gmail.com",
-      "contactEmail": "No",
       "nationalLeagueTeams": "No",
-      "div3Teams": "G U18, G U16",
-      "youthTeams": "Associate",
-      "typeOfAffiliation": ""
+      "div3Teams": "No",
+      "youthTeams": "G U18, G U16",
+      "typeOfAffiliation": "Associate"
     },
     {
       "clubName": "Flying Squirrels",
@@ -230,11 +213,10 @@
       "homeVenue": "Corduff Sports Centre, Dublin 15",
       "clubSecretary": "Bartosz Baziuk",
       "clubSecretaryUrl": "mailto:bartoszbaziuk@gmail.com",
-      "contactEmail": "No",
       "nationalLeagueTeams": "No",
       "div3Teams": "No",
-      "youthTeams": "Associate",
-      "typeOfAffiliation": ""
+      "youthTeams": "No",
+      "typeOfAffiliation": "Associate"
     },
     {
       "clubName": "Galway Volleyball Club",
@@ -243,11 +225,10 @@
       "homeVenue": "St Mary College, Galway",
       "clubSecretary": "Andrea Sellars",
       "clubSecretaryUrl": "mailto:Galwayvolleyballclubsecretary@gmail.com",
-      "contactEmail": "Men & Women",
-      "nationalLeagueTeams": "No",
-      "div3Teams": "B U18, G U18",
-      "youthTeams": "National League",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "Men & Women",
+      "div3Teams": "No",
+      "youthTeams": "B U18, G U18",
+      "typeOfAffiliation": "National League"
     },
     {
       "clubName": "Gardians VC",
@@ -256,11 +237,10 @@
       "homeVenue": "Colaiste De Hide, Tallaght",
       "clubSecretary": "Declan Ryan",
       "clubSecretaryUrl": "mailto:gardiansvc@gmail.com",
-      "contactEmail": "Men & Women",
-      "nationalLeagueTeams": "No",
-      "div3Teams": "G U18",
-      "youthTeams": "National League",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "Men & Women",
+      "div3Teams": "No",
+      "youthTeams": "G U18",
+      "typeOfAffiliation": "National League"
     },
     {
       "clubName": "Greystones Volleyball Club",
@@ -269,11 +249,10 @@
       "homeVenue": "St David's Holy Faith Secondary School, Greystones",
       "clubSecretary": "Janine Tritschler",
       "clubSecretaryUrl": "mailto:jmtritschler@gmail.com",
-      "contactEmail": "No",
       "nationalLeagueTeams": "No",
       "div3Teams": "No",
-      "youthTeams": "Associate",
-      "typeOfAffiliation": ""
+      "youthTeams": "No",
+      "typeOfAffiliation": "Associate"
     },
     {
       "clubName": "IADT Turtles",
@@ -282,11 +261,10 @@
       "homeVenue": "Roebuck Rd, Clonskeagh, Dublin 14",
       "clubSecretary": "Samuel Tavares",
       "clubSecretaryUrl": "mailto:samuel.r.education@gmail.com",
-      "contactEmail": "No",
-      "nationalLeagueTeams": "Men & Women",
-      "div3Teams": "No",
-      "youthTeams": "Associate",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "No",
+      "div3Teams": "Men & Women",
+      "youthTeams": "No",
+      "typeOfAffiliation": "Associate"
     },
     {
       "clubName": "Impact Macroom Volleyball Club",
@@ -295,11 +273,10 @@
       "homeVenue": "Macroom Community Leisure Centre",
       "clubSecretary": "Magdalena Smolen",
       "clubSecretaryUrl": "mailto:impactwiz@gmail.com",
-      "contactEmail": "Men & Women",
-      "nationalLeagueTeams": "No",
-      "div3Teams": "G U18, G U16",
-      "youthTeams": "National League",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "Men & Women",
+      "div3Teams": "No",
+      "youthTeams": "G U18, G U16",
+      "typeOfAffiliation": "National League"
     },
     {
       "clubName": "International Volleyball Ireland",
@@ -308,11 +285,10 @@
       "homeVenue": "Collinstown Park Sports Complex, Dublin 22",
       "clubSecretary": "Renato Avelar",
       "clubSecretaryUrl": "mailto:internationalvolleyballireland@gmail.com",
-      "contactEmail": "Men & Women",
-      "nationalLeagueTeams": "Men",
-      "div3Teams": "No",
-      "youthTeams": "National League",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "Men & Women",
+      "div3Teams": "Men",
+      "youthTeams": "No",
+      "typeOfAffiliation": "National League"
     },
     {
       "clubName": "Jackals VC",
@@ -321,11 +297,10 @@
       "homeVenue": "Phoenix Sports Centre, Maynooth",
       "clubSecretary": "Elijel Dela Cruz & Jaafar Ali Jaafar",
       "clubSecretaryUrl": "mailto:Thunderjackals@gmail.com",
-      "contactEmail": "Men & Women",
-      "nationalLeagueTeams": "Men",
-      "div3Teams": "No",
-      "youthTeams": "National League",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "Men & Women",
+      "div3Teams": "Men",
+      "youthTeams": "No",
+      "typeOfAffiliation": "National League"
     },
     {
       "clubName": "Kildare Volleyball Club",
@@ -334,11 +309,10 @@
       "homeVenue": "Kilcullen Community Centre, Kilcullen",
       "clubSecretary": "Bherdelle Mae Conol",
       "clubSecretaryUrl": "mailto:kildarevolleyballclub@yahoo.com",
-      "contactEmail": "Men & Women",
-      "nationalLeagueTeams": "No",
-      "div3Teams": "B U18, G U18, G U16",
-      "youthTeams": "National League",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "Men & Women",
+      "div3Teams": "No",
+      "youthTeams": "B U18, G U18, G U16",
+      "typeOfAffiliation": "National League"
     },
     {
       "clubName": "Kilkenny Mystics VC",
@@ -347,11 +321,10 @@
       "homeVenue": "Loreto Secondary School Kilkenny",
       "clubSecretary": "Chiara Trench",
       "clubSecretaryUrl": "mailto:kilkennymystics@gmail.com",
-      "contactEmail": "No",
       "nationalLeagueTeams": "No",
       "div3Teams": "No",
-      "youthTeams": "Associate",
-      "typeOfAffiliation": ""
+      "youthTeams": "No",
+      "typeOfAffiliation": "Associate"
     },
     {
       "clubName": "Kilkenny Spartans Volleyball Club",
@@ -360,11 +333,10 @@
       "homeVenue": "Loreto Secondary School, Kilkenny",
       "clubSecretary": "Benny O'Regan",
       "clubSecretaryUrl": "mailto:volleyballkilkenny@gmail.com",
-      "contactEmail": "Men & Women",
-      "nationalLeagueTeams": "Men",
-      "div3Teams": "G U18, G U16",
-      "youthTeams": "National League",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "Men & Women",
+      "div3Teams": "Men",
+      "youthTeams": "G U18, G U16",
+      "typeOfAffiliation": "National League"
     },
     {
       "clubName": "Killarney Phoenix VC",
@@ -373,11 +345,10 @@
       "homeVenue": "St. Mary's Parish Hall, Killarney",
       "clubSecretary": "Stefan Boskovic",
       "clubSecretaryUrl": "mailto:killarneyphoenixvolleyballclub@gmail.com",
-      "contactEmail": "No",
-      "nationalLeagueTeams": "Men & Women",
-      "div3Teams": "No",
-      "youthTeams": "Associate",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "No",
+      "div3Teams": "Men & Women",
+      "youthTeams": "No",
+      "typeOfAffiliation": "Associate"
     },
     {
       "clubName": "Leitrim Youth Volleyball Club",
@@ -386,11 +357,10 @@
       "homeVenue": "The Mayflower Community Centre, Drumshanbo",
       "clubSecretary": "Nataliya Byelyakova",
       "clubSecretaryUrl": "mailto:nataliya@ldco.ie",
-      "contactEmail": "No",
       "nationalLeagueTeams": "No",
       "div3Teams": "No",
-      "youthTeams": "Associate",
-      "typeOfAffiliation": ""
+      "youthTeams": "No",
+      "typeOfAffiliation": "Associate"
     },
     {
       "clubName": "Longford Smashers Volleyball Club",
@@ -399,11 +369,10 @@
       "homeVenue": "St Mary's Community Campus, Edgeworthstown",
       "clubSecretary": "Agnieszka Radomska",
       "clubSecretaryUrl": "mailto:volleyball.longford@gmail.com",
-      "contactEmail": "Women",
-      "nationalLeagueTeams": "Men",
-      "div3Teams": "No",
-      "youthTeams": "National League",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "Women",
+      "div3Teams": "Men",
+      "youthTeams": "No",
+      "typeOfAffiliation": "National League"
     },
     {
       "clubName": "Mayo Volleyball Club",
@@ -412,11 +381,10 @@
       "homeVenue": "Barnacarroll Community Center, Claremorris",
       "clubSecretary": "Mikal O'Boyle",
       "clubSecretaryUrl": "mailto:mikaloboyle@gmail.com",
-      "contactEmail": "Women",
-      "nationalLeagueTeams": "Men",
-      "div3Teams": "No",
-      "youthTeams": "National League",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "Women",
+      "div3Teams": "Men",
+      "youthTeams": "No",
+      "typeOfAffiliation": "National League"
     },
     {
       "clubName": "Medusa Volleyball",
@@ -425,11 +393,10 @@
       "homeVenue": "Dungarvan College",
       "clubSecretary": "Nadiia Otstavnova",
       "clubSecretaryUrl": "mailto:v.c.medusaofficial@gmail.com",
-      "contactEmail": "No",
       "nationalLeagueTeams": "No",
-      "div3Teams": "G U18",
-      "youthTeams": "Associate",
-      "typeOfAffiliation": ""
+      "div3Teams": "No",
+      "youthTeams": "G U18",
+      "typeOfAffiliation": "Associate"
     },
     {
       "clubName": "Midlands Volleyball Club",
@@ -438,11 +405,10 @@
       "homeVenue": "Mountrath Community School",
       "clubSecretary": "Katie Wallace",
       "clubSecretaryUrl": "mailto:midlandsvolleyballclub@gmail.com",
-      "contactEmail": "No",
-      "nationalLeagueTeams": "Men & Women",
-      "div3Teams": "No",
-      "youthTeams": "Associate",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "No",
+      "div3Teams": "Men & Women",
+      "youthTeams": "No",
+      "typeOfAffiliation": "Associate"
     },
     {
       "clubName": "Munster Thunder VC",
@@ -451,11 +417,10 @@
       "homeVenue": "Clonlara Community Centre",
       "clubSecretary": "TJ Sweeney",
       "clubSecretaryUrl": "mailto:m.thundervolleyball@gmail.com",
-      "contactEmail": "Men & Women",
-      "nationalLeagueTeams": "Women",
-      "div3Teams": "G U16",
-      "youthTeams": "National League",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "Men & Women",
+      "div3Teams": "Women",
+      "youthTeams": "G U16",
+      "typeOfAffiliation": "National League"
     },
     {
       "clubName": "Naas Volleyball Club",
@@ -464,11 +429,10 @@
       "homeVenue": "St Mary's College Naas",
       "clubSecretary": "Karina Higgins",
       "clubSecretaryUrl": "mailto:naasvolleyballsecretary@gmail.com",
-      "contactEmail": "Men & Women",
       "nationalLeagueTeams": "Men & Women",
-      "div3Teams": "G U16",
-      "youthTeams": "National League",
-      "typeOfAffiliation": ""
+      "div3Teams": "Men & Women",
+      "youthTeams": "G U16",
+      "typeOfAffiliation": "National League"
     },
     {
       "clubName": "Netforce Cork VC",
@@ -477,11 +441,10 @@
       "homeVenue": "Riverstick Community Center",
       "clubSecretary": "Maria Jimenez",
       "clubSecretaryUrl": "mailto:netforcecork@gmail.com",
-      "contactEmail": "Men & Women",
-      "nationalLeagueTeams": "No",
-      "div3Teams": "G U18, G U16",
-      "youthTeams": "National League",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "Men & Women",
+      "div3Teams": "No",
+      "youthTeams": "G U18, G U16",
+      "typeOfAffiliation": "National League"
     },
     {
       "clubName": "Newbridge Volleyball Club",
@@ -490,11 +453,10 @@
       "homeVenue": "Holy Family Secondary School, Newbridge",
       "clubSecretary": "Martin O'Connor",
       "clubSecretaryUrl": "mailto:martingoc@eircom.net",
-      "contactEmail": "Women",
-      "nationalLeagueTeams": "No",
-      "div3Teams": "G U18",
-      "youthTeams": "National League",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "Women",
+      "div3Teams": "No",
+      "youthTeams": "G U18",
+      "typeOfAffiliation": "National League"
     },
     {
       "clubName": "Octopus Volleyball Club",
@@ -503,11 +465,10 @@
       "homeVenue": "Scoil Íosagáin Farranree",
       "clubSecretary": "Henrique Souza Santos",
       "clubSecretaryUrl": "mailto:souzasantos.henrique@gmail.com",
-      "contactEmail": "No",
-      "nationalLeagueTeams": "Men & Women",
-      "div3Teams": "No",
-      "youthTeams": "Associate",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "No",
+      "div3Teams": "Men & Women",
+      "youthTeams": "No",
+      "typeOfAffiliation": "Associate"
     },
     {
       "clubName": "RCSI",
@@ -516,11 +477,10 @@
       "homeVenue": "RCSI, York Street, Dublin 2",
       "clubSecretary": "Sophia Argyropoulos",
       "clubSecretaryUrl": "mailto:sophiaargyropoul21@rcsi.com",
-      "contactEmail": "No",
-      "nationalLeagueTeams": "Women",
-      "div3Teams": "No",
-      "youthTeams": "Associate",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "No",
+      "div3Teams": "Women",
+      "youthTeams": "No",
+      "typeOfAffiliation": "Associate"
     },
     {
       "clubName": "Royal Connacht Volleyball Club",
@@ -529,11 +489,10 @@
       "homeVenue": "Scoil Mhuire Sport Hall, Strokestown",
       "clubSecretary": "Laura Barbugli",
       "clubSecretaryUrl": "mailto:royalconnachtvc@gmail.com",
-      "contactEmail": "No",
       "nationalLeagueTeams": "No",
       "div3Teams": "No",
-      "youthTeams": "Associate",
-      "typeOfAffiliation": ""
+      "youthTeams": "No",
+      "typeOfAffiliation": "Associate"
     },
     {
       "clubName": "Santry Volleyball Club",
@@ -542,11 +501,10 @@
       "homeVenue": "Artane Beaumont Family Recreation Centre, Dublin 5",
       "clubSecretary": "Heloise Montigny",
       "clubSecretaryUrl": "mailto:santryvc@gmail.com",
-      "contactEmail": "Women",
       "nationalLeagueTeams": "Women",
-      "div3Teams": "G U18, G U16",
-      "youthTeams": "National League",
-      "typeOfAffiliation": ""
+      "div3Teams": "Women",
+      "youthTeams": "G U18, G U16",
+      "typeOfAffiliation": "National League"
     },
     {
       "clubName": "SETU Carlow",
@@ -555,11 +513,10 @@
       "homeVenue": "Barrow Centre, Carlow",
       "clubSecretary": "Dan Khijinski",
       "clubSecretaryUrl": "mailto:Dan.Khijinski@outlook.com",
-      "contactEmail": "Men & Women",
-      "nationalLeagueTeams": "No",
+      "nationalLeagueTeams": "Men & Women",
       "div3Teams": "No",
-      "youthTeams": "National League",
-      "typeOfAffiliation": ""
+      "youthTeams": "No",
+      "typeOfAffiliation": "National League"
     },
     {
       "clubName": "Sharks West Cork",
@@ -568,11 +525,10 @@
       "homeVenue": "Dunmanway Community Sports Hall",
       "clubSecretary": "Oleksandr Sydorenko",
       "clubSecretaryUrl": "mailto:asido2311@gmail.com",
-      "contactEmail": "No",
-      "nationalLeagueTeams": "Men",
-      "div3Teams": "No",
-      "youthTeams": "Associate",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "No",
+      "div3Teams": "Men",
+      "youthTeams": "No",
+      "typeOfAffiliation": "Associate"
     },
     {
       "clubName": "South Dublin Volleyball Club",
@@ -581,11 +537,10 @@
       "homeVenue": "Stepaside ETSS, Dublin 18",
       "clubSecretary": "Irina Frunza",
       "clubSecretaryUrl": "mailto:irina.bidiac@gmail.com",
-      "contactEmail": "No",
       "nationalLeagueTeams": "No",
       "div3Teams": "No",
-      "youthTeams": "Associate",
-      "typeOfAffiliation": ""
+      "youthTeams": "No",
+      "typeOfAffiliation": "Associate"
     },
     {
       "clubName": "Tallaght Rockets Volleyball Club",
@@ -594,11 +549,10 @@
       "homeVenue": "Firhouse Community College, Dublin 24\n",
       "clubSecretary": "Tania Angelini",
       "clubSecretaryUrl": "mailto:secretary.trvc@gmail.com",
-      "contactEmail": "Men & Women",
-      "nationalLeagueTeams": "No",
+      "nationalLeagueTeams": "Men & Women",
       "div3Teams": "No",
-      "youthTeams": "National League",
-      "typeOfAffiliation": ""
+      "youthTeams": "No",
+      "typeOfAffiliation": "National League"
     },
     {
       "clubName": "TCD Volleyball",
@@ -607,11 +561,10 @@
       "homeVenue": "Trinity Sports Centre, Dublin 2",
       "clubSecretary": "Ailis Wynne",
       "clubSecretaryUrl": "mailto:tcdvball@gmail.com",
-      "contactEmail": "Men & Women",
-      "nationalLeagueTeams": "No",
+      "nationalLeagueTeams": "Men & Women",
       "div3Teams": "No",
-      "youthTeams": "National League",
-      "typeOfAffiliation": ""
+      "youthTeams": "No",
+      "typeOfAffiliation": "National League"
     },
     {
       "clubName": "UCD Volleyball Club",
@@ -620,11 +573,10 @@
       "homeVenue": "UCD Sports Centre, Dublin 4",
       "clubSecretary": "Patricia Somers",
       "clubSecretaryUrl": "mailto:volleyball@ucd.ie",
-      "contactEmail": "Men & Women",
-      "nationalLeagueTeams": "No",
+      "nationalLeagueTeams": "Men & Women",
       "div3Teams": "No",
-      "youthTeams": "National League",
-      "typeOfAffiliation": ""
+      "youthTeams": "No",
+      "typeOfAffiliation": "National League"
     },
     {
       "clubName": "Volleywood Stars",
@@ -633,11 +585,10 @@
       "homeVenue": "James Kenneally Sports Hall, Gurranabraher",
       "clubSecretary": "Cristina Marsili",
       "clubSecretaryUrl": "mailto:Volleywoodstars@gmail.com",
-      "contactEmail": "No",
-      "nationalLeagueTeams": "Men & Women",
-      "div3Teams": "No",
-      "youthTeams": "Associate",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "No",
+      "div3Teams": "Men & Women",
+      "youthTeams": "No",
+      "typeOfAffiliation": "Associate"
     },
     {
       "clubName": "West Cork Volleyball Club",
@@ -646,11 +597,10 @@
       "homeVenue": "Dunmanway Community Sports Hall",
       "clubSecretary": "Vanessa Costa",
       "clubSecretaryUrl": "mailto:westcorkvolleyballclub@gmail.com",
-      "contactEmail": "No",
-      "nationalLeagueTeams": "Women",
-      "div3Teams": "G U18, G U16",
-      "youthTeams": "Associate",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "No",
+      "div3Teams": "Women",
+      "youthTeams": "G U18, G U16",
+      "typeOfAffiliation": "Associate"
     },
     {
       "clubName": "Wexford Volleyball Club",
@@ -659,11 +609,10 @@
       "homeVenue": "Rosslare Community & Sports Centre",
       "clubSecretary": "Agnes Vala",
       "clubSecretaryUrl": "mailto:wexfordvolleyballclub@gmail.com",
-      "contactEmail": "No",
       "nationalLeagueTeams": "No",
       "div3Teams": "No",
-      "youthTeams": "Associate",
-      "typeOfAffiliation": ""
+      "youthTeams": "No",
+      "typeOfAffiliation": "Associate"
     },
     {
       "clubName": "Youghal Volleyball Club",
@@ -672,11 +621,10 @@
       "homeVenue": "Youghal GAA",
       "clubSecretary": "Sebastian Zagorski",
       "clubSecretaryUrl": "mailto:youghalvolleyball@gmail.com",
-      "contactEmail": "No",
-      "nationalLeagueTeams": "Men",
-      "div3Teams": "No",
-      "youthTeams": "Associate",
-      "typeOfAffiliation": ""
+      "nationalLeagueTeams": "No",
+      "div3Teams": "Men",
+      "youthTeams": "No",
+      "typeOfAffiliation": "Associate"
     }
   ]
 }
