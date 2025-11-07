@@ -122,7 +122,7 @@
       "sub_league": "League - D1W",
       "date": "09/11/2025",
       "time": "13:00",
-      "venue": "Artane Beaumont Family Recreation Centre",
+      "venue": "Our Lady of Mercy College, Beaumont",
       "home_team": "Santry Sparks",
       "away_team": "Ireland Women's U18"
     },
@@ -728,7 +728,7 @@
         "sub_league": "League - D1W",
         "date": "09/11/2025",
         "time": "13:00",
-        "venue": "Artane Beaumont Family Recreation Centre",
+        "venue": "Our Lady of Mercy College, Beaumont",
         "home_team": "Santry Sparks",
         "away_team": "Ireland Women's U18"
       },
@@ -2096,7 +2096,7 @@
         "sub_league": "League - D1W",
         "date": "09/11/2025",
         "time": "13:00",
-        "venue": "Artane Beaumont Family Recreation Centre",
+        "venue": "Our Lady of Mercy College, Beaumont",
         "home_team": "Santry Sparks",
         "away_team": "Ireland Women's U18",
         "is_home": true
@@ -2430,7 +2430,7 @@
         "sub_league": "League - D1W",
         "date": "09/11/2025",
         "time": "13:00",
-        "venue": "Artane Beaumont Family Recreation Centre",
+        "venue": "Our Lady of Mercy College, Beaumont",
         "home_team": "Santry Sparks",
         "away_team": "Ireland Women's U18",
         "is_home": false
@@ -2477,7 +2477,7 @@
       "League - D1W"
     ]
   },
-  "lastUpdated": "2025-10-31T00:00:13.632Z",
+  "lastUpdated": "2025-11-07T00:00:13.744Z",
   "dataVersion": "1.0",
   "source": "VIR Competition Matches"
 }
