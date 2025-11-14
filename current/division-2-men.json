@@ -1,8 +1,8 @@
 {
   "league": "Men's Division 2",
-  "totalTeams": 23,
+  "totalTeams": 15,
   "subLeagueCount": 3,
-  "extractedAt": "2025-10-17T14:54:03.390Z",
+  "extractedAt": "2025-11-14T00:00:50.116Z",
   "subLeagues": [
     {
       "name": "League - D2M Group A",
@@ -10,8 +10,8 @@
       "teams": [
         {
           "position": 1,
-          "teamId": "360",
-          "teamName": "Cork Volleyball Acad D2M",
+          "teamId": "425",
+          "teamName": "Naas Pythons D2M",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -66,8 +66,8 @@
         },
         {
           "position": 3,
-          "teamId": "323",
-          "teamName": "Impact Macroom D2M",
+          "teamId": "360",
+          "teamName": "Cork Volleyball Acad D2M",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -94,62 +94,6 @@
         },
         {
           "position": 4,
-          "teamId": "426",
-          "teamName": "Tallaght Rockets D2M",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 5,
-          "teamId": "425",
-          "teamName": "Naas Pythons D2M",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 6,
           "teamId": "322",
           "teamName": "UCD D2M",
           "logoUrl": "",
@@ -177,35 +121,7 @@
           }
         },
         {
-          "position": 7,
-          "teamId": "365",
-          "teamName": "Intl Volleyball Ireland D2M",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 8,
+          "position": 5,
           "teamId": "363",
           "teamName": "Gardians Dullahan",
           "logoUrl": "",
@@ -240,8 +156,8 @@
       "teams": [
         {
           "position": 1,
-          "teamId": "357",
-          "teamName": "BMP Titans",
+          "teamId": "364",
+          "teamName": "SETU Carlow D2M",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -296,8 +212,8 @@
         },
         {
           "position": 3,
-          "teamId": "344",
-          "teamName": "Jackals D2M",
+          "teamId": "424",
+          "teamName": "Kildare Panthers",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -324,8 +240,8 @@
         },
         {
           "position": 4,
-          "teamId": "419",
-          "teamName": "Balbriggan Tigers",
+          "teamId": "421",
+          "teamName": "Celestials D2M",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -377,90 +293,6 @@
             "pointRatio": 0,
             "penalty": "-"
           }
-        },
-        {
-          "position": 6,
-          "teamId": "364",
-          "teamName": "SETU Carlow D2M",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 7,
-          "teamId": "421",
-          "teamName": "Celestials D2M",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 8,
-          "teamId": "424",
-          "teamName": "Kildare Panthers",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
         }
       ]
     },
@@ -470,146 +302,6 @@
       "teams": [
         {
           "position": 1,
-          "teamId": "356",
-          "teamName": "BMP Hunters",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 2,
-          "teamId": "359",
-          "teamName": "Kilkenny Spartans D2M",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 3,
-          "teamId": "384",
-          "teamName": "Crumlin Ravens",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 4,
-          "teamId": "362",
-          "teamName": "Gardians Panda D2M",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 5,
-          "teamId": "361",
-          "teamName": "Galway D2M",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 6,
           "teamId": "420",
           "teamName": "Balbriggan T-Rex",
           "logoUrl": "",
@@ -637,7 +329,91 @@
           }
         },
         {
-          "position": 7,
+          "position": 2,
+          "teamId": "384",
+          "teamName": "Crumlin Ravens",
+          "logoUrl": "",
+          "points": 0,
+          "detailedStats": {
+            "rankingPoints": 0,
+            "matchesPlayed": 0,
+            "matchesWon": 0,
+            "matchesLost": 0,
+            "setsWon": 0,
+            "setsLost": 0,
+            "pointsWon": 0,
+            "pointsLost": 0,
+            "results": {
+              "wins3_0": 0,
+              "wins3_1": 0,
+              "wins3_2": 0,
+              "losses2_3": 0,
+              "losses1_3": 0,
+              "losses0_3": 0
+            },
+            "setRatio": 0,
+            "pointRatio": 0,
+            "penalty": "-"
+          }
+        },
+        {
+          "position": 3,
+          "teamId": "362",
+          "teamName": "Gardians Panda D2M",
+          "logoUrl": "",
+          "points": 0,
+          "detailedStats": {
+            "rankingPoints": 0,
+            "matchesPlayed": 0,
+            "matchesWon": 0,
+            "matchesLost": 0,
+            "setsWon": 0,
+            "setsLost": 0,
+            "pointsWon": 0,
+            "pointsLost": 0,
+            "results": {
+              "wins3_0": 0,
+              "wins3_1": 0,
+              "wins3_2": 0,
+              "losses2_3": 0,
+              "losses1_3": 0,
+              "losses0_3": 0
+            },
+            "setRatio": 0,
+            "pointRatio": 0,
+            "penalty": "-"
+          }
+        },
+        {
+          "position": 4,
+          "teamId": "361",
+          "teamName": "Galway D2M",
+          "logoUrl": "",
+          "points": 0,
+          "detailedStats": {
+            "rankingPoints": 0,
+            "matchesPlayed": 0,
+            "matchesWon": 0,
+            "matchesLost": 0,
+            "setsWon": 0,
+            "setsLost": 0,
+            "pointsWon": 0,
+            "pointsLost": 0,
+            "results": {
+              "wins3_0": 0,
+              "wins3_1": 0,
+              "wins3_2": 0,
+              "losses2_3": 0,
+              "losses1_3": 0,
+              "losses0_3": 0
+            },
+            "setRatio": 0,
+            "pointRatio": 0,
+            "penalty": "-"
+          }
+        },
+        {
+          "position": 5,
           "teamId": "423",
           "teamName": "Kildare Jaguars",
           "logoUrl": "",
@@ -670,8 +446,8 @@
   "teams": [
     {
       "position": 1,
-      "teamId": "360",
-      "teamName": "Cork Volleyball Acad D2M",
+      "teamId": "425",
+      "teamName": "Naas Pythons D2M",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -730,8 +506,8 @@
     },
     {
       "position": 3,
-      "teamId": "323",
-      "teamName": "Impact Macroom D2M",
+      "teamId": "360",
+      "teamName": "Cork Volleyball Acad D2M",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -760,66 +536,6 @@
     },
     {
       "position": 4,
-      "teamId": "426",
-      "teamName": "Tallaght Rockets D2M",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D2M Group A",
-      "championshipId": "95"
-    },
-    {
-      "position": 5,
-      "teamId": "425",
-      "teamName": "Naas Pythons D2M",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D2M Group A",
-      "championshipId": "95"
-    },
-    {
-      "position": 6,
       "teamId": "322",
       "teamName": "UCD D2M",
       "logoUrl": "",
@@ -849,37 +565,7 @@
       "championshipId": "95"
     },
     {
-      "position": 7,
-      "teamId": "365",
-      "teamName": "Intl Volleyball Ireland D2M",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D2M Group A",
-      "championshipId": "95"
-    },
-    {
-      "position": 8,
+      "position": 5,
       "teamId": "363",
       "teamName": "Gardians Dullahan",
       "logoUrl": "",
@@ -910,8 +596,8 @@
     },
     {
       "position": 1,
-      "teamId": "357",
-      "teamName": "BMP Titans",
+      "teamId": "364",
+      "teamName": "SETU Carlow D2M",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -970,8 +656,8 @@
     },
     {
       "position": 3,
-      "teamId": "344",
-      "teamName": "Jackals D2M",
+      "teamId": "424",
+      "teamName": "Kildare Panthers",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -1000,8 +686,8 @@
     },
     {
       "position": 4,
-      "teamId": "419",
-      "teamName": "Balbriggan Tigers",
+      "teamId": "421",
+      "teamName": "Celestials D2M",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -1059,247 +745,7 @@
       "championshipId": "103"
     },
     {
-      "position": 6,
-      "teamId": "364",
-      "teamName": "SETU Carlow D2M",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D2M Group B",
-      "championshipId": "103"
-    },
-    {
-      "position": 7,
-      "teamId": "421",
-      "teamName": "Celestials D2M",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D2M Group B",
-      "championshipId": "103"
-    },
-    {
-      "position": 8,
-      "teamId": "424",
-      "teamName": "Kildare Panthers",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D2M Group B",
-      "championshipId": "103"
-    },
-    {
       "position": 1,
-      "teamId": "356",
-      "teamName": "BMP Hunters",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D2M Group C",
-      "championshipId": "104"
-    },
-    {
-      "position": 2,
-      "teamId": "359",
-      "teamName": "Kilkenny Spartans D2M",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D2M Group C",
-      "championshipId": "104"
-    },
-    {
-      "position": 3,
-      "teamId": "384",
-      "teamName": "Crumlin Ravens",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D2M Group C",
-      "championshipId": "104"
-    },
-    {
-      "position": 4,
-      "teamId": "362",
-      "teamName": "Gardians Panda D2M",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D2M Group C",
-      "championshipId": "104"
-    },
-    {
-      "position": 5,
-      "teamId": "361",
-      "teamName": "Galway D2M",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D2M Group C",
-      "championshipId": "104"
-    },
-    {
-      "position": 6,
       "teamId": "420",
       "teamName": "Balbriggan T-Rex",
       "logoUrl": "",
@@ -1329,7 +775,97 @@
       "championshipId": "104"
     },
     {
-      "position": 7,
+      "position": 2,
+      "teamId": "384",
+      "teamName": "Crumlin Ravens",
+      "logoUrl": "",
+      "points": 0,
+      "detailedStats": {
+        "rankingPoints": 0,
+        "matchesPlayed": 0,
+        "matchesWon": 0,
+        "matchesLost": 0,
+        "setsWon": 0,
+        "setsLost": 0,
+        "pointsWon": 0,
+        "pointsLost": 0,
+        "results": {
+          "wins3_0": 0,
+          "wins3_1": 0,
+          "wins3_2": 0,
+          "losses2_3": 0,
+          "losses1_3": 0,
+          "losses0_3": 0
+        },
+        "setRatio": 0,
+        "pointRatio": 0,
+        "penalty": "-"
+      },
+      "subLeague": "League - D2M Group C",
+      "championshipId": "104"
+    },
+    {
+      "position": 3,
+      "teamId": "362",
+      "teamName": "Gardians Panda D2M",
+      "logoUrl": "",
+      "points": 0,
+      "detailedStats": {
+        "rankingPoints": 0,
+        "matchesPlayed": 0,
+        "matchesWon": 0,
+        "matchesLost": 0,
+        "setsWon": 0,
+        "setsLost": 0,
+        "pointsWon": 0,
+        "pointsLost": 0,
+        "results": {
+          "wins3_0": 0,
+          "wins3_1": 0,
+          "wins3_2": 0,
+          "losses2_3": 0,
+          "losses1_3": 0,
+          "losses0_3": 0
+        },
+        "setRatio": 0,
+        "pointRatio": 0,
+        "penalty": "-"
+      },
+      "subLeague": "League - D2M Group C",
+      "championshipId": "104"
+    },
+    {
+      "position": 4,
+      "teamId": "361",
+      "teamName": "Galway D2M",
+      "logoUrl": "",
+      "points": 0,
+      "detailedStats": {
+        "rankingPoints": 0,
+        "matchesPlayed": 0,
+        "matchesWon": 0,
+        "matchesLost": 0,
+        "setsWon": 0,
+        "setsLost": 0,
+        "pointsWon": 0,
+        "pointsLost": 0,
+        "results": {
+          "wins3_0": 0,
+          "wins3_1": 0,
+          "wins3_2": 0,
+          "losses2_3": 0,
+          "losses1_3": 0,
+          "losses0_3": 0
+        },
+        "setRatio": 0,
+        "pointRatio": 0,
+        "penalty": "-"
+      },
+      "subLeague": "League - D2M Group C",
+      "championshipId": "104"
+    },
+    {
+      "position": 5,
       "teamId": "423",
       "teamName": "Kildare Jaguars",
       "logoUrl": "",
@@ -1359,7 +895,7 @@
       "championshipId": "104"
     }
   ],
-  "lastUpdated": "2025-10-17T14:54:07.434Z",
+  "lastUpdated": "2025-11-14T00:00:50.265Z",
   "dataVersion": "2.0",
   "source": "VIR Volleyball Standings",
   "schemaInfo": {
