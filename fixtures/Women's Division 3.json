@@ -273,6 +273,33 @@
     {
       "matchday": "Matchday 7",
       "sub_league": "League - D3W Group D",
+      "date": "06/12/2025",
+      "time": "12:30",
+      "venue": "St Kilian's German Sch/Eurocampus",
+      "home_team": "IADT Turtles D3W",
+      "away_team": "Dalkey Devils D3W"
+    },
+    {
+      "matchday": "Matchday 7",
+      "sub_league": "League - D3W Group D",
+      "date": "31/01/2026",
+      "time": "13:00",
+      "venue": "St Kilian's German Sch/Eurocampus",
+      "home_team": "IADT Turtles D3W",
+      "away_team": "RCSI D3W"
+    },
+    {
+      "matchday": "Matchday 7",
+      "sub_league": "League - D3W Group D",
+      "date": "28/02/2026",
+      "time": "12:30",
+      "venue": "St Kilian's German Sch/Eurocampus",
+      "home_team": "IADT Turtles D3W",
+      "away_team": "Naas Cobras D3W"
+    },
+    {
+      "matchday": "Matchday 7",
+      "sub_league": "League - D3W Group D",
       "date": "26/10/2025",
       "time": "14:45",
       "venue": "Ennistymon Community Centre",
@@ -289,7 +316,7 @@
       "away_team": "Munster Thunder D3W"
     },
     {
-      "matchday": "Matchday 7",
+      "matchday": "Matchday 8",
       "sub_league": "League - D3W Group D",
       "date": "23/11/2025",
       "time": "11:30",
@@ -298,7 +325,7 @@
       "away_team": "Burren D3W"
     },
     {
-      "matchday": "Matchday 7",
+      "matchday": "Matchday 8",
       "sub_league": "League - D3W Group D",
       "date": "18/01/2026",
       "time": "14:45",
@@ -307,7 +334,7 @@
       "away_team": "Munster Thunder D3W"
     },
     {
-      "matchday": "Matchday 7",
+      "matchday": "Matchday 8",
       "sub_league": "League - D3W Group D",
       "date": "22/02/2026",
       "time": "13:30",
@@ -334,7 +361,7 @@
       "away_team": "Clonmel D3W"
     },
     {
-      "matchday": "Matchday 8",
+      "matchday": "Matchday 9",
       "sub_league": "League - D3W Group D",
       "date": "08/03/2026",
       "time": "13:30",
@@ -640,7 +667,16 @@
         "away_team": "Munster Thunder D3W"
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 7",
+        "sub_league": "League - D3W Group D",
+        "date": "06/12/2025",
+        "time": "12:30",
+        "venue": "St Kilian's German Sch/Eurocampus",
+        "home_team": "IADT Turtles D3W",
+        "away_team": "Dalkey Devils D3W"
+      },
+      {
+        "matchday": "Matchday 9",
         "sub_league": "League - D3W Group D",
         "date": "08/03/2026",
         "time": "13:30",
@@ -649,7 +685,7 @@
         "away_team": "Burren D3W"
       },
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D3W Group D",
         "date": "18/01/2026",
         "time": "14:45",
@@ -658,7 +694,7 @@
         "away_team": "Munster Thunder D3W"
       },
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D3W Group D",
         "date": "22/02/2026",
         "time": "13:30",
@@ -676,7 +712,7 @@
         "away_team": "Munster Thunder D3W"
       },
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D3W Group D",
         "date": "23/11/2025",
         "time": "11:30",
@@ -692,6 +728,24 @@
         "venue": "Ennistymon Community Centre",
         "home_team": "Burren D3W",
         "away_team": "Midlands D3W"
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D3W Group D",
+        "date": "28/02/2026",
+        "time": "12:30",
+        "venue": "St Kilian's German Sch/Eurocampus",
+        "home_team": "IADT Turtles D3W",
+        "away_team": "Naas Cobras D3W"
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D3W Group D",
+        "date": "31/01/2026",
+        "time": "13:00",
+        "venue": "St Kilian's German Sch/Eurocampus",
+        "home_team": "IADT Turtles D3W",
+        "away_team": "RCSI D3W"
       }
     ]
   },
@@ -1294,6 +1348,16 @@
         "home_team": "RCSI D3W",
         "away_team": "IADT Turtles D3W",
         "is_home": true
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D3W Group D",
+        "date": "31/01/2026",
+        "time": "13:00",
+        "venue": "St Kilian's German Sch/Eurocampus",
+        "home_team": "IADT Turtles D3W",
+        "away_team": "RCSI D3W",
+        "is_home": false
       }
     ],
     "Naas Cobras D3W": [
@@ -1306,9 +1370,29 @@
         "home_team": "RCSI D3W",
         "away_team": "Naas Cobras D3W",
         "is_home": false
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D3W Group D",
+        "date": "28/02/2026",
+        "time": "12:30",
+        "venue": "St Kilian's German Sch/Eurocampus",
+        "home_team": "IADT Turtles D3W",
+        "away_team": "Naas Cobras D3W",
+        "is_home": false
       }
     ],
     "IADT Turtles D3W": [
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D3W Group D",
+        "date": "06/12/2025",
+        "time": "12:30",
+        "venue": "St Kilian's German Sch/Eurocampus",
+        "home_team": "IADT Turtles D3W",
+        "away_team": "Dalkey Devils D3W",
+        "is_home": true
+      },
       {
         "matchday": "Matchday 6",
         "sub_league": "League - D3W Group C",
@@ -1317,6 +1401,38 @@
         "venue": "RCSI Sports Hall",
         "home_team": "RCSI D3W",
         "away_team": "IADT Turtles D3W",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D3W Group D",
+        "date": "28/02/2026",
+        "time": "12:30",
+        "venue": "St Kilian's German Sch/Eurocampus",
+        "home_team": "IADT Turtles D3W",
+        "away_team": "Naas Cobras D3W",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D3W Group D",
+        "date": "31/01/2026",
+        "time": "13:00",
+        "venue": "St Kilian's German Sch/Eurocampus",
+        "home_team": "IADT Turtles D3W",
+        "away_team": "RCSI D3W",
+        "is_home": true
+      }
+    ],
+    "Dalkey Devils D3W": [
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D3W Group D",
+        "date": "06/12/2025",
+        "time": "12:30",
+        "venue": "St Kilian's German Sch/Eurocampus",
+        "home_team": "IADT Turtles D3W",
+        "away_team": "Dalkey Devils D3W",
         "is_home": false
       }
     ],
@@ -1332,7 +1448,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D3W Group D",
         "date": "08/03/2026",
         "time": "13:30",
@@ -1342,7 +1458,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D3W Group D",
         "date": "18/01/2026",
         "time": "14:45",
@@ -1362,7 +1478,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D3W Group D",
         "date": "23/11/2025",
         "time": "11:30",
@@ -1394,7 +1510,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D3W Group D",
         "date": "08/03/2026",
         "time": "13:30",
@@ -1404,7 +1520,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D3W Group D",
         "date": "22/02/2026",
         "time": "13:30",
@@ -1414,7 +1530,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D3W Group D",
         "date": "23/11/2025",
         "time": "11:30",
@@ -1446,7 +1562,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D3W Group D",
         "date": "18/01/2026",
         "time": "14:45",
@@ -1478,7 +1594,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D3W Group D",
         "date": "22/02/2026",
         "time": "13:30",
@@ -1490,7 +1606,7 @@
     ]
   },
   "metadata": {
-    "total_fixtures": 38,
+    "total_fixtures": 41,
     "source": "VIR Competition Matches",
     "sub_league_count": 4,
     "competition_name": "Women's Division 3",
@@ -1500,6 +1616,7 @@
       "Cavan Cats D3W",
       "Clonmel D3W",
       "Cork Volleyball Acad D3W",
+      "Dalkey Devils D3W",
       "IADT Turtles D3W",
       "Midlands D3W",
       "Munster Thunder D3W",
@@ -1519,7 +1636,7 @@
       "League - D3W Group D"
     ]
   },
-  "lastUpdated": "2025-11-07T00:00:23.478Z",
+  "lastUpdated": "2025-11-14T00:01:03.971Z",
   "dataVersion": "1.0",
   "source": "VIR Competition Matches"
 }
