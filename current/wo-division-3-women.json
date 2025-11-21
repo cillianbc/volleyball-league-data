@@ -1,8 +1,8 @@
 {
   "league": "Women's Division 3",
-  "totalTeams": 17,
+  "totalTeams": 9,
   "subLeagueCount": 4,
-  "extractedAt": "2025-10-31T00:00:06.639Z",
+  "extractedAt": "2025-11-21T00:00:05.988Z",
   "subLeagues": [
     {
       "name": "League - D3W Group A",
@@ -38,62 +38,6 @@
         },
         {
           "position": 2,
-          "teamId": "393",
-          "teamName": "Octopus D3W",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 3,
-          "teamId": "340",
-          "teamName": "Phoenix Killarney D3W",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 4,
           "teamId": "329",
           "teamName": "Volleywoodstars D3W",
           "logoUrl": "",
@@ -121,7 +65,7 @@
           }
         },
         {
-          "position": 5,
+          "position": 3,
           "teamId": "327",
           "teamName": "West Cork D3W",
           "logoUrl": "",
@@ -156,62 +100,6 @@
       "teams": [
         {
           "position": 1,
-          "teamId": "367",
-          "teamName": "Aer Lingus Hawks",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 2,
-          "teamId": "369",
-          "teamName": "Santry D3W",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 3,
           "teamId": "326",
           "teamName": "Cavan Cats D3W",
           "logoUrl": "",
@@ -239,7 +127,7 @@
           }
         },
         {
-          "position": 4,
+          "position": 2,
           "teamId": "370",
           "teamName": "Santry Phoenix D3W",
           "logoUrl": "",
@@ -302,64 +190,8 @@
         },
         {
           "position": 2,
-          "teamId": "328",
-          "teamName": "IADT Turtles D3W",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 3,
           "teamId": "412",
           "teamName": "Naas Cobras D3W",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 4,
-          "teamId": "413",
-          "teamName": "RCSI D3W",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -420,62 +252,6 @@
         },
         {
           "position": 2,
-          "teamId": "341",
-          "teamName": "Munster Thunder D3W",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 3,
-          "teamId": "388",
-          "teamName": "Clonmel D3W",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 4,
           "teamId": "394",
           "teamName": "Burren D3W",
           "logoUrl": "",
@@ -538,66 +314,6 @@
     },
     {
       "position": 2,
-      "teamId": "393",
-      "teamName": "Octopus D3W",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D3W Group A",
-      "championshipId": "88"
-    },
-    {
-      "position": 3,
-      "teamId": "340",
-      "teamName": "Phoenix Killarney D3W",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D3W Group A",
-      "championshipId": "88"
-    },
-    {
-      "position": 4,
       "teamId": "329",
       "teamName": "Volleywoodstars D3W",
       "logoUrl": "",
@@ -627,7 +343,7 @@
       "championshipId": "88"
     },
     {
-      "position": 5,
+      "position": 3,
       "teamId": "327",
       "teamName": "West Cork D3W",
       "logoUrl": "",
@@ -658,66 +374,6 @@
     },
     {
       "position": 1,
-      "teamId": "367",
-      "teamName": "Aer Lingus Hawks",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D3W Group B",
-      "championshipId": "101"
-    },
-    {
-      "position": 2,
-      "teamId": "369",
-      "teamName": "Santry D3W",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D3W Group B",
-      "championshipId": "101"
-    },
-    {
-      "position": 3,
       "teamId": "326",
       "teamName": "Cavan Cats D3W",
       "logoUrl": "",
@@ -747,7 +403,7 @@
       "championshipId": "101"
     },
     {
-      "position": 4,
+      "position": 2,
       "teamId": "370",
       "teamName": "Santry Phoenix D3W",
       "logoUrl": "",
@@ -808,68 +464,8 @@
     },
     {
       "position": 2,
-      "teamId": "328",
-      "teamName": "IADT Turtles D3W",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D3W Group C",
-      "championshipId": "102"
-    },
-    {
-      "position": 3,
       "teamId": "412",
       "teamName": "Naas Cobras D3W",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D3W Group C",
-      "championshipId": "102"
-    },
-    {
-      "position": 4,
-      "teamId": "413",
-      "teamName": "RCSI D3W",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -928,66 +524,6 @@
     },
     {
       "position": 2,
-      "teamId": "341",
-      "teamName": "Munster Thunder D3W",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D3W Group D",
-      "championshipId": "109"
-    },
-    {
-      "position": 3,
-      "teamId": "388",
-      "teamName": "Clonmel D3W",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D3W Group D",
-      "championshipId": "109"
-    },
-    {
-      "position": 4,
       "teamId": "394",
       "teamName": "Burren D3W",
       "logoUrl": "",
@@ -1017,7 +553,7 @@
       "championshipId": "109"
     }
   ],
-  "lastUpdated": "2025-10-31T00:00:06.953Z",
+  "lastUpdated": "2025-11-21T00:00:06.216Z",
   "dataVersion": "2.0",
   "source": "VIR Volleyball Standings",
   "schemaInfo": {
