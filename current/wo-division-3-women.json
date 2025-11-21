@@ -2,7 +2,7 @@
   "league": "Women's Division 3",
   "totalTeams": 9,
   "subLeagueCount": 4,
-  "extractedAt": "2025-11-21T20:23:30.912Z",
+  "extractedAt": "2025-11-21T20:24:13.483Z",
   "subLeagues": [
     {
       "name": "League - D3W Group A",
@@ -553,7 +553,7 @@
       "championshipId": "109"
     }
   ],
-  "lastUpdated": "2025-11-21T20:23:31.237Z",
+  "lastUpdated": "2025-11-21T20:24:13.807Z",
   "dataVersion": "2.0",
   "source": "VIR Volleyball Standings",
   "schemaInfo": {
