@@ -92,7 +92,7 @@
     },
     {
       "matchday": "Matchday 3",
-      "sub_league": "League - D3W Group B",
+      "sub_league": "League - D3W Group A",
       "date": "15/02/2026",
       "time": "14:30",
       "venue": "Dunmanway Comm Sports Hall",
@@ -159,30 +159,12 @@
       "date": "22/11/2025",
       "time": "18:00",
       "venue": "Artane Beaumont Family Recreation Centre",
-      "home_team": "Santry Aces D3W",
-      "away_team": "Cavan Cats D3W"
-    },
-    {
-      "matchday": "Matchday 4",
-      "sub_league": "League - D3W Group B",
-      "date": "22/11/2025",
-      "time": "20:30",
-      "venue": "Artane Beaumont Family Recreation Centre",
       "home_team": "Santry Phoenix D3W",
       "away_team": "Aer Lingus Hawks"
     },
     {
       "matchday": "Matchday 4",
       "sub_league": "League - D3W Group B",
-      "date": "30/11/2025",
-      "time": "16:00",
-      "venue": "Artane Beaumont Family Recreation Centre",
-      "home_team": "Santry Phoenix D3W",
-      "away_team": "Cavan Cats D3W"
-    },
-    {
-      "matchday": "Matchday 5",
-      "sub_league": "League - D3W Group C",
       "date": "14/12/2025",
       "time": "11:00",
       "venue": "ALSAA",
@@ -190,8 +172,8 @@
       "away_team": "Cavan Cats D3W"
     },
     {
-      "matchday": "Matchday 5",
-      "sub_league": "League - D3W Group C",
+      "matchday": "Matchday 4",
+      "sub_league": "League - D3W Group B",
       "date": "14/12/2025",
       "time": "19:00",
       "venue": "Our Lady of Mercy College, Beaumont",
@@ -200,7 +182,7 @@
     },
     {
       "matchday": "Matchday 5",
-      "sub_league": "League - D3W Group C",
+      "sub_league": "League - D3W Group B",
       "date": "11/01/2026",
       "time": "10:00",
       "venue": "ALSAA",
@@ -209,10 +191,19 @@
     },
     {
       "matchday": "Matchday 5",
+      "sub_league": "League - D3W Group B",
+      "date": "17/01/2026",
+      "time": "14:30",
+      "venue": "St Mary's Community Centre",
+      "home_team": "Cavan Cats D3W",
+      "away_team": "Santry Phoenix D3W"
+    },
+    {
+      "matchday": "Matchday 5",
       "sub_league": "League - D3W Group C",
       "date": "20/01/2026",
       "time": "19:00",
-      "venue": "Artane Beaumont Family Recreation Centre",
+      "venue": "Mercy College (Coolock)",
       "home_team": "Santry Aces D3W",
       "away_team": "Santry Phoenix D3W"
     },
@@ -226,7 +217,7 @@
       "away_team": "Aer Lingus Hawks"
     },
     {
-      "matchday": "Matchday 6",
+      "matchday": "Matchday 5",
       "sub_league": "League - D3W Group C",
       "date": "01/02/2026",
       "time": "16:30",
@@ -239,7 +230,7 @@
       "sub_league": "League - D3W Group C",
       "date": "15/02/2026",
       "time": "16:30",
-      "venue": "Mercy College (Coolock)",
+      "venue": "Artane Beaumont Family Recreation Centre",
       "home_team": "Santry Aces D3W",
       "away_team": "Cavan Cats D3W"
     },
@@ -271,8 +262,8 @@
       "away_team": "IADT Turtles D3W"
     },
     {
-      "matchday": "Matchday 7",
-      "sub_league": "League - D3W Group D",
+      "matchday": "Matchday 6",
+      "sub_league": "League - D3W Group C",
       "date": "06/12/2025",
       "time": "12:30",
       "venue": "St Kilian's German Sch/Eurocampus",
@@ -281,7 +272,7 @@
     },
     {
       "matchday": "Matchday 7",
-      "sub_league": "League - D3W Group D",
+      "sub_league": "League - D3W Group C",
       "date": "31/01/2026",
       "time": "13:00",
       "venue": "St Kilian's German Sch/Eurocampus",
@@ -290,7 +281,7 @@
     },
     {
       "matchday": "Matchday 7",
-      "sub_league": "League - D3W Group D",
+      "sub_league": "League - D3W Group C",
       "date": "28/02/2026",
       "time": "12:30",
       "venue": "St Kilian's German Sch/Eurocampus",
@@ -299,7 +290,7 @@
     },
     {
       "matchday": "Matchday 7",
-      "sub_league": "League - D3W Group D",
+      "sub_league": "League - D3W Group C",
       "date": "26/10/2025",
       "time": "14:45",
       "venue": "Ennistymon Community Centre",
@@ -316,6 +307,15 @@
       "away_team": "Munster Thunder D3W"
     },
     {
+      "matchday": "Matchday 7",
+      "sub_league": "League - D3W Group D",
+      "date": "15/11/2025",
+      "time": "11:30",
+      "venue": "Moyle Rovers GAA",
+      "home_team": "Clonmel D3W",
+      "away_team": "Munster Thunder D3W"
+    },
+    {
       "matchday": "Matchday 8",
       "sub_league": "League - D3W Group D",
       "date": "23/11/2025",
@@ -327,6 +327,33 @@
     {
       "matchday": "Matchday 8",
       "sub_league": "League - D3W Group D",
+      "date": "29/11/2025",
+      "time": "11:30",
+      "venue": "Moyle Rovers GAA",
+      "home_team": "Clonmel D3W",
+      "away_team": "Midlands D3W"
+    },
+    {
+      "matchday": "Matchday 8",
+      "sub_league": "League - D3W Group D",
+      "date": "13/12/2025",
+      "time": "11:30",
+      "venue": "Moyle Rovers GAA",
+      "home_team": "Clonmel D3W",
+      "away_team": "Burren D3W"
+    },
+    {
+      "matchday": "Matchday 8",
+      "sub_league": "League - D3W Group D",
+      "date": "10/01/2026",
+      "time": "11:30",
+      "venue": "Moyle Rovers GAA",
+      "home_team": "Clonmel D3W",
+      "away_team": "Midlands D3W"
+    },
+    {
+      "matchday": "Matchday 8",
+      "sub_league": "League - D3W Group D",
       "date": "18/01/2026",
       "time": "14:45",
       "venue": "Ennistymon Community Centre",
@@ -334,7 +361,7 @@
       "away_team": "Munster Thunder D3W"
     },
     {
-      "matchday": "Matchday 8",
+      "matchday": "Matchday 9",
       "sub_league": "League - D3W Group D",
       "date": "22/02/2026",
       "time": "13:30",
@@ -343,7 +370,7 @@
       "away_team": "Clonmel D3W"
     },
     {
-      "matchday": "Matchday 8",
+      "matchday": "Matchday 9",
       "sub_league": "League - D3W Group D",
       "date": "22/02/2026",
       "time": "14:45",
@@ -352,7 +379,7 @@
       "away_team": "Munster Thunder D3W"
     },
     {
-      "matchday": "Matchday 8",
+      "matchday": "Matchday 9",
       "sub_league": "League - D3W Group D",
       "date": "01/03/2026",
       "time": "14:45",
@@ -436,6 +463,15 @@
         "away_team": "Phoenix Killarney D3W"
       },
       {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D3W Group A",
+        "date": "15/02/2026",
+        "time": "14:30",
+        "venue": "Dunmanway Comm Sports Hall",
+        "home_team": "West Cork D3W",
+        "away_team": "Volleywoodstars D3W"
+      },
+      {
         "matchday": "Matchday 1",
         "sub_league": "League - D3W Group A",
         "date": "15/12/2025",
@@ -501,13 +537,40 @@
         "away_team": "West Cork D3W"
       },
       {
-        "matchday": "Matchday 3",
+        "matchday": "Matchday 5",
         "sub_league": "League - D3W Group B",
-        "date": "15/02/2026",
+        "date": "11/01/2026",
+        "time": "10:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Hawks",
+        "away_team": "Santry Aces D3W"
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - D3W Group B",
+        "date": "14/12/2025",
+        "time": "11:00",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Hawks",
+        "away_team": "Cavan Cats D3W"
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - D3W Group B",
+        "date": "14/12/2025",
+        "time": "19:00",
+        "venue": "Our Lady of Mercy College, Beaumont",
+        "home_team": "Santry Phoenix D3W",
+        "away_team": "Santry Aces D3W"
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - D3W Group B",
+        "date": "17/01/2026",
         "time": "14:30",
-        "venue": "Dunmanway Comm Sports Hall",
-        "home_team": "West Cork D3W",
-        "away_team": "Volleywoodstars D3W"
+        "venue": "St Mary's Community Centre",
+        "home_team": "Cavan Cats D3W",
+        "away_team": "Santry Phoenix D3W"
       },
       {
         "matchday": "Matchday 3",
@@ -524,15 +587,6 @@
         "date": "22/11/2025",
         "time": "18:00",
         "venue": "Artane Beaumont Family Recreation Centre",
-        "home_team": "Santry Aces D3W",
-        "away_team": "Cavan Cats D3W"
-      },
-      {
-        "matchday": "Matchday 4",
-        "sub_league": "League - D3W Group B",
-        "date": "22/11/2025",
-        "time": "20:30",
-        "venue": "Artane Beaumont Family Recreation Centre",
         "home_team": "Santry Phoenix D3W",
         "away_team": "Aer Lingus Hawks"
       },
@@ -544,26 +598,26 @@
         "venue": "ALSAA",
         "home_team": "Aer Lingus Hawks",
         "away_team": "Santry Phoenix D3W"
-      },
-      {
-        "matchday": "Matchday 4",
-        "sub_league": "League - D3W Group B",
-        "date": "30/11/2025",
-        "time": "16:00",
-        "venue": "Artane Beaumont Family Recreation Centre",
-        "home_team": "Santry Phoenix D3W",
-        "away_team": "Cavan Cats D3W"
       }
     ],
     "League - D3W Group C": [
       {
-        "matchday": "Matchday 6",
+        "matchday": "Matchday 5",
         "sub_league": "League - D3W Group C",
         "date": "01/02/2026",
         "time": "16:30",
         "venue": "Artane Beaumont Family Recreation Centre",
         "home_team": "Santry Phoenix D3W",
         "away_team": "Santry Aces D3W"
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - D3W Group C",
+        "date": "06/12/2025",
+        "time": "12:30",
+        "venue": "St Kilian's German Sch/Eurocampus",
+        "home_team": "IADT Turtles D3W",
+        "away_team": "Dalkey Devils D3W"
       },
       {
         "matchday": "Matchday 6",
@@ -575,38 +629,11 @@
         "away_team": "Aer Lingus Hawks"
       },
       {
-        "matchday": "Matchday 5",
-        "sub_league": "League - D3W Group C",
-        "date": "11/01/2026",
-        "time": "10:00",
-        "venue": "ALSAA",
-        "home_team": "Aer Lingus Hawks",
-        "away_team": "Santry Aces D3W"
-      },
-      {
-        "matchday": "Matchday 5",
-        "sub_league": "League - D3W Group C",
-        "date": "14/12/2025",
-        "time": "11:00",
-        "venue": "ALSAA",
-        "home_team": "Aer Lingus Hawks",
-        "away_team": "Cavan Cats D3W"
-      },
-      {
-        "matchday": "Matchday 5",
-        "sub_league": "League - D3W Group C",
-        "date": "14/12/2025",
-        "time": "19:00",
-        "venue": "Our Lady of Mercy College, Beaumont",
-        "home_team": "Santry Phoenix D3W",
-        "away_team": "Santry Aces D3W"
-      },
-      {
         "matchday": "Matchday 6",
         "sub_league": "League - D3W Group C",
         "date": "15/02/2026",
         "time": "16:30",
-        "venue": "Mercy College (Coolock)",
+        "venue": "Artane Beaumont Family Recreation Centre",
         "home_team": "Santry Aces D3W",
         "away_team": "Cavan Cats D3W"
       },
@@ -624,7 +651,7 @@
         "sub_league": "League - D3W Group C",
         "date": "20/01/2026",
         "time": "19:00",
-        "venue": "Artane Beaumont Family Recreation Centre",
+        "venue": "Mercy College (Coolock)",
         "home_team": "Santry Aces D3W",
         "away_team": "Santry Phoenix D3W"
       },
@@ -645,11 +672,38 @@
         "venue": "St Mary's Community Centre",
         "home_team": "Cavan Cats D3W",
         "away_team": "Aer Lingus Hawks"
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D3W Group C",
+        "date": "26/10/2025",
+        "time": "14:45",
+        "venue": "Ennistymon Community Centre",
+        "home_team": "Burren D3W",
+        "away_team": "Midlands D3W"
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D3W Group C",
+        "date": "28/02/2026",
+        "time": "12:30",
+        "venue": "St Kilian's German Sch/Eurocampus",
+        "home_team": "IADT Turtles D3W",
+        "away_team": "Naas Cobras D3W"
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D3W Group C",
+        "date": "31/01/2026",
+        "time": "13:00",
+        "venue": "St Kilian's German Sch/Eurocampus",
+        "home_team": "IADT Turtles D3W",
+        "away_team": "RCSI D3W"
       }
     ],
     "League - D3W Group D": [
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D3W Group D",
         "date": "01/03/2026",
         "time": "14:45",
@@ -667,15 +721,6 @@
         "away_team": "Munster Thunder D3W"
       },
       {
-        "matchday": "Matchday 7",
-        "sub_league": "League - D3W Group D",
-        "date": "06/12/2025",
-        "time": "12:30",
-        "venue": "St Kilian's German Sch/Eurocampus",
-        "home_team": "IADT Turtles D3W",
-        "away_team": "Dalkey Devils D3W"
-      },
-      {
         "matchday": "Matchday 9",
         "sub_league": "League - D3W Group D",
         "date": "08/03/2026",
@@ -687,6 +732,33 @@
       {
         "matchday": "Matchday 8",
         "sub_league": "League - D3W Group D",
+        "date": "10/01/2026",
+        "time": "11:30",
+        "venue": "Moyle Rovers GAA",
+        "home_team": "Clonmel D3W",
+        "away_team": "Midlands D3W"
+      },
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - D3W Group D",
+        "date": "13/12/2025",
+        "time": "11:30",
+        "venue": "Moyle Rovers GAA",
+        "home_team": "Clonmel D3W",
+        "away_team": "Burren D3W"
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D3W Group D",
+        "date": "15/11/2025",
+        "time": "11:30",
+        "venue": "Moyle Rovers GAA",
+        "home_team": "Clonmel D3W",
+        "away_team": "Munster Thunder D3W"
+      },
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - D3W Group D",
         "date": "18/01/2026",
         "time": "14:45",
         "venue": "Ennistymon Community Centre",
@@ -694,7 +766,7 @@
         "away_team": "Munster Thunder D3W"
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D3W Group D",
         "date": "22/02/2026",
         "time": "13:30",
@@ -703,7 +775,7 @@
         "away_team": "Clonmel D3W"
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D3W Group D",
         "date": "22/02/2026",
         "time": "14:45",
@@ -721,31 +793,13 @@
         "away_team": "Burren D3W"
       },
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D3W Group D",
-        "date": "26/10/2025",
-        "time": "14:45",
-        "venue": "Ennistymon Community Centre",
-        "home_team": "Burren D3W",
+        "date": "29/11/2025",
+        "time": "11:30",
+        "venue": "Moyle Rovers GAA",
+        "home_team": "Clonmel D3W",
         "away_team": "Midlands D3W"
-      },
-      {
-        "matchday": "Matchday 7",
-        "sub_league": "League - D3W Group D",
-        "date": "28/02/2026",
-        "time": "12:30",
-        "venue": "St Kilian's German Sch/Eurocampus",
-        "home_team": "IADT Turtles D3W",
-        "away_team": "Naas Cobras D3W"
-      },
-      {
-        "matchday": "Matchday 7",
-        "sub_league": "League - D3W Group D",
-        "date": "31/01/2026",
-        "time": "13:00",
-        "venue": "St Kilian's German Sch/Eurocampus",
-        "home_team": "IADT Turtles D3W",
-        "away_team": "RCSI D3W"
       }
     ]
   },
@@ -875,7 +929,7 @@
       },
       {
         "matchday": "Matchday 3",
-        "sub_league": "League - D3W Group B",
+        "sub_league": "League - D3W Group A",
         "date": "15/02/2026",
         "time": "14:30",
         "venue": "Dunmanway Comm Sports Hall",
@@ -927,7 +981,7 @@
       },
       {
         "matchday": "Matchday 3",
-        "sub_league": "League - D3W Group B",
+        "sub_league": "League - D3W Group A",
         "date": "15/02/2026",
         "time": "14:30",
         "venue": "Dunmanway Comm Sports Hall",
@@ -1083,7 +1137,7 @@
       },
       {
         "matchday": "Matchday 5",
-        "sub_league": "League - D3W Group C",
+        "sub_league": "League - D3W Group B",
         "date": "11/01/2026",
         "time": "10:00",
         "venue": "ALSAA",
@@ -1092,8 +1146,8 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 5",
-        "sub_league": "League - D3W Group C",
+        "matchday": "Matchday 4",
+        "sub_league": "League - D3W Group B",
         "date": "14/12/2025",
         "time": "11:00",
         "venue": "ALSAA",
@@ -1105,7 +1159,7 @@
         "matchday": "Matchday 4",
         "sub_league": "League - D3W Group B",
         "date": "22/11/2025",
-        "time": "20:30",
+        "time": "18:00",
         "venue": "Artane Beaumont Family Recreation Centre",
         "home_team": "Santry Phoenix D3W",
         "away_team": "Aer Lingus Hawks",
@@ -1134,7 +1188,7 @@
     ],
     "Santry Phoenix D3W": [
       {
-        "matchday": "Matchday 6",
+        "matchday": "Matchday 5",
         "sub_league": "League - D3W Group C",
         "date": "01/02/2026",
         "time": "16:30",
@@ -1144,8 +1198,8 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 5",
-        "sub_league": "League - D3W Group C",
+        "matchday": "Matchday 4",
+        "sub_league": "League - D3W Group B",
         "date": "14/12/2025",
         "time": "19:00",
         "venue": "Our Lady of Mercy College, Beaumont",
@@ -1155,10 +1209,20 @@
       },
       {
         "matchday": "Matchday 5",
+        "sub_league": "League - D3W Group B",
+        "date": "17/01/2026",
+        "time": "14:30",
+        "venue": "St Mary's Community Centre",
+        "home_team": "Cavan Cats D3W",
+        "away_team": "Santry Phoenix D3W",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 5",
         "sub_league": "League - D3W Group C",
         "date": "20/01/2026",
         "time": "19:00",
-        "venue": "Artane Beaumont Family Recreation Centre",
+        "venue": "Mercy College (Coolock)",
         "home_team": "Santry Aces D3W",
         "away_team": "Santry Phoenix D3W",
         "is_home": false
@@ -1167,7 +1231,7 @@
         "matchday": "Matchday 4",
         "sub_league": "League - D3W Group B",
         "date": "22/11/2025",
-        "time": "20:30",
+        "time": "18:00",
         "venue": "Artane Beaumont Family Recreation Centre",
         "home_team": "Santry Phoenix D3W",
         "away_team": "Aer Lingus Hawks",
@@ -1182,21 +1246,11 @@
         "home_team": "Aer Lingus Hawks",
         "away_team": "Santry Phoenix D3W",
         "is_home": false
-      },
-      {
-        "matchday": "Matchday 4",
-        "sub_league": "League - D3W Group B",
-        "date": "30/11/2025",
-        "time": "16:00",
-        "venue": "Artane Beaumont Family Recreation Centre",
-        "home_team": "Santry Phoenix D3W",
-        "away_team": "Cavan Cats D3W",
-        "is_home": true
       }
     ],
     "Santry Aces D3W": [
       {
-        "matchday": "Matchday 6",
+        "matchday": "Matchday 5",
         "sub_league": "League - D3W Group C",
         "date": "01/02/2026",
         "time": "16:30",
@@ -1217,7 +1271,7 @@
       },
       {
         "matchday": "Matchday 5",
-        "sub_league": "League - D3W Group C",
+        "sub_league": "League - D3W Group B",
         "date": "11/01/2026",
         "time": "10:00",
         "venue": "ALSAA",
@@ -1226,8 +1280,8 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 5",
-        "sub_league": "League - D3W Group C",
+        "matchday": "Matchday 4",
+        "sub_league": "League - D3W Group B",
         "date": "14/12/2025",
         "time": "19:00",
         "venue": "Our Lady of Mercy College, Beaumont",
@@ -1240,7 +1294,7 @@
         "sub_league": "League - D3W Group C",
         "date": "15/02/2026",
         "time": "16:30",
-        "venue": "Mercy College (Coolock)",
+        "venue": "Artane Beaumont Family Recreation Centre",
         "home_team": "Santry Aces D3W",
         "away_team": "Cavan Cats D3W",
         "is_home": true
@@ -1250,19 +1304,9 @@
         "sub_league": "League - D3W Group C",
         "date": "20/01/2026",
         "time": "19:00",
-        "venue": "Artane Beaumont Family Recreation Centre",
+        "venue": "Mercy College (Coolock)",
         "home_team": "Santry Aces D3W",
         "away_team": "Santry Phoenix D3W",
-        "is_home": true
-      },
-      {
-        "matchday": "Matchday 4",
-        "sub_league": "League - D3W Group B",
-        "date": "22/11/2025",
-        "time": "18:00",
-        "venue": "Artane Beaumont Family Recreation Centre",
-        "home_team": "Santry Aces D3W",
-        "away_team": "Cavan Cats D3W",
         "is_home": true
       }
     ],
@@ -1278,8 +1322,8 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 5",
-        "sub_league": "League - D3W Group C",
+        "matchday": "Matchday 4",
+        "sub_league": "League - D3W Group B",
         "date": "14/12/2025",
         "time": "11:00",
         "venue": "ALSAA",
@@ -1292,20 +1336,20 @@
         "sub_league": "League - D3W Group C",
         "date": "15/02/2026",
         "time": "16:30",
-        "venue": "Mercy College (Coolock)",
+        "venue": "Artane Beaumont Family Recreation Centre",
         "home_team": "Santry Aces D3W",
         "away_team": "Cavan Cats D3W",
         "is_home": false
       },
       {
-        "matchday": "Matchday 4",
+        "matchday": "Matchday 5",
         "sub_league": "League - D3W Group B",
-        "date": "22/11/2025",
-        "time": "18:00",
-        "venue": "Artane Beaumont Family Recreation Centre",
-        "home_team": "Santry Aces D3W",
-        "away_team": "Cavan Cats D3W",
-        "is_home": false
+        "date": "17/01/2026",
+        "time": "14:30",
+        "venue": "St Mary's Community Centre",
+        "home_team": "Cavan Cats D3W",
+        "away_team": "Santry Phoenix D3W",
+        "is_home": true
       },
       {
         "matchday": "Matchday 5",
@@ -1316,16 +1360,6 @@
         "home_team": "Cavan Cats D3W",
         "away_team": "Aer Lingus Hawks",
         "is_home": true
-      },
-      {
-        "matchday": "Matchday 4",
-        "sub_league": "League - D3W Group B",
-        "date": "30/11/2025",
-        "time": "16:00",
-        "venue": "Artane Beaumont Family Recreation Centre",
-        "home_team": "Santry Phoenix D3W",
-        "away_team": "Cavan Cats D3W",
-        "is_home": false
       }
     ],
     "RCSI D3W": [
@@ -1351,7 +1385,7 @@
       },
       {
         "matchday": "Matchday 7",
-        "sub_league": "League - D3W Group D",
+        "sub_league": "League - D3W Group C",
         "date": "31/01/2026",
         "time": "13:00",
         "venue": "St Kilian's German Sch/Eurocampus",
@@ -1373,7 +1407,7 @@
       },
       {
         "matchday": "Matchday 7",
-        "sub_league": "League - D3W Group D",
+        "sub_league": "League - D3W Group C",
         "date": "28/02/2026",
         "time": "12:30",
         "venue": "St Kilian's German Sch/Eurocampus",
@@ -1384,8 +1418,8 @@
     ],
     "IADT Turtles D3W": [
       {
-        "matchday": "Matchday 7",
-        "sub_league": "League - D3W Group D",
+        "matchday": "Matchday 6",
+        "sub_league": "League - D3W Group C",
         "date": "06/12/2025",
         "time": "12:30",
         "venue": "St Kilian's German Sch/Eurocampus",
@@ -1405,7 +1439,7 @@
       },
       {
         "matchday": "Matchday 7",
-        "sub_league": "League - D3W Group D",
+        "sub_league": "League - D3W Group C",
         "date": "28/02/2026",
         "time": "12:30",
         "venue": "St Kilian's German Sch/Eurocampus",
@@ -1415,7 +1449,7 @@
       },
       {
         "matchday": "Matchday 7",
-        "sub_league": "League - D3W Group D",
+        "sub_league": "League - D3W Group C",
         "date": "31/01/2026",
         "time": "13:00",
         "venue": "St Kilian's German Sch/Eurocampus",
@@ -1426,8 +1460,8 @@
     ],
     "Dalkey Devils D3W": [
       {
-        "matchday": "Matchday 7",
-        "sub_league": "League - D3W Group D",
+        "matchday": "Matchday 6",
+        "sub_league": "League - D3W Group C",
         "date": "06/12/2025",
         "time": "12:30",
         "venue": "St Kilian's German Sch/Eurocampus",
@@ -1438,7 +1472,7 @@
     ],
     "Burren D3W": [
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D3W Group D",
         "date": "01/03/2026",
         "time": "14:45",
@@ -1460,6 +1494,16 @@
       {
         "matchday": "Matchday 8",
         "sub_league": "League - D3W Group D",
+        "date": "13/12/2025",
+        "time": "11:30",
+        "venue": "Moyle Rovers GAA",
+        "home_team": "Clonmel D3W",
+        "away_team": "Burren D3W",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - D3W Group D",
         "date": "18/01/2026",
         "time": "14:45",
         "venue": "Ennistymon Community Centre",
@@ -1468,7 +1512,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D3W Group D",
         "date": "22/02/2026",
         "time": "14:45",
@@ -1489,7 +1533,7 @@
       },
       {
         "matchday": "Matchday 7",
-        "sub_league": "League - D3W Group D",
+        "sub_league": "League - D3W Group C",
         "date": "26/10/2025",
         "time": "14:45",
         "venue": "Ennistymon Community Centre",
@@ -1522,6 +1566,16 @@
       {
         "matchday": "Matchday 8",
         "sub_league": "League - D3W Group D",
+        "date": "10/01/2026",
+        "time": "11:30",
+        "venue": "Moyle Rovers GAA",
+        "home_team": "Clonmel D3W",
+        "away_team": "Midlands D3W",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - D3W Group D",
         "date": "22/02/2026",
         "time": "13:30",
         "venue": "Mountrath Community School",
@@ -1541,11 +1595,21 @@
       },
       {
         "matchday": "Matchday 7",
-        "sub_league": "League - D3W Group D",
+        "sub_league": "League - D3W Group C",
         "date": "26/10/2025",
         "time": "14:45",
         "venue": "Ennistymon Community Centre",
         "home_team": "Burren D3W",
+        "away_team": "Midlands D3W",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - D3W Group D",
+        "date": "29/11/2025",
+        "time": "11:30",
+        "venue": "Moyle Rovers GAA",
+        "home_team": "Clonmel D3W",
         "away_team": "Midlands D3W",
         "is_home": false
       }
@@ -1562,6 +1626,16 @@
         "is_home": false
       },
       {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D3W Group D",
+        "date": "15/11/2025",
+        "time": "11:30",
+        "venue": "Moyle Rovers GAA",
+        "home_team": "Clonmel D3W",
+        "away_team": "Munster Thunder D3W",
+        "is_home": false
+      },
+      {
         "matchday": "Matchday 8",
         "sub_league": "League - D3W Group D",
         "date": "18/01/2026",
@@ -1572,7 +1646,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D3W Group D",
         "date": "22/02/2026",
         "time": "14:45",
@@ -1584,7 +1658,7 @@
     ],
     "Clonmel D3W": [
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D3W Group D",
         "date": "01/03/2026",
         "time": "14:45",
@@ -1596,17 +1670,57 @@
       {
         "matchday": "Matchday 8",
         "sub_league": "League - D3W Group D",
+        "date": "10/01/2026",
+        "time": "11:30",
+        "venue": "Moyle Rovers GAA",
+        "home_team": "Clonmel D3W",
+        "away_team": "Midlands D3W",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - D3W Group D",
+        "date": "13/12/2025",
+        "time": "11:30",
+        "venue": "Moyle Rovers GAA",
+        "home_team": "Clonmel D3W",
+        "away_team": "Burren D3W",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D3W Group D",
+        "date": "15/11/2025",
+        "time": "11:30",
+        "venue": "Moyle Rovers GAA",
+        "home_team": "Clonmel D3W",
+        "away_team": "Munster Thunder D3W",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - D3W Group D",
         "date": "22/02/2026",
         "time": "13:30",
         "venue": "Mountrath Community School",
         "home_team": "Midlands D3W",
         "away_team": "Clonmel D3W",
         "is_home": false
+      },
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - D3W Group D",
+        "date": "29/11/2025",
+        "time": "11:30",
+        "venue": "Moyle Rovers GAA",
+        "home_team": "Clonmel D3W",
+        "away_team": "Midlands D3W",
+        "is_home": true
       }
     ]
   },
   "metadata": {
-    "total_fixtures": 41,
+    "total_fixtures": 44,
     "source": "VIR Competition Matches",
     "sub_league_count": 4,
     "competition_name": "Women's Division 3",
@@ -1636,7 +1750,7 @@
       "League - D3W Group D"
     ]
   },
-  "lastUpdated": "2025-11-14T00:01:03.971Z",
+  "lastUpdated": "2025-11-21T00:00:23.568Z",
   "dataVersion": "1.0",
   "source": "VIR Competition Matches"
 }
