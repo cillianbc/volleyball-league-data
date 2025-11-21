@@ -382,6 +382,15 @@
       "matchday": "Matchday 9",
       "sub_league": "League - PM",
       "date": "14/02/2026",
+      "time": "10:30",
+      "venue": "Tech University Dublin, Tallaght",
+      "home_team": "Tallaght Rockets PM",
+      "away_team": "TCD PM"
+    },
+    {
+      "matchday": "Matchday 9",
+      "sub_league": "League - PM",
+      "date": "14/02/2026",
       "time": "12:30",
       "venue": "Colaiste De hIde",
       "home_team": "Gardians Fianna",
@@ -397,7 +406,7 @@
       "away_team": "Balbriggan Eagles"
     },
     {
-      "matchday": "Matchday 9",
+      "matchday": "Matchday 10",
       "sub_league": "League - PM",
       "date": "15/02/2026",
       "time": "17:30",
@@ -442,7 +451,7 @@
       "away_team": "Gardians Fianna"
     },
     {
-      "matchday": "Matchday 10",
+      "matchday": "Matchday 11",
       "sub_league": "League - PM",
       "date": "08/03/2026",
       "time": "15:30",
@@ -487,7 +496,7 @@
       "away_team": "Aer Lingus PM"
     },
     {
-      "matchday": "Matchday 11",
+      "matchday": "Matchday 12",
       "sub_league": "League - PM",
       "date": "22/03/2026",
       "time": "15:00",
@@ -532,7 +541,7 @@
       "away_team": "DVC Bravo"
     },
     {
-      "matchday": "Matchday 12",
+      "matchday": "Matchday 13",
       "sub_league": "League - PM",
       "date": "19/04/2026",
       "time": "13:30",
@@ -679,7 +688,7 @@
         "away_team": "Gardians Fianna"
       },
       {
-        "matchday": "Matchday 10",
+        "matchday": "Matchday 11",
         "sub_league": "League - PM",
         "date": "08/03/2026",
         "time": "15:30",
@@ -835,6 +844,15 @@
         "matchday": "Matchday 9",
         "sub_league": "League - PM",
         "date": "14/02/2026",
+        "time": "10:30",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Tallaght Rockets PM",
+        "away_team": "TCD PM"
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - PM",
+        "date": "14/02/2026",
         "time": "12:30",
         "venue": "Colaiste De hIde",
         "home_team": "Gardians Fianna",
@@ -877,7 +895,7 @@
         "away_team": "Aer Lingus PM"
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 10",
         "sub_league": "League - PM",
         "date": "15/02/2026",
         "time": "17:30",
@@ -931,7 +949,7 @@
         "away_team": "Balbriggan Eagles"
       },
       {
-        "matchday": "Matchday 12",
+        "matchday": "Matchday 13",
         "sub_league": "League - PM",
         "date": "19/04/2026",
         "time": "13:30",
@@ -1021,7 +1039,7 @@
         "away_team": "Aer Lingus PM"
       },
       {
-        "matchday": "Matchday 11",
+        "matchday": "Matchday 12",
         "sub_league": "League - PM",
         "date": "22/03/2026",
         "time": "15:00",
@@ -1364,7 +1382,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 10",
         "sub_league": "League - PM",
         "date": "15/02/2026",
         "time": "17:30",
@@ -1404,7 +1422,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 11",
+        "matchday": "Matchday 12",
         "sub_league": "League - PM",
         "date": "22/03/2026",
         "time": "15:00",
@@ -1456,7 +1474,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 10",
+        "matchday": "Matchday 11",
         "sub_league": "League - PM",
         "date": "08/03/2026",
         "time": "15:30",
@@ -1506,6 +1524,16 @@
         "is_home": false
       },
       {
+        "matchday": "Matchday 9",
+        "sub_league": "League - PM",
+        "date": "14/02/2026",
+        "time": "10:30",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Tallaght Rockets PM",
+        "away_team": "TCD PM",
+        "is_home": false
+      },
+      {
         "matchday": "Matchday 4",
         "sub_league": "League - PM",
         "date": "16/11/2025",
@@ -1516,7 +1544,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 12",
+        "matchday": "Matchday 13",
         "sub_league": "League - PM",
         "date": "19/04/2026",
         "time": "13:30",
@@ -1648,7 +1676,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 10",
         "sub_league": "League - PM",
         "date": "15/02/2026",
         "time": "17:30",
@@ -1912,7 +1940,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 10",
+        "matchday": "Matchday 11",
         "sub_league": "League - PM",
         "date": "08/03/2026",
         "time": "15:30",
@@ -2144,7 +2172,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 12",
+        "matchday": "Matchday 13",
         "sub_league": "League - PM",
         "date": "19/04/2026",
         "time": "13:30",
@@ -2164,7 +2192,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 11",
+        "matchday": "Matchday 12",
         "sub_league": "League - PM",
         "date": "22/03/2026",
         "time": "15:00",
@@ -2264,6 +2292,16 @@
         "home_team": "DVC Bravo",
         "away_team": "Tallaght Rockets PM",
         "is_home": false
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - PM",
+        "date": "14/02/2026",
+        "time": "10:30",
+        "venue": "Tech University Dublin, Tallaght",
+        "home_team": "Tallaght Rockets PM",
+        "away_team": "TCD PM",
+        "is_home": true
       },
       {
         "matchday": "Matchday 6",
@@ -2420,7 +2458,7 @@
     ]
   },
   "metadata": {
-    "total_fixtures": 63,
+    "total_fixtures": 64,
     "source": "VIR Competition Matches",
     "sub_league_count": 1,
     "competition_name": "Men's Premier Division",
@@ -2439,7 +2477,7 @@
       "League - PM"
     ]
   },
-  "lastUpdated": "2025-10-30T22:13:00.864Z",
+  "lastUpdated": "2025-11-21T20:27:45.738Z",
   "dataVersion": "1.0",
   "source": "VIR Competition Matches"
 }
