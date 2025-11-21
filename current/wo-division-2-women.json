@@ -2,7 +2,7 @@
   "league": "Women's Division 2",
   "totalTeams": 15,
   "subLeagueCount": 3,
-  "extractedAt": "2025-11-07T00:00:06.520Z",
+  "extractedAt": "2025-11-21T20:09:05.080Z",
   "subLeagues": [
     {
       "name": "League - D2W Group A",
@@ -10,8 +10,8 @@
       "teams": [
         {
           "position": 1,
-          "teamId": "378",
-          "teamName": "Gardians Panda D2W",
+          "teamId": "315",
+          "teamName": "UCD D2W",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -66,8 +66,8 @@
         },
         {
           "position": 3,
-          "teamId": "408",
-          "teamName": "Tallaght Rockets D2W",
+          "teamId": "368",
+          "teamName": "Aer Lingus Kestrels",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -94,8 +94,8 @@
         },
         {
           "position": 4,
-          "teamId": "368",
-          "teamName": "Aer Lingus Kestrels",
+          "teamId": "408",
+          "teamName": "Tallaght Rockets D2W",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -156,8 +156,8 @@
       "teams": [
         {
           "position": 1,
-          "teamId": "405",
-          "teamName": "Dalkey Devils D2W",
+          "teamId": "372",
+          "teamName": "Santry Nova",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -184,8 +184,8 @@
         },
         {
           "position": 2,
-          "teamId": "392",
-          "teamName": "Longford Smashers D2W",
+          "teamId": "405",
+          "teamName": "Dalkey Devils D2W",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -330,8 +330,8 @@
         },
         {
           "position": 2,
-          "teamId": "406",
-          "teamName": "Dalkey Aces D2W",
+          "teamId": "380",
+          "teamName": "Kilkenny Spartans D2W",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -446,8 +446,8 @@
   "teams": [
     {
       "position": 1,
-      "teamId": "378",
-      "teamName": "Gardians Panda D2W",
+      "teamId": "315",
+      "teamName": "UCD D2W",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -506,8 +506,8 @@
     },
     {
       "position": 3,
-      "teamId": "408",
-      "teamName": "Tallaght Rockets D2W",
+      "teamId": "368",
+      "teamName": "Aer Lingus Kestrels",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -536,8 +536,8 @@
     },
     {
       "position": 4,
-      "teamId": "368",
-      "teamName": "Aer Lingus Kestrels",
+      "teamId": "408",
+      "teamName": "Tallaght Rockets D2W",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -596,8 +596,8 @@
     },
     {
       "position": 1,
-      "teamId": "405",
-      "teamName": "Dalkey Devils D2W",
+      "teamId": "372",
+      "teamName": "Santry Nova",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -626,8 +626,8 @@
     },
     {
       "position": 2,
-      "teamId": "392",
-      "teamName": "Longford Smashers D2W",
+      "teamId": "405",
+      "teamName": "Dalkey Devils D2W",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -776,8 +776,8 @@
     },
     {
       "position": 2,
-      "teamId": "406",
-      "teamName": "Dalkey Aces D2W",
+      "teamId": "380",
+      "teamName": "Kilkenny Spartans D2W",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -895,7 +895,7 @@
       "championshipId": "100"
     }
   ],
-  "lastUpdated": "2025-11-07T00:00:06.885Z",
+  "lastUpdated": "2025-11-21T20:09:05.469Z",
   "dataVersion": "2.0",
   "source": "VIR Volleyball Standings",
   "schemaInfo": {
