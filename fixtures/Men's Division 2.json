@@ -156,6 +156,15 @@
     {
       "matchday": "Matchday 4",
       "sub_league": "League - D2M Group A",
+      "date": "29/11/2025",
+      "time": "16:30",
+      "venue": "Coláiste Chríost Rí",
+      "home_team": "Cork Volleyball Acad D2M",
+      "away_team": "Impact Macroom D2M"
+    },
+    {
+      "matchday": "Matchday 4",
+      "sub_league": "League - D2M Group A",
       "date": "30/11/2025",
       "time": "11:00",
       "venue": "UCD Sports Centre",
@@ -170,15 +179,6 @@
       "venue": "St Mary's College (Naas)",
       "home_team": "Naas Pythons D2M",
       "away_team": "Dalkey Devils D2M"
-    },
-    {
-      "matchday": "Matchday 4",
-      "sub_league": "League - D2M Group A",
-      "date": "30/11/2025",
-      "time": "16:30",
-      "venue": "Coláiste Chríost Rí",
-      "home_team": "Cork Volleyball Acad D2M",
-      "away_team": "Impact Macroom D2M"
     },
     {
       "matchday": "Matchday 5",
@@ -824,7 +824,7 @@
       "sub_league": "League - D2M Group B",
       "date": "14/02/2026",
       "time": "13:00",
-      "venue": "National Indoor Arena (Court 3)",
+      "venue": "Tech University Dublin, Tallaght",
       "home_team": "Celestials D2M",
       "away_team": "Impact Stars D2M"
     },
@@ -1101,6 +1101,15 @@
     {
       "matchday": "Matchday 25",
       "sub_league": "League - D2M Group C",
+      "date": "16/11/2025",
+      "time": "11:00",
+      "venue": "Colaiste Muire Mathair (Galway)",
+      "home_team": "Galway D2M",
+      "away_team": "Balbriggan T-Rex"
+    },
+    {
+      "matchday": "Matchday 25",
+      "sub_league": "League - D2M Group C",
       "date": "29/11/2025",
       "time": "12:30",
       "venue": "Castlelands Community Centre",
@@ -1117,7 +1126,7 @@
       "away_team": "Galway D2M"
     },
     {
-      "matchday": "Matchday 25",
+      "matchday": "Matchday 26",
       "sub_league": "League - D2M Group C",
       "date": "29/11/2025",
       "time": "14:30",
@@ -1162,7 +1171,7 @@
       "away_team": "Crumlin Ravens"
     },
     {
-      "matchday": "Matchday 26",
+      "matchday": "Matchday 27",
       "sub_league": "League - D2M Group C",
       "date": "11/01/2026",
       "time": "11:00",
@@ -1207,7 +1216,7 @@
       "away_team": "BMP Hunters"
     },
     {
-      "matchday": "Matchday 27",
+      "matchday": "Matchday 28",
       "sub_league": "League - D2M Group C",
       "date": "07/02/2026",
       "time": "13:00",
@@ -1252,7 +1261,7 @@
       "away_team": "Gardians Panda D2M"
     },
     {
-      "matchday": "Matchday 28",
+      "matchday": "Matchday 29",
       "sub_league": "League - D2M Group C",
       "date": "15/02/2026",
       "time": "15:30",
@@ -1297,7 +1306,7 @@
       "away_team": "Balbriggan T-Rex"
     },
     {
-      "matchday": "Matchday 29",
+      "matchday": "Matchday 30",
       "sub_league": "League - D2M Group C",
       "date": "22/03/2026",
       "time": "11:00",
@@ -1342,7 +1351,7 @@
       "away_team": "Galway D2M"
     },
     {
-      "matchday": "Matchday 30",
+      "matchday": "Matchday 31",
       "sub_league": "League - D2M Group C",
       "date": "18/04/2026",
       "time": "12:30",
@@ -1788,6 +1797,15 @@
       {
         "matchday": "Matchday 4",
         "sub_league": "League - D2M Group A",
+        "date": "29/11/2025",
+        "time": "16:30",
+        "venue": "Coláiste Chríost Rí",
+        "home_team": "Cork Volleyball Acad D2M",
+        "away_team": "Impact Macroom D2M"
+      },
+      {
+        "matchday": "Matchday 4",
+        "sub_league": "League - D2M Group A",
         "date": "30/11/2025",
         "time": "11:00",
         "venue": "UCD Sports Centre",
@@ -1802,15 +1820,6 @@
         "venue": "St Mary's College (Naas)",
         "home_team": "Naas Pythons D2M",
         "away_team": "Dalkey Devils D2M"
-      },
-      {
-        "matchday": "Matchday 4",
-        "sub_league": "League - D2M Group A",
-        "date": "30/11/2025",
-        "time": "16:30",
-        "venue": "Coláiste Chríost Rí",
-        "home_team": "Cork Volleyball Acad D2M",
-        "away_team": "Impact Macroom D2M"
       },
       {
         "matchday": "Matchday 6",
@@ -2017,7 +2026,7 @@
         "sub_league": "League - D2M Group B",
         "date": "14/02/2026",
         "time": "13:00",
-        "venue": "National Indoor Arena (Court 3)",
+        "venue": "Tech University Dublin, Tallaght",
         "home_team": "Celestials D2M",
         "away_team": "Impact Stars D2M"
       },
@@ -2312,7 +2321,7 @@
         "away_team": "BMP Hunters"
       },
       {
-        "matchday": "Matchday 27",
+        "matchday": "Matchday 28",
         "sub_league": "League - D2M Group C",
         "date": "07/02/2026",
         "time": "13:00",
@@ -2375,7 +2384,7 @@
         "away_team": "Crumlin Ravens"
       },
       {
-        "matchday": "Matchday 26",
+        "matchday": "Matchday 27",
         "sub_league": "League - D2M Group C",
         "date": "11/01/2026",
         "time": "11:00",
@@ -2528,7 +2537,7 @@
         "away_team": "Gardians Panda D2M"
       },
       {
-        "matchday": "Matchday 28",
+        "matchday": "Matchday 29",
         "sub_league": "League - D2M Group C",
         "date": "15/02/2026",
         "time": "15:30",
@@ -2555,6 +2564,15 @@
         "away_team": "Crumlin Ravens"
       },
       {
+        "matchday": "Matchday 25",
+        "sub_league": "League - D2M Group C",
+        "date": "16/11/2025",
+        "time": "11:00",
+        "venue": "Colaiste Muire Mathair (Galway)",
+        "home_team": "Galway D2M",
+        "away_team": "Balbriggan T-Rex"
+      },
+      {
         "matchday": "Matchday 22",
         "sub_league": "League - D2M Group C",
         "date": "18/04/2026",
@@ -2573,7 +2591,7 @@
         "away_team": "BMP Titans"
       },
       {
-        "matchday": "Matchday 30",
+        "matchday": "Matchday 31",
         "sub_league": "League - D2M Group C",
         "date": "18/04/2026",
         "time": "12:30",
@@ -2663,7 +2681,7 @@
         "away_team": "Balbriggan T-Rex"
       },
       {
-        "matchday": "Matchday 29",
+        "matchday": "Matchday 30",
         "sub_league": "League - D2M Group C",
         "date": "22/03/2026",
         "time": "11:00",
@@ -2726,7 +2744,7 @@
         "away_team": "Galway D2M"
       },
       {
-        "matchday": "Matchday 25",
+        "matchday": "Matchday 26",
         "sub_league": "League - D2M Group C",
         "date": "29/11/2025",
         "time": "14:30",
@@ -3144,7 +3162,7 @@
       {
         "matchday": "Matchday 4",
         "sub_league": "League - D2M Group A",
-        "date": "30/11/2025",
+        "date": "29/11/2025",
         "time": "16:30",
         "venue": "Coláiste Chríost Rí",
         "home_team": "Cork Volleyball Acad D2M",
@@ -3438,7 +3456,7 @@
       {
         "matchday": "Matchday 4",
         "sub_league": "League - D2M Group A",
-        "date": "30/11/2025",
+        "date": "29/11/2025",
         "time": "16:30",
         "venue": "Coláiste Chríost Rí",
         "home_team": "Cork Volleyball Acad D2M",
@@ -4516,7 +4534,7 @@
         "sub_league": "League - D2M Group B",
         "date": "14/02/2026",
         "time": "13:00",
-        "venue": "National Indoor Arena (Court 3)",
+        "venue": "Tech University Dublin, Tallaght",
         "home_team": "Celestials D2M",
         "away_team": "Impact Stars D2M",
         "is_home": false
@@ -4922,7 +4940,7 @@
         "sub_league": "League - D2M Group B",
         "date": "14/02/2026",
         "time": "13:00",
-        "venue": "National Indoor Arena (Court 3)",
+        "venue": "Tech University Dublin, Tallaght",
         "home_team": "Celestials D2M",
         "away_team": "Impact Stars D2M",
         "is_home": true
@@ -5172,12 +5190,22 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 28",
+        "matchday": "Matchday 29",
         "sub_league": "League - D2M Group C",
         "date": "15/02/2026",
         "time": "15:30",
         "venue": "Patrician Secondary School (Newbridge)",
         "home_team": "Kildare Jaguars",
+        "away_team": "Balbriggan T-Rex",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 25",
+        "sub_league": "League - D2M Group C",
+        "date": "16/11/2025",
+        "time": "11:00",
+        "venue": "Colaiste Muire Mathair (Galway)",
+        "home_team": "Galway D2M",
         "away_team": "Balbriggan T-Rex",
         "is_home": false
       },
@@ -5344,7 +5372,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 25",
+        "matchday": "Matchday 26",
         "sub_league": "League - D2M Group C",
         "date": "29/11/2025",
         "time": "14:30",
@@ -5376,7 +5404,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 26",
+        "matchday": "Matchday 27",
         "sub_league": "League - D2M Group C",
         "date": "11/01/2026",
         "time": "11:00",
@@ -5426,6 +5454,16 @@
         "is_home": true
       },
       {
+        "matchday": "Matchday 25",
+        "sub_league": "League - D2M Group C",
+        "date": "16/11/2025",
+        "time": "11:00",
+        "venue": "Colaiste Muire Mathair (Galway)",
+        "home_team": "Galway D2M",
+        "away_team": "Balbriggan T-Rex",
+        "is_home": true
+      },
+      {
         "matchday": "Matchday 31",
         "sub_league": "League - D2M Group C",
         "date": "19/04/2026",
@@ -5436,7 +5474,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 29",
+        "matchday": "Matchday 30",
         "sub_league": "League - D2M Group C",
         "date": "22/03/2026",
         "time": "11:00",
@@ -5478,7 +5516,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 27",
+        "matchday": "Matchday 28",
         "sub_league": "League - D2M Group C",
         "date": "07/02/2026",
         "time": "13:00",
@@ -5498,7 +5536,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 26",
+        "matchday": "Matchday 27",
         "sub_league": "League - D2M Group C",
         "date": "11/01/2026",
         "time": "11:00",
@@ -5650,7 +5688,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 28",
+        "matchday": "Matchday 29",
         "sub_league": "League - D2M Group C",
         "date": "15/02/2026",
         "time": "15:30",
@@ -5660,7 +5698,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 30",
+        "matchday": "Matchday 31",
         "sub_league": "League - D2M Group C",
         "date": "18/04/2026",
         "time": "12:30",
@@ -5700,7 +5738,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 25",
+        "matchday": "Matchday 26",
         "sub_league": "League - D2M Group C",
         "date": "29/11/2025",
         "time": "14:30",
@@ -5712,7 +5750,7 @@
     ],
     "Gardians Panda D2M": [
       {
-        "matchday": "Matchday 27",
+        "matchday": "Matchday 28",
         "sub_league": "League - D2M Group C",
         "date": "07/02/2026",
         "time": "13:00",
@@ -5782,7 +5820,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 30",
+        "matchday": "Matchday 31",
         "sub_league": "League - D2M Group C",
         "date": "18/04/2026",
         "time": "12:30",
@@ -5802,7 +5840,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 29",
+        "matchday": "Matchday 30",
         "sub_league": "League - D2M Group C",
         "date": "22/03/2026",
         "time": "11:00",
@@ -5834,7 +5872,7 @@
     ]
   },
   "metadata": {
-    "total_fixtures": 152,
+    "total_fixtures": 153,
     "source": "VIR Competition Matches",
     "sub_league_count": 3,
     "competition_name": "Men's Division 2",
@@ -5869,7 +5907,7 @@
       "League - D2M Group C"
     ]
   },
-  "lastUpdated": "2025-10-30T22:14:09.707Z",
+  "lastUpdated": "2025-11-21T20:24:27.169Z",
   "dataVersion": "1.0",
   "source": "VIR Competition Matches"
 }
