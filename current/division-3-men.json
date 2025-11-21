@@ -2,7 +2,7 @@
   "league": "Men's Division 3",
   "totalTeams": 15,
   "subLeagueCount": 5,
-  "extractedAt": "2025-11-21T20:25:42.923Z",
+  "extractedAt": "2025-11-21T20:27:40.711Z",
   "subLeagues": [
     {
       "name": "League - D3M Group A",
@@ -907,7 +907,7 @@
       "championshipId": "108"
     }
   ],
-  "lastUpdated": "2025-11-21T20:25:43.102Z",
+  "lastUpdated": "2025-11-21T20:27:40.904Z",
   "dataVersion": "2.0",
   "source": "VIR Volleyball Standings",
   "schemaInfo": {
