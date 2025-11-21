@@ -2,7 +2,7 @@
   "league": "Women's Division 2",
   "totalTeams": 15,
   "subLeagueCount": 3,
-  "extractedAt": "2025-11-21T20:22:55.897Z",
+  "extractedAt": "2025-11-21T20:25:16.084Z",
   "subLeagues": [
     {
       "name": "League - D2W Group A",
@@ -895,7 +895,7 @@
       "championshipId": "100"
     }
   ],
-  "lastUpdated": "2025-11-21T20:22:56.286Z",
+  "lastUpdated": "2025-11-21T20:25:16.499Z",
   "dataVersion": "2.0",
   "source": "VIR Volleyball Standings",
   "schemaInfo": {
