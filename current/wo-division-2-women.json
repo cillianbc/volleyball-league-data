@@ -2,7 +2,7 @@
   "league": "Women's Division 2",
   "totalTeams": 15,
   "subLeagueCount": 3,
-  "extractedAt": "2025-11-21T20:26:09.579Z",
+  "extractedAt": "2025-11-28T00:00:06.361Z",
   "subLeagues": [
     {
       "name": "League - D2W Group A",
@@ -302,8 +302,8 @@
       "teams": [
         {
           "position": 1,
-          "teamId": "376",
-          "teamName": "Cork Volleyball Acad D2W",
+          "teamId": "410",
+          "teamName": "Naas Vipers D2W",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -746,8 +746,8 @@
     },
     {
       "position": 1,
-      "teamId": "376",
-      "teamName": "Cork Volleyball Acad D2W",
+      "teamId": "410",
+      "teamName": "Naas Vipers D2W",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -895,7 +895,7 @@
       "championshipId": "100"
     }
   ],
-  "lastUpdated": "2025-11-21T20:26:10.835Z",
+  "lastUpdated": "2025-11-28T00:00:06.747Z",
   "dataVersion": "2.0",
   "source": "VIR Volleyball Standings",
   "schemaInfo": {
