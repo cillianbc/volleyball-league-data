@@ -12,6 +12,15 @@
     {
       "matchday": "Matchday 1",
       "sub_league": "League - D3W Group A",
+      "date": "22/11/2025",
+      "time": "19:30",
+      "venue": "Coláiste Chríost Rí",
+      "home_team": "Cork Volleyball Acad D3W",
+      "away_team": "Volleywoodstars D3W"
+    },
+    {
+      "matchday": "Matchday 1",
+      "sub_league": "League - D3W Group A",
       "date": "29/11/2025",
       "time": "12:30",
       "venue": "St Mary's Parish Hall",
@@ -37,7 +46,7 @@
       "away_team": "Cork Volleyball Acad D3W"
     },
     {
-      "matchday": "Matchday 1",
+      "matchday": "Matchday 2",
       "sub_league": "League - D3W Group A",
       "date": "15/12/2025",
       "time": "19:30",
@@ -82,7 +91,7 @@
       "away_team": "Phoenix Killarney D3W"
     },
     {
-      "matchday": "Matchday 2",
+      "matchday": "Matchday 3",
       "sub_league": "League - D3W Group A",
       "date": "14/02/2026",
       "time": "12:30",
@@ -92,7 +101,7 @@
     },
     {
       "matchday": "Matchday 3",
-      "sub_league": "League - D3W Group A",
+      "sub_league": "League - D3W Group B",
       "date": "15/02/2026",
       "time": "14:30",
       "venue": "Dunmanway Comm Sports Hall",
@@ -127,7 +136,7 @@
       "away_team": "Cork Volleyball Acad D3W"
     },
     {
-      "matchday": "Matchday 3",
+      "matchday": "Matchday 4",
       "sub_league": "League - D3W Group B",
       "date": "07/03/2026",
       "time": "17:30",
@@ -172,7 +181,7 @@
       "away_team": "Cavan Cats D3W"
     },
     {
-      "matchday": "Matchday 4",
+      "matchday": "Matchday 5",
       "sub_league": "League - D3W Group B",
       "date": "14/12/2025",
       "time": "19:00",
@@ -191,7 +200,7 @@
     },
     {
       "matchday": "Matchday 5",
-      "sub_league": "League - D3W Group B",
+      "sub_league": "League - D3W Group C",
       "date": "17/01/2026",
       "time": "14:30",
       "venue": "St Mary's Community Centre",
@@ -217,7 +226,7 @@
       "away_team": "Aer Lingus Hawks"
     },
     {
-      "matchday": "Matchday 5",
+      "matchday": "Matchday 6",
       "sub_league": "League - D3W Group C",
       "date": "01/02/2026",
       "time": "16:30",
@@ -262,7 +271,7 @@
       "away_team": "IADT Turtles D3W"
     },
     {
-      "matchday": "Matchday 6",
+      "matchday": "Matchday 7",
       "sub_league": "League - D3W Group C",
       "date": "06/12/2025",
       "time": "12:30",
@@ -290,7 +299,7 @@
     },
     {
       "matchday": "Matchday 7",
-      "sub_league": "League - D3W Group C",
+      "sub_league": "League - D3W Group D",
       "date": "26/10/2025",
       "time": "14:45",
       "venue": "Ennistymon Community Centre",
@@ -307,7 +316,7 @@
       "away_team": "Munster Thunder D3W"
     },
     {
-      "matchday": "Matchday 7",
+      "matchday": "Matchday 8",
       "sub_league": "League - D3W Group D",
       "date": "15/11/2025",
       "time": "11:30",
@@ -352,7 +361,7 @@
       "away_team": "Midlands D3W"
     },
     {
-      "matchday": "Matchday 8",
+      "matchday": "Matchday 9",
       "sub_league": "League - D3W Group D",
       "date": "18/01/2026",
       "time": "14:45",
@@ -454,7 +463,7 @@
         "away_team": "OVC Mermaids"
       },
       {
-        "matchday": "Matchday 2",
+        "matchday": "Matchday 3",
         "sub_league": "League - D3W Group A",
         "date": "14/02/2026",
         "time": "12:30",
@@ -463,22 +472,22 @@
         "away_team": "Phoenix Killarney D3W"
       },
       {
-        "matchday": "Matchday 3",
-        "sub_league": "League - D3W Group A",
-        "date": "15/02/2026",
-        "time": "14:30",
-        "venue": "Dunmanway Comm Sports Hall",
-        "home_team": "West Cork D3W",
-        "away_team": "Volleywoodstars D3W"
-      },
-      {
-        "matchday": "Matchday 1",
+        "matchday": "Matchday 2",
         "sub_league": "League - D3W Group A",
         "date": "15/12/2025",
         "time": "19:30",
         "venue": "Scoil Íosagáin Farranree",
         "home_team": "OVC Mermaids",
         "away_team": "West Cork D3W"
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3W Group A",
+        "date": "22/11/2025",
+        "time": "19:30",
+        "venue": "Coláiste Chríost Rí",
+        "home_team": "Cork Volleyball Acad D3W",
+        "away_team": "Volleywoodstars D3W"
       },
       {
         "matchday": "Matchday 2",
@@ -528,7 +537,7 @@
         "away_team": "Cork Volleyball Acad D3W"
       },
       {
-        "matchday": "Matchday 3",
+        "matchday": "Matchday 4",
         "sub_league": "League - D3W Group B",
         "date": "07/03/2026",
         "time": "17:30",
@@ -555,7 +564,7 @@
         "away_team": "Cavan Cats D3W"
       },
       {
-        "matchday": "Matchday 4",
+        "matchday": "Matchday 5",
         "sub_league": "League - D3W Group B",
         "date": "14/12/2025",
         "time": "19:00",
@@ -564,13 +573,13 @@
         "away_team": "Santry Aces D3W"
       },
       {
-        "matchday": "Matchday 5",
+        "matchday": "Matchday 3",
         "sub_league": "League - D3W Group B",
-        "date": "17/01/2026",
+        "date": "15/02/2026",
         "time": "14:30",
-        "venue": "St Mary's Community Centre",
-        "home_team": "Cavan Cats D3W",
-        "away_team": "Santry Phoenix D3W"
+        "venue": "Dunmanway Comm Sports Hall",
+        "home_team": "West Cork D3W",
+        "away_team": "Volleywoodstars D3W"
       },
       {
         "matchday": "Matchday 3",
@@ -602,7 +611,7 @@
     ],
     "League - D3W Group C": [
       {
-        "matchday": "Matchday 5",
+        "matchday": "Matchday 6",
         "sub_league": "League - D3W Group C",
         "date": "01/02/2026",
         "time": "16:30",
@@ -611,7 +620,7 @@
         "away_team": "Santry Aces D3W"
       },
       {
-        "matchday": "Matchday 6",
+        "matchday": "Matchday 7",
         "sub_league": "League - D3W Group C",
         "date": "06/12/2025",
         "time": "12:30",
@@ -649,6 +658,15 @@
       {
         "matchday": "Matchday 5",
         "sub_league": "League - D3W Group C",
+        "date": "17/01/2026",
+        "time": "14:30",
+        "venue": "St Mary's Community Centre",
+        "home_team": "Cavan Cats D3W",
+        "away_team": "Santry Phoenix D3W"
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - D3W Group C",
         "date": "20/01/2026",
         "time": "19:00",
         "venue": "Mercy College (Coolock)",
@@ -672,15 +690,6 @@
         "venue": "St Mary's Community Centre",
         "home_team": "Cavan Cats D3W",
         "away_team": "Aer Lingus Hawks"
-      },
-      {
-        "matchday": "Matchday 7",
-        "sub_league": "League - D3W Group C",
-        "date": "26/10/2025",
-        "time": "14:45",
-        "venue": "Ennistymon Community Centre",
-        "home_team": "Burren D3W",
-        "away_team": "Midlands D3W"
       },
       {
         "matchday": "Matchday 7",
@@ -748,7 +757,7 @@
         "away_team": "Burren D3W"
       },
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D3W Group D",
         "date": "15/11/2025",
         "time": "11:30",
@@ -757,7 +766,7 @@
         "away_team": "Munster Thunder D3W"
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D3W Group D",
         "date": "18/01/2026",
         "time": "14:45",
@@ -791,6 +800,15 @@
         "venue": "Mountrath Community School",
         "home_team": "Midlands D3W",
         "away_team": "Burren D3W"
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D3W Group D",
+        "date": "26/10/2025",
+        "time": "14:45",
+        "venue": "Ennistymon Community Centre",
+        "home_team": "Burren D3W",
+        "away_team": "Midlands D3W"
       },
       {
         "matchday": "Matchday 8",
@@ -846,7 +864,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 2",
+        "matchday": "Matchday 3",
         "sub_league": "League - D3W Group A",
         "date": "14/02/2026",
         "time": "12:30",
@@ -898,7 +916,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 3",
+        "matchday": "Matchday 4",
         "sub_league": "League - D3W Group B",
         "date": "07/03/2026",
         "time": "17:30",
@@ -929,7 +947,7 @@
       },
       {
         "matchday": "Matchday 3",
-        "sub_league": "League - D3W Group A",
+        "sub_league": "League - D3W Group B",
         "date": "15/02/2026",
         "time": "14:30",
         "venue": "Dunmanway Comm Sports Hall",
@@ -938,7 +956,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 1",
+        "matchday": "Matchday 2",
         "sub_league": "League - D3W Group A",
         "date": "15/12/2025",
         "time": "19:30",
@@ -946,6 +964,48 @@
         "home_team": "OVC Mermaids",
         "away_team": "West Cork D3W",
         "is_home": false
+      }
+    ],
+    "Cork Volleyball Acad D3W": [
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - D3W Group A",
+        "date": "04/01/2026",
+        "time": "15:30",
+        "venue": "Dunmanway Comm Sports Hall",
+        "home_team": "West Cork D3W",
+        "away_team": "Cork Volleyball Acad D3W",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D3W Group B",
+        "date": "07/03/2026",
+        "time": "12:30",
+        "venue": "St Mary's Parish Hall",
+        "home_team": "Phoenix Killarney D3W",
+        "away_team": "Cork Volleyball Acad D3W",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3W Group A",
+        "date": "07/12/2025",
+        "time": "17:30",
+        "venue": "Coláiste Chríost Rí",
+        "home_team": "Volleywoodstars D3W",
+        "away_team": "Cork Volleyball Acad D3W",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3W Group A",
+        "date": "22/11/2025",
+        "time": "19:30",
+        "venue": "Coláiste Chríost Rí",
+        "home_team": "Cork Volleyball Acad D3W",
+        "away_team": "Volleywoodstars D3W",
+        "is_home": true
       }
     ],
     "Volleywoodstars D3W": [
@@ -960,7 +1020,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 3",
+        "matchday": "Matchday 4",
         "sub_league": "League - D3W Group B",
         "date": "07/03/2026",
         "time": "17:30",
@@ -981,7 +1041,7 @@
       },
       {
         "matchday": "Matchday 3",
-        "sub_league": "League - D3W Group A",
+        "sub_league": "League - D3W Group B",
         "date": "15/02/2026",
         "time": "14:30",
         "venue": "Dunmanway Comm Sports Hall",
@@ -998,6 +1058,16 @@
         "home_team": "Volleywoodstars D3W",
         "away_team": "Phoenix Killarney D3W",
         "is_home": true
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - D3W Group A",
+        "date": "22/11/2025",
+        "time": "19:30",
+        "venue": "Coláiste Chríost Rí",
+        "home_team": "Cork Volleyball Acad D3W",
+        "away_team": "Volleywoodstars D3W",
+        "is_home": false
       },
       {
         "matchday": "Matchday 2",
@@ -1052,7 +1122,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 2",
+        "matchday": "Matchday 3",
         "sub_league": "League - D3W Group A",
         "date": "14/02/2026",
         "time": "12:30",
@@ -1062,7 +1132,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 1",
+        "matchday": "Matchday 2",
         "sub_league": "League - D3W Group A",
         "date": "15/12/2025",
         "time": "19:30",
@@ -1079,38 +1149,6 @@
         "venue": "James Kenneally Sports Hall",
         "home_team": "Volleywoodstars D3W",
         "away_team": "OVC Mermaids",
-        "is_home": false
-      }
-    ],
-    "Cork Volleyball Acad D3W": [
-      {
-        "matchday": "Matchday 2",
-        "sub_league": "League - D3W Group A",
-        "date": "04/01/2026",
-        "time": "15:30",
-        "venue": "Dunmanway Comm Sports Hall",
-        "home_team": "West Cork D3W",
-        "away_team": "Cork Volleyball Acad D3W",
-        "is_home": false
-      },
-      {
-        "matchday": "Matchday 3",
-        "sub_league": "League - D3W Group B",
-        "date": "07/03/2026",
-        "time": "12:30",
-        "venue": "St Mary's Parish Hall",
-        "home_team": "Phoenix Killarney D3W",
-        "away_team": "Cork Volleyball Acad D3W",
-        "is_home": false
-      },
-      {
-        "matchday": "Matchday 1",
-        "sub_league": "League - D3W Group A",
-        "date": "07/12/2025",
-        "time": "17:30",
-        "venue": "Coláiste Chríost Rí",
-        "home_team": "Volleywoodstars D3W",
-        "away_team": "Cork Volleyball Acad D3W",
         "is_home": false
       }
     ],
@@ -1188,7 +1226,7 @@
     ],
     "Santry Phoenix D3W": [
       {
-        "matchday": "Matchday 5",
+        "matchday": "Matchday 6",
         "sub_league": "League - D3W Group C",
         "date": "01/02/2026",
         "time": "16:30",
@@ -1198,7 +1236,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 4",
+        "matchday": "Matchday 5",
         "sub_league": "League - D3W Group B",
         "date": "14/12/2025",
         "time": "19:00",
@@ -1209,7 +1247,7 @@
       },
       {
         "matchday": "Matchday 5",
-        "sub_league": "League - D3W Group B",
+        "sub_league": "League - D3W Group C",
         "date": "17/01/2026",
         "time": "14:30",
         "venue": "St Mary's Community Centre",
@@ -1250,7 +1288,7 @@
     ],
     "Santry Aces D3W": [
       {
-        "matchday": "Matchday 5",
+        "matchday": "Matchday 6",
         "sub_league": "League - D3W Group C",
         "date": "01/02/2026",
         "time": "16:30",
@@ -1280,7 +1318,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 4",
+        "matchday": "Matchday 5",
         "sub_league": "League - D3W Group B",
         "date": "14/12/2025",
         "time": "19:00",
@@ -1343,7 +1381,7 @@
       },
       {
         "matchday": "Matchday 5",
-        "sub_league": "League - D3W Group B",
+        "sub_league": "League - D3W Group C",
         "date": "17/01/2026",
         "time": "14:30",
         "venue": "St Mary's Community Centre",
@@ -1418,7 +1456,7 @@
     ],
     "IADT Turtles D3W": [
       {
-        "matchday": "Matchday 6",
+        "matchday": "Matchday 7",
         "sub_league": "League - D3W Group C",
         "date": "06/12/2025",
         "time": "12:30",
@@ -1460,7 +1498,7 @@
     ],
     "Dalkey Devils D3W": [
       {
-        "matchday": "Matchday 6",
+        "matchday": "Matchday 7",
         "sub_league": "League - D3W Group C",
         "date": "06/12/2025",
         "time": "12:30",
@@ -1502,7 +1540,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D3W Group D",
         "date": "18/01/2026",
         "time": "14:45",
@@ -1533,7 +1571,7 @@
       },
       {
         "matchday": "Matchday 7",
-        "sub_league": "League - D3W Group C",
+        "sub_league": "League - D3W Group D",
         "date": "26/10/2025",
         "time": "14:45",
         "venue": "Ennistymon Community Centre",
@@ -1595,7 +1633,7 @@
       },
       {
         "matchday": "Matchday 7",
-        "sub_league": "League - D3W Group C",
+        "sub_league": "League - D3W Group D",
         "date": "26/10/2025",
         "time": "14:45",
         "venue": "Ennistymon Community Centre",
@@ -1626,7 +1664,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D3W Group D",
         "date": "15/11/2025",
         "time": "11:30",
@@ -1636,7 +1674,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D3W Group D",
         "date": "18/01/2026",
         "time": "14:45",
@@ -1688,7 +1726,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D3W Group D",
         "date": "15/11/2025",
         "time": "11:30",
@@ -1720,7 +1758,7 @@
     ]
   },
   "metadata": {
-    "total_fixtures": 44,
+    "total_fixtures": 45,
     "source": "VIR Competition Matches",
     "sub_league_count": 4,
     "competition_name": "Women's Division 3",
@@ -1750,7 +1788,7 @@
       "League - D3W Group D"
     ]
   },
-  "lastUpdated": "2025-11-21T20:27:54.125Z",
+  "lastUpdated": "2025-11-28T00:00:26.026Z",
   "dataVersion": "1.0",
   "source": "VIR Competition Matches"
 }
