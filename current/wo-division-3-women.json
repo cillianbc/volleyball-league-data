@@ -2,7 +2,7 @@
   "league": "Women's Division 3",
   "totalTeams": 9,
   "subLeagueCount": 4,
-  "extractedAt": "2025-11-21T20:28:47.661Z",
+  "extractedAt": "2025-12-05T00:00:08.803Z",
   "subLeagues": [
     {
       "name": "League - D3W Group A",
@@ -10,8 +10,8 @@
       "teams": [
         {
           "position": 1,
-          "teamId": "325",
-          "teamName": "Cork Volleyball Acad D3W",
+          "teamId": "393",
+          "teamName": "Octopus D3W",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -38,8 +38,8 @@
         },
         {
           "position": 2,
-          "teamId": "329",
-          "teamName": "Volleywoodstars D3W",
+          "teamId": "325",
+          "teamName": "Cork Volleyball Acad D3W",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -162,8 +162,8 @@
       "teams": [
         {
           "position": 1,
-          "teamId": "411",
-          "teamName": "Dalkey Devils D3W",
+          "teamId": "412",
+          "teamName": "Naas Cobras D3W",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -190,8 +190,8 @@
         },
         {
           "position": 2,
-          "teamId": "412",
-          "teamName": "Naas Cobras D3W",
+          "teamId": "328",
+          "teamName": "IADT Turtles D3W",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -224,8 +224,8 @@
       "teams": [
         {
           "position": 1,
-          "teamId": "395",
-          "teamName": "Midlands D3W",
+          "teamId": "341",
+          "teamName": "Munster Thunder D3W",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -284,8 +284,8 @@
   "teams": [
     {
       "position": 1,
-      "teamId": "325",
-      "teamName": "Cork Volleyball Acad D3W",
+      "teamId": "393",
+      "teamName": "Octopus D3W",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -314,8 +314,8 @@
     },
     {
       "position": 2,
-      "teamId": "329",
-      "teamName": "Volleywoodstars D3W",
+      "teamId": "325",
+      "teamName": "Cork Volleyball Acad D3W",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -434,36 +434,6 @@
     },
     {
       "position": 1,
-      "teamId": "411",
-      "teamName": "Dalkey Devils D3W",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D3W Group C",
-      "championshipId": "102"
-    },
-    {
-      "position": 2,
       "teamId": "412",
       "teamName": "Naas Cobras D3W",
       "logoUrl": "",
@@ -493,9 +463,39 @@
       "championshipId": "102"
     },
     {
+      "position": 2,
+      "teamId": "328",
+      "teamName": "IADT Turtles D3W",
+      "logoUrl": "",
+      "points": 0,
+      "detailedStats": {
+        "rankingPoints": 0,
+        "matchesPlayed": 0,
+        "matchesWon": 0,
+        "matchesLost": 0,
+        "setsWon": 0,
+        "setsLost": 0,
+        "pointsWon": 0,
+        "pointsLost": 0,
+        "results": {
+          "wins3_0": 0,
+          "wins3_1": 0,
+          "wins3_2": 0,
+          "losses2_3": 0,
+          "losses1_3": 0,
+          "losses0_3": 0
+        },
+        "setRatio": 0,
+        "pointRatio": 0,
+        "penalty": "-"
+      },
+      "subLeague": "League - D3W Group C",
+      "championshipId": "102"
+    },
+    {
       "position": 1,
-      "teamId": "395",
-      "teamName": "Midlands D3W",
+      "teamId": "341",
+      "teamName": "Munster Thunder D3W",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -553,7 +553,7 @@
       "championshipId": "109"
     }
   ],
-  "lastUpdated": "2025-11-21T20:28:47.926Z",
+  "lastUpdated": "2025-12-05T00:00:09.101Z",
   "dataVersion": "2.0",
   "source": "VIR Volleyball Standings",
   "schemaInfo": {
