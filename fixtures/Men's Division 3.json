@@ -146,7 +146,7 @@
     },
     {
       "matchday": "Matchday 4",
-      "sub_league": "League - D3M Group B",
+      "sub_league": "League - D3M Group A",
       "date": "22/02/2026",
       "time": "14:30",
       "venue": "Barnacarroll Comm Sports Centre",
@@ -237,6 +237,15 @@
     {
       "matchday": "Matchday 6",
       "sub_league": "League - D3M Group B",
+      "date": "17/01/2026",
+      "time": "13:30",
+      "venue": "Collinstown Sports Complex",
+      "home_team": "IVI Dragons D3M",
+      "away_team": "Balbriggan D3M"
+    },
+    {
+      "matchday": "Matchday 6",
+      "sub_league": "League - D3M Group B",
       "date": "01/02/2026",
       "time": "11:00",
       "venue": "Collinstown Sports Complex",
@@ -262,7 +271,7 @@
       "away_team": "IVI Dragons D3M"
     },
     {
-      "matchday": "Matchday 6",
+      "matchday": "Matchday 7",
       "sub_league": "League - D3M Group B",
       "date": "15/02/2026",
       "time": "10:30",
@@ -290,7 +299,7 @@
     },
     {
       "matchday": "Matchday 7",
-      "sub_league": "League - D3M Group C",
+      "sub_league": "League - D3M Group B",
       "date": "18/10/2025",
       "time": "16:30",
       "venue": "James Kenneally Sports Hall",
@@ -307,7 +316,7 @@
       "away_team": "Clonmel D3M"
     },
     {
-      "matchday": "Matchday 7",
+      "matchday": "Matchday 8",
       "sub_league": "League - D3M Group C",
       "date": "08/11/2025",
       "time": "13:00",
@@ -352,7 +361,7 @@
       "away_team": "VolleywoodComets D3M"
     },
     {
-      "matchday": "Matchday 8",
+      "matchday": "Matchday 9",
       "sub_league": "League - D3M Group C",
       "date": "13/12/2025",
       "time": "15:30",
@@ -397,7 +406,7 @@
       "away_team": "Clonmel D3M"
     },
     {
-      "matchday": "Matchday 9",
+      "matchday": "Matchday 10",
       "sub_league": "League - D3M Group C",
       "date": "24/01/2026",
       "time": "17:30",
@@ -434,7 +443,7 @@
     },
     {
       "matchday": "Matchday 10",
-      "sub_league": "League - D3M Group D",
+      "sub_league": "League - D3M Group C",
       "date": "21/02/2026",
       "time": "11:30",
       "venue": "James Kenneally Sports Hall",
@@ -442,8 +451,8 @@
       "away_team": "Kilkenny Spartans D3M"
     },
     {
-      "matchday": "Matchday 10",
-      "sub_league": "League - D3M Group D",
+      "matchday": "Matchday 11",
+      "sub_league": "League - D3M Group C",
       "date": "21/02/2026",
       "time": "17:30",
       "venue": "James Kenneally Sports Hall",
@@ -487,7 +496,7 @@
       "away_team": "Phoenix Killarney D3M"
     },
     {
-      "matchday": "Matchday 11",
+      "matchday": "Matchday 12",
       "sub_league": "League - D3M Group D",
       "date": "29/11/2025",
       "time": "15:30",
@@ -517,7 +526,7 @@
       "matchday": "Matchday 12",
       "sub_league": "League - D3M Group D",
       "date": "14/12/2025",
-      "time": "14:30",
+      "time": "15:30",
       "venue": "Scoil Íosagáin Farranree",
       "home_team": "Cork Lions D3M",
       "away_team": "Octopus D3M"
@@ -532,7 +541,7 @@
       "away_team": "Sharks W Cork D3M"
     },
     {
-      "matchday": "Matchday 12",
+      "matchday": "Matchday 13",
       "sub_league": "League - D3M Group D",
       "date": "04/01/2026",
       "time": "11:30",
@@ -561,6 +570,15 @@
     {
       "matchday": "Matchday 13",
       "sub_league": "League - D3M Group D",
+      "date": "07/02/2026",
+      "time": "19:30",
+      "venue": "Coláiste Chríost Rí",
+      "home_team": "Cork Lions D3M",
+      "away_team": "Cork Volleyball Acad D3M"
+    },
+    {
+      "matchday": "Matchday 13",
+      "sub_league": "League - D3M Group D",
       "date": "08/02/2026",
       "time": "14:00",
       "venue": "Dunmanway Comm Sports Hall",
@@ -568,7 +586,7 @@
       "away_team": "Phoenix Killarney D3M"
     },
     {
-      "matchday": "Matchday 13",
+      "matchday": "Matchday 14",
       "sub_league": "League - D3M Group D",
       "date": "14/02/2026",
       "time": "15:00",
@@ -577,8 +595,8 @@
       "away_team": "Phoenix Killarney D3M"
     },
     {
-      "matchday": "Matchday 13",
-      "sub_league": "League - D3M Group E",
+      "matchday": "Matchday 14",
+      "sub_league": "League - D3M Group D",
       "date": "07/03/2026",
       "time": "15:00",
       "venue": "St Mary's Parish Hall",
@@ -587,7 +605,7 @@
     },
     {
       "matchday": "Matchday 14",
-      "sub_league": "League - D3M Group E",
+      "sub_league": "League - D3M Group D",
       "date": "18/10/2025",
       "time": "12:30",
       "venue": "Phoenix Sports Centre (Maynooth Univ)",
@@ -613,7 +631,7 @@
       "away_team": "Midlands D3M"
     },
     {
-      "matchday": "Matchday 14",
+      "matchday": "Matchday 15",
       "sub_league": "League - D3M Group E",
       "date": "16/11/2025",
       "time": "12:30",
@@ -622,7 +640,7 @@
       "away_team": "Dalkey Devils D3M"
     },
     {
-      "matchday": "Matchday 14",
+      "matchday": "Matchday 15",
       "sub_league": "League - D3M Group E",
       "date": "23/11/2025",
       "time": "14:00",
@@ -643,13 +661,22 @@
       "matchday": "Matchday 15",
       "sub_league": "League - D3M Group E",
       "date": "06/12/2025",
+      "time": "12:00",
+      "venue": "Phoenix Sports Centre (Maynooth Univ)",
+      "home_team": "Jackals D3M",
+      "away_team": "Naas Cobras D3M"
+    },
+    {
+      "matchday": "Matchday 15",
+      "sub_league": "League - D3M Group E",
+      "date": "06/12/2025",
       "time": "15:00",
       "venue": "St Kilian's German Sch/Eurocampus",
       "home_team": "IADT Turtles D3M",
       "away_team": "Dalkey Devils D3M"
     },
     {
-      "matchday": "Matchday 15",
+      "matchday": "Matchday 16",
       "sub_league": "League - D3M Group E",
       "date": "14/12/2025",
       "time": "18:00",
@@ -658,16 +685,16 @@
       "away_team": "Jackals D3M"
     },
     {
-      "matchday": "Matchday 15",
+      "matchday": "Matchday 16",
       "sub_league": "League - D3M Group E",
       "date": "18/01/2026",
-      "time": "13:30",
+      "time": "11:00",
       "venue": "Castle Park School",
       "home_team": "Dalkey Devils D3M",
       "away_team": "Naas Cobras D3M"
     },
     {
-      "matchday": "Matchday 15",
+      "matchday": "Matchday 16",
       "sub_league": "League - D3M Group E",
       "date": "25/01/2026",
       "time": "13:30",
@@ -694,7 +721,7 @@
       "away_team": "IADT Turtles D3M"
     },
     {
-      "matchday": "Matchday 16",
+      "matchday": "Matchday 17",
       "sub_league": "League - D3M Group E",
       "date": "14/02/2026",
       "time": "13:00",
@@ -703,7 +730,7 @@
       "away_team": "Jackals D3M"
     },
     {
-      "matchday": "Matchday 16",
+      "matchday": "Matchday 17",
       "sub_league": "League - D3M Group E",
       "date": "22/02/2026",
       "time": "16:00",
@@ -712,7 +739,7 @@
       "away_team": "Jackals D3M"
     },
     {
-      "matchday": "Matchday 16",
+      "matchday": "Matchday 17",
       "sub_league": "League - D3M Group E",
       "date": "28/02/2026",
       "time": "15:00",
@@ -832,6 +859,15 @@
         "away_team": "Carrick Crows D3M"
       },
       {
+        "matchday": "Matchday 4",
+        "sub_league": "League - D3M Group A",
+        "date": "22/02/2026",
+        "time": "14:30",
+        "venue": "Barnacarroll Comm Sports Centre",
+        "home_team": "Mayo D3M",
+        "away_team": "Cavan Cats D3M"
+      },
+      {
         "matchday": "Matchday 2",
         "sub_league": "League - D3M Group A",
         "date": "23/11/2025",
@@ -942,7 +978,7 @@
         "away_team": "RCSI D3M"
       },
       {
-        "matchday": "Matchday 6",
+        "matchday": "Matchday 7",
         "sub_league": "League - D3M Group B",
         "date": "15/02/2026",
         "time": "10:30",
@@ -978,6 +1014,15 @@
         "away_team": "Balbriggan D3M"
       },
       {
+        "matchday": "Matchday 6",
+        "sub_league": "League - D3M Group B",
+        "date": "17/01/2026",
+        "time": "13:30",
+        "venue": "Collinstown Sports Complex",
+        "home_team": "IVI Dragons D3M",
+        "away_team": "Balbriggan D3M"
+      },
+      {
         "matchday": "Matchday 4",
         "sub_league": "League - D3M Group B",
         "date": "18/10/2025",
@@ -987,13 +1032,13 @@
         "away_team": "Crumlin ieSpike"
       },
       {
-        "matchday": "Matchday 4",
+        "matchday": "Matchday 7",
         "sub_league": "League - D3M Group B",
-        "date": "22/02/2026",
-        "time": "14:30",
-        "venue": "Barnacarroll Comm Sports Centre",
-        "home_team": "Mayo D3M",
-        "away_team": "Cavan Cats D3M"
+        "date": "18/10/2025",
+        "time": "16:30",
+        "venue": "James Kenneally Sports Hall",
+        "home_team": "VolleywoodComets D3M",
+        "away_team": "VolleywoodStars D3M"
       },
       {
         "matchday": "Matchday 5",
@@ -1052,7 +1097,7 @@
         "away_team": "VolleywoodStars D3M"
       },
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D3M Group C",
         "date": "08/11/2025",
         "time": "13:00",
@@ -1079,7 +1124,7 @@
         "away_team": "Youghal D3M"
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D3M Group C",
         "date": "13/12/2025",
         "time": "15:30",
@@ -1124,13 +1169,22 @@
         "away_team": "VolleywoodStars D3M"
       },
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 10",
         "sub_league": "League - D3M Group C",
-        "date": "18/10/2025",
-        "time": "16:30",
+        "date": "21/02/2026",
+        "time": "11:30",
         "venue": "James Kenneally Sports Hall",
         "home_team": "VolleywoodComets D3M",
-        "away_team": "VolleywoodStars D3M"
+        "away_team": "Kilkenny Spartans D3M"
+      },
+      {
+        "matchday": "Matchday 11",
+        "sub_league": "League - D3M Group C",
+        "date": "21/02/2026",
+        "time": "17:30",
+        "venue": "James Kenneally Sports Hall",
+        "home_team": "VolleywoodStars D3M",
+        "away_team": "Youghal D3M"
       },
       {
         "matchday": "Matchday 9",
@@ -1142,7 +1196,7 @@
         "away_team": "Clonmel D3M"
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 10",
         "sub_league": "League - D3M Group C",
         "date": "24/01/2026",
         "time": "17:30",
@@ -1171,7 +1225,7 @@
     ],
     "League - D3M Group D": [
       {
-        "matchday": "Matchday 12",
+        "matchday": "Matchday 13",
         "sub_league": "League - D3M Group D",
         "date": "04/01/2026",
         "time": "11:30",
@@ -1187,6 +1241,15 @@
         "venue": "St Mary's Parish Hall",
         "home_team": "Phoenix Killarney D3M",
         "away_team": "Octopus D3M"
+      },
+      {
+        "matchday": "Matchday 13",
+        "sub_league": "League - D3M Group D",
+        "date": "07/02/2026",
+        "time": "19:30",
+        "venue": "Coláiste Chríost Rí",
+        "home_team": "Cork Lions D3M",
+        "away_team": "Cork Volleyball Acad D3M"
       },
       {
         "matchday": "Matchday 11",
@@ -1205,6 +1268,15 @@
         "venue": "James Kenneally Sports Hall",
         "home_team": "VolleywoodStars D3M",
         "away_team": "Clonmel D3M"
+      },
+      {
+        "matchday": "Matchday 14",
+        "sub_league": "League - D3M Group D",
+        "date": "07/03/2026",
+        "time": "15:00",
+        "venue": "St Mary's Parish Hall",
+        "home_team": "Phoenix Killarney D3M",
+        "away_team": "Cork Volleyball Acad D3M"
       },
       {
         "matchday": "Matchday 13",
@@ -1243,7 +1315,7 @@
         "away_team": "Sharks W Cork D3M"
       },
       {
-        "matchday": "Matchday 13",
+        "matchday": "Matchday 14",
         "sub_league": "League - D3M Group D",
         "date": "14/02/2026",
         "time": "15:00",
@@ -1255,7 +1327,7 @@
         "matchday": "Matchday 12",
         "sub_league": "League - D3M Group D",
         "date": "14/12/2025",
-        "time": "14:30",
+        "time": "15:30",
         "venue": "Scoil Íosagáin Farranree",
         "home_team": "Cork Lions D3M",
         "away_team": "Octopus D3M"
@@ -1270,22 +1342,13 @@
         "away_team": "Phoenix Killarney D3M"
       },
       {
-        "matchday": "Matchday 10",
+        "matchday": "Matchday 14",
         "sub_league": "League - D3M Group D",
-        "date": "21/02/2026",
-        "time": "11:30",
-        "venue": "James Kenneally Sports Hall",
-        "home_team": "VolleywoodComets D3M",
-        "away_team": "Kilkenny Spartans D3M"
-      },
-      {
-        "matchday": "Matchday 10",
-        "sub_league": "League - D3M Group D",
-        "date": "21/02/2026",
-        "time": "17:30",
-        "venue": "James Kenneally Sports Hall",
-        "home_team": "VolleywoodStars D3M",
-        "away_team": "Youghal D3M"
+        "date": "18/10/2025",
+        "time": "12:30",
+        "venue": "Phoenix Sports Centre (Maynooth Univ)",
+        "home_team": "Jackals D3M",
+        "away_team": "IADT Turtles D3M"
       },
       {
         "matchday": "Matchday 12",
@@ -1306,7 +1369,7 @@
         "away_team": "Cork Lions D3M"
       },
       {
-        "matchday": "Matchday 11",
+        "matchday": "Matchday 12",
         "sub_league": "League - D3M Group D",
         "date": "29/11/2025",
         "time": "15:30",
@@ -1338,19 +1401,19 @@
         "matchday": "Matchday 15",
         "sub_league": "League - D3M Group E",
         "date": "06/12/2025",
+        "time": "12:00",
+        "venue": "Phoenix Sports Centre (Maynooth Univ)",
+        "home_team": "Jackals D3M",
+        "away_team": "Naas Cobras D3M"
+      },
+      {
+        "matchday": "Matchday 15",
+        "sub_league": "League - D3M Group E",
+        "date": "06/12/2025",
         "time": "15:00",
         "venue": "St Kilian's German Sch/Eurocampus",
         "home_team": "IADT Turtles D3M",
         "away_team": "Dalkey Devils D3M"
-      },
-      {
-        "matchday": "Matchday 13",
-        "sub_league": "League - D3M Group E",
-        "date": "07/03/2026",
-        "time": "15:00",
-        "venue": "St Mary's Parish Hall",
-        "home_team": "Phoenix Killarney D3M",
-        "away_team": "Cork Volleyball Acad D3M"
       },
       {
         "matchday": "Matchday 16",
@@ -1371,7 +1434,7 @@
         "away_team": "Naas Pythons D3M"
       },
       {
-        "matchday": "Matchday 16",
+        "matchday": "Matchday 17",
         "sub_league": "League - D3M Group E",
         "date": "14/02/2026",
         "time": "13:00",
@@ -1380,7 +1443,7 @@
         "away_team": "Jackals D3M"
       },
       {
-        "matchday": "Matchday 15",
+        "matchday": "Matchday 16",
         "sub_league": "League - D3M Group E",
         "date": "14/12/2025",
         "time": "18:00",
@@ -1398,7 +1461,7 @@
         "away_team": "Midlands D3M"
       },
       {
-        "matchday": "Matchday 14",
+        "matchday": "Matchday 15",
         "sub_league": "League - D3M Group E",
         "date": "16/11/2025",
         "time": "12:30",
@@ -1407,25 +1470,16 @@
         "away_team": "Dalkey Devils D3M"
       },
       {
-        "matchday": "Matchday 15",
+        "matchday": "Matchday 16",
         "sub_league": "League - D3M Group E",
         "date": "18/01/2026",
-        "time": "13:30",
+        "time": "11:00",
         "venue": "Castle Park School",
         "home_team": "Dalkey Devils D3M",
         "away_team": "Naas Cobras D3M"
       },
       {
-        "matchday": "Matchday 14",
-        "sub_league": "League - D3M Group E",
-        "date": "18/10/2025",
-        "time": "12:30",
-        "venue": "Phoenix Sports Centre (Maynooth Univ)",
-        "home_team": "Jackals D3M",
-        "away_team": "IADT Turtles D3M"
-      },
-      {
-        "matchday": "Matchday 16",
+        "matchday": "Matchday 17",
         "sub_league": "League - D3M Group E",
         "date": "22/02/2026",
         "time": "16:00",
@@ -1434,7 +1488,7 @@
         "away_team": "Jackals D3M"
       },
       {
-        "matchday": "Matchday 14",
+        "matchday": "Matchday 15",
         "sub_league": "League - D3M Group E",
         "date": "23/11/2025",
         "time": "14:00",
@@ -1443,7 +1497,7 @@
         "away_team": "IADT Turtles D3M"
       },
       {
-        "matchday": "Matchday 15",
+        "matchday": "Matchday 16",
         "sub_league": "League - D3M Group E",
         "date": "25/01/2026",
         "time": "13:30",
@@ -1452,7 +1506,7 @@
         "away_team": "Jackals D3M"
       },
       {
-        "matchday": "Matchday 16",
+        "matchday": "Matchday 17",
         "sub_league": "League - D3M Group E",
         "date": "28/02/2026",
         "time": "15:00",
@@ -1751,7 +1805,7 @@
       },
       {
         "matchday": "Matchday 4",
-        "sub_league": "League - D3M Group B",
+        "sub_league": "League - D3M Group A",
         "date": "22/02/2026",
         "time": "14:30",
         "venue": "Barnacarroll Comm Sports Centre",
@@ -1813,7 +1867,7 @@
       },
       {
         "matchday": "Matchday 4",
-        "sub_league": "League - D3M Group B",
+        "sub_league": "League - D3M Group A",
         "date": "22/02/2026",
         "time": "14:30",
         "venue": "Barnacarroll Comm Sports Centre",
@@ -2070,7 +2124,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 6",
+        "matchday": "Matchday 7",
         "sub_league": "League - D3M Group B",
         "date": "15/02/2026",
         "time": "10:30",
@@ -2088,6 +2142,16 @@
         "home_team": "Celestials D3M",
         "away_team": "IVI Dragons D3M",
         "is_home": false
+      },
+      {
+        "matchday": "Matchday 6",
+        "sub_league": "League - D3M Group B",
+        "date": "17/01/2026",
+        "time": "13:30",
+        "venue": "Collinstown Sports Complex",
+        "home_team": "IVI Dragons D3M",
+        "away_team": "Balbriggan D3M",
+        "is_home": true
       },
       {
         "matchday": "Matchday 7",
@@ -2112,6 +2176,16 @@
         "is_home": false
       },
       {
+        "matchday": "Matchday 6",
+        "sub_league": "League - D3M Group B",
+        "date": "17/01/2026",
+        "time": "13:30",
+        "venue": "Collinstown Sports Complex",
+        "home_team": "IVI Dragons D3M",
+        "away_team": "Balbriggan D3M",
+        "is_home": false
+      },
+      {
         "matchday": "Matchday 5",
         "sub_league": "League - D3M Group B",
         "date": "22/11/2025",
@@ -2124,7 +2198,7 @@
     ],
     "Crumlin D3M": [
       {
-        "matchday": "Matchday 6",
+        "matchday": "Matchday 7",
         "sub_league": "League - D3M Group B",
         "date": "15/02/2026",
         "time": "10:30",
@@ -2156,7 +2230,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D3M Group C",
         "date": "08/11/2025",
         "time": "13:00",
@@ -2187,7 +2261,7 @@
       },
       {
         "matchday": "Matchday 7",
-        "sub_league": "League - D3M Group C",
+        "sub_league": "League - D3M Group B",
         "date": "18/10/2025",
         "time": "16:30",
         "venue": "James Kenneally Sports Hall",
@@ -2197,7 +2271,7 @@
       },
       {
         "matchday": "Matchday 10",
-        "sub_league": "League - D3M Group D",
+        "sub_league": "League - D3M Group C",
         "date": "21/02/2026",
         "time": "11:30",
         "venue": "James Kenneally Sports Hall",
@@ -2238,7 +2312,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D3M Group C",
         "date": "08/11/2025",
         "time": "13:00",
@@ -2269,7 +2343,7 @@
       },
       {
         "matchday": "Matchday 7",
-        "sub_league": "League - D3M Group C",
+        "sub_league": "League - D3M Group B",
         "date": "18/10/2025",
         "time": "16:30",
         "venue": "James Kenneally Sports Hall",
@@ -2278,8 +2352,8 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 10",
-        "sub_league": "League - D3M Group D",
+        "matchday": "Matchday 11",
+        "sub_league": "League - D3M Group C",
         "date": "21/02/2026",
         "time": "17:30",
         "venue": "James Kenneally Sports Hall",
@@ -2288,7 +2362,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 10",
         "sub_league": "League - D3M Group C",
         "date": "24/01/2026",
         "time": "17:30",
@@ -2341,7 +2415,7 @@
       },
       {
         "matchday": "Matchday 10",
-        "sub_league": "League - D3M Group D",
+        "sub_league": "League - D3M Group C",
         "date": "21/02/2026",
         "time": "11:30",
         "venue": "James Kenneally Sports Hall",
@@ -2350,7 +2424,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 10",
         "sub_league": "League - D3M Group C",
         "date": "24/01/2026",
         "time": "17:30",
@@ -2422,7 +2496,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D3M Group C",
         "date": "13/12/2025",
         "time": "15:30",
@@ -2504,7 +2578,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D3M Group C",
         "date": "13/12/2025",
         "time": "15:30",
@@ -2524,8 +2598,8 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 10",
-        "sub_league": "League - D3M Group D",
+        "matchday": "Matchday 11",
+        "sub_league": "League - D3M Group C",
         "date": "21/02/2026",
         "time": "17:30",
         "venue": "James Kenneally Sports Hall",
@@ -2576,7 +2650,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 13",
+        "matchday": "Matchday 14",
         "sub_league": "League - D3M Group D",
         "date": "14/02/2026",
         "time": "15:00",
@@ -2589,7 +2663,7 @@
         "matchday": "Matchday 12",
         "sub_league": "League - D3M Group D",
         "date": "14/12/2025",
-        "time": "14:30",
+        "time": "15:30",
         "venue": "Scoil Íosagáin Farranree",
         "home_team": "Cork Lions D3M",
         "away_team": "Octopus D3M",
@@ -2608,7 +2682,7 @@
     ],
     "Sharks W Cork D3M": [
       {
-        "matchday": "Matchday 12",
+        "matchday": "Matchday 13",
         "sub_league": "League - D3M Group D",
         "date": "04/01/2026",
         "time": "11:30",
@@ -2670,7 +2744,7 @@
     ],
     "Cork Lions D3M": [
       {
-        "matchday": "Matchday 12",
+        "matchday": "Matchday 13",
         "sub_league": "League - D3M Group D",
         "date": "04/01/2026",
         "time": "11:30",
@@ -2680,10 +2754,20 @@
         "is_home": false
       },
       {
+        "matchday": "Matchday 13",
+        "sub_league": "League - D3M Group D",
+        "date": "07/02/2026",
+        "time": "19:30",
+        "venue": "Coláiste Chríost Rí",
+        "home_team": "Cork Lions D3M",
+        "away_team": "Cork Volleyball Acad D3M",
+        "is_home": true
+      },
+      {
         "matchday": "Matchday 12",
         "sub_league": "League - D3M Group D",
         "date": "14/12/2025",
-        "time": "14:30",
+        "time": "15:30",
         "venue": "Scoil Íosagáin Farranree",
         "home_team": "Cork Lions D3M",
         "away_team": "Octopus D3M",
@@ -2720,7 +2804,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 11",
+        "matchday": "Matchday 12",
         "sub_league": "League - D3M Group D",
         "date": "29/11/2025",
         "time": "15:30",
@@ -2742,8 +2826,8 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 13",
-        "sub_league": "League - D3M Group E",
+        "matchday": "Matchday 14",
+        "sub_league": "League - D3M Group D",
         "date": "07/03/2026",
         "time": "15:00",
         "venue": "St Mary's Parish Hall",
@@ -2772,7 +2856,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 13",
+        "matchday": "Matchday 14",
         "sub_league": "League - D3M Group D",
         "date": "14/02/2026",
         "time": "15:00",
@@ -2792,7 +2876,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 11",
+        "matchday": "Matchday 12",
         "sub_league": "League - D3M Group D",
         "date": "29/11/2025",
         "time": "15:30",
@@ -2805,7 +2889,17 @@
     "Cork Volleyball Acad D3M": [
       {
         "matchday": "Matchday 13",
-        "sub_league": "League - D3M Group E",
+        "sub_league": "League - D3M Group D",
+        "date": "07/02/2026",
+        "time": "19:30",
+        "venue": "Coláiste Chríost Rí",
+        "home_team": "Cork Lions D3M",
+        "away_team": "Cork Volleyball Acad D3M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 14",
+        "sub_league": "League - D3M Group D",
         "date": "07/03/2026",
         "time": "15:00",
         "venue": "St Mary's Parish Hall",
@@ -2826,7 +2920,17 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 16",
+        "matchday": "Matchday 15",
+        "sub_league": "League - D3M Group E",
+        "date": "06/12/2025",
+        "time": "12:00",
+        "venue": "Phoenix Sports Centre (Maynooth Univ)",
+        "home_team": "Jackals D3M",
+        "away_team": "Naas Cobras D3M",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 17",
         "sub_league": "League - D3M Group E",
         "date": "14/02/2026",
         "time": "13:00",
@@ -2836,7 +2940,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 15",
+        "matchday": "Matchday 16",
         "sub_league": "League - D3M Group E",
         "date": "14/12/2025",
         "time": "18:00",
@@ -2846,7 +2950,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 14",
+        "matchday": "Matchday 15",
         "sub_league": "League - D3M Group E",
         "date": "16/11/2025",
         "time": "12:30",
@@ -2857,7 +2961,7 @@
       },
       {
         "matchday": "Matchday 14",
-        "sub_league": "League - D3M Group E",
+        "sub_league": "League - D3M Group D",
         "date": "18/10/2025",
         "time": "12:30",
         "venue": "Phoenix Sports Centre (Maynooth Univ)",
@@ -2866,7 +2970,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 16",
+        "matchday": "Matchday 17",
         "sub_league": "League - D3M Group E",
         "date": "22/02/2026",
         "time": "16:00",
@@ -2876,7 +2980,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 15",
+        "matchday": "Matchday 16",
         "sub_league": "League - D3M Group E",
         "date": "25/01/2026",
         "time": "13:30",
@@ -2908,7 +3012,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 16",
+        "matchday": "Matchday 17",
         "sub_league": "League - D3M Group E",
         "date": "14/02/2026",
         "time": "13:00",
@@ -2929,7 +3033,7 @@
       },
       {
         "matchday": "Matchday 14",
-        "sub_league": "League - D3M Group E",
+        "sub_league": "League - D3M Group D",
         "date": "18/10/2025",
         "time": "12:30",
         "venue": "Phoenix Sports Centre (Maynooth Univ)",
@@ -2938,7 +3042,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 14",
+        "matchday": "Matchday 15",
         "sub_league": "League - D3M Group E",
         "date": "23/11/2025",
         "time": "14:00",
@@ -2948,7 +3052,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 16",
+        "matchday": "Matchday 17",
         "sub_league": "League - D3M Group E",
         "date": "28/02/2026",
         "time": "15:00",
@@ -3000,7 +3104,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 16",
+        "matchday": "Matchday 17",
         "sub_league": "League - D3M Group E",
         "date": "22/02/2026",
         "time": "16:00",
@@ -3010,7 +3114,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 14",
+        "matchday": "Matchday 15",
         "sub_league": "League - D3M Group E",
         "date": "23/11/2025",
         "time": "14:00",
@@ -3062,7 +3166,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 14",
+        "matchday": "Matchday 15",
         "sub_league": "League - D3M Group E",
         "date": "16/11/2025",
         "time": "12:30",
@@ -3072,17 +3176,17 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 15",
+        "matchday": "Matchday 16",
         "sub_league": "League - D3M Group E",
         "date": "18/01/2026",
-        "time": "13:30",
+        "time": "11:00",
         "venue": "Castle Park School",
         "home_team": "Dalkey Devils D3M",
         "away_team": "Naas Cobras D3M",
         "is_home": true
       },
       {
-        "matchday": "Matchday 15",
+        "matchday": "Matchday 16",
         "sub_league": "League - D3M Group E",
         "date": "25/01/2026",
         "time": "13:30",
@@ -3106,6 +3210,16 @@
       {
         "matchday": "Matchday 15",
         "sub_league": "League - D3M Group E",
+        "date": "06/12/2025",
+        "time": "12:00",
+        "venue": "Phoenix Sports Centre (Maynooth Univ)",
+        "home_team": "Jackals D3M",
+        "away_team": "Naas Cobras D3M",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 16",
+        "sub_league": "League - D3M Group E",
         "date": "14/12/2025",
         "time": "18:00",
         "venue": "St Mary's College (Naas)",
@@ -3114,17 +3228,17 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 15",
+        "matchday": "Matchday 16",
         "sub_league": "League - D3M Group E",
         "date": "18/01/2026",
-        "time": "13:30",
+        "time": "11:00",
         "venue": "Castle Park School",
         "home_team": "Dalkey Devils D3M",
         "away_team": "Naas Cobras D3M",
         "is_home": false
       },
       {
-        "matchday": "Matchday 16",
+        "matchday": "Matchday 17",
         "sub_league": "League - D3M Group E",
         "date": "28/02/2026",
         "time": "15:00",
@@ -3148,7 +3262,7 @@
     ]
   },
   "metadata": {
-    "total_fixtures": 81,
+    "total_fixtures": 84,
     "source": "VIR Competition Matches",
     "sub_league_count": 5,
     "competition_name": "Men's Division 3",
@@ -3189,7 +3303,7 @@
       "League - D3M Group E"
     ]
   },
-  "lastUpdated": "2025-11-21T20:29:02.565Z",
+  "lastUpdated": "2025-12-05T00:00:27.038Z",
   "dataVersion": "1.0",
   "source": "VIR Competition Matches"
 }
