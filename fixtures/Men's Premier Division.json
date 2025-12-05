@@ -192,17 +192,8 @@
     {
       "matchday": "Matchday 5",
       "sub_league": "League - PM",
-      "date": "30/11/2025",
-      "time": "16:00",
-      "venue": "ALSAA",
-      "home_team": "Aer Lingus PM",
-      "away_team": "TCD PM"
-    },
-    {
-      "matchday": "Matchday 5",
-      "sub_league": "League - PM",
       "date": "06/12/2025",
-      "time": "14:00",
+      "time": "15:00",
       "venue": "Tech University Dublin, Tallaght",
       "home_team": "Ireland Men's U20",
       "away_team": "DVC Bravo"
@@ -215,6 +206,15 @@
       "venue": "Tech University Dublin, Tallaght",
       "home_team": "Ireland Men's U20",
       "away_team": "Aer Lingus PM"
+    },
+    {
+      "matchday": "Matchday 5",
+      "sub_league": "League - PM",
+      "date": "27/02/2026",
+      "time": "20:30",
+      "venue": "ALSAA",
+      "home_team": "Aer Lingus PM",
+      "away_team": "TCD PM"
     },
     {
       "matchday": "Matchday 5",
@@ -619,7 +619,7 @@
         "matchday": "Matchday 5",
         "sub_league": "League - PM",
         "date": "06/12/2025",
-        "time": "14:00",
+        "time": "15:00",
         "venue": "Tech University Dublin, Tallaght",
         "home_team": "Ireland Men's U20",
         "away_team": "DVC Bravo"
@@ -1102,6 +1102,15 @@
         "away_team": "Gardians Fianna"
       },
       {
+        "matchday": "Matchday 5",
+        "sub_league": "League - PM",
+        "date": "27/02/2026",
+        "time": "20:30",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus PM",
+        "away_team": "TCD PM"
+      },
+      {
         "matchday": "Matchday 10",
         "sub_league": "League - PM",
         "date": "28/02/2026",
@@ -1136,15 +1145,6 @@
         "venue": "Castlelands Community Centre",
         "home_team": "Balbriggan Eagles",
         "away_team": "Tallaght Rockets PM"
-      },
-      {
-        "matchday": "Matchday 5",
-        "sub_league": "League - PM",
-        "date": "30/11/2025",
-        "time": "16:00",
-        "venue": "ALSAA",
-        "home_team": "Aer Lingus PM",
-        "away_team": "TCD PM"
       },
       {
         "matchday": "Matchday 7",
@@ -1596,8 +1596,8 @@
       {
         "matchday": "Matchday 5",
         "sub_league": "League - PM",
-        "date": "30/11/2025",
-        "time": "16:00",
+        "date": "27/02/2026",
+        "time": "20:30",
         "venue": "ALSAA",
         "home_team": "Aer Lingus PM",
         "away_team": "TCD PM",
@@ -1910,8 +1910,8 @@
       {
         "matchday": "Matchday 5",
         "sub_league": "League - PM",
-        "date": "30/11/2025",
-        "time": "16:00",
+        "date": "27/02/2026",
+        "time": "20:30",
         "venue": "ALSAA",
         "home_team": "Aer Lingus PM",
         "away_team": "TCD PM",
@@ -2085,7 +2085,7 @@
         "matchday": "Matchday 5",
         "sub_league": "League - PM",
         "date": "06/12/2025",
-        "time": "14:00",
+        "time": "15:00",
         "venue": "Tech University Dublin, Tallaght",
         "home_team": "Ireland Men's U20",
         "away_team": "DVC Bravo",
@@ -2389,7 +2389,7 @@
         "matchday": "Matchday 5",
         "sub_league": "League - PM",
         "date": "06/12/2025",
-        "time": "14:00",
+        "time": "15:00",
         "venue": "Tech University Dublin, Tallaght",
         "home_team": "Ireland Men's U20",
         "away_team": "DVC Bravo",
@@ -2477,7 +2477,7 @@
       "League - PM"
     ]
   },
-  "lastUpdated": "2025-11-21T20:27:45.738Z",
+  "lastUpdated": "2025-12-05T00:00:15.813Z",
   "dataVersion": "1.0",
   "source": "VIR Competition Matches"
 }
