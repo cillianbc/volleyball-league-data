@@ -4,32 +4,32 @@
   "teams": [
     {
       "league": "Men's Premier Division",
-      "teamId": "346",
-      "teamName": "Gardians Fianna",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_346.jpg",
-      "rankingPoints": 6,
+      "teamId": "318",
+      "teamName": "TCD PM",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_318.jpg",
+      "rankingPoints": 7,
       "matches": {
-        "played": 5,
-        "won": 2,
-        "lost": 3
+        "played": 4,
+        "won": 3,
+        "lost": 1
       },
       "sets": {
         "won": 9,
-        "lost": 10,
-        "ratio": 0.9
+        "lost": 8,
+        "ratio": 1.12
       },
       "points": {
-        "won": 447,
-        "lost": 451,
-        "ratio": 0.991
+        "won": 359,
+        "lost": 361,
+        "ratio": 0.994
       },
       "resultsBreakdown": {
-        "wins3_0": 1,
+        "wins3_0": 0,
         "wins3_1": 1,
-        "wins3_2": 0,
+        "wins3_2": 2,
         "losses2_3": 0,
-        "losses1_3": 3,
-        "losses0_3": 0
+        "losses1_3": 0,
+        "losses0_3": 1
       },
       "penalty": null,
       "position": 1
@@ -73,19 +73,19 @@
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_347.jpg",
       "rankingPoints": 3,
       "matches": {
-        "played": 4,
+        "played": 5,
         "won": 1,
-        "lost": 3
+        "lost": 4
       },
       "sets": {
         "won": 4,
-        "lost": 10,
-        "ratio": 0.4
+        "lost": 13,
+        "ratio": 0.31
       },
       "points": {
-        "won": 319,
-        "lost": 336,
-        "ratio": 0.949
+        "won": 367,
+        "lost": 411,
+        "ratio": 0.893
       },
       "resultsBreakdown": {
         "wins3_0": 0,
@@ -93,7 +93,7 @@
         "wins3_2": 0,
         "losses2_3": 0,
         "losses1_3": 1,
-        "losses0_3": 2
+        "losses0_3": 3
       },
       "penalty": null,
       "position": 3
@@ -105,19 +105,19 @@
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_317.jpg",
       "rankingPoints": 3,
       "matches": {
-        "played": 4,
+        "played": 5,
         "won": 1,
-        "lost": 3
+        "lost": 4
       },
       "sets": {
         "won": 4,
-        "lost": 10,
-        "ratio": 0.4
+        "lost": 13,
+        "ratio": 0.31
       },
       "points": {
-        "won": 291,
-        "lost": 337,
-        "ratio": 0.864
+        "won": 347,
+        "lost": 412,
+        "ratio": 0.842
       },
       "resultsBreakdown": {
         "wins3_0": 0,
@@ -125,7 +125,7 @@
         "wins3_2": 0,
         "losses2_3": 0,
         "losses1_3": 1,
-        "losses0_3": 2
+        "losses0_3": 3
       },
       "penalty": null,
       "position": 4
@@ -163,9 +163,9 @@
       "position": 5
     }
   ],
-  "updated": "2025-11-28T00:00:02.634Z",
+  "updated": "2025-12-05T00:00:04.177Z",
   "totalTeams": 5,
-  "lastUpdated": "2025-11-28T00:00:02.708Z",
+  "lastUpdated": "2025-12-05T00:00:04.276Z",
   "dataVersion": "1.0",
   "source": "VIR Volleyball Standings"
 }
