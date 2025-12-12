@@ -40,7 +40,7 @@
       "matchday": "Matchday 1",
       "sub_league": "League - D3W Group A",
       "date": "07/12/2025",
-      "time": "17:30",
+      "time": "18:00",
       "venue": "Coláiste Chríost Rí",
       "home_team": "Volleywoodstars D3W",
       "away_team": "Cork Volleyball Acad D3W"
@@ -101,7 +101,7 @@
     },
     {
       "matchday": "Matchday 3",
-      "sub_league": "League - D3W Group B",
+      "sub_league": "League - D3W Group A",
       "date": "15/02/2026",
       "time": "14:30",
       "venue": "Dunmanway Comm Sports Hall",
@@ -200,7 +200,7 @@
     },
     {
       "matchday": "Matchday 5",
-      "sub_league": "League - D3W Group C",
+      "sub_league": "League - D3W Group B",
       "date": "17/01/2026",
       "time": "14:30",
       "venue": "St Mary's Community Centre",
@@ -209,7 +209,7 @@
     },
     {
       "matchday": "Matchday 5",
-      "sub_league": "League - D3W Group C",
+      "sub_league": "League - D3W Group B",
       "date": "20/01/2026",
       "time": "19:00",
       "venue": "Mercy College (Coolock)",
@@ -299,7 +299,7 @@
     },
     {
       "matchday": "Matchday 7",
-      "sub_league": "League - D3W Group D",
+      "sub_league": "League - D3W Group C",
       "date": "26/10/2025",
       "time": "14:45",
       "venue": "Ennistymon Community Centre",
@@ -308,7 +308,7 @@
     },
     {
       "matchday": "Matchday 7",
-      "sub_league": "League - D3W Group D",
+      "sub_league": "League - D3W Group C",
       "date": "02/11/2025",
       "time": "11:30",
       "venue": "Mountrath Community School",
@@ -317,7 +317,7 @@
     },
     {
       "matchday": "Matchday 8",
-      "sub_league": "League - D3W Group D",
+      "sub_league": "League - D3W Group C",
       "date": "15/11/2025",
       "time": "11:30",
       "venue": "Moyle Rovers GAA",
@@ -345,6 +345,15 @@
     {
       "matchday": "Matchday 8",
       "sub_league": "League - D3W Group D",
+      "date": "05/12/2025",
+      "time": "19:30",
+      "venue": "Clonlara Community Centre",
+      "home_team": "Munster Thunder D3W",
+      "away_team": "Burren D3W"
+    },
+    {
+      "matchday": "Matchday 8",
+      "sub_league": "League - D3W Group D",
       "date": "13/12/2025",
       "time": "11:30",
       "venue": "Moyle Rovers GAA",
@@ -352,7 +361,16 @@
       "away_team": "Burren D3W"
     },
     {
-      "matchday": "Matchday 8",
+      "matchday": "Matchday 9",
+      "sub_league": "League - D3W Group D",
+      "date": "13/12/2025",
+      "time": "14:00",
+      "venue": "Colaiste Muire Ennis",
+      "home_team": "Munster Thunder D3W",
+      "away_team": "Midlands D3W"
+    },
+    {
+      "matchday": "Matchday 9",
       "sub_league": "League - D3W Group D",
       "date": "10/01/2026",
       "time": "11:30",
@@ -372,6 +390,15 @@
     {
       "matchday": "Matchday 9",
       "sub_league": "League - D3W Group D",
+      "date": "31/01/2026",
+      "time": "14:00",
+      "venue": "Colaiste Muire Ennis",
+      "home_team": "Munster Thunder D3W",
+      "away_team": "Clonmel D3W"
+    },
+    {
+      "matchday": "Matchday 9",
+      "sub_league": "League - D3W Group D",
       "date": "22/02/2026",
       "time": "13:30",
       "venue": "Mountrath Community School",
@@ -379,7 +406,7 @@
       "away_team": "Clonmel D3W"
     },
     {
-      "matchday": "Matchday 9",
+      "matchday": "Matchday 10",
       "sub_league": "League - D3W Group D",
       "date": "22/02/2026",
       "time": "14:45",
@@ -388,7 +415,7 @@
       "away_team": "Munster Thunder D3W"
     },
     {
-      "matchday": "Matchday 9",
+      "matchday": "Matchday 10",
       "sub_league": "League - D3W Group D",
       "date": "01/03/2026",
       "time": "14:45",
@@ -397,7 +424,16 @@
       "away_team": "Clonmel D3W"
     },
     {
-      "matchday": "Matchday 9",
+      "matchday": "Matchday 10",
+      "sub_league": "League - D3W Group D",
+      "date": "07/03/2026",
+      "time": "14:00",
+      "venue": "Colaiste Muire Ennis",
+      "home_team": "Munster Thunder D3W",
+      "away_team": "Clonmel D3W"
+    },
+    {
+      "matchday": "Matchday 10",
       "sub_league": "League - D3W Group D",
       "date": "08/03/2026",
       "time": "13:30",
@@ -439,7 +475,7 @@
         "matchday": "Matchday 1",
         "sub_league": "League - D3W Group A",
         "date": "07/12/2025",
-        "time": "17:30",
+        "time": "18:00",
         "venue": "Coláiste Chríost Rí",
         "home_team": "Volleywoodstars D3W",
         "away_team": "Cork Volleyball Acad D3W"
@@ -470,6 +506,15 @@
         "venue": "Scoil Íosagáin Farranree",
         "home_team": "OVC Mermaids",
         "away_team": "Phoenix Killarney D3W"
+      },
+      {
+        "matchday": "Matchday 3",
+        "sub_league": "League - D3W Group A",
+        "date": "15/02/2026",
+        "time": "14:30",
+        "venue": "Dunmanway Comm Sports Hall",
+        "home_team": "West Cork D3W",
+        "away_team": "Volleywoodstars D3W"
       },
       {
         "matchday": "Matchday 2",
@@ -573,13 +618,22 @@
         "away_team": "Santry Aces D3W"
       },
       {
-        "matchday": "Matchday 3",
+        "matchday": "Matchday 5",
         "sub_league": "League - D3W Group B",
-        "date": "15/02/2026",
+        "date": "17/01/2026",
         "time": "14:30",
-        "venue": "Dunmanway Comm Sports Hall",
-        "home_team": "West Cork D3W",
-        "away_team": "Volleywoodstars D3W"
+        "venue": "St Mary's Community Centre",
+        "home_team": "Cavan Cats D3W",
+        "away_team": "Santry Phoenix D3W"
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - D3W Group B",
+        "date": "20/01/2026",
+        "time": "19:00",
+        "venue": "Mercy College (Coolock)",
+        "home_team": "Santry Aces D3W",
+        "away_team": "Santry Phoenix D3W"
       },
       {
         "matchday": "Matchday 3",
@@ -622,6 +676,15 @@
       {
         "matchday": "Matchday 7",
         "sub_league": "League - D3W Group C",
+        "date": "02/11/2025",
+        "time": "11:30",
+        "venue": "Mountrath Community School",
+        "home_team": "Midlands D3W",
+        "away_team": "Munster Thunder D3W"
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D3W Group C",
         "date": "06/12/2025",
         "time": "12:30",
         "venue": "St Kilian's German Sch/Eurocampus",
@@ -656,22 +719,13 @@
         "away_team": "Naas Cobras D3W"
       },
       {
-        "matchday": "Matchday 5",
+        "matchday": "Matchday 8",
         "sub_league": "League - D3W Group C",
-        "date": "17/01/2026",
-        "time": "14:30",
-        "venue": "St Mary's Community Centre",
-        "home_team": "Cavan Cats D3W",
-        "away_team": "Santry Phoenix D3W"
-      },
-      {
-        "matchday": "Matchday 5",
-        "sub_league": "League - D3W Group C",
-        "date": "20/01/2026",
-        "time": "19:00",
-        "venue": "Mercy College (Coolock)",
-        "home_team": "Santry Aces D3W",
-        "away_team": "Santry Phoenix D3W"
+        "date": "15/11/2025",
+        "time": "11:30",
+        "venue": "Moyle Rovers GAA",
+        "home_team": "Clonmel D3W",
+        "away_team": "Munster Thunder D3W"
       },
       {
         "matchday": "Matchday 6",
@@ -694,6 +748,15 @@
       {
         "matchday": "Matchday 7",
         "sub_league": "League - D3W Group C",
+        "date": "26/10/2025",
+        "time": "14:45",
+        "venue": "Ennistymon Community Centre",
+        "home_team": "Burren D3W",
+        "away_team": "Midlands D3W"
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D3W Group C",
         "date": "28/02/2026",
         "time": "12:30",
         "venue": "St Kilian's German Sch/Eurocampus",
@@ -712,7 +775,7 @@
     ],
     "League - D3W Group D": [
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 10",
         "sub_league": "League - D3W Group D",
         "date": "01/03/2026",
         "time": "14:45",
@@ -721,16 +784,25 @@
         "away_team": "Clonmel D3W"
       },
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D3W Group D",
-        "date": "02/11/2025",
-        "time": "11:30",
-        "venue": "Mountrath Community School",
-        "home_team": "Midlands D3W",
-        "away_team": "Munster Thunder D3W"
+        "date": "05/12/2025",
+        "time": "19:30",
+        "venue": "Clonlara Community Centre",
+        "home_team": "Munster Thunder D3W",
+        "away_team": "Burren D3W"
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 10",
+        "sub_league": "League - D3W Group D",
+        "date": "07/03/2026",
+        "time": "14:00",
+        "venue": "Colaiste Muire Ennis",
+        "home_team": "Munster Thunder D3W",
+        "away_team": "Clonmel D3W"
+      },
+      {
+        "matchday": "Matchday 10",
         "sub_league": "League - D3W Group D",
         "date": "08/03/2026",
         "time": "13:30",
@@ -739,7 +811,7 @@
         "away_team": "Burren D3W"
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D3W Group D",
         "date": "10/01/2026",
         "time": "11:30",
@@ -757,13 +829,13 @@
         "away_team": "Burren D3W"
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D3W Group D",
-        "date": "15/11/2025",
-        "time": "11:30",
-        "venue": "Moyle Rovers GAA",
-        "home_team": "Clonmel D3W",
-        "away_team": "Munster Thunder D3W"
+        "date": "13/12/2025",
+        "time": "14:00",
+        "venue": "Colaiste Muire Ennis",
+        "home_team": "Munster Thunder D3W",
+        "away_team": "Midlands D3W"
       },
       {
         "matchday": "Matchday 9",
@@ -784,7 +856,7 @@
         "away_team": "Clonmel D3W"
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 10",
         "sub_league": "League - D3W Group D",
         "date": "22/02/2026",
         "time": "14:45",
@@ -802,15 +874,6 @@
         "away_team": "Burren D3W"
       },
       {
-        "matchday": "Matchday 7",
-        "sub_league": "League - D3W Group D",
-        "date": "26/10/2025",
-        "time": "14:45",
-        "venue": "Ennistymon Community Centre",
-        "home_team": "Burren D3W",
-        "away_team": "Midlands D3W"
-      },
-      {
         "matchday": "Matchday 8",
         "sub_league": "League - D3W Group D",
         "date": "29/11/2025",
@@ -818,6 +881,15 @@
         "venue": "Moyle Rovers GAA",
         "home_team": "Clonmel D3W",
         "away_team": "Midlands D3W"
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - D3W Group D",
+        "date": "31/01/2026",
+        "time": "14:00",
+        "venue": "Colaiste Muire Ennis",
+        "home_team": "Munster Thunder D3W",
+        "away_team": "Clonmel D3W"
       }
     ]
   },
@@ -947,7 +1019,7 @@
       },
       {
         "matchday": "Matchday 3",
-        "sub_league": "League - D3W Group B",
+        "sub_league": "League - D3W Group A",
         "date": "15/02/2026",
         "time": "14:30",
         "venue": "Dunmanway Comm Sports Hall",
@@ -991,7 +1063,7 @@
         "matchday": "Matchday 1",
         "sub_league": "League - D3W Group A",
         "date": "07/12/2025",
-        "time": "17:30",
+        "time": "18:00",
         "venue": "Coláiste Chríost Rí",
         "home_team": "Volleywoodstars D3W",
         "away_team": "Cork Volleyball Acad D3W",
@@ -1033,7 +1105,7 @@
         "matchday": "Matchday 1",
         "sub_league": "League - D3W Group A",
         "date": "07/12/2025",
-        "time": "17:30",
+        "time": "18:00",
         "venue": "Coláiste Chríost Rí",
         "home_team": "Volleywoodstars D3W",
         "away_team": "Cork Volleyball Acad D3W",
@@ -1041,7 +1113,7 @@
       },
       {
         "matchday": "Matchday 3",
-        "sub_league": "League - D3W Group B",
+        "sub_league": "League - D3W Group A",
         "date": "15/02/2026",
         "time": "14:30",
         "venue": "Dunmanway Comm Sports Hall",
@@ -1247,7 +1319,7 @@
       },
       {
         "matchday": "Matchday 5",
-        "sub_league": "League - D3W Group C",
+        "sub_league": "League - D3W Group B",
         "date": "17/01/2026",
         "time": "14:30",
         "venue": "St Mary's Community Centre",
@@ -1257,7 +1329,7 @@
       },
       {
         "matchday": "Matchday 5",
-        "sub_league": "League - D3W Group C",
+        "sub_league": "League - D3W Group B",
         "date": "20/01/2026",
         "time": "19:00",
         "venue": "Mercy College (Coolock)",
@@ -1339,7 +1411,7 @@
       },
       {
         "matchday": "Matchday 5",
-        "sub_league": "League - D3W Group C",
+        "sub_league": "League - D3W Group B",
         "date": "20/01/2026",
         "time": "19:00",
         "venue": "Mercy College (Coolock)",
@@ -1381,7 +1453,7 @@
       },
       {
         "matchday": "Matchday 5",
-        "sub_league": "League - D3W Group C",
+        "sub_league": "League - D3W Group B",
         "date": "17/01/2026",
         "time": "14:30",
         "venue": "St Mary's Community Centre",
@@ -1510,7 +1582,7 @@
     ],
     "Burren D3W": [
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 10",
         "sub_league": "League - D3W Group D",
         "date": "01/03/2026",
         "time": "14:45",
@@ -1520,7 +1592,17 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 8",
+        "sub_league": "League - D3W Group D",
+        "date": "05/12/2025",
+        "time": "19:30",
+        "venue": "Clonlara Community Centre",
+        "home_team": "Munster Thunder D3W",
+        "away_team": "Burren D3W",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 10",
         "sub_league": "League - D3W Group D",
         "date": "08/03/2026",
         "time": "13:30",
@@ -1550,7 +1632,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 10",
         "sub_league": "League - D3W Group D",
         "date": "22/02/2026",
         "time": "14:45",
@@ -1571,7 +1653,7 @@
       },
       {
         "matchday": "Matchday 7",
-        "sub_league": "League - D3W Group D",
+        "sub_league": "League - D3W Group C",
         "date": "26/10/2025",
         "time": "14:45",
         "venue": "Ennistymon Community Centre",
@@ -1583,7 +1665,7 @@
     "Midlands D3W": [
       {
         "matchday": "Matchday 7",
-        "sub_league": "League - D3W Group D",
+        "sub_league": "League - D3W Group C",
         "date": "02/11/2025",
         "time": "11:30",
         "venue": "Mountrath Community School",
@@ -1592,7 +1674,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 10",
         "sub_league": "League - D3W Group D",
         "date": "08/03/2026",
         "time": "13:30",
@@ -1602,12 +1684,22 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D3W Group D",
         "date": "10/01/2026",
         "time": "11:30",
         "venue": "Moyle Rovers GAA",
         "home_team": "Clonmel D3W",
+        "away_team": "Midlands D3W",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - D3W Group D",
+        "date": "13/12/2025",
+        "time": "14:00",
+        "venue": "Colaiste Muire Ennis",
+        "home_team": "Munster Thunder D3W",
         "away_team": "Midlands D3W",
         "is_home": false
       },
@@ -1633,7 +1725,7 @@
       },
       {
         "matchday": "Matchday 7",
-        "sub_league": "League - D3W Group D",
+        "sub_league": "League - D3W Group C",
         "date": "26/10/2025",
         "time": "14:45",
         "venue": "Ennistymon Community Centre",
@@ -1655,7 +1747,7 @@
     "Munster Thunder D3W": [
       {
         "matchday": "Matchday 7",
-        "sub_league": "League - D3W Group D",
+        "sub_league": "League - D3W Group C",
         "date": "02/11/2025",
         "time": "11:30",
         "venue": "Mountrath Community School",
@@ -1666,6 +1758,36 @@
       {
         "matchday": "Matchday 8",
         "sub_league": "League - D3W Group D",
+        "date": "05/12/2025",
+        "time": "19:30",
+        "venue": "Clonlara Community Centre",
+        "home_team": "Munster Thunder D3W",
+        "away_team": "Burren D3W",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 10",
+        "sub_league": "League - D3W Group D",
+        "date": "07/03/2026",
+        "time": "14:00",
+        "venue": "Colaiste Muire Ennis",
+        "home_team": "Munster Thunder D3W",
+        "away_team": "Clonmel D3W",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - D3W Group D",
+        "date": "13/12/2025",
+        "time": "14:00",
+        "venue": "Colaiste Muire Ennis",
+        "home_team": "Munster Thunder D3W",
+        "away_team": "Midlands D3W",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - D3W Group C",
         "date": "15/11/2025",
         "time": "11:30",
         "venue": "Moyle Rovers GAA",
@@ -1684,7 +1806,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 10",
         "sub_league": "League - D3W Group D",
         "date": "22/02/2026",
         "time": "14:45",
@@ -1692,11 +1814,21 @@
         "home_team": "Burren D3W",
         "away_team": "Munster Thunder D3W",
         "is_home": false
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - D3W Group D",
+        "date": "31/01/2026",
+        "time": "14:00",
+        "venue": "Colaiste Muire Ennis",
+        "home_team": "Munster Thunder D3W",
+        "away_team": "Clonmel D3W",
+        "is_home": true
       }
     ],
     "Clonmel D3W": [
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 10",
         "sub_league": "League - D3W Group D",
         "date": "01/03/2026",
         "time": "14:45",
@@ -1706,7 +1838,17 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 10",
+        "sub_league": "League - D3W Group D",
+        "date": "07/03/2026",
+        "time": "14:00",
+        "venue": "Colaiste Muire Ennis",
+        "home_team": "Munster Thunder D3W",
+        "away_team": "Clonmel D3W",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 9",
         "sub_league": "League - D3W Group D",
         "date": "10/01/2026",
         "time": "11:30",
@@ -1727,7 +1869,7 @@
       },
       {
         "matchday": "Matchday 8",
-        "sub_league": "League - D3W Group D",
+        "sub_league": "League - D3W Group C",
         "date": "15/11/2025",
         "time": "11:30",
         "venue": "Moyle Rovers GAA",
@@ -1754,11 +1896,21 @@
         "home_team": "Clonmel D3W",
         "away_team": "Midlands D3W",
         "is_home": true
+      },
+      {
+        "matchday": "Matchday 9",
+        "sub_league": "League - D3W Group D",
+        "date": "31/01/2026",
+        "time": "14:00",
+        "venue": "Colaiste Muire Ennis",
+        "home_team": "Munster Thunder D3W",
+        "away_team": "Clonmel D3W",
+        "is_home": false
       }
     ]
   },
   "metadata": {
-    "total_fixtures": 45,
+    "total_fixtures": 49,
     "source": "VIR Competition Matches",
     "sub_league_count": 4,
     "competition_name": "Women's Division 3",
@@ -1788,7 +1940,7 @@
       "League - D3W Group D"
     ]
   },
-  "lastUpdated": "2025-11-28T00:00:26.026Z",
+  "lastUpdated": "2025-12-12T00:00:26.834Z",
   "dataVersion": "1.0",
   "source": "VIR Competition Matches"
 }
