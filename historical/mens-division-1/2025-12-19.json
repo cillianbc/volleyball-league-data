@@ -1,0 +1,236 @@
+{
+  "league": "Men's Division 1",
+  "fileName": "mens-division-1",
+  "teams": [
+    {
+      "league": "Men's Division 1",
+      "teamId": "351",
+      "teamName": "Aer Lingus Harriers",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_351.jpg",
+      "rankingPoints": 12,
+      "matches": {
+        "played": 7,
+        "won": 5,
+        "lost": 2
+      },
+      "sets": {
+        "won": 15,
+        "lost": 14,
+        "ratio": 1.07
+      },
+      "points": {
+        "won": 653,
+        "lost": 639,
+        "ratio": 1.022
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 2,
+        "wins3_2": 3,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 2
+      },
+      "penalty": null,
+      "position": 1
+    },
+    {
+      "league": "Men's Division 1",
+      "teamId": "320",
+      "teamName": "Galway D1M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_320.jpg",
+      "rankingPoints": 9,
+      "matches": {
+        "played": 6,
+        "won": 3,
+        "lost": 3
+      },
+      "sets": {
+        "won": 13,
+        "lost": 11,
+        "ratio": 1.18
+      },
+      "points": {
+        "won": 538,
+        "lost": 520,
+        "ratio": 1.035
+      },
+      "resultsBreakdown": {
+        "wins3_0": 2,
+        "wins3_1": 0,
+        "wins3_2": 1,
+        "losses2_3": 1,
+        "losses1_3": 2,
+        "losses0_3": 0
+      },
+      "penalty": null,
+      "position": 2
+    },
+    {
+      "league": "Men's Division 1",
+      "teamId": "418",
+      "teamName": "Carrick Crows D1M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_418.jpg",
+      "rankingPoints": 8,
+      "matches": {
+        "played": 6,
+        "won": 3,
+        "lost": 3
+      },
+      "sets": {
+        "won": 12,
+        "lost": 12,
+        "ratio": 1
+      },
+      "points": {
+        "won": 482,
+        "lost": 509,
+        "ratio": 0.947
+      },
+      "resultsBreakdown": {
+        "wins3_0": 1,
+        "wins3_1": 1,
+        "wins3_2": 1,
+        "losses2_3": 1,
+        "losses1_3": 1,
+        "losses0_3": 1
+      },
+      "penalty": "-1",
+      "position": 3
+    },
+    {
+      "league": "Men's Division 1",
+      "teamId": "321",
+      "teamName": "Munster Thunder D1M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_321.jpg",
+      "rankingPoints": 7,
+      "matches": {
+        "played": 6,
+        "won": 3,
+        "lost": 3
+      },
+      "sets": {
+        "won": 11,
+        "lost": 13,
+        "ratio": 0.85
+      },
+      "points": {
+        "won": 515,
+        "lost": 541,
+        "ratio": 0.952
+      },
+      "resultsBreakdown": {
+        "wins3_0": 1,
+        "wins3_1": 0,
+        "wins3_2": 2,
+        "losses2_3": 0,
+        "losses1_3": 2,
+        "losses0_3": 1
+      },
+      "penalty": null,
+      "position": 4
+    },
+    {
+      "league": "Men's Division 1",
+      "teamId": "350",
+      "teamName": "DVC D1M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_350.jpg",
+      "rankingPoints": 7,
+      "matches": {
+        "played": 7,
+        "won": 2,
+        "lost": 5
+      },
+      "sets": {
+        "won": 14,
+        "lost": 19,
+        "ratio": 0.74
+      },
+      "points": {
+        "won": 605,
+        "lost": 714,
+        "ratio": 0.847
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 2,
+        "losses2_3": 4,
+        "losses1_3": 0,
+        "losses0_3": 1
+      },
+      "penalty": "-1",
+      "position": 5
+    },
+    {
+      "league": "Men's Division 1",
+      "teamId": "319",
+      "teamName": "Net Force D1M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_319.jpg",
+      "rankingPoints": 5,
+      "matches": {
+        "played": 6,
+        "won": 1,
+        "lost": 5
+      },
+      "sets": {
+        "won": 9,
+        "lost": 17,
+        "ratio": 0.53
+      },
+      "points": {
+        "won": 519,
+        "lost": 577,
+        "ratio": 0.9
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 1,
+        "losses2_3": 3,
+        "losses1_3": 0,
+        "losses0_3": 2
+      },
+      "penalty": null,
+      "position": 6
+    },
+    {
+      "league": "Men's Division 1",
+      "teamId": "306",
+      "teamName": "Ireland Men's U18",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_306.jpg",
+      "rankingPoints": 1,
+      "matches": {
+        "played": 4,
+        "won": 0,
+        "lost": 4
+      },
+      "sets": {
+        "won": 4,
+        "lost": 12,
+        "ratio": 0.33
+      },
+      "points": {
+        "won": 342,
+        "lost": 386,
+        "ratio": 0.886
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 1,
+        "losses1_3": 2,
+        "losses0_3": 1
+      },
+      "penalty": null,
+      "position": 7
+    }
+  ],
+  "updated": "2025-12-19T00:00:02.512Z",
+  "totalTeams": 7,
+  "capturedAt": "2025-12-19T00:00:02.564Z",
+  "weekOf": "2025-12-19",
+  "dataVersion": "1.0",
+  "source": "VIR Volleyball Standings"
+}
