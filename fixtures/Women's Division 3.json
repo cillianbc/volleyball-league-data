@@ -282,6 +282,15 @@
     {
       "matchday": "Matchday 7",
       "sub_league": "League - D3W Group C",
+      "date": "25/01/2026",
+      "time": "11:00",
+      "venue": "Castle Park School",
+      "home_team": "Dalkey Devils D3W",
+      "away_team": "RCSI D3W"
+    },
+    {
+      "matchday": "Matchday 7",
+      "sub_league": "League - D3W Group C",
       "date": "31/01/2026",
       "time": "13:00",
       "venue": "St Kilian's German Sch/Eurocampus",
@@ -307,7 +316,7 @@
       "away_team": "Midlands D3W"
     },
     {
-      "matchday": "Matchday 7",
+      "matchday": "Matchday 8",
       "sub_league": "League - D3W Group C",
       "date": "02/11/2025",
       "time": "11:30",
@@ -317,7 +326,7 @@
     },
     {
       "matchday": "Matchday 8",
-      "sub_league": "League - D3W Group C",
+      "sub_league": "League - D3W Group D",
       "date": "15/11/2025",
       "time": "11:30",
       "venue": "Moyle Rovers GAA",
@@ -352,15 +361,6 @@
       "away_team": "Burren D3W"
     },
     {
-      "matchday": "Matchday 8",
-      "sub_league": "League - D3W Group D",
-      "date": "13/12/2025",
-      "time": "11:30",
-      "venue": "Moyle Rovers GAA",
-      "home_team": "Clonmel D3W",
-      "away_team": "Burren D3W"
-    },
-    {
       "matchday": "Matchday 9",
       "sub_league": "League - D3W Group D",
       "date": "13/12/2025",
@@ -373,7 +373,7 @@
       "matchday": "Matchday 9",
       "sub_league": "League - D3W Group D",
       "date": "10/01/2026",
-      "time": "11:30",
+      "time": "10:00",
       "venue": "Moyle Rovers GAA",
       "home_team": "Clonmel D3W",
       "away_team": "Midlands D3W"
@@ -674,7 +674,7 @@
         "away_team": "Santry Aces D3W"
       },
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D3W Group C",
         "date": "02/11/2025",
         "time": "11:30",
@@ -719,15 +719,6 @@
         "away_team": "Naas Cobras D3W"
       },
       {
-        "matchday": "Matchday 8",
-        "sub_league": "League - D3W Group C",
-        "date": "15/11/2025",
-        "time": "11:30",
-        "venue": "Moyle Rovers GAA",
-        "home_team": "Clonmel D3W",
-        "away_team": "Munster Thunder D3W"
-      },
-      {
         "matchday": "Matchday 6",
         "sub_league": "League - D3W Group C",
         "date": "22/11/2025",
@@ -744,6 +735,15 @@
         "venue": "St Mary's Community Centre",
         "home_team": "Cavan Cats D3W",
         "away_team": "Aer Lingus Hawks"
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D3W Group C",
+        "date": "25/01/2026",
+        "time": "11:00",
+        "venue": "Castle Park School",
+        "home_team": "Dalkey Devils D3W",
+        "away_team": "RCSI D3W"
       },
       {
         "matchday": "Matchday 7",
@@ -814,19 +814,10 @@
         "matchday": "Matchday 9",
         "sub_league": "League - D3W Group D",
         "date": "10/01/2026",
-        "time": "11:30",
+        "time": "10:00",
         "venue": "Moyle Rovers GAA",
         "home_team": "Clonmel D3W",
         "away_team": "Midlands D3W"
-      },
-      {
-        "matchday": "Matchday 8",
-        "sub_league": "League - D3W Group D",
-        "date": "13/12/2025",
-        "time": "11:30",
-        "venue": "Moyle Rovers GAA",
-        "home_team": "Clonmel D3W",
-        "away_team": "Burren D3W"
       },
       {
         "matchday": "Matchday 9",
@@ -836,6 +827,15 @@
         "venue": "Colaiste Muire Ennis",
         "home_team": "Munster Thunder D3W",
         "away_team": "Midlands D3W"
+      },
+      {
+        "matchday": "Matchday 8",
+        "sub_league": "League - D3W Group D",
+        "date": "15/11/2025",
+        "time": "11:30",
+        "venue": "Moyle Rovers GAA",
+        "home_team": "Clonmel D3W",
+        "away_team": "Munster Thunder D3W"
       },
       {
         "matchday": "Matchday 9",
@@ -1496,6 +1496,16 @@
       {
         "matchday": "Matchday 7",
         "sub_league": "League - D3W Group C",
+        "date": "25/01/2026",
+        "time": "11:00",
+        "venue": "Castle Park School",
+        "home_team": "Dalkey Devils D3W",
+        "away_team": "RCSI D3W",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D3W Group C",
         "date": "31/01/2026",
         "time": "13:00",
         "venue": "St Kilian's German Sch/Eurocampus",
@@ -1578,6 +1588,16 @@
         "home_team": "IADT Turtles D3W",
         "away_team": "Dalkey Devils D3W",
         "is_home": false
+      },
+      {
+        "matchday": "Matchday 7",
+        "sub_league": "League - D3W Group C",
+        "date": "25/01/2026",
+        "time": "11:00",
+        "venue": "Castle Park School",
+        "home_team": "Dalkey Devils D3W",
+        "away_team": "RCSI D3W",
+        "is_home": true
       }
     ],
     "Burren D3W": [
@@ -1608,16 +1628,6 @@
         "time": "13:30",
         "venue": "Mountrath Community School",
         "home_team": "Midlands D3W",
-        "away_team": "Burren D3W",
-        "is_home": false
-      },
-      {
-        "matchday": "Matchday 8",
-        "sub_league": "League - D3W Group D",
-        "date": "13/12/2025",
-        "time": "11:30",
-        "venue": "Moyle Rovers GAA",
-        "home_team": "Clonmel D3W",
         "away_team": "Burren D3W",
         "is_home": false
       },
@@ -1664,7 +1674,7 @@
     ],
     "Midlands D3W": [
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D3W Group C",
         "date": "02/11/2025",
         "time": "11:30",
@@ -1687,7 +1697,7 @@
         "matchday": "Matchday 9",
         "sub_league": "League - D3W Group D",
         "date": "10/01/2026",
-        "time": "11:30",
+        "time": "10:00",
         "venue": "Moyle Rovers GAA",
         "home_team": "Clonmel D3W",
         "away_team": "Midlands D3W",
@@ -1746,7 +1756,7 @@
     ],
     "Munster Thunder D3W": [
       {
-        "matchday": "Matchday 7",
+        "matchday": "Matchday 8",
         "sub_league": "League - D3W Group C",
         "date": "02/11/2025",
         "time": "11:30",
@@ -1787,7 +1797,7 @@
       },
       {
         "matchday": "Matchday 8",
-        "sub_league": "League - D3W Group C",
+        "sub_league": "League - D3W Group D",
         "date": "15/11/2025",
         "time": "11:30",
         "venue": "Moyle Rovers GAA",
@@ -1851,7 +1861,7 @@
         "matchday": "Matchday 9",
         "sub_league": "League - D3W Group D",
         "date": "10/01/2026",
-        "time": "11:30",
+        "time": "10:00",
         "venue": "Moyle Rovers GAA",
         "home_team": "Clonmel D3W",
         "away_team": "Midlands D3W",
@@ -1860,16 +1870,6 @@
       {
         "matchday": "Matchday 8",
         "sub_league": "League - D3W Group D",
-        "date": "13/12/2025",
-        "time": "11:30",
-        "venue": "Moyle Rovers GAA",
-        "home_team": "Clonmel D3W",
-        "away_team": "Burren D3W",
-        "is_home": true
-      },
-      {
-        "matchday": "Matchday 8",
-        "sub_league": "League - D3W Group C",
         "date": "15/11/2025",
         "time": "11:30",
         "venue": "Moyle Rovers GAA",
@@ -1940,7 +1940,7 @@
       "League - D3W Group D"
     ]
   },
-  "lastUpdated": "2025-12-12T00:00:26.834Z",
+  "lastUpdated": "2025-12-19T00:00:27.297Z",
   "dataVersion": "1.0",
   "source": "VIR Competition Matches"
 }
