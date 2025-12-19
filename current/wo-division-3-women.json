@@ -2,7 +2,7 @@
   "league": "Women's Division 3",
   "totalTeams": 9,
   "subLeagueCount": 4,
-  "extractedAt": "2025-12-05T00:00:08.803Z",
+  "extractedAt": "2025-12-19T00:00:08.226Z",
   "subLeagues": [
     {
       "name": "League - D3W Group A",
@@ -10,8 +10,8 @@
       "teams": [
         {
           "position": 1,
-          "teamId": "393",
-          "teamName": "Octopus D3W",
+          "teamId": "340",
+          "teamName": "Phoenix Killarney D3W",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -100,8 +100,8 @@
       "teams": [
         {
           "position": 1,
-          "teamId": "326",
-          "teamName": "Cavan Cats D3W",
+          "teamId": "370",
+          "teamName": "Santry Phoenix D3W",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -128,8 +128,8 @@
         },
         {
           "position": 2,
-          "teamId": "370",
-          "teamName": "Santry Phoenix D3W",
+          "teamId": "326",
+          "teamName": "Cavan Cats D3W",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -224,8 +224,8 @@
       "teams": [
         {
           "position": 1,
-          "teamId": "341",
-          "teamName": "Munster Thunder D3W",
+          "teamId": "395",
+          "teamName": "Midlands D3W",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -284,8 +284,8 @@
   "teams": [
     {
       "position": 1,
-      "teamId": "393",
-      "teamName": "Octopus D3W",
+      "teamId": "340",
+      "teamName": "Phoenix Killarney D3W",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -374,8 +374,8 @@
     },
     {
       "position": 1,
-      "teamId": "326",
-      "teamName": "Cavan Cats D3W",
+      "teamId": "370",
+      "teamName": "Santry Phoenix D3W",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -404,8 +404,8 @@
     },
     {
       "position": 2,
-      "teamId": "370",
-      "teamName": "Santry Phoenix D3W",
+      "teamId": "326",
+      "teamName": "Cavan Cats D3W",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -494,8 +494,8 @@
     },
     {
       "position": 1,
-      "teamId": "341",
-      "teamName": "Munster Thunder D3W",
+      "teamId": "395",
+      "teamName": "Midlands D3W",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -553,7 +553,7 @@
       "championshipId": "109"
     }
   ],
-  "lastUpdated": "2025-12-05T00:00:09.101Z",
+  "lastUpdated": "2025-12-19T00:00:08.653Z",
   "dataVersion": "2.0",
   "source": "VIR Volleyball Standings",
   "schemaInfo": {
