@@ -193,7 +193,7 @@
       "matchday": "Matchday 5",
       "sub_league": "League - D3W Group B",
       "date": "11/01/2026",
-      "time": "10:00",
+      "time": "13:00",
       "venue": "ALSAA",
       "home_team": "Aer Lingus Hawks",
       "away_team": "Santry Aces D3W"
@@ -594,7 +594,7 @@
         "matchday": "Matchday 5",
         "sub_league": "League - D3W Group B",
         "date": "11/01/2026",
-        "time": "10:00",
+        "time": "13:00",
         "venue": "ALSAA",
         "home_team": "Aer Lingus Hawks",
         "away_team": "Santry Aces D3W"
@@ -1249,7 +1249,7 @@
         "matchday": "Matchday 5",
         "sub_league": "League - D3W Group B",
         "date": "11/01/2026",
-        "time": "10:00",
+        "time": "13:00",
         "venue": "ALSAA",
         "home_team": "Aer Lingus Hawks",
         "away_team": "Santry Aces D3W",
@@ -1383,7 +1383,7 @@
         "matchday": "Matchday 5",
         "sub_league": "League - D3W Group B",
         "date": "11/01/2026",
-        "time": "10:00",
+        "time": "13:00",
         "venue": "ALSAA",
         "home_team": "Aer Lingus Hawks",
         "away_team": "Santry Aces D3W",
@@ -1940,7 +1940,7 @@
       "League - D3W Group D"
     ]
   },
-  "lastUpdated": "2025-12-26T00:00:29.694Z",
+  "lastUpdated": "2026-01-02T00:00:30.407Z",
   "dataVersion": "1.0",
   "source": "VIR Competition Matches"
 }
