@@ -183,8 +183,8 @@
     {
       "matchday": "Matchday 5",
       "sub_league": "League - D2W Group A",
-      "date": "11/01/2026",
-      "time": "12:30",
+      "date": "27/01/2026",
+      "time": "20:45",
       "venue": "ALSAA",
       "home_team": "Aer Lingus Kestrels",
       "away_team": "UCD D2W"
@@ -553,19 +553,19 @@
       "matchday": "Matchday 13",
       "sub_league": "League - D2W Group B",
       "date": "11/01/2026",
-      "time": "14:30",
-      "venue": "St Mary's Community Centre",
-      "home_team": "Longford Smashers D2W",
-      "away_team": "Mayo D2W"
+      "time": "15:00",
+      "venue": "Artane Beaumont Family Recreation Centre",
+      "home_team": "Santry Nova",
+      "away_team": "Dalkey Devils D2W"
     },
     {
       "matchday": "Matchday 13",
       "sub_league": "League - D2W Group B",
       "date": "11/01/2026",
-      "time": "15:00",
-      "venue": "Artane Beaumont Family Recreation Centre",
-      "home_team": "Santry Nova",
-      "away_team": "Dalkey Devils D2W"
+      "time": "17:00",
+      "venue": "St Mary's Community Centre",
+      "home_team": "Longford Smashers D2W",
+      "away_team": "Mayo D2W"
     },
     {
       "matchday": "Matchday 13",
@@ -831,6 +831,15 @@
     {
       "matchday": "Matchday 19",
       "sub_league": "League - D2W Group C",
+      "date": "17/01/2026",
+      "time": "15:00",
+      "venue": "Coláiste Chríost Rí",
+      "home_team": "Cork Volleyball Acad D2W",
+      "away_team": "BMP Hawks"
+    },
+    {
+      "matchday": "Matchday 19",
+      "sub_league": "League - D2W Group C",
       "date": "16/11/2025",
       "time": "10:00",
       "venue": "Tech University Dublin, Tallaght",
@@ -847,7 +856,7 @@
       "away_team": "Cork Volleyball Acad D2W"
     },
     {
-      "matchday": "Matchday 19",
+      "matchday": "Matchday 20",
       "sub_league": "League - D2W Group C",
       "date": "16/11/2025",
       "time": "18:30",
@@ -858,20 +867,20 @@
     {
       "matchday": "Matchday 20",
       "sub_league": "League - D2W Group C",
-      "date": "30/11/2025",
-      "time": "11:00",
-      "venue": "St Mary's College (Naas)",
-      "home_team": "Naas Vipers D2W",
-      "away_team": "Kildare D2W"
+      "date": "22/11/2025",
+      "time": "15:00",
+      "venue": "Coláiste Chríost Rí",
+      "home_team": "Cork Volleyball Acad D2W",
+      "away_team": "Kilkenny Spartans D2W"
     },
     {
       "matchday": "Matchday 20",
       "sub_league": "League - D2W Group C",
       "date": "30/11/2025",
-      "time": "14:00",
-      "venue": "Coláiste Chríost Rí",
-      "home_team": "Cork Volleyball Acad D2W",
-      "away_team": "Kilkenny Spartans D2W"
+      "time": "11:00",
+      "venue": "St Mary's College (Naas)",
+      "home_team": "Naas Vipers D2W",
+      "away_team": "Kildare D2W"
     },
     {
       "matchday": "Matchday 20",
@@ -892,22 +901,13 @@
       "away_team": "Kildare D2W"
     },
     {
-      "matchday": "Matchday 20",
+      "matchday": "Matchday 21",
       "sub_league": "League - D2W Group C",
       "date": "14/12/2025",
       "time": "16:00",
       "venue": "Ballymun Trinity Comprehensive",
       "home_team": "BMP Hawks",
       "away_team": "Kilkenny Spartans D2W"
-    },
-    {
-      "matchday": "Matchday 21",
-      "sub_league": "League - D2W Group C",
-      "date": "14/12/2025",
-      "time": "16:00",
-      "venue": "St Mary's College (Naas)",
-      "home_team": "Naas Vipers D2W",
-      "away_team": "Cork Volleyball Acad D2W"
     },
     {
       "matchday": "Matchday 21",
@@ -995,7 +995,7 @@
       "sub_league": "League - D2W Group C",
       "date": "14/02/2026",
       "time": "10:30",
-      "venue": "National Indoor Arena (Court 3)",
+      "venue": "Tech University Dublin, Tallaght",
       "home_team": "Celestials D2W",
       "away_team": "Kilkenny Spartans D2W"
     },
@@ -1048,15 +1048,6 @@
       "matchday": "Matchday 24",
       "sub_league": "League - D2W Group C",
       "date": "21/03/2026",
-      "time": "13:30",
-      "venue": "Loreto Secondary School (Kilkenny)",
-      "home_team": "Kilkenny Spartans D2W",
-      "away_team": "Cork Volleyball Acad D2W"
-    },
-    {
-      "matchday": "Matchday 24",
-      "sub_league": "League - D2W Group C",
-      "date": "21/03/2026",
       "time": "16:00",
       "venue": "Ballymun Trinity Comprehensive",
       "home_team": "BMP Hawks",
@@ -1070,6 +1061,15 @@
       "venue": "Patrician Secondary School (Newbridge)",
       "home_team": "Kildare D2W",
       "away_team": "Naas Vipers D2W"
+    },
+    {
+      "matchday": "Matchday 24",
+      "sub_league": "League - D2W Group C",
+      "date": "22/03/2026",
+      "time": "15:30",
+      "venue": "Loreto Secondary School (Kilkenny)",
+      "home_team": "Kilkenny Spartans D2W",
+      "away_team": "Cork Volleyball Acad D2W"
     },
     {
       "matchday": "Matchday 24",
@@ -1235,15 +1235,6 @@
         "venue": "Castleblayney College",
         "home_team": "Carrick Crows D2W",
         "away_team": "Tallaght Rockets D2W"
-      },
-      {
-        "matchday": "Matchday 5",
-        "sub_league": "League - D2W Group A",
-        "date": "11/01/2026",
-        "time": "12:30",
-        "venue": "ALSAA",
-        "home_team": "Aer Lingus Kestrels",
-        "away_team": "UCD D2W"
       },
       {
         "matchday": "Matchday 8",
@@ -1462,6 +1453,15 @@
         "away_team": "UCD D2W"
       },
       {
+        "matchday": "Matchday 5",
+        "sub_league": "League - D2W Group A",
+        "date": "27/01/2026",
+        "time": "20:45",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Kestrels",
+        "away_team": "UCD D2W"
+      },
+      {
         "matchday": "Matchday 3",
         "sub_league": "League - D2W Group A",
         "date": "30/11/2025",
@@ -1593,19 +1593,19 @@
         "matchday": "Matchday 13",
         "sub_league": "League - D2W Group B",
         "date": "11/01/2026",
-        "time": "14:30",
-        "venue": "St Mary's Community Centre",
-        "home_team": "Longford Smashers D2W",
-        "away_team": "Mayo D2W"
+        "time": "15:00",
+        "venue": "Artane Beaumont Family Recreation Centre",
+        "home_team": "Santry Nova",
+        "away_team": "Dalkey Devils D2W"
       },
       {
         "matchday": "Matchday 13",
         "sub_league": "League - D2W Group B",
         "date": "11/01/2026",
-        "time": "15:00",
-        "venue": "Artane Beaumont Family Recreation Centre",
-        "home_team": "Santry Nova",
-        "away_team": "Dalkey Devils D2W"
+        "time": "17:00",
+        "venue": "St Mary's Community Centre",
+        "home_team": "Longford Smashers D2W",
+        "away_team": "Mayo D2W"
       },
       {
         "matchday": "Matchday 16",
@@ -2028,7 +2028,7 @@
         "sub_league": "League - D2W Group C",
         "date": "14/02/2026",
         "time": "10:30",
-        "venue": "National Indoor Arena (Court 3)",
+        "venue": "Tech University Dublin, Tallaght",
         "home_team": "Celestials D2W",
         "away_team": "Kilkenny Spartans D2W"
       },
@@ -2042,22 +2042,13 @@
         "away_team": "Kildare D2W"
       },
       {
-        "matchday": "Matchday 20",
+        "matchday": "Matchday 21",
         "sub_league": "League - D2W Group C",
         "date": "14/12/2025",
         "time": "16:00",
         "venue": "Ballymun Trinity Comprehensive",
         "home_team": "BMP Hawks",
         "away_team": "Kilkenny Spartans D2W"
-      },
-      {
-        "matchday": "Matchday 21",
-        "sub_league": "League - D2W Group C",
-        "date": "14/12/2025",
-        "time": "16:00",
-        "venue": "St Mary's College (Naas)",
-        "home_team": "Naas Vipers D2W",
-        "away_team": "Cork Volleyball Acad D2W"
       },
       {
         "matchday": "Matchday 23",
@@ -2105,13 +2096,22 @@
         "away_team": "Cork Volleyball Acad D2W"
       },
       {
-        "matchday": "Matchday 19",
+        "matchday": "Matchday 20",
         "sub_league": "League - D2W Group C",
         "date": "16/11/2025",
         "time": "18:30",
         "venue": "Ballymun Trinity Comprehensive",
         "home_team": "BMP Hawks",
         "away_team": "Naas Vipers D2W"
+      },
+      {
+        "matchday": "Matchday 19",
+        "sub_league": "League - D2W Group C",
+        "date": "17/01/2026",
+        "time": "15:00",
+        "venue": "Coláiste Chríost Rí",
+        "home_team": "Cork Volleyball Acad D2W",
+        "away_team": "BMP Hawks"
       },
       {
         "matchday": "Matchday 25",
@@ -2171,15 +2171,6 @@
         "matchday": "Matchday 24",
         "sub_league": "League - D2W Group C",
         "date": "21/03/2026",
-        "time": "13:30",
-        "venue": "Loreto Secondary School (Kilkenny)",
-        "home_team": "Kilkenny Spartans D2W",
-        "away_team": "Cork Volleyball Acad D2W"
-      },
-      {
-        "matchday": "Matchday 24",
-        "sub_league": "League - D2W Group C",
-        "date": "21/03/2026",
         "time": "16:00",
         "venue": "Ballymun Trinity Comprehensive",
         "home_team": "BMP Hawks",
@@ -2193,6 +2184,24 @@
         "venue": "Patrician Secondary School (Newbridge)",
         "home_team": "Kildare D2W",
         "away_team": "Naas Vipers D2W"
+      },
+      {
+        "matchday": "Matchday 24",
+        "sub_league": "League - D2W Group C",
+        "date": "22/03/2026",
+        "time": "15:30",
+        "venue": "Loreto Secondary School (Kilkenny)",
+        "home_team": "Kilkenny Spartans D2W",
+        "away_team": "Cork Volleyball Acad D2W"
+      },
+      {
+        "matchday": "Matchday 20",
+        "sub_league": "League - D2W Group C",
+        "date": "22/11/2025",
+        "time": "15:00",
+        "venue": "Coláiste Chríost Rí",
+        "home_team": "Cork Volleyball Acad D2W",
+        "away_team": "Kilkenny Spartans D2W"
       },
       {
         "matchday": "Matchday 19",
@@ -2211,15 +2220,6 @@
         "venue": "St Mary's College (Naas)",
         "home_team": "Naas Vipers D2W",
         "away_team": "Kildare D2W"
-      },
-      {
-        "matchday": "Matchday 20",
-        "sub_league": "League - D2W Group C",
-        "date": "30/11/2025",
-        "time": "14:00",
-        "venue": "Coláiste Chríost Rí",
-        "home_team": "Cork Volleyball Acad D2W",
-        "away_team": "Kilkenny Spartans D2W"
       },
       {
         "matchday": "Matchday 20",
@@ -2251,16 +2251,6 @@
         "venue": "ALSAA",
         "home_team": "Aer Lingus Kestrels",
         "away_team": "Newbridge Panthers",
-        "is_home": true
-      },
-      {
-        "matchday": "Matchday 5",
-        "sub_league": "League - D2W Group A",
-        "date": "11/01/2026",
-        "time": "12:30",
-        "venue": "ALSAA",
-        "home_team": "Aer Lingus Kestrels",
-        "away_team": "UCD D2W",
         "is_home": true
       },
       {
@@ -2341,6 +2331,16 @@
         "venue": "ALSAA",
         "home_team": "Aer Lingus Kestrels",
         "away_team": "IVI Vixens D2W",
+        "is_home": true
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - D2W Group A",
+        "date": "27/01/2026",
+        "time": "20:45",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Kestrels",
+        "away_team": "UCD D2W",
         "is_home": true
       },
       {
@@ -2640,16 +2640,6 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 5",
-        "sub_league": "League - D2W Group A",
-        "date": "11/01/2026",
-        "time": "12:30",
-        "venue": "ALSAA",
-        "home_team": "Aer Lingus Kestrels",
-        "away_team": "UCD D2W",
-        "is_home": false
-      },
-      {
         "matchday": "Matchday 8",
         "sub_league": "League - D2W Group A",
         "date": "11/04/2026",
@@ -2716,6 +2706,16 @@
         "time": "11:00",
         "venue": "Holy Family SS (Newbridge)",
         "home_team": "Newbridge Panthers",
+        "away_team": "UCD D2W",
+        "is_home": false
+      },
+      {
+        "matchday": "Matchday 5",
+        "sub_league": "League - D2W Group A",
+        "date": "27/01/2026",
+        "time": "20:45",
+        "venue": "ALSAA",
+        "home_team": "Aer Lingus Kestrels",
         "away_team": "UCD D2W",
         "is_home": false
       },
@@ -3243,7 +3243,7 @@
         "matchday": "Matchday 13",
         "sub_league": "League - D2W Group B",
         "date": "11/01/2026",
-        "time": "14:30",
+        "time": "17:00",
         "venue": "St Mary's Community Centre",
         "home_team": "Longford Smashers D2W",
         "away_team": "Mayo D2W",
@@ -3761,7 +3761,7 @@
         "matchday": "Matchday 13",
         "sub_league": "League - D2W Group B",
         "date": "11/01/2026",
-        "time": "14:30",
+        "time": "17:00",
         "venue": "St Mary's Community Centre",
         "home_team": "Longford Smashers D2W",
         "away_team": "Mayo D2W",
@@ -4006,13 +4006,13 @@
         "sub_league": "League - D2W Group C",
         "date": "14/02/2026",
         "time": "10:30",
-        "venue": "National Indoor Arena (Court 3)",
+        "venue": "Tech University Dublin, Tallaght",
         "home_team": "Celestials D2W",
         "away_team": "Kilkenny Spartans D2W",
         "is_home": false
       },
       {
-        "matchday": "Matchday 20",
+        "matchday": "Matchday 21",
         "sub_league": "League - D2W Group C",
         "date": "14/12/2025",
         "time": "16:00",
@@ -4044,12 +4044,22 @@
       {
         "matchday": "Matchday 24",
         "sub_league": "League - D2W Group C",
-        "date": "21/03/2026",
-        "time": "13:30",
+        "date": "22/03/2026",
+        "time": "15:30",
         "venue": "Loreto Secondary School (Kilkenny)",
         "home_team": "Kilkenny Spartans D2W",
         "away_team": "Cork Volleyball Acad D2W",
         "is_home": true
+      },
+      {
+        "matchday": "Matchday 20",
+        "sub_league": "League - D2W Group C",
+        "date": "22/11/2025",
+        "time": "15:00",
+        "venue": "Coláiste Chríost Rí",
+        "home_team": "Cork Volleyball Acad D2W",
+        "away_team": "Kilkenny Spartans D2W",
+        "is_home": false
       },
       {
         "matchday": "Matchday 19",
@@ -4060,16 +4070,6 @@
         "home_team": "Kilkenny Spartans D2W",
         "away_team": "Celestials D2W",
         "is_home": true
-      },
-      {
-        "matchday": "Matchday 20",
-        "sub_league": "League - D2W Group C",
-        "date": "30/11/2025",
-        "time": "14:00",
-        "venue": "Coláiste Chríost Rí",
-        "home_team": "Cork Volleyball Acad D2W",
-        "away_team": "Kilkenny Spartans D2W",
-        "is_home": false
       }
     ],
     "Dalkey Aces D2W": [
@@ -4236,17 +4236,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 21",
-        "sub_league": "League - D2W Group C",
-        "date": "14/12/2025",
-        "time": "16:00",
-        "venue": "St Mary's College (Naas)",
-        "home_team": "Naas Vipers D2W",
-        "away_team": "Cork Volleyball Acad D2W",
-        "is_home": true
-      },
-      {
-        "matchday": "Matchday 19",
+        "matchday": "Matchday 20",
         "sub_league": "League - D2W Group C",
         "date": "16/11/2025",
         "time": "18:30",
@@ -4362,7 +4352,7 @@
         "sub_league": "League - D2W Group C",
         "date": "14/02/2026",
         "time": "10:30",
-        "venue": "National Indoor Arena (Court 3)",
+        "venue": "Tech University Dublin, Tallaght",
         "home_team": "Celestials D2W",
         "away_team": "Kilkenny Spartans D2W",
         "is_home": true
@@ -4480,7 +4470,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 20",
+        "matchday": "Matchday 21",
         "sub_league": "League - D2W Group C",
         "date": "14/12/2025",
         "time": "16:00",
@@ -4500,7 +4490,7 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 19",
+        "matchday": "Matchday 20",
         "sub_league": "League - D2W Group C",
         "date": "16/11/2025",
         "time": "18:30",
@@ -4508,6 +4498,16 @@
         "home_team": "BMP Hawks",
         "away_team": "Naas Vipers D2W",
         "is_home": true
+      },
+      {
+        "matchday": "Matchday 19",
+        "sub_league": "League - D2W Group C",
+        "date": "17/01/2026",
+        "time": "15:00",
+        "venue": "Coláiste Chríost Rí",
+        "home_team": "Cork Volleyball Acad D2W",
+        "away_team": "BMP Hawks",
+        "is_home": false
       },
       {
         "matchday": "Matchday 25",
@@ -4694,16 +4694,6 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 21",
-        "sub_league": "League - D2W Group C",
-        "date": "14/12/2025",
-        "time": "16:00",
-        "venue": "St Mary's College (Naas)",
-        "home_team": "Naas Vipers D2W",
-        "away_team": "Cork Volleyball Acad D2W",
-        "is_home": false
-      },
-      {
         "matchday": "Matchday 23",
         "sub_league": "League - D2W Group C",
         "date": "15/02/2026",
@@ -4722,6 +4712,16 @@
         "home_team": "Kildare D2W",
         "away_team": "Cork Volleyball Acad D2W",
         "is_home": false
+      },
+      {
+        "matchday": "Matchday 19",
+        "sub_league": "League - D2W Group C",
+        "date": "17/01/2026",
+        "time": "15:00",
+        "venue": "Coláiste Chríost Rí",
+        "home_team": "Cork Volleyball Acad D2W",
+        "away_team": "BMP Hawks",
+        "is_home": true
       },
       {
         "matchday": "Matchday 18",
@@ -4746,8 +4746,8 @@
       {
         "matchday": "Matchday 24",
         "sub_league": "League - D2W Group C",
-        "date": "21/03/2026",
-        "time": "13:30",
+        "date": "22/03/2026",
+        "time": "15:30",
         "venue": "Loreto Secondary School (Kilkenny)",
         "home_team": "Kilkenny Spartans D2W",
         "away_team": "Cork Volleyball Acad D2W",
@@ -4756,8 +4756,8 @@
       {
         "matchday": "Matchday 20",
         "sub_league": "League - D2W Group C",
-        "date": "30/11/2025",
-        "time": "14:00",
+        "date": "22/11/2025",
+        "time": "15:00",
         "venue": "Coláiste Chríost Rí",
         "home_team": "Cork Volleyball Acad D2W",
         "away_team": "Kilkenny Spartans D2W",
@@ -4799,7 +4799,7 @@
       "League - D2W Group C"
     ]
   },
-  "lastUpdated": "2025-10-30T22:14:52.370Z",
+  "lastUpdated": "2026-01-09T00:00:32.021Z",
   "dataVersion": "1.0",
   "source": "VIR Competition Matches"
 }
