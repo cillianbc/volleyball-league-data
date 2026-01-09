@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-08T00:00:51.993Z",
-  "totalClubs": 52,
+  "lastUpdated": "2026-01-09T00:00:51.975Z",
+  "totalClubs": 57,
   "clubs": [
     {
       "clubName": "4 Fun Volleyball Club",
@@ -97,6 +97,66 @@
       "div3Teams": "Men",
       "youthTeams": "G U18",
       "typeOfAffiliation": "National League"
+    },
+    {
+      "clubName": "Athenry Volleyball Club",
+      "clubNameUrl": null,
+      "county": "Galway",
+      "homeVenue": "Coláiste an Eachréidh, Tuam Road, Athenry",
+      "clubSecretary": "Seán Ó Briain",
+      "clubSecretaryUrl": "mailto:athenryvc@gmail.com",
+      "nationalLeagueTeams": "No",
+      "div3Teams": "No",
+      "youthTeams": "G U16",
+      "typeOfAffiliation": "Associate"
+    },
+    {
+      "clubName": "KVC",
+      "clubNameUrl": null,
+      "county": "Dublin",
+      "homeVenue": "New Cross College, Finglas",
+      "clubSecretary": "Saju Sebastian",
+      "clubSecretaryUrl": "mailto:sajut26@yahoo.co.uk",
+      "nationalLeagueTeams": "No",
+      "div3Teams": "No",
+      "youthTeams": "No",
+      "typeOfAffiliation": "Associate"
+    },
+    {
+      "clubName": "Waterford Volleyball Club",
+      "clubNameUrl": null,
+      "county": "Waterford",
+      "homeVenue": "Carrickphierish Community Campus. Waterford City",
+      "clubSecretary": "Maryna Romashko",
+      "clubSecretaryUrl": "mailto:marinaromashko16@gmail.com",
+      "nationalLeagueTeams": "No",
+      "div3Teams": "No",
+      "youthTeams": "No",
+      "typeOfAffiliation": "Associate"
+    },
+    {
+      "clubName": "Social Volleyball Dublin",
+      "clubNameUrl": null,
+      "county": "Dublin",
+      "homeVenue": "Trinity Sports Centre, Dublin 2",
+      "clubSecretary": "Vanessa Montanha",
+      "clubSecretaryUrl": "mailto: vanessamontanha@gmail.com",
+      "nationalLeagueTeams": "No",
+      "div3Teams": "No",
+      "youthTeams": "No",
+      "typeOfAffiliation": "Associate"
+    },
+    {
+      "clubName": "WMVC",
+      "clubNameUrl": null,
+      "county": "Mayo",
+      "homeVenue": "Ballintubber GAA Club, F12 T2C9",
+      "clubSecretary": "Gabriela Dorado",
+      "clubSecretaryUrl": "mailto: gabrieladorado8@gmail.com",
+      "nationalLeagueTeams": "No",
+      "div3Teams": "No",
+      "youthTeams": "No",
+      "typeOfAffiliation": "Associate"
     },
     {
       "clubName": "Cavan Cats VC",
