@@ -345,6 +345,15 @@
     {
       "matchday": "Matchday 8",
       "sub_league": "League - D1W",
+      "date": "04/02/2026",
+      "time": "20:00",
+      "venue": "Artane Beaumont Family Recreation Centre",
+      "home_team": "Santry Sparks",
+      "away_team": "Santry Rebels"
+    },
+    {
+      "matchday": "Matchday 8",
+      "sub_league": "League - D1W",
       "date": "07/02/2026",
       "time": "13:30",
       "venue": "Barrow Centre",
@@ -352,7 +361,7 @@
       "away_team": "BMP Valkyries"
     },
     {
-      "matchday": "Matchday 8",
+      "matchday": "Matchday 9",
       "sub_league": "League - D1W",
       "date": "08/02/2026",
       "time": "10:30",
@@ -368,15 +377,6 @@
       "venue": "Macroom Community Leisure Centre",
       "home_team": "Impact Macroom D1W",
       "away_team": "Dalkey Devils D1W"
-    },
-    {
-      "matchday": "Matchday 9",
-      "sub_league": "League - D1W",
-      "date": "08/02/2026",
-      "time": "16:30",
-      "venue": "Artane Beaumont Family Recreation Centre",
-      "home_team": "Santry Sparks",
-      "away_team": "Santry Rebels"
     },
     {
       "matchday": "Matchday 9",
@@ -625,6 +625,15 @@
         "away_team": "Ireland Women's U18"
       },
       {
+        "matchday": "Matchday 8",
+        "sub_league": "League - D1W",
+        "date": "04/02/2026",
+        "time": "20:00",
+        "venue": "Artane Beaumont Family Recreation Centre",
+        "home_team": "Santry Sparks",
+        "away_team": "Santry Rebels"
+      },
+      {
         "matchday": "Matchday 5",
         "sub_league": "League - D1W",
         "date": "06/12/2025",
@@ -661,7 +670,7 @@
         "away_team": "Tallaght Rockets D1W"
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D1W",
         "date": "08/02/2026",
         "time": "10:30",
@@ -677,15 +686,6 @@
         "venue": "Macroom Community Leisure Centre",
         "home_team": "Impact Macroom D1W",
         "away_team": "Dalkey Devils D1W"
-      },
-      {
-        "matchday": "Matchday 9",
-        "sub_league": "League - D1W",
-        "date": "08/02/2026",
-        "time": "16:30",
-        "venue": "Artane Beaumont Family Recreation Centre",
-        "home_team": "Santry Sparks",
-        "away_team": "Santry Rebels"
       },
       {
         "matchday": "Matchday 10",
@@ -1180,7 +1180,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D1W",
         "date": "08/02/2026",
         "time": "10:30",
@@ -1332,10 +1332,10 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 8",
         "sub_league": "League - D1W",
-        "date": "08/02/2026",
-        "time": "16:30",
+        "date": "04/02/2026",
+        "time": "20:00",
         "venue": "Artane Beaumont Family Recreation Centre",
         "home_team": "Santry Sparks",
         "away_team": "Santry Rebels",
@@ -1636,7 +1636,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 8",
+        "matchday": "Matchday 9",
         "sub_league": "League - D1W",
         "date": "08/02/2026",
         "time": "10:30",
@@ -2072,10 +2072,10 @@
     ],
     "Santry Sparks": [
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 8",
         "sub_league": "League - D1W",
-        "date": "08/02/2026",
-        "time": "16:30",
+        "date": "04/02/2026",
+        "time": "20:00",
         "venue": "Artane Beaumont Family Recreation Centre",
         "home_team": "Santry Sparks",
         "away_team": "Santry Rebels",
@@ -2477,7 +2477,7 @@
       "League - D1W"
     ]
   },
-  "lastUpdated": "2025-12-26T00:00:15.925Z",
+  "lastUpdated": "2026-01-23T00:00:24.561Z",
   "dataVersion": "1.0",
   "source": "VIR Competition Matches"
 }
