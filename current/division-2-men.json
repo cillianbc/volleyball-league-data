@@ -2,7 +2,7 @@
   "league": "Men's Division 2",
   "totalTeams": 15,
   "subLeagueCount": 3,
-  "extractedAt": "2025-12-12T00:00:07.592Z",
+  "extractedAt": "2026-01-23T00:00:16.263Z",
   "subLeagues": [
     {
       "name": "League - D2M Group A",
@@ -10,62 +10,6 @@
       "teams": [
         {
           "position": 1,
-          "teamId": "426",
-          "teamName": "Tallaght Rockets D2M",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 2,
-          "teamId": "425",
-          "teamName": "Naas Pythons D2M",
-          "logoUrl": "",
-          "points": 0,
-          "detailedStats": {
-            "rankingPoints": 0,
-            "matchesPlayed": 0,
-            "matchesWon": 0,
-            "matchesLost": 0,
-            "setsWon": 0,
-            "setsLost": 0,
-            "pointsWon": 0,
-            "pointsLost": 0,
-            "results": {
-              "wins3_0": 0,
-              "wins3_1": 0,
-              "wins3_2": 0,
-              "losses2_3": 0,
-              "losses1_3": 0,
-              "losses0_3": 0
-            },
-            "setRatio": 0,
-            "pointRatio": 0,
-            "penalty": "-"
-          }
-        },
-        {
-          "position": 3,
           "teamId": "360",
           "teamName": "Cork Volleyball Acad D2M",
           "logoUrl": "",
@@ -93,9 +37,65 @@
           }
         },
         {
-          "position": 4,
+          "position": 2,
+          "teamId": "426",
+          "teamName": "Tallaght Rockets D2M",
+          "logoUrl": "",
+          "points": 0,
+          "detailedStats": {
+            "rankingPoints": 0,
+            "matchesPlayed": 0,
+            "matchesWon": 0,
+            "matchesLost": 0,
+            "setsWon": 0,
+            "setsLost": 0,
+            "pointsWon": 0,
+            "pointsLost": 0,
+            "results": {
+              "wins3_0": 0,
+              "wins3_1": 0,
+              "wins3_2": 0,
+              "losses2_3": 0,
+              "losses1_3": 0,
+              "losses0_3": 0
+            },
+            "setRatio": 0,
+            "pointRatio": 0,
+            "penalty": "-"
+          }
+        },
+        {
+          "position": 3,
           "teamId": "322",
           "teamName": "UCD D2M",
+          "logoUrl": "",
+          "points": 0,
+          "detailedStats": {
+            "rankingPoints": 0,
+            "matchesPlayed": 0,
+            "matchesWon": 0,
+            "matchesLost": 0,
+            "setsWon": 0,
+            "setsLost": 0,
+            "pointsWon": 0,
+            "pointsLost": 0,
+            "results": {
+              "wins3_0": 0,
+              "wins3_1": 0,
+              "wins3_2": 0,
+              "losses2_3": 0,
+              "losses1_3": 0,
+              "losses0_3": 0
+            },
+            "setRatio": 0,
+            "pointRatio": 0,
+            "penalty": "-"
+          }
+        },
+        {
+          "position": 4,
+          "teamId": "425",
+          "teamName": "Naas Pythons D2M",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -212,8 +212,8 @@
         },
         {
           "position": 3,
-          "teamId": "421",
-          "teamName": "Celestials D2M",
+          "teamId": "383",
+          "teamName": "Crumlin Phivo",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -240,8 +240,8 @@
         },
         {
           "position": 4,
-          "teamId": "383",
-          "teamName": "Crumlin Phivo",
+          "teamId": "421",
+          "teamName": "Celestials D2M",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -302,8 +302,8 @@
       "teams": [
         {
           "position": 1,
-          "teamId": "356",
-          "teamName": "BMP Hunters",
+          "teamId": "362",
+          "teamName": "Gardians Panda D2M",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -330,8 +330,8 @@
         },
         {
           "position": 2,
-          "teamId": "362",
-          "teamName": "Gardians Panda D2M",
+          "teamId": "420",
+          "teamName": "Balbriggan T-Rex",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -386,8 +386,8 @@
         },
         {
           "position": 4,
-          "teamId": "423",
-          "teamName": "Kildare Jaguars",
+          "teamId": "361",
+          "teamName": "Galway D2M",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -414,8 +414,8 @@
         },
         {
           "position": 5,
-          "teamId": "361",
-          "teamName": "Galway D2M",
+          "teamId": "423",
+          "teamName": "Kildare Jaguars",
           "logoUrl": "",
           "points": 0,
           "detailedStats": {
@@ -446,66 +446,6 @@
   "teams": [
     {
       "position": 1,
-      "teamId": "426",
-      "teamName": "Tallaght Rockets D2M",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D2M Group A",
-      "championshipId": "95"
-    },
-    {
-      "position": 2,
-      "teamId": "425",
-      "teamName": "Naas Pythons D2M",
-      "logoUrl": "",
-      "points": 0,
-      "detailedStats": {
-        "rankingPoints": 0,
-        "matchesPlayed": 0,
-        "matchesWon": 0,
-        "matchesLost": 0,
-        "setsWon": 0,
-        "setsLost": 0,
-        "pointsWon": 0,
-        "pointsLost": 0,
-        "results": {
-          "wins3_0": 0,
-          "wins3_1": 0,
-          "wins3_2": 0,
-          "losses2_3": 0,
-          "losses1_3": 0,
-          "losses0_3": 0
-        },
-        "setRatio": 0,
-        "pointRatio": 0,
-        "penalty": "-"
-      },
-      "subLeague": "League - D2M Group A",
-      "championshipId": "95"
-    },
-    {
-      "position": 3,
       "teamId": "360",
       "teamName": "Cork Volleyball Acad D2M",
       "logoUrl": "",
@@ -535,9 +475,69 @@
       "championshipId": "95"
     },
     {
-      "position": 4,
+      "position": 2,
+      "teamId": "426",
+      "teamName": "Tallaght Rockets D2M",
+      "logoUrl": "",
+      "points": 0,
+      "detailedStats": {
+        "rankingPoints": 0,
+        "matchesPlayed": 0,
+        "matchesWon": 0,
+        "matchesLost": 0,
+        "setsWon": 0,
+        "setsLost": 0,
+        "pointsWon": 0,
+        "pointsLost": 0,
+        "results": {
+          "wins3_0": 0,
+          "wins3_1": 0,
+          "wins3_2": 0,
+          "losses2_3": 0,
+          "losses1_3": 0,
+          "losses0_3": 0
+        },
+        "setRatio": 0,
+        "pointRatio": 0,
+        "penalty": "-"
+      },
+      "subLeague": "League - D2M Group A",
+      "championshipId": "95"
+    },
+    {
+      "position": 3,
       "teamId": "322",
       "teamName": "UCD D2M",
+      "logoUrl": "",
+      "points": 0,
+      "detailedStats": {
+        "rankingPoints": 0,
+        "matchesPlayed": 0,
+        "matchesWon": 0,
+        "matchesLost": 0,
+        "setsWon": 0,
+        "setsLost": 0,
+        "pointsWon": 0,
+        "pointsLost": 0,
+        "results": {
+          "wins3_0": 0,
+          "wins3_1": 0,
+          "wins3_2": 0,
+          "losses2_3": 0,
+          "losses1_3": 0,
+          "losses0_3": 0
+        },
+        "setRatio": 0,
+        "pointRatio": 0,
+        "penalty": "-"
+      },
+      "subLeague": "League - D2M Group A",
+      "championshipId": "95"
+    },
+    {
+      "position": 4,
+      "teamId": "425",
+      "teamName": "Naas Pythons D2M",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -656,8 +656,8 @@
     },
     {
       "position": 3,
-      "teamId": "421",
-      "teamName": "Celestials D2M",
+      "teamId": "383",
+      "teamName": "Crumlin Phivo",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -686,8 +686,8 @@
     },
     {
       "position": 4,
-      "teamId": "383",
-      "teamName": "Crumlin Phivo",
+      "teamId": "421",
+      "teamName": "Celestials D2M",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -746,8 +746,8 @@
     },
     {
       "position": 1,
-      "teamId": "356",
-      "teamName": "BMP Hunters",
+      "teamId": "362",
+      "teamName": "Gardians Panda D2M",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -776,8 +776,8 @@
     },
     {
       "position": 2,
-      "teamId": "362",
-      "teamName": "Gardians Panda D2M",
+      "teamId": "420",
+      "teamName": "Balbriggan T-Rex",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -836,8 +836,8 @@
     },
     {
       "position": 4,
-      "teamId": "423",
-      "teamName": "Kildare Jaguars",
+      "teamId": "361",
+      "teamName": "Galway D2M",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -866,8 +866,8 @@
     },
     {
       "position": 5,
-      "teamId": "361",
-      "teamName": "Galway D2M",
+      "teamId": "423",
+      "teamName": "Kildare Jaguars",
       "logoUrl": "",
       "points": 0,
       "detailedStats": {
@@ -895,7 +895,7 @@
       "championshipId": "104"
     }
   ],
-  "lastUpdated": "2025-12-12T00:00:07.763Z",
+  "lastUpdated": "2026-01-23T00:00:16.522Z",
   "dataVersion": "2.0",
   "source": "VIR Volleyball Standings",
   "schemaInfo": {
