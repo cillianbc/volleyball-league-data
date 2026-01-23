@@ -9,26 +9,26 @@
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_348.jpg",
       "rankingPoints": 10,
       "matches": {
-        "played": 6,
+        "played": 7,
         "won": 3,
-        "lost": 3
+        "lost": 4
       },
       "sets": {
-        "won": 12,
-        "lost": 12,
-        "ratio": 1
+        "won": 13,
+        "lost": 15,
+        "ratio": 0.87
       },
       "points": {
-        "won": 510,
-        "lost": 527,
-        "ratio": 0.968
+        "won": 601,
+        "lost": 623,
+        "ratio": 0.965
       },
       "resultsBreakdown": {
         "wins3_0": 0,
         "wins3_1": 3,
         "wins3_2": 0,
         "losses2_3": 1,
-        "losses1_3": 1,
+        "losses1_3": 2,
         "losses0_3": 1
       },
       "penalty": null,
@@ -36,59 +36,27 @@
     },
     {
       "league": "Men's Premier Division",
-      "teamId": "318",
-      "teamName": "TCD PM",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_318.jpg",
-      "rankingPoints": 9,
-      "matches": {
-        "played": 5,
-        "won": 4,
-        "lost": 1
-      },
-      "sets": {
-        "won": 12,
-        "lost": 10,
-        "ratio": 1.2
-      },
-      "points": {
-        "won": 464,
-        "lost": 460,
-        "ratio": 1.009
-      },
-      "resultsBreakdown": {
-        "wins3_0": 0,
-        "wins3_1": 1,
-        "wins3_2": 3,
-        "losses2_3": 0,
-        "losses1_3": 0,
-        "losses0_3": 1
-      },
-      "penalty": null,
-      "position": 2
-    },
-    {
-      "league": "Men's Premier Division",
       "teamId": "347",
       "teamName": "DVC Bravo",
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_347.jpg",
-      "rankingPoints": 6,
+      "rankingPoints": 9,
       "matches": {
-        "played": 7,
-        "won": 2,
+        "played": 8,
+        "won": 3,
         "lost": 5
       },
       "sets": {
-        "won": 8,
+        "won": 11,
         "lost": 17,
-        "ratio": 0.47
+        "ratio": 0.65
       },
       "points": {
-        "won": 546,
+        "won": 621,
         "lost": 583,
-        "ratio": 0.936
+        "ratio": 1.065
       },
       "resultsBreakdown": {
-        "wins3_0": 0,
+        "wins3_0": 1,
         "wins3_1": 2,
         "wins3_2": 0,
         "losses2_3": 0,
@@ -96,6 +64,38 @@
         "losses0_3": 3
       },
       "penalty": null,
+      "position": 2
+    },
+    {
+      "league": "Men's Premier Division",
+      "teamId": "318",
+      "teamName": "TCD PM",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_318.jpg",
+      "rankingPoints": 8,
+      "matches": {
+        "played": 6,
+        "won": 4,
+        "lost": 2
+      },
+      "sets": {
+        "won": 12,
+        "lost": 13,
+        "ratio": 0.92
+      },
+      "points": {
+        "won": 464,
+        "lost": 535,
+        "ratio": 0.867
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 1,
+        "wins3_2": 3,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 2
+      },
+      "penalty": "-1",
       "position": 3
     },
     {
@@ -103,25 +103,25 @@
       "teamId": "317",
       "teamName": "UCD PM",
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_317.jpg",
-      "rankingPoints": 3,
+      "rankingPoints": 6,
       "matches": {
-        "played": 6,
-        "won": 1,
+        "played": 7,
+        "won": 2,
         "lost": 5
       },
       "sets": {
-        "won": 4,
-        "lost": 16,
-        "ratio": 0.25
+        "won": 7,
+        "lost": 17,
+        "ratio": 0.41
       },
       "points": {
-        "won": 414,
-        "lost": 491,
-        "ratio": 0.843
+        "won": 510,
+        "lost": 582,
+        "ratio": 0.876
       },
       "resultsBreakdown": {
         "wins3_0": 0,
-        "wins3_1": 1,
+        "wins3_1": 2,
         "wins3_2": 0,
         "losses2_3": 0,
         "losses1_3": 1,
@@ -163,9 +163,9 @@
       "position": 5
     }
   ],
-  "updated": "2026-01-02T00:00:07.732Z",
+  "updated": "2026-01-23T00:00:04.218Z",
   "totalTeams": 5,
-  "lastUpdated": "2026-01-02T00:00:07.823Z",
+  "lastUpdated": "2026-01-23T00:00:04.288Z",
   "dataVersion": "1.0",
   "source": "VIR Volleyball Standings"
 }
