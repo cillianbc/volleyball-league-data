@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T00:00:51.810Z",
+  "lastUpdated": "2026-01-29T00:00:52.006Z",
   "totalClubs": 57,
   "clubs": [
     {
@@ -25,6 +25,18 @@
       "div3Teams": "Women",
       "youthTeams": "No",
       "typeOfAffiliation": "National League"
+    },
+    {
+      "clubName": "Athenry Volleyball Club",
+      "clubNameUrl": null,
+      "county": "Galway",
+      "homeVenue": "Coláiste an Eachréidh, Tuam Road, Athenry",
+      "clubSecretary": "Seán Ó Briain",
+      "clubSecretaryUrl": "mailto:athenryvc@gmail.com",
+      "nationalLeagueTeams": "No",
+      "div3Teams": "No",
+      "youthTeams": "G U16",
+      "typeOfAffiliation": "Associate"
     },
     {
       "clubName": "ATU Sligo",
@@ -97,66 +109,6 @@
       "div3Teams": "Men",
       "youthTeams": "G U18",
       "typeOfAffiliation": "National League"
-    },
-    {
-      "clubName": "Athenry Volleyball Club",
-      "clubNameUrl": null,
-      "county": "Galway",
-      "homeVenue": "Coláiste an Eachréidh, Tuam Road, Athenry",
-      "clubSecretary": "Seán Ó Briain",
-      "clubSecretaryUrl": "mailto:athenryvc@gmail.com",
-      "nationalLeagueTeams": "No",
-      "div3Teams": "No",
-      "youthTeams": "G U16",
-      "typeOfAffiliation": "Associate"
-    },
-    {
-      "clubName": "KVC",
-      "clubNameUrl": null,
-      "county": "Dublin",
-      "homeVenue": "New Cross College, Finglas",
-      "clubSecretary": "Saju Sebastian",
-      "clubSecretaryUrl": "mailto:sajut26@yahoo.co.uk",
-      "nationalLeagueTeams": "No",
-      "div3Teams": "No",
-      "youthTeams": "No",
-      "typeOfAffiliation": "Associate"
-    },
-    {
-      "clubName": "Waterford Volleyball Club",
-      "clubNameUrl": null,
-      "county": "Waterford",
-      "homeVenue": "Carrickphierish Community Campus. Waterford City",
-      "clubSecretary": "Maryna Romashko",
-      "clubSecretaryUrl": "mailto:marinaromashko16@gmail.com",
-      "nationalLeagueTeams": "No",
-      "div3Teams": "No",
-      "youthTeams": "No",
-      "typeOfAffiliation": "Associate"
-    },
-    {
-      "clubName": "Social Volleyball Dublin",
-      "clubNameUrl": null,
-      "county": "Dublin",
-      "homeVenue": "Trinity Sports Centre, Dublin 2",
-      "clubSecretary": "Vanessa Montanha",
-      "clubSecretaryUrl": "mailto: vanessamontanha@gmail.com",
-      "nationalLeagueTeams": "No",
-      "div3Teams": "No",
-      "youthTeams": "No",
-      "typeOfAffiliation": "Associate"
-    },
-    {
-      "clubName": "WMVC",
-      "clubNameUrl": null,
-      "county": "Mayo",
-      "homeVenue": "Ballintubber GAA Club, F12 T2C9",
-      "clubSecretary": "Gabriela Dorado",
-      "clubSecretaryUrl": "mailto: gabrieladorado8@gmail.com",
-      "nationalLeagueTeams": "No",
-      "div3Teams": "No",
-      "youthTeams": "No",
-      "typeOfAffiliation": "Associate"
     },
     {
       "clubName": "Cavan Cats VC",
@@ -411,6 +363,18 @@
       "typeOfAffiliation": "Associate"
     },
     {
+      "clubName": "KVC",
+      "clubNameUrl": null,
+      "county": "Dublin",
+      "homeVenue": "New Cross College, Finglas",
+      "clubSecretary": "Saju Sebastian",
+      "clubSecretaryUrl": "mailto:sajut26@yahoo.co.uk",
+      "nationalLeagueTeams": "No",
+      "div3Teams": "No",
+      "youthTeams": "No",
+      "typeOfAffiliation": "Associate"
+    },
+    {
       "clubName": "Leitrim Youth Volleyball Club",
       "clubNameUrl": null,
       "county": "Leitrim",
@@ -591,6 +555,18 @@
       "typeOfAffiliation": "Associate"
     },
     {
+      "clubName": "Social Volleyball Dublin",
+      "clubNameUrl": null,
+      "county": "Dublin",
+      "homeVenue": "Trinity Sports Centre, Dublin 2",
+      "clubSecretary": "Vanessa Montanha",
+      "clubSecretaryUrl": "mailto: vanessamontanha@gmail.com",
+      "nationalLeagueTeams": "No",
+      "div3Teams": "No",
+      "youthTeams": "No",
+      "typeOfAffiliation": "Associate"
+    },
+    {
       "clubName": "South Dublin Volleyball Club",
       "clubNameUrl": null,
       "county": "Dublin",
@@ -651,6 +627,18 @@
       "typeOfAffiliation": "Associate"
     },
     {
+      "clubName": "Waterford Volleyball Club",
+      "clubNameUrl": null,
+      "county": "Waterford",
+      "homeVenue": "Carrickphierish Community Campus. Waterford City",
+      "clubSecretary": "Maryna Romashko",
+      "clubSecretaryUrl": "mailto:marinaromashko16@gmail.com",
+      "nationalLeagueTeams": "No",
+      "div3Teams": "No",
+      "youthTeams": "No",
+      "typeOfAffiliation": "Associate"
+    },
+    {
       "clubName": "West Cork Volleyball Club",
       "clubNameUrl": "https://westcorkvolleyballclub.com/",
       "county": "Cork",
@@ -669,6 +657,18 @@
       "homeVenue": "Rosslare Community & Sports Centre",
       "clubSecretary": "Agnes Vala",
       "clubSecretaryUrl": "mailto:wexfordvolleyballclub@gmail.com",
+      "nationalLeagueTeams": "No",
+      "div3Teams": "No",
+      "youthTeams": "No",
+      "typeOfAffiliation": "Associate"
+    },
+    {
+      "clubName": "WMVC",
+      "clubNameUrl": null,
+      "county": "Mayo",
+      "homeVenue": "Ballintubber GAA Club, F12 T2C9",
+      "clubSecretary": "Gabriela Dorado",
+      "clubSecretaryUrl": "mailto: gabrieladorado8@gmail.com",
       "nationalLeagueTeams": "No",
       "div3Teams": "No",
       "youthTeams": "No",
