@@ -4,35 +4,67 @@
   "teams": [
     {
       "league": "Women's Premier Division",
+      "teamId": "309",
+      "teamName": "Net Force PW",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_309.jpg",
+      "rankingPoints": 12,
+      "matches": {
+        "played": 8,
+        "won": 4,
+        "lost": 4
+      },
+      "sets": {
+        "won": 12,
+        "lost": 14,
+        "ratio": 0.86
+      },
+      "points": {
+        "won": 567,
+        "lost": 587,
+        "ratio": 0.966
+      },
+      "resultsBreakdown": {
+        "wins3_0": 2,
+        "wins3_1": 2,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 0,
+        "losses0_3": 4
+      },
+      "penalty": null,
+      "position": 1
+    },
+    {
+      "league": "Women's Premier Division",
       "teamId": "313",
       "teamName": "TCD PW",
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_313.jpg",
-      "rankingPoints": 9,
+      "rankingPoints": 8,
       "matches": {
-        "played": 6,
+        "played": 8,
         "won": 3,
-        "lost": 3
+        "lost": 5
       },
       "sets": {
-        "won": 10,
-        "lost": 11,
-        "ratio": 0.91
+        "won": 11,
+        "lost": 17,
+        "ratio": 0.65
       },
       "points": {
-        "won": 496,
-        "lost": 489,
-        "ratio": 1.014
+        "won": 578,
+        "lost": 662,
+        "ratio": 0.873
       },
       "resultsBreakdown": {
         "wins3_0": 1,
         "wins3_1": 2,
         "wins3_2": 0,
         "losses2_3": 0,
-        "losses1_3": 1,
-        "losses0_3": 2
+        "losses1_3": 2,
+        "losses0_3": 3
       },
-      "penalty": null,
-      "position": 1
+      "penalty": "-1",
+      "position": 2
     },
     {
       "league": "Women's Premier Division",
@@ -41,59 +73,27 @@
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_312.jpg",
       "rankingPoints": 3,
       "matches": {
-        "played": 5,
+        "played": 7,
         "won": 1,
-        "lost": 4
+        "lost": 6
       },
       "sets": {
-        "won": 4,
-        "lost": 12,
+        "won": 6,
+        "lost": 18,
         "ratio": 0.33
       },
       "points": {
-        "won": 282,
-        "lost": 359,
-        "ratio": 0.786
+        "won": 457,
+        "lost": 549,
+        "ratio": 0.832
       },
       "resultsBreakdown": {
         "wins3_0": 1,
         "wins3_1": 0,
         "wins3_2": 0,
         "losses2_3": 0,
-        "losses1_3": 1,
+        "losses1_3": 3,
         "losses0_3": 3
-      },
-      "penalty": null,
-      "position": 2
-    },
-    {
-      "league": "Women's Premier Division",
-      "teamId": "309",
-      "teamName": "Net Force PW",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_309.jpg",
-      "rankingPoints": 3,
-      "matches": {
-        "played": 5,
-        "won": 1,
-        "lost": 4
-      },
-      "sets": {
-        "won": 3,
-        "lost": 13,
-        "ratio": 0.23
-      },
-      "points": {
-        "won": 319,
-        "lost": 403,
-        "ratio": 0.792
-      },
-      "resultsBreakdown": {
-        "wins3_0": 0,
-        "wins3_1": 1,
-        "wins3_2": 0,
-        "losses2_3": 0,
-        "losses1_3": 0,
-        "losses0_3": 4
       },
       "penalty": null,
       "position": 3
@@ -105,19 +105,19 @@
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_310.jpg",
       "rankingPoints": 0,
       "matches": {
-        "played": 5,
+        "played": 7,
         "won": 0,
-        "lost": 5
+        "lost": 7
       },
       "sets": {
         "won": 1,
-        "lost": 15,
-        "ratio": 0.07
+        "lost": 21,
+        "ratio": 0.05
       },
       "points": {
-        "won": 244,
-        "lost": 394,
-        "ratio": 0.619
+        "won": 333,
+        "lost": 544,
+        "ratio": 0.612
       },
       "resultsBreakdown": {
         "wins3_0": 0,
@@ -125,7 +125,7 @@
         "wins3_2": 0,
         "losses2_3": 0,
         "losses1_3": 1,
-        "losses0_3": 4
+        "losses0_3": 6
       },
       "penalty": null,
       "position": 4
@@ -137,19 +137,19 @@
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_308.jpg",
       "rankingPoints": 0,
       "matches": {
-        "played": 4,
+        "played": 6,
         "won": 0,
-        "lost": 4
+        "lost": 6
       },
       "sets": {
         "won": 0,
-        "lost": 12,
+        "lost": 18,
         "ratio": 0
       },
       "points": {
-        "won": 183,
-        "lost": 301,
-        "ratio": 0.608
+        "won": 282,
+        "lost": 451,
+        "ratio": 0.625
       },
       "resultsBreakdown": {
         "wins3_0": 0,
@@ -157,15 +157,15 @@
         "wins3_2": 0,
         "losses2_3": 0,
         "losses1_3": 0,
-        "losses0_3": 4
+        "losses0_3": 6
       },
       "penalty": null,
       "position": 5
     }
   ],
-  "updated": "2025-12-12T00:00:03.537Z",
+  "updated": "2026-01-30T00:00:02.590Z",
   "totalTeams": 5,
-  "lastUpdated": "2025-12-12T00:00:03.742Z",
+  "lastUpdated": "2026-01-30T00:00:02.809Z",
   "dataVersion": "1.0",
   "source": "VIR Volleyball Standings"
 }
