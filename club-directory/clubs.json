@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-05T00:00:52.060Z",
-  "totalClubs": 57,
+  "lastUpdated": "2026-02-06T00:00:52.760Z",
+  "totalClubs": 58,
   "clubs": [
     {
       "clubName": "4 Fun Volleyball Club",
@@ -85,6 +85,18 @@
       "div3Teams": "No",
       "youthTeams": "B U18, G U18",
       "typeOfAffiliation": "National League"
+    },
+    {
+      "clubName": "Blizzard Volleyball Club",
+      "clubNameUrl": null,
+      "county": "Carlow",
+      "homeVenue": "Presentation College, Askea",
+      "clubSecretary": "Secretary",
+      "clubSecretaryUrl": "mailto:bhemzexy@gmail.com",
+      "nationalLeagueTeams": "No",
+      "div3Teams": "No",
+      "youthTeams": "No",
+      "typeOfAffiliation": "Associate"
     },
     {
       "clubName": "Burren Volleyball Club",
