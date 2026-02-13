@@ -202,7 +202,7 @@
       "matchday": "Matchday 5",
       "sub_league": "League - D1M",
       "date": "06/12/2025",
-      "time": "11:30",
+      "time": "11:00",
       "venue": "Tech University Dublin, Tallaght",
       "home_team": "Ireland Men's U18",
       "away_team": "DVC D1M"
@@ -211,7 +211,7 @@
       "matchday": "Matchday 5",
       "sub_league": "League - D1M",
       "date": "07/12/2025",
-      "time": "11:30",
+      "time": "11:00",
       "venue": "Tech University Dublin, Tallaght",
       "home_team": "Ireland Men's U18",
       "away_team": "Aer Lingus Harriers"
@@ -292,7 +292,7 @@
       "matchday": "Matchday 7",
       "sub_league": "League - D1M",
       "date": "24/01/2026",
-      "time": "13:00",
+      "time": "15:00",
       "venue": "Riverstick Community Centre",
       "home_team": "Net Force D1M",
       "away_team": "Ireland Men's U18"
@@ -301,7 +301,7 @@
       "matchday": "Matchday 7",
       "sub_league": "League - D1M",
       "date": "25/01/2026",
-      "time": "11:30",
+      "time": "11:00",
       "venue": "Tech University Dublin, Tallaght",
       "home_team": "Ireland Men's U18",
       "away_team": "Carrick Crows D1M"
@@ -320,7 +320,7 @@
       "sub_league": "League - D1M",
       "date": "01/02/2026",
       "time": "13:30",
-      "venue": "Colaiste Muire Mathair (Galway)",
+      "venue": "Univ of Galway Kingfisher Club",
       "home_team": "Galway D1M",
       "away_team": "DVC D1M"
     },
@@ -346,22 +346,13 @@
       "matchday": "Matchday 8",
       "sub_league": "League - D1M",
       "date": "08/02/2026",
-      "time": "11:30",
-      "venue": "Castleblayney College",
-      "home_team": "Carrick Crows D1M",
-      "away_team": "Net Force D1M"
-    },
-    {
-      "matchday": "Matchday 8",
-      "sub_league": "League - D1M",
-      "date": "08/02/2026",
       "time": "13:00",
       "venue": "Castlelands Community Centre",
       "home_team": "Balbriggan Broncos",
       "away_team": "DVC D1M"
     },
     {
-      "matchday": "Matchday 9",
+      "matchday": "Matchday 8",
       "sub_league": "League - D1M",
       "date": "08/02/2026",
       "time": "13:30",
@@ -377,6 +368,15 @@
       "venue": "Clonlara Community Centre",
       "home_team": "Munster Thunder D1M",
       "away_team": "Gardians Masters"
+    },
+    {
+      "matchday": "Matchday 9",
+      "sub_league": "League - D1M",
+      "date": "21/02/2026",
+      "time": "14:00",
+      "venue": "Castleblayney College",
+      "home_team": "Carrick Crows D1M",
+      "away_team": "Net Force D1M"
     },
     {
       "matchday": "Matchday 9",
@@ -401,7 +401,7 @@
       "sub_league": "League - D1M",
       "date": "15/02/2026",
       "time": "13:30",
-      "venue": "Colaiste Muire Mathair (Galway)",
+      "venue": "Clonfert College (Ball'sloe)",
       "home_team": "Galway D1M",
       "away_team": "Carrick Crows D1M"
     },
@@ -419,7 +419,7 @@
       "sub_league": "League - D1M",
       "date": "28/02/2026",
       "time": "11:30",
-      "venue": "Phoenix Sports Centre (Maynooth Univ)",
+      "venue": "Tech University Dublin, Tallaght",
       "home_team": "Ireland Men's U18",
       "away_team": "Galway D1M"
     },
@@ -584,7 +584,7 @@
         "sub_league": "League - D1M",
         "date": "01/02/2026",
         "time": "13:30",
-        "venue": "Colaiste Muire Mathair (Galway)",
+        "venue": "Univ of Galway Kingfisher Club",
         "home_team": "Galway D1M",
         "away_team": "DVC D1M"
       },
@@ -619,7 +619,7 @@
         "matchday": "Matchday 5",
         "sub_league": "League - D1M",
         "date": "06/12/2025",
-        "time": "11:30",
+        "time": "11:00",
         "venue": "Tech University Dublin, Tallaght",
         "home_team": "Ireland Men's U18",
         "away_team": "DVC D1M"
@@ -637,19 +637,10 @@
         "matchday": "Matchday 5",
         "sub_league": "League - D1M",
         "date": "07/12/2025",
-        "time": "11:30",
+        "time": "11:00",
         "venue": "Tech University Dublin, Tallaght",
         "home_team": "Ireland Men's U18",
         "away_team": "Aer Lingus Harriers"
-      },
-      {
-        "matchday": "Matchday 8",
-        "sub_league": "League - D1M",
-        "date": "08/02/2026",
-        "time": "11:30",
-        "venue": "Castleblayney College",
-        "home_team": "Carrick Crows D1M",
-        "away_team": "Net Force D1M"
       },
       {
         "matchday": "Matchday 8",
@@ -661,7 +652,7 @@
         "away_team": "DVC D1M"
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 8",
         "sub_league": "League - D1M",
         "date": "08/02/2026",
         "time": "13:30",
@@ -890,7 +881,7 @@
         "sub_league": "League - D1M",
         "date": "15/02/2026",
         "time": "13:30",
-        "venue": "Colaiste Muire Mathair (Galway)",
+        "venue": "Clonfert College (Ball'sloe)",
         "home_team": "Galway D1M",
         "away_team": "Carrick Crows D1M"
       },
@@ -1012,6 +1003,15 @@
         "away_team": "Carrick Crows D1M"
       },
       {
+        "matchday": "Matchday 9",
+        "sub_league": "League - D1M",
+        "date": "21/02/2026",
+        "time": "14:00",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D1M",
+        "away_team": "Net Force D1M"
+      },
+      {
         "matchday": "Matchday 11",
         "sub_league": "League - D1M",
         "date": "21/03/2026",
@@ -1051,7 +1051,7 @@
         "matchday": "Matchday 7",
         "sub_league": "League - D1M",
         "date": "24/01/2026",
-        "time": "13:00",
+        "time": "15:00",
         "venue": "Riverstick Community Centre",
         "home_team": "Net Force D1M",
         "away_team": "Ireland Men's U18"
@@ -1060,7 +1060,7 @@
         "matchday": "Matchday 7",
         "sub_league": "League - D1M",
         "date": "25/01/2026",
-        "time": "11:30",
+        "time": "11:00",
         "venue": "Tech University Dublin, Tallaght",
         "home_team": "Ireland Men's U18",
         "away_team": "Carrick Crows D1M"
@@ -1106,7 +1106,7 @@
         "sub_league": "League - D1M",
         "date": "28/02/2026",
         "time": "11:30",
-        "venue": "Phoenix Sports Centre (Maynooth Univ)",
+        "venue": "Tech University Dublin, Tallaght",
         "home_team": "Ireland Men's U18",
         "away_team": "Galway D1M"
       },
@@ -1322,16 +1322,6 @@
         "is_home": true
       },
       {
-        "matchday": "Matchday 8",
-        "sub_league": "League - D1M",
-        "date": "08/02/2026",
-        "time": "11:30",
-        "venue": "Castleblayney College",
-        "home_team": "Carrick Crows D1M",
-        "away_team": "Net Force D1M",
-        "is_home": false
-      },
-      {
         "matchday": "Matchday 11",
         "sub_league": "League - D1M",
         "date": "08/03/2026",
@@ -1422,6 +1412,16 @@
         "is_home": true
       },
       {
+        "matchday": "Matchday 9",
+        "sub_league": "League - D1M",
+        "date": "21/02/2026",
+        "time": "14:00",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D1M",
+        "away_team": "Net Force D1M",
+        "is_home": false
+      },
+      {
         "matchday": "Matchday 12",
         "sub_league": "League - D1M",
         "date": "22/03/2026",
@@ -1435,7 +1435,7 @@
         "matchday": "Matchday 7",
         "sub_league": "League - D1M",
         "date": "24/01/2026",
-        "time": "13:00",
+        "time": "15:00",
         "venue": "Riverstick Community Centre",
         "home_team": "Net Force D1M",
         "away_team": "Ireland Men's U18",
@@ -1463,16 +1463,6 @@
       }
     ],
     "Carrick Crows D1M": [
-      {
-        "matchday": "Matchday 8",
-        "sub_league": "League - D1M",
-        "date": "08/02/2026",
-        "time": "11:30",
-        "venue": "Castleblayney College",
-        "home_team": "Carrick Crows D1M",
-        "away_team": "Net Force D1M",
-        "is_home": true
-      },
       {
         "matchday": "Matchday 10",
         "sub_league": "League - D1M",
@@ -1528,7 +1518,7 @@
         "sub_league": "League - D1M",
         "date": "15/02/2026",
         "time": "13:30",
-        "venue": "Colaiste Muire Mathair (Galway)",
+        "venue": "Clonfert College (Ball'sloe)",
         "home_team": "Galway D1M",
         "away_team": "Carrick Crows D1M",
         "is_home": false
@@ -1564,6 +1554,16 @@
         "is_home": false
       },
       {
+        "matchday": "Matchday 9",
+        "sub_league": "League - D1M",
+        "date": "21/02/2026",
+        "time": "14:00",
+        "venue": "Castleblayney College",
+        "home_team": "Carrick Crows D1M",
+        "away_team": "Net Force D1M",
+        "is_home": true
+      },
+      {
         "matchday": "Matchday 11",
         "sub_league": "League - D1M",
         "date": "21/03/2026",
@@ -1577,7 +1577,7 @@
         "matchday": "Matchday 7",
         "sub_league": "League - D1M",
         "date": "25/01/2026",
-        "time": "11:30",
+        "time": "11:00",
         "venue": "Tech University Dublin, Tallaght",
         "home_team": "Ireland Men's U18",
         "away_team": "Carrick Crows D1M",
@@ -1772,7 +1772,7 @@
         "sub_league": "League - D1M",
         "date": "01/02/2026",
         "time": "13:30",
-        "venue": "Colaiste Muire Mathair (Galway)",
+        "venue": "Univ of Galway Kingfisher Club",
         "home_team": "Galway D1M",
         "away_team": "DVC D1M",
         "is_home": false
@@ -1781,7 +1781,7 @@
         "matchday": "Matchday 5",
         "sub_league": "League - D1M",
         "date": "06/12/2025",
-        "time": "11:30",
+        "time": "11:00",
         "venue": "Tech University Dublin, Tallaght",
         "home_team": "Ireland Men's U18",
         "away_team": "DVC D1M",
@@ -1924,7 +1924,7 @@
         "sub_league": "League - D1M",
         "date": "01/02/2026",
         "time": "13:30",
-        "venue": "Colaiste Muire Mathair (Galway)",
+        "venue": "Univ of Galway Kingfisher Club",
         "home_team": "Galway D1M",
         "away_team": "DVC D1M",
         "is_home": true
@@ -1940,7 +1940,7 @@
         "is_home": false
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 8",
         "sub_league": "League - D1M",
         "date": "08/02/2026",
         "time": "13:30",
@@ -1994,7 +1994,7 @@
         "sub_league": "League - D1M",
         "date": "15/02/2026",
         "time": "13:30",
-        "venue": "Colaiste Muire Mathair (Galway)",
+        "venue": "Clonfert College (Ball'sloe)",
         "home_team": "Galway D1M",
         "away_team": "Carrick Crows D1M",
         "is_home": true
@@ -2054,7 +2054,7 @@
         "sub_league": "League - D1M",
         "date": "28/02/2026",
         "time": "11:30",
-        "venue": "Phoenix Sports Centre (Maynooth Univ)",
+        "venue": "Tech University Dublin, Tallaght",
         "home_team": "Ireland Men's U18",
         "away_team": "Galway D1M",
         "is_home": false
@@ -2085,14 +2085,14 @@
         "matchday": "Matchday 5",
         "sub_league": "League - D1M",
         "date": "07/12/2025",
-        "time": "11:30",
+        "time": "11:00",
         "venue": "Tech University Dublin, Tallaght",
         "home_team": "Ireland Men's U18",
         "away_team": "Aer Lingus Harriers",
         "is_home": false
       },
       {
-        "matchday": "Matchday 9",
+        "matchday": "Matchday 8",
         "sub_league": "League - D1M",
         "date": "08/02/2026",
         "time": "13:30",
@@ -2389,7 +2389,7 @@
         "matchday": "Matchday 5",
         "sub_league": "League - D1M",
         "date": "06/12/2025",
-        "time": "11:30",
+        "time": "11:00",
         "venue": "Tech University Dublin, Tallaght",
         "home_team": "Ireland Men's U18",
         "away_team": "DVC D1M",
@@ -2399,7 +2399,7 @@
         "matchday": "Matchday 5",
         "sub_league": "League - D1M",
         "date": "07/12/2025",
-        "time": "11:30",
+        "time": "11:00",
         "venue": "Tech University Dublin, Tallaght",
         "home_team": "Ireland Men's U18",
         "away_team": "Aer Lingus Harriers",
@@ -2429,7 +2429,7 @@
         "matchday": "Matchday 7",
         "sub_league": "League - D1M",
         "date": "24/01/2026",
-        "time": "13:00",
+        "time": "15:00",
         "venue": "Riverstick Community Centre",
         "home_team": "Net Force D1M",
         "away_team": "Ireland Men's U18",
@@ -2439,7 +2439,7 @@
         "matchday": "Matchday 7",
         "sub_league": "League - D1M",
         "date": "25/01/2026",
-        "time": "11:30",
+        "time": "11:00",
         "venue": "Tech University Dublin, Tallaght",
         "home_team": "Ireland Men's U18",
         "away_team": "Carrick Crows D1M",
@@ -2450,7 +2450,7 @@
         "sub_league": "League - D1M",
         "date": "28/02/2026",
         "time": "11:30",
-        "venue": "Phoenix Sports Centre (Maynooth Univ)",
+        "venue": "Tech University Dublin, Tallaght",
         "home_team": "Ireland Men's U18",
         "away_team": "Galway D1M",
         "is_home": true
@@ -2477,7 +2477,7 @@
       "League - D1M"
     ]
   },
-  "lastUpdated": "2025-10-30T22:02:29.477Z",
+  "lastUpdated": "2026-02-13T00:00:16.490Z",
   "dataVersion": "1.0",
   "source": "VIR Competition Matches"
 }
