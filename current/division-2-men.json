@@ -2,7 +2,7 @@
   "league": "Men's Division 2",
   "totalTeams": 0,
   "subLeagueCount": 1,
-  "extractedAt": "2026-02-13T00:00:09.005Z",
+  "extractedAt": "2026-02-20T00:00:09.331Z",
   "subLeagues": [
     {
       "name": "Play-Offs - Play-Offs",
@@ -11,7 +11,7 @@
     }
   ],
   "teams": [],
-  "lastUpdated": "2026-02-13T00:00:09.096Z",
+  "lastUpdated": "2026-02-20T00:00:09.400Z",
   "dataVersion": "2.0",
   "source": "VIR Volleyball Standings",
   "schemaInfo": {
