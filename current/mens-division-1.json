@@ -7,27 +7,27 @@
       "teamId": "321",
       "teamName": "Munster Thunder D1M",
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_321.jpg",
-      "rankingPoints": 15,
+      "rankingPoints": 16,
       "matches": {
-        "played": 9,
+        "played": 10,
         "won": 6,
-        "lost": 3
+        "lost": 4
       },
       "sets": {
-        "won": 20,
-        "lost": 16,
-        "ratio": 1.25
+        "won": 22,
+        "lost": 19,
+        "ratio": 1.16
       },
       "points": {
-        "won": 788,
-        "lost": 786,
-        "ratio": 1.002
+        "won": 896,
+        "lost": 901,
+        "ratio": 0.994
       },
       "resultsBreakdown": {
         "wins3_0": 2,
         "wins3_1": 1,
         "wins3_2": 3,
-        "losses2_3": 0,
+        "losses2_3": 1,
         "losses1_3": 2,
         "losses0_3": 1
       },
@@ -36,91 +36,59 @@
     },
     {
       "league": "Men's Division 1",
-      "teamId": "349",
-      "teamName": "Gardians Masters",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_349.jpg",
-      "rankingPoints": 15,
-      "matches": {
-        "played": 10,
-        "won": 5,
-        "lost": 5
-      },
-      "sets": {
-        "won": 19,
-        "lost": 20,
-        "ratio": 0.95
-      },
-      "points": {
-        "won": 870,
-        "lost": 863,
-        "ratio": 1.008
-      },
-      "resultsBreakdown": {
-        "wins3_0": 1,
-        "wins3_1": 3,
-        "wins3_2": 1,
-        "losses2_3": 1,
-        "losses1_3": 2,
-        "losses0_3": 2
-      },
-      "penalty": null,
-      "position": 2
-    },
-    {
-      "league": "Men's Division 1",
       "teamId": "418",
       "teamName": "Carrick Crows D1M",
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_418.jpg",
-      "rankingPoints": 13,
+      "rankingPoints": 15,
       "matches": {
-        "played": 9,
-        "won": 5,
+        "played": 10,
+        "won": 6,
         "lost": 4
       },
       "sets": {
-        "won": 18,
-        "lost": 16,
-        "ratio": 1.12
+        "won": 21,
+        "lost": 18,
+        "ratio": 1.17
       },
       "points": {
-        "won": 663,
-        "lost": 733,
-        "ratio": 0.904
+        "won": 766,
+        "lost": 840,
+        "ratio": 0.912
       },
       "resultsBreakdown": {
         "wins3_0": 2,
         "wins3_1": 2,
-        "wins3_2": 1,
+        "wins3_2": 2,
         "losses2_3": 1,
         "losses1_3": 1,
         "losses0_3": 2
       },
       "penalty": "-2",
-      "position": 3
+      "position": 2
     },
     {
       "league": "Men's Division 1",
       "teamId": "351",
       "teamName": "Aer Lingus Harriers",
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_351.jpg",
-      "rankingPoints": 12,
+      "rankingPoints": 15,
       "matches": {
-        "played": 10,
-        "won": 5,
+        "played": 11,
+        "won": 6,
         "lost": 5
       },
       "sets": {
-        "won": 18,
+        "won": 21,
         "lost": 23,
-        "ratio": 0.78
+        "ratio": 0.91
       },
       "points": {
-        "won": 886,
-        "lost": 919,
-        "ratio": 0.964
+        "won": 961,
+        "lost": 975,
+        "ratio": 0.986
       },
       "resultsBreakdown": {
-        "wins3_0": 0,
+        "wins3_0": 1,
         "wins3_1": 2,
         "wins3_2": 3,
         "losses2_3": 0,
@@ -128,7 +96,71 @@
         "losses0_3": 2
       },
       "penalty": null,
+      "position": 3
+    },
+    {
+      "league": "Men's Division 1",
+      "teamId": "349",
+      "teamName": "Gardians Masters",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_349.jpg",
+      "rankingPoints": 15,
+      "matches": {
+        "played": 11,
+        "won": 5,
+        "lost": 6
+      },
+      "sets": {
+        "won": 19,
+        "lost": 23,
+        "ratio": 0.83
+      },
+      "points": {
+        "won": 926,
+        "lost": 938,
+        "ratio": 0.987
+      },
+      "resultsBreakdown": {
+        "wins3_0": 1,
+        "wins3_1": 3,
+        "wins3_2": 1,
+        "losses2_3": 1,
+        "losses1_3": 2,
+        "losses0_3": 3
+      },
+      "penalty": null,
       "position": 4
+    },
+    {
+      "league": "Men's Division 1",
+      "teamId": "350",
+      "teamName": "DVC D1M",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_350.jpg",
+      "rankingPoints": 12,
+      "matches": {
+        "played": 11,
+        "won": 4,
+        "lost": 7
+      },
+      "sets": {
+        "won": 22,
+        "lost": 27,
+        "ratio": 0.81
+      },
+      "points": {
+        "won": 980,
+        "lost": 1027,
+        "ratio": 0.954
+      },
+      "resultsBreakdown": {
+        "wins3_0": 1,
+        "wins3_1": 0,
+        "wins3_2": 3,
+        "losses2_3": 4,
+        "losses1_3": 2,
+        "losses0_3": 1
+      },
+      "penalty": "-1",
+      "position": 5
     },
     {
       "league": "Men's Division 1",
@@ -137,61 +169,29 @@
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_319.jpg",
       "rankingPoints": 12,
       "matches": {
-        "played": 9,
+        "played": 10,
         "won": 3,
-        "lost": 6
+        "lost": 7
       },
       "sets": {
-        "won": 17,
-        "lost": 21,
-        "ratio": 0.81
+        "won": 18,
+        "lost": 24,
+        "ratio": 0.75
       },
       "points": {
-        "won": 798,
-        "lost": 826,
-        "ratio": 0.966
+        "won": 887,
+        "lost": 923,
+        "ratio": 0.961
       },
       "resultsBreakdown": {
         "wins3_0": 1,
         "wins3_1": 1,
         "wins3_2": 1,
         "losses2_3": 4,
-        "losses1_3": 0,
+        "losses1_3": 1,
         "losses0_3": 2
       },
       "penalty": null,
-      "position": 5
-    },
-    {
-      "league": "Men's Division 1",
-      "teamId": "350",
-      "teamName": "DVC D1M",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_350.jpg",
-      "rankingPoints": 10,
-      "matches": {
-        "played": 10,
-        "won": 3,
-        "lost": 7
-      },
-      "sets": {
-        "won": 19,
-        "lost": 25,
-        "ratio": 0.76
-      },
-      "points": {
-        "won": 865,
-        "lost": 919,
-        "ratio": 0.941
-      },
-      "resultsBreakdown": {
-        "wins3_0": 1,
-        "wins3_1": 0,
-        "wins3_2": 2,
-        "losses2_3": 4,
-        "losses1_3": 2,
-        "losses0_3": 1
-      },
-      "penalty": "-1",
       "position": 6
     },
     {
@@ -227,9 +227,9 @@
       "position": 7
     }
   ],
-  "updated": "2026-02-13T00:00:03.637Z",
+  "updated": "2026-02-20T00:00:03.143Z",
   "totalTeams": 7,
-  "lastUpdated": "2026-02-13T00:00:04.448Z",
+  "lastUpdated": "2026-02-20T00:00:03.198Z",
   "dataVersion": "1.0",
   "source": "VIR Volleyball Standings"
 }
