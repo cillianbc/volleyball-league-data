@@ -4,31 +4,31 @@
   "teams": [
     {
       "league": "Men's Premier Division",
-      "teamId": "348",
-      "teamName": "Aer Lingus PM",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_348.jpg",
-      "rankingPoints": 12,
+      "teamId": "346",
+      "teamName": "Gardians Fianna",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_346.jpg",
+      "rankingPoints": 14,
       "matches": {
-        "played": 8,
+        "played": 11,
         "won": 4,
-        "lost": 4
+        "lost": 7
       },
       "sets": {
-        "won": 16,
-        "lost": 17,
-        "ratio": 0.94
+        "won": 20,
+        "lost": 22,
+        "ratio": 0.91
       },
       "points": {
-        "won": 704,
-        "lost": 723,
-        "ratio": 0.974
+        "won": 923,
+        "lost": 954,
+        "ratio": 0.968
       },
       "resultsBreakdown": {
-        "wins3_0": 0,
-        "wins3_1": 3,
-        "wins3_2": 1,
-        "losses2_3": 1,
-        "losses1_3": 2,
+        "wins3_0": 3,
+        "wins3_1": 1,
+        "wins3_2": 0,
+        "losses2_3": 2,
+        "losses1_3": 4,
         "losses0_3": 1
       },
       "penalty": null,
@@ -36,35 +36,67 @@
     },
     {
       "league": "Men's Premier Division",
-      "teamId": "346",
-      "teamName": "Gardians Fianna",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_346.jpg",
-      "rankingPoints": 11,
+      "teamId": "318",
+      "teamName": "TCD PM",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_318.jpg",
+      "rankingPoints": 13,
       "matches": {
-        "played": 9,
-        "won": 3,
-        "lost": 6
+        "played": 10,
+        "won": 6,
+        "lost": 4
       },
       "sets": {
-        "won": 16,
-        "lost": 19,
-        "ratio": 0.84
+        "won": 21,
+        "lost": 23,
+        "ratio": 0.91
       },
       "points": {
-        "won": 757,
-        "lost": 789,
-        "ratio": 0.959
+        "won": 864,
+        "lost": 932,
+        "ratio": 0.927
       },
       "resultsBreakdown": {
-        "wins3_0": 2,
+        "wins3_0": 0,
         "wins3_1": 1,
+        "wins3_2": 5,
+        "losses2_3": 1,
+        "losses1_3": 1,
+        "losses0_3": 2
+      },
+      "penalty": "-1",
+      "position": 2
+    },
+    {
+      "league": "Men's Premier Division",
+      "teamId": "317",
+      "teamName": "UCD PM",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_317.jpg",
+      "rankingPoints": 10,
+      "matches": {
+        "played": 10,
+        "won": 3,
+        "lost": 7
+      },
+      "sets": {
+        "won": 12,
+        "lost": 24,
+        "ratio": 0.5
+      },
+      "points": {
+        "won": 742,
+        "lost": 853,
+        "ratio": 0.87
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 3,
         "wins3_2": 0,
-        "losses2_3": 2,
-        "losses1_3": 3,
-        "losses0_3": 1
+        "losses2_3": 1,
+        "losses1_3": 1,
+        "losses0_3": 5
       },
       "penalty": null,
-      "position": 2
+      "position": 3
     },
     {
       "league": "Men's Premier Division",
@@ -73,59 +105,27 @@
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_347.jpg",
       "rankingPoints": 9,
       "matches": {
-        "played": 9,
+        "played": 11,
         "won": 3,
-        "lost": 6
+        "lost": 8
       },
       "sets": {
-        "won": 11,
-        "lost": 20,
-        "ratio": 0.55
+        "won": 12,
+        "lost": 26,
+        "ratio": 0.46
       },
       "points": {
-        "won": 683,
-        "lost": 658,
-        "ratio": 1.038
+        "won": 835,
+        "lost": 830,
+        "ratio": 1.006
       },
       "resultsBreakdown": {
         "wins3_0": 1,
         "wins3_1": 2,
         "wins3_2": 0,
         "losses2_3": 0,
-        "losses1_3": 2,
-        "losses0_3": 4
-      },
-      "penalty": null,
-      "position": 3
-    },
-    {
-      "league": "Men's Premier Division",
-      "teamId": "317",
-      "teamName": "UCD PM",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_317.jpg",
-      "rankingPoints": 7,
-      "matches": {
-        "played": 8,
-        "won": 2,
-        "lost": 6
-      },
-      "sets": {
-        "won": 9,
-        "lost": 20,
-        "ratio": 0.45
-      },
-      "points": {
-        "won": 601,
-        "lost": 686,
-        "ratio": 0.876
-      },
-      "resultsBreakdown": {
-        "wins3_0": 0,
-        "wins3_1": 2,
-        "wins3_2": 0,
-        "losses2_3": 1,
-        "losses1_3": 1,
-        "losses0_3": 4
+        "losses1_3": 3,
+        "losses0_3": 5
       },
       "penalty": null,
       "position": 4
@@ -163,9 +163,9 @@
       "position": 5
     }
   ],
-  "updated": "2026-02-06T00:00:05.279Z",
+  "updated": "2026-02-27T00:00:04.435Z",
   "totalTeams": 5,
-  "lastUpdated": "2026-02-06T00:00:05.376Z",
+  "lastUpdated": "2026-02-27T00:00:04.605Z",
   "dataVersion": "1.0",
   "source": "VIR Volleyball Standings"
 }
