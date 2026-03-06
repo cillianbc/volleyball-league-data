@@ -1,0 +1,23 @@
+{
+  "league": "Men's Division 3",
+  "totalTeams": 0,
+  "subLeagueCount": 1,
+  "extractedAt": "2026-03-06T00:00:08.138Z",
+  "subLeagues": [
+    {
+      "name": "League - Play-Offs",
+      "championshipId": "98",
+      "teams": []
+    }
+  ],
+  "teams": [],
+  "capturedAt": "2026-03-06T00:00:08.198Z",
+  "weekOf": "2026-03-06",
+  "dataVersion": "2.0",
+  "source": "VIR Volleyball Standings",
+  "schemaInfo": {
+    "hasSubLeagues": true,
+    "flatTeamsIncluded": true,
+    "hierarchicalDataIncluded": true
+  }
+}
