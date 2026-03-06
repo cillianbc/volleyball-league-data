@@ -464,7 +464,7 @@
       "sub_league": "League - D1W",
       "date": "08/03/2026",
       "time": "11:30",
-      "venue": "Artane Beaumont Family Recreation Centre",
+      "venue": "Our Lady of Mercy College, Beaumont",
       "home_team": "Santry Sparks",
       "away_team": "Dalkey Devils D1W"
     },
@@ -518,18 +518,18 @@
       "sub_league": "League - D1W",
       "date": "12/04/2026",
       "time": "11:30",
-      "venue": "Artane Beaumont Family Recreation Centre",
-      "home_team": "Santry Sparks",
-      "away_team": "Tallaght Rockets D1W"
+      "venue": "Macroom Community Leisure Centre",
+      "home_team": "Impact Macroom D1W",
+      "away_team": "BMP Valkyries"
     },
     {
       "matchday": "Matchday 12",
       "sub_league": "League - D1W",
       "date": "12/04/2026",
-      "time": "11:30",
-      "venue": "Macroom Community Leisure Centre",
-      "home_team": "Impact Macroom D1W",
-      "away_team": "BMP Valkyries"
+      "time": "14:00",
+      "venue": "Artane Beaumont Family Recreation Centre",
+      "home_team": "Santry Sparks",
+      "away_team": "Tallaght Rockets D1W"
     },
     {
       "matchday": "Matchday 12",
@@ -710,7 +710,7 @@
         "sub_league": "League - D1W",
         "date": "08/03/2026",
         "time": "11:30",
-        "venue": "Artane Beaumont Family Recreation Centre",
+        "venue": "Our Lady of Mercy College, Beaumont",
         "home_team": "Santry Sparks",
         "away_team": "Dalkey Devils D1W"
       },
@@ -791,18 +791,18 @@
         "sub_league": "League - D1W",
         "date": "12/04/2026",
         "time": "11:30",
-        "venue": "Artane Beaumont Family Recreation Centre",
-        "home_team": "Santry Sparks",
-        "away_team": "Tallaght Rockets D1W"
+        "venue": "Macroom Community Leisure Centre",
+        "home_team": "Impact Macroom D1W",
+        "away_team": "BMP Valkyries"
       },
       {
         "matchday": "Matchday 12",
         "sub_league": "League - D1W",
         "date": "12/04/2026",
-        "time": "11:30",
-        "venue": "Macroom Community Leisure Centre",
-        "home_team": "Impact Macroom D1W",
-        "away_team": "BMP Valkyries"
+        "time": "14:00",
+        "venue": "Artane Beaumont Family Recreation Centre",
+        "home_team": "Santry Sparks",
+        "away_team": "Tallaght Rockets D1W"
       },
       {
         "matchday": "Matchday 12",
@@ -1213,7 +1213,7 @@
         "matchday": "Matchday 12",
         "sub_league": "League - D1W",
         "date": "12/04/2026",
-        "time": "11:30",
+        "time": "14:00",
         "venue": "Artane Beaumont Family Recreation Centre",
         "home_team": "Santry Sparks",
         "away_team": "Tallaght Rockets D1W",
@@ -1934,7 +1934,7 @@
         "sub_league": "League - D1W",
         "date": "08/03/2026",
         "time": "11:30",
-        "venue": "Artane Beaumont Family Recreation Centre",
+        "venue": "Our Lady of Mercy College, Beaumont",
         "home_team": "Santry Sparks",
         "away_team": "Dalkey Devils D1W",
         "is_home": false
@@ -2086,7 +2086,7 @@
         "sub_league": "League - D1W",
         "date": "08/03/2026",
         "time": "11:30",
-        "venue": "Artane Beaumont Family Recreation Centre",
+        "venue": "Our Lady of Mercy College, Beaumont",
         "home_team": "Santry Sparks",
         "away_team": "Dalkey Devils D1W",
         "is_home": true
@@ -2115,7 +2115,7 @@
         "matchday": "Matchday 12",
         "sub_league": "League - D1W",
         "date": "12/04/2026",
-        "time": "11:30",
+        "time": "14:00",
         "venue": "Artane Beaumont Family Recreation Centre",
         "home_team": "Santry Sparks",
         "away_team": "Tallaght Rockets D1W",
@@ -2477,7 +2477,7 @@
       "League - D1W"
     ]
   },
-  "lastUpdated": "2026-01-30T00:00:21.649Z",
+  "lastUpdated": "2026-03-06T00:00:16.783Z",
   "dataVersion": "1.0",
   "source": "VIR Competition Matches"
 }
