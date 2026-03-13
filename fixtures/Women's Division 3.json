@@ -4,28 +4,19 @@
       "matchday": "Matchday 1",
       "sub_league": "League - Play-Offs",
       "date": "12/04/2026",
-      "time": "23:59",
-      "venue": "TBD",
-      "home_team": "Winner of Group A",
-      "away_team": "Runner-Up of Group D"
-    },
-    {
-      "matchday": "Matchday 1",
-      "sub_league": "League - Play-Offs",
-      "date": "12/04/2026",
-      "time": "23:59",
-      "venue": "TBD",
-      "home_team": "Winner of Group D",
-      "away_team": "Runner-Up of Group A"
-    },
-    {
-      "matchday": "Matchday 1",
-      "sub_league": "League - Play-Offs",
-      "date": "12/04/2026",
-      "time": "23:59",
-      "venue": "TBD",
+      "time": "11:30",
+      "venue": "Artane Beaumont Family Recreation Centre",
       "home_team": "Santry Aces D3W",
-      "away_team": "Runner-Up of Group C"
+      "away_team": "Naas Cobras D3W"
+    },
+    {
+      "matchday": "Matchday 1",
+      "sub_league": "League - Play-Offs",
+      "date": "12/04/2026",
+      "time": "17:00",
+      "venue": "Colaiste Muire Ennis",
+      "home_team": "Munster Thunder D3W",
+      "away_team": "Volleywoodstars D3W"
     },
     {
       "matchday": "Matchday 1",
@@ -33,8 +24,35 @@
       "date": "12/04/2026",
       "time": "23:59",
       "venue": "TBD",
-      "home_team": "Winner of Group C",
+      "home_team": "OVC Mermaids",
+      "away_team": "Clonmel D3W"
+    },
+    {
+      "matchday": "Matchday 1",
+      "sub_league": "League - Play-Offs",
+      "date": "12/04/2026",
+      "time": "23:59",
+      "venue": "RCSI Sports Hall",
+      "home_team": "RCSI D3W",
       "away_team": "Aer Lingus Hawks"
+    },
+    {
+      "matchday": "Matchday 1",
+      "sub_league": "League - Play-Offs",
+      "date": "26/04/2026",
+      "time": "23:59",
+      "venue": "TBD",
+      "home_team": "OVC Mermaids / Clonmel",
+      "away_team": "Santry Aces / Naas Cobras"
+    },
+    {
+      "matchday": "Matchday 2",
+      "sub_league": "League - Play-Offs",
+      "date": "26/04/2026",
+      "time": "23:59",
+      "venue": "TBD",
+      "home_team": "Munster T / V'woodstars",
+      "away_team": "RCSI / Aer Lingus Hawks"
     }
   ],
   "sub_leagues": {
@@ -43,28 +61,19 @@
         "matchday": "Matchday 1",
         "sub_league": "League - Play-Offs",
         "date": "12/04/2026",
-        "time": "23:59",
-        "venue": "TBD",
-        "home_team": "Winner of Group A",
-        "away_team": "Runner-Up of Group D"
-      },
-      {
-        "matchday": "Matchday 1",
-        "sub_league": "League - Play-Offs",
-        "date": "12/04/2026",
-        "time": "23:59",
-        "venue": "TBD",
-        "home_team": "Winner of Group D",
-        "away_team": "Runner-Up of Group A"
-      },
-      {
-        "matchday": "Matchday 1",
-        "sub_league": "League - Play-Offs",
-        "date": "12/04/2026",
-        "time": "23:59",
-        "venue": "TBD",
+        "time": "11:30",
+        "venue": "Artane Beaumont Family Recreation Centre",
         "home_team": "Santry Aces D3W",
-        "away_team": "Runner-Up of Group C"
+        "away_team": "Naas Cobras D3W"
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - Play-Offs",
+        "date": "12/04/2026",
+        "time": "17:00",
+        "venue": "Colaiste Muire Ennis",
+        "home_team": "Munster Thunder D3W",
+        "away_team": "Volleywoodstars D3W"
       },
       {
         "matchday": "Matchday 1",
@@ -72,92 +81,119 @@
         "date": "12/04/2026",
         "time": "23:59",
         "venue": "TBD",
-        "home_team": "Winner of Group C",
+        "home_team": "OVC Mermaids",
+        "away_team": "Clonmel D3W"
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - Play-Offs",
+        "date": "12/04/2026",
+        "time": "23:59",
+        "venue": "RCSI Sports Hall",
+        "home_team": "RCSI D3W",
         "away_team": "Aer Lingus Hawks"
+      },
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - Play-Offs",
+        "date": "26/04/2026",
+        "time": "23:59",
+        "venue": "TBD",
+        "home_team": "OVC Mermaids / Clonmel",
+        "away_team": "Santry Aces / Naas Cobras"
+      },
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - Play-Offs",
+        "date": "26/04/2026",
+        "time": "23:59",
+        "venue": "TBD",
+        "home_team": "Munster T / V'woodstars",
+        "away_team": "RCSI / Aer Lingus Hawks"
       }
     ]
   },
   "teams": {
-    "Winner of Group A": [
-      {
-        "matchday": "Matchday 1",
-        "sub_league": "League - Play-Offs",
-        "date": "12/04/2026",
-        "time": "23:59",
-        "venue": "TBD",
-        "home_team": "Winner of Group A",
-        "away_team": "Runner-Up of Group D",
-        "is_home": true
-      }
-    ],
-    "Runner-Up of Group D": [
-      {
-        "matchday": "Matchday 1",
-        "sub_league": "League - Play-Offs",
-        "date": "12/04/2026",
-        "time": "23:59",
-        "venue": "TBD",
-        "home_team": "Winner of Group A",
-        "away_team": "Runner-Up of Group D",
-        "is_home": false
-      }
-    ],
-    "Winner of Group D": [
-      {
-        "matchday": "Matchday 1",
-        "sub_league": "League - Play-Offs",
-        "date": "12/04/2026",
-        "time": "23:59",
-        "venue": "TBD",
-        "home_team": "Winner of Group D",
-        "away_team": "Runner-Up of Group A",
-        "is_home": true
-      }
-    ],
-    "Runner-Up of Group A": [
-      {
-        "matchday": "Matchday 1",
-        "sub_league": "League - Play-Offs",
-        "date": "12/04/2026",
-        "time": "23:59",
-        "venue": "TBD",
-        "home_team": "Winner of Group D",
-        "away_team": "Runner-Up of Group A",
-        "is_home": false
-      }
-    ],
     "Santry Aces D3W": [
       {
         "matchday": "Matchday 1",
         "sub_league": "League - Play-Offs",
         "date": "12/04/2026",
-        "time": "23:59",
-        "venue": "TBD",
+        "time": "11:30",
+        "venue": "Artane Beaumont Family Recreation Centre",
         "home_team": "Santry Aces D3W",
-        "away_team": "Runner-Up of Group C",
+        "away_team": "Naas Cobras D3W",
         "is_home": true
       }
     ],
-    "Runner-Up of Group C": [
+    "Naas Cobras D3W": [
       {
         "matchday": "Matchday 1",
         "sub_league": "League - Play-Offs",
         "date": "12/04/2026",
-        "time": "23:59",
-        "venue": "TBD",
+        "time": "11:30",
+        "venue": "Artane Beaumont Family Recreation Centre",
         "home_team": "Santry Aces D3W",
-        "away_team": "Runner-Up of Group C",
+        "away_team": "Naas Cobras D3W",
         "is_home": false
       }
     ],
-    "Winner of Group C": [
+    "Munster Thunder D3W": [
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - Play-Offs",
+        "date": "12/04/2026",
+        "time": "17:00",
+        "venue": "Colaiste Muire Ennis",
+        "home_team": "Munster Thunder D3W",
+        "away_team": "Volleywoodstars D3W",
+        "is_home": true
+      }
+    ],
+    "Volleywoodstars D3W": [
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - Play-Offs",
+        "date": "12/04/2026",
+        "time": "17:00",
+        "venue": "Colaiste Muire Ennis",
+        "home_team": "Munster Thunder D3W",
+        "away_team": "Volleywoodstars D3W",
+        "is_home": false
+      }
+    ],
+    "OVC Mermaids": [
       {
         "matchday": "Matchday 1",
         "sub_league": "League - Play-Offs",
         "date": "12/04/2026",
         "time": "23:59",
         "venue": "TBD",
-        "home_team": "Winner of Group C",
+        "home_team": "OVC Mermaids",
+        "away_team": "Clonmel D3W",
+        "is_home": true
+      }
+    ],
+    "Clonmel D3W": [
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - Play-Offs",
+        "date": "12/04/2026",
+        "time": "23:59",
+        "venue": "TBD",
+        "home_team": "OVC Mermaids",
+        "away_team": "Clonmel D3W",
+        "is_home": false
+      }
+    ],
+    "RCSI D3W": [
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - Play-Offs",
+        "date": "12/04/2026",
+        "time": "23:59",
+        "venue": "RCSI Sports Hall",
+        "home_team": "RCSI D3W",
         "away_team": "Aer Lingus Hawks",
         "is_home": true
       }
@@ -168,33 +204,85 @@
         "sub_league": "League - Play-Offs",
         "date": "12/04/2026",
         "time": "23:59",
-        "venue": "TBD",
-        "home_team": "Winner of Group C",
+        "venue": "RCSI Sports Hall",
+        "home_team": "RCSI D3W",
         "away_team": "Aer Lingus Hawks",
+        "is_home": false
+      }
+    ],
+    "OVC Mermaids / Clonmel": [
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - Play-Offs",
+        "date": "26/04/2026",
+        "time": "23:59",
+        "venue": "TBD",
+        "home_team": "OVC Mermaids / Clonmel",
+        "away_team": "Santry Aces / Naas Cobras",
+        "is_home": true
+      }
+    ],
+    "Santry Aces / Naas Cobras": [
+      {
+        "matchday": "Matchday 1",
+        "sub_league": "League - Play-Offs",
+        "date": "26/04/2026",
+        "time": "23:59",
+        "venue": "TBD",
+        "home_team": "OVC Mermaids / Clonmel",
+        "away_team": "Santry Aces / Naas Cobras",
+        "is_home": false
+      }
+    ],
+    "Munster T / V'woodstars": [
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - Play-Offs",
+        "date": "26/04/2026",
+        "time": "23:59",
+        "venue": "TBD",
+        "home_team": "Munster T / V'woodstars",
+        "away_team": "RCSI / Aer Lingus Hawks",
+        "is_home": true
+      }
+    ],
+    "RCSI / Aer Lingus Hawks": [
+      {
+        "matchday": "Matchday 2",
+        "sub_league": "League - Play-Offs",
+        "date": "26/04/2026",
+        "time": "23:59",
+        "venue": "TBD",
+        "home_team": "Munster T / V'woodstars",
+        "away_team": "RCSI / Aer Lingus Hawks",
         "is_home": false
       }
     ]
   },
   "metadata": {
-    "total_fixtures": 4,
+    "total_fixtures": 6,
     "source": "VIR Competition Matches",
     "sub_league_count": 1,
     "competition_name": "Women's Division 3",
     "teams": [
       "Aer Lingus Hawks",
-      "Runner-Up of Group A",
-      "Runner-Up of Group C",
-      "Runner-Up of Group D",
+      "Clonmel D3W",
+      "Munster T / V'woodstars",
+      "Munster Thunder D3W",
+      "Naas Cobras D3W",
+      "OVC Mermaids",
+      "OVC Mermaids / Clonmel",
+      "RCSI / Aer Lingus Hawks",
+      "RCSI D3W",
+      "Santry Aces / Naas Cobras",
       "Santry Aces D3W",
-      "Winner of Group A",
-      "Winner of Group C",
-      "Winner of Group D"
+      "Volleywoodstars D3W"
     ],
     "sub_leagues": [
       "League - Play-Offs"
     ]
   },
-  "lastUpdated": "2026-02-27T00:00:19.308Z",
+  "lastUpdated": "2026-03-13T00:00:21.511Z",
   "dataVersion": "1.0",
   "source": "VIR Competition Matches"
 }
