@@ -4,66 +4,66 @@
   "teams": [
     {
       "league": "Women's Premier Division",
+      "teamId": "313",
+      "teamName": "TCD PW",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_313.jpg",
+      "rankingPoints": 17,
+      "matches": {
+        "played": 12,
+        "won": 6,
+        "lost": 6
+      },
+      "sets": {
+        "won": 22,
+        "lost": 24,
+        "ratio": 0.92
+      },
+      "points": {
+        "won": 996,
+        "lost": 1012,
+        "ratio": 0.984
+      },
+      "resultsBreakdown": {
+        "wins3_0": 1,
+        "wins3_1": 4,
+        "wins3_2": 1,
+        "losses2_3": 1,
+        "losses1_3": 2,
+        "losses0_3": 3
+      },
+      "penalty": "-1",
+      "position": 1
+    },
+    {
+      "league": "Women's Premier Division",
       "teamId": "309",
       "teamName": "Net Force PW",
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_309.jpg",
-      "rankingPoints": 12,
+      "rankingPoints": 13,
       "matches": {
-        "played": 8,
+        "played": 12,
         "won": 4,
-        "lost": 4
+        "lost": 8
       },
       "sets": {
-        "won": 12,
-        "lost": 14,
-        "ratio": 0.86
+        "won": 16,
+        "lost": 26,
+        "ratio": 0.62
       },
       "points": {
-        "won": 567,
-        "lost": 587,
-        "ratio": 0.966
+        "won": 874,
+        "lost": 958,
+        "ratio": 0.912
       },
       "resultsBreakdown": {
         "wins3_0": 2,
         "wins3_1": 2,
         "wins3_2": 0,
-        "losses2_3": 0,
-        "losses1_3": 0,
-        "losses0_3": 4
+        "losses2_3": 1,
+        "losses1_3": 2,
+        "losses0_3": 5
       },
       "penalty": null,
-      "position": 1
-    },
-    {
-      "league": "Women's Premier Division",
-      "teamId": "313",
-      "teamName": "TCD PW",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_313.jpg",
-      "rankingPoints": 8,
-      "matches": {
-        "played": 8,
-        "won": 3,
-        "lost": 5
-      },
-      "sets": {
-        "won": 11,
-        "lost": 17,
-        "ratio": 0.65
-      },
-      "points": {
-        "won": 578,
-        "lost": 662,
-        "ratio": 0.873
-      },
-      "resultsBreakdown": {
-        "wins3_0": 1,
-        "wins3_1": 2,
-        "wins3_2": 0,
-        "losses2_3": 0,
-        "losses1_3": 2,
-        "losses0_3": 3
-      },
-      "penalty": "-1",
       "position": 2
     },
     {
@@ -71,64 +71,32 @@
       "teamId": "312",
       "teamName": "Munster Thunder PW",
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_312.jpg",
-      "rankingPoints": 3,
+      "rankingPoints": 8,
       "matches": {
-        "played": 7,
-        "won": 1,
-        "lost": 6
+        "played": 12,
+        "won": 3,
+        "lost": 9
       },
       "sets": {
-        "won": 6,
-        "lost": 18,
-        "ratio": 0.33
+        "won": 14,
+        "lost": 29,
+        "ratio": 0.48
       },
       "points": {
-        "won": 457,
-        "lost": 549,
-        "ratio": 0.832
+        "won": 832,
+        "lost": 966,
+        "ratio": 0.861
       },
       "resultsBreakdown": {
-        "wins3_0": 1,
+        "wins3_0": 2,
         "wins3_1": 0,
-        "wins3_2": 0,
+        "wins3_2": 1,
         "losses2_3": 0,
-        "losses1_3": 3,
-        "losses0_3": 3
+        "losses1_3": 5,
+        "losses0_3": 4
       },
       "penalty": null,
       "position": 3
-    },
-    {
-      "league": "Women's Premier Division",
-      "teamId": "310",
-      "teamName": "Galway PW",
-      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_310.jpg",
-      "rankingPoints": 0,
-      "matches": {
-        "played": 7,
-        "won": 0,
-        "lost": 7
-      },
-      "sets": {
-        "won": 1,
-        "lost": 21,
-        "ratio": 0.05
-      },
-      "points": {
-        "won": 333,
-        "lost": 544,
-        "ratio": 0.612
-      },
-      "resultsBreakdown": {
-        "wins3_0": 0,
-        "wins3_1": 0,
-        "wins3_2": 0,
-        "losses2_3": 0,
-        "losses1_3": 1,
-        "losses0_3": 6
-      },
-      "penalty": null,
-      "position": 4
     },
     {
       "league": "Women's Premier Division",
@@ -137,19 +105,19 @@
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_308.jpg",
       "rankingPoints": 0,
       "matches": {
-        "played": 6,
+        "played": 7,
         "won": 0,
-        "lost": 6
+        "lost": 7
       },
       "sets": {
         "won": 0,
-        "lost": 18,
+        "lost": 21,
         "ratio": 0
       },
       "points": {
-        "won": 282,
-        "lost": 451,
-        "ratio": 0.625
+        "won": 326,
+        "lost": 526,
+        "ratio": 0.62
       },
       "resultsBreakdown": {
         "wins3_0": 0,
@@ -157,15 +125,47 @@
         "wins3_2": 0,
         "losses2_3": 0,
         "losses1_3": 0,
-        "losses0_3": 6
+        "losses0_3": 7
       },
       "penalty": null,
+      "position": 4
+    },
+    {
+      "league": "Women's Premier Division",
+      "teamId": "310",
+      "teamName": "Galway PW",
+      "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_310.jpg",
+      "rankingPoints": -1,
+      "matches": {
+        "played": 11,
+        "won": 0,
+        "lost": 11
+      },
+      "sets": {
+        "won": 2,
+        "lost": 33,
+        "ratio": 0.06
+      },
+      "points": {
+        "won": 471,
+        "lost": 866,
+        "ratio": 0.544
+      },
+      "resultsBreakdown": {
+        "wins3_0": 0,
+        "wins3_1": 0,
+        "wins3_2": 0,
+        "losses2_3": 0,
+        "losses1_3": 2,
+        "losses0_3": 9
+      },
+      "penalty": "-1",
       "position": 5
     }
   ],
-  "updated": "2026-01-30T00:00:02.590Z",
+  "updated": "2026-03-20T00:00:05.788Z",
   "totalTeams": 5,
-  "lastUpdated": "2026-01-30T00:00:02.809Z",
+  "lastUpdated": "2026-03-20T00:00:05.937Z",
   "dataVersion": "1.0",
   "source": "VIR Volleyball Standings"
 }
