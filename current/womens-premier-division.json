@@ -9,26 +9,26 @@
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_313.jpg",
       "rankingPoints": 17,
       "matches": {
-        "played": 12,
+        "played": 13,
         "won": 6,
-        "lost": 6
+        "lost": 7
       },
       "sets": {
-        "won": 22,
-        "lost": 24,
-        "ratio": 0.92
+        "won": 23,
+        "lost": 27,
+        "ratio": 0.85
       },
       "points": {
-        "won": 996,
-        "lost": 1012,
-        "ratio": 0.984
+        "won": 1082,
+        "lost": 1107,
+        "ratio": 0.977
       },
       "resultsBreakdown": {
         "wins3_0": 1,
         "wins3_1": 4,
         "wins3_2": 1,
         "losses2_3": 1,
-        "losses1_3": 2,
+        "losses1_3": 3,
         "losses0_3": 3
       },
       "penalty": "-1",
@@ -41,26 +41,26 @@
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_309.jpg",
       "rankingPoints": 13,
       "matches": {
-        "played": 12,
+        "played": 13,
         "won": 4,
-        "lost": 8
+        "lost": 9
       },
       "sets": {
-        "won": 16,
-        "lost": 26,
-        "ratio": 0.62
+        "won": 17,
+        "lost": 29,
+        "ratio": 0.59
       },
       "points": {
-        "won": 874,
-        "lost": 958,
-        "ratio": 0.912
+        "won": 963,
+        "lost": 1059,
+        "ratio": 0.909
       },
       "resultsBreakdown": {
         "wins3_0": 2,
         "wins3_1": 2,
         "wins3_2": 0,
         "losses2_3": 1,
-        "losses1_3": 2,
+        "losses1_3": 3,
         "losses0_3": 5
       },
       "penalty": null,
@@ -71,24 +71,24 @@
       "teamId": "312",
       "teamName": "Munster Thunder PW",
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_312.jpg",
-      "rankingPoints": 8,
+      "rankingPoints": 11,
       "matches": {
-        "played": 12,
-        "won": 3,
+        "played": 13,
+        "won": 4,
         "lost": 9
       },
       "sets": {
-        "won": 14,
+        "won": 17,
         "lost": 29,
-        "ratio": 0.48
+        "ratio": 0.59
       },
       "points": {
-        "won": 832,
-        "lost": 966,
-        "ratio": 0.861
+        "won": 908,
+        "lost": 1030,
+        "ratio": 0.882
       },
       "resultsBreakdown": {
-        "wins3_0": 2,
+        "wins3_0": 3,
         "wins3_1": 0,
         "wins3_2": 1,
         "losses2_3": 0,
@@ -137,19 +137,19 @@
       "logoUrl": "https://images.dataproject.com/vir/TeamLogo/40/30/TeamLogo_310.jpg",
       "rankingPoints": -1,
       "matches": {
-        "played": 11,
+        "played": 12,
         "won": 0,
-        "lost": 11
+        "lost": 12
       },
       "sets": {
         "won": 2,
-        "lost": 33,
+        "lost": 36,
         "ratio": 0.06
       },
       "points": {
-        "won": 471,
-        "lost": 866,
-        "ratio": 0.544
+        "won": 535,
+        "lost": 942,
+        "ratio": 0.568
       },
       "resultsBreakdown": {
         "wins3_0": 0,
@@ -157,15 +157,15 @@
         "wins3_2": 0,
         "losses2_3": 0,
         "losses1_3": 2,
-        "losses0_3": 9
+        "losses0_3": 10
       },
       "penalty": "-1",
       "position": 5
     }
   ],
-  "updated": "2026-03-20T00:00:05.788Z",
+  "updated": "2026-03-27T00:00:02.421Z",
   "totalTeams": 5,
-  "lastUpdated": "2026-03-20T00:00:05.937Z",
+  "lastUpdated": "2026-03-27T00:00:02.561Z",
   "dataVersion": "1.0",
   "source": "VIR Volleyball Standings"
 }
