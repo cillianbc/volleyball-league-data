@@ -2,7 +2,7 @@
   "league": "Women's Division 2",
   "totalTeams": 0,
   "subLeagueCount": 1,
-  "extractedAt": "2026-03-13T00:00:06.507Z",
+  "extractedAt": "2026-03-27T00:00:05.689Z",
   "subLeagues": [
     {
       "name": "League - Play-Offs",
@@ -11,7 +11,7 @@
     }
   ],
   "teams": [],
-  "lastUpdated": "2026-03-13T00:00:06.745Z",
+  "lastUpdated": "2026-03-27T00:00:05.780Z",
   "dataVersion": "2.0",
   "source": "VIR Volleyball Standings",
   "schemaInfo": {
