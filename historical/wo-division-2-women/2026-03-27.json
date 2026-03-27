@@ -1,0 +1,23 @@
+{
+  "league": "Women's Division 2",
+  "totalTeams": 0,
+  "subLeagueCount": 1,
+  "extractedAt": "2026-03-27T00:00:05.689Z",
+  "subLeagues": [
+    {
+      "name": "League - Play-Offs",
+      "championshipId": "87",
+      "teams": []
+    }
+  ],
+  "teams": [],
+  "capturedAt": "2026-03-27T00:00:05.780Z",
+  "weekOf": "2026-03-27",
+  "dataVersion": "2.0",
+  "source": "VIR Volleyball Standings",
+  "schemaInfo": {
+    "hasSubLeagues": true,
+    "flatTeamsIncluded": true,
+    "hierarchicalDataIncluded": true
+  }
+}
